@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "règles/index.md",
+                "file": "règles/armures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "armures"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "règles/armes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "armes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +197,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "be0e61e83bec0e0f",
+  "active": "447fc2d545cd7949",
   "lastOpenFiles": [
-    "README.md",
+    "règles/armures.md",
+    "règles/armes.md",
     "règles/index.md",
+    "README.md",
+    "histoire/~WRD0210.tmp",
+    "histoire/1- la découverte.docx",
+    "histoire/~WRD0004.tmp",
     "ressources/lore",
     "histoire",
     "ressources",
