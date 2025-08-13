@@ -4,3 +4,5 @@ Des modification seront apporter.
 ## Index :
 - [Les armures](armures.md)
 - [Les armes](armes.md)
+- [Les monstres](monstre.md)
+	- [La liste des monstres](liste_des_monstres.md)

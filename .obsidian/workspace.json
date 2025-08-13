@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "règles/armures.md",
+                "file": "règles/armes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "armures"
+              "title": "armes"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "règles/armes.md",
+                "file": "règles/liste_des_monstres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "armes"
+              "title": "liste_des_monstres"
             }
           }
         ],
@@ -199,9 +199,14 @@
   },
   "active": "447fc2d545cd7949",
   "lastOpenFiles": [
-    "règles/armures.md",
     "règles/armes.md",
+    "règles/liste_des_monstres.md",
     "règles/index.md",
+    "liste_des_mostres.md",
+    "liste.md",
+    "'liste.md",
+    "règles/monstre.md",
+    "règles/armures.md",
     "README.md",
     "histoire/~WRD0210.tmp",
     "histoire/1- la découverte.docx",
