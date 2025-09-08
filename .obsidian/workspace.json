@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "règles/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "5e5cbb32495a190b",
   "lastOpenFiles": [
-    "règles/personnage/liste_classe.md",
     "règles/index.md",
+    "règles/personnage/liste_classe.md",
     "règles/monde/transport.md",
     "histoire/~WRD0585.tmp",
     "histoire/~WRD0005.tmp",
