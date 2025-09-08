@@ -12,13 +12,13 @@ Utiliser une arme que vous maîtrisez permet d'ajouter votre bonus de maîtrise 
 
 ## _**Armes courantes de corps à corps**_
 
-| Arme                                   | **Dégât**      | **Prix** | **Propriétés** |
-| -------------------------------------- | -------------- | -------- | -------------- |
-| Matraque                               | 1d4 contondant | 1 pa     |                |
-| Couteau tactique                       | 1d4 perforant  | 2 po     |                |
-| Marteau de service(police/maintenance) | 1d4 contondant | 2 po     |                |
-| Matraque lourde                        | 1d6 contondant | 2 pa     |                |
-| Bâton télescopique lourd               | 1d6 perforant  | 1 po     |                |
+| Arme                                   | **Dégât**       | **Prix** | **Propriétés** |
+| -------------------------------------- | --------------- | -------- | -------------- |
+| Matraque                               | 1d4 contondant  | 1 pa     |                |
+| Couteau tactique                       | 1d4 perforant   | 2 po     |                |
+| Marteau de service(police/maintenance) | 1d4 contondant  | 2 po     |                |
+| Matraque lourde                        | 1d6 contondant  | 2 pa     |                |
+| Bâton taser                            | 1d6 énergétique | 1 po     |                |
 
 | Arme                          | **Dégât**      | **Prix** | **Propriétés** |
 | ----------------------------- | -------------- | -------- | -------------- |
@@ -58,14 +58,15 @@ Utiliser une arme que vous maîtrisez permet d'ajouter votre bonus de maîtrise 
 | Espadon énergétique lourd | 2d6 tranchant  |          |                |
 ## _**Armes de guerre à distance**_
 
-| Arme                             | **Dégât**      | **Prix** | **Propriétés** |
-| -------------------------------- | -------------- | -------- | -------------- |
-| Carabine de chasse (.308)        | 1d8 perforant  |          | 45/180 m       |
-| Fusil de précision (sniper .338) | 1d10 perforant |          | 90/360 m       |
-| Shuriken / étoiles de lancer     | 1d4 perforant  |          | 6/18 m         |
-| Hachette de lancer               | 1d6 perforant  |          | 6/18 m         |
-| Fusil d’assaut(5.56mm)           | 1d12 perforant |          |                |
-| Fusil à pompe (12 gauge)         | 2d6 perforant  |          |                |
+| Arme                             | **Dégât**      | **Prix** | **Propriétés**             |
+| -------------------------------- | -------------- | -------- | -------------------------- |
+| Carabine de chasse (.308)        | 1d8 perforant  |          | 45/180 m                   |
+| Fusil de précision (sniper .338) | 1d10 perforant |          | 90/360 m                   |
+| Shuriken / étoiles de lancer     | 1d4 perforant  |          | 6/18 m                     |
+| Hachette de lancer               | 1d6 perforant  |          | 6/18 m                     |
+| Fusil d’assaut(5.56mm)           | 1d12 perforant |          |                            |
+| Fusil à pompe (12 gauge)         | 2d6 perforant  |          |                            |
+| Fusil de precision               | 3d4            |          | recharge après chaque tire |
 
 | Arme                       | **Dégât**      | **Prix** | **Propriétés** |
 | -------------------------- | -------------- | -------- | -------------- |

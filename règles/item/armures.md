@@ -35,7 +35,7 @@ Les armures intermédiaires offrent une meilleure protection que les armures lé
 
 | Armure DnD         | CA       | Equivalent SF               | Description                                                                    | Notes                                  |
 | ------------------ | -------- | --------------------------- | ------------------------------------------------------------------------------ | -------------------------------------- |
-| Peau               | 12 + DEX | Veste en fibres réactives   | Se rigidifie à l’impact grâce à des microcapteurs.                             | Populaire chez mercenaires urbains.    |
+| Peau               | 12 + DEX | Veste en fibres carbone     | Se rigidifie à l’impact grâce à des microcapteurs.                             | Populaire chez mercenaires urbains.    |
 | Chemise de mailles | 13 + DEX | Gilet en maillage de titane | Micro-mailles métalliques bloquant lames et balles, tout en restant flexibles. | Porté par forces de sécurité spatiale. |
 | Cuirasse           | 14 + DEX | Armure de combat légère     | Plaques céramiques futuristes + générateur de champ faible.                    | Standard des marines de l’espace.      |
 ## Armure lourde :

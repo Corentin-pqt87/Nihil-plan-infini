@@ -1,4 +1,4 @@
-# Voyous de rue
+### Voyous de rue
 
 Humanoïde de taille M, neutre mauvais
 
@@ -39,7 +39,7 @@ Actions
 
 ---
 
-# Chef de gang
+### Chef de gang
 
 Humanoïde (toute race) de taille M, tout alignement non loyal
 
@@ -85,7 +85,7 @@ Réactions
 
 --- 
 
-## 🤖 Bestiaire – Robots ennemis (Monde moderne/SF)
+# Bestiaire – Robots ennemis (Monde moderne/SF)
 
 ---
 
@@ -218,7 +218,7 @@ Réactions
 - **Faiblesse** : un tir précis sur le réacteur (DD 18 pour toucher) inflige double dégâts.
 
 ---
-## 👽 **Bestiaire Alien – Univers SF**
+# **Bestiaire Alien – Univers SF**
 
 ---
 
@@ -410,3 +410,5 @@ Réactions
     - Pond une larve toutes les 2 rounds (CR 1/8).
         
     - Cri d’alarme → tous les drones aliens dans 30 m peuvent agir immédiatement.
+
+# 

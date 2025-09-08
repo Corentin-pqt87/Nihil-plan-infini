@@ -65,7 +65,7 @@
 
 ---
 
-### **4. Voltari** _(êtres énergétiques condensés dans une armature)_
+### **4. Voltari / Voltar** _(êtres énergétiques condensés dans une armature)_
 
 - **Caractéristiques** : +2 CHA, +1 INT
     
