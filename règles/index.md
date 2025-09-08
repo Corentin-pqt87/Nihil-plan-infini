@@ -1,17 +1,18 @@
-Les règles de ce jdr se base sur les règles de DnD 5°.
+Ceci est une extension pour DnD.
+
 Des modification seront apporter.
 
 ## Index :
 - POUR LES JOUEURS:
 	- Personnage
-		- [[classe.md]]
-		- [[creation_de_personnages.md]]
-		- [[historique.md]]
-		- [[liste_classe.md]]
-		- [[liste_module.md]]
-		- [[liste_races.md]]
-		- [[Modules.md]]
-		- [[races.md]]
+		- [Création de personnage](creation_de_personnages.md)
+		- [Historique](historique.md)
+		- - [Classe](classe.md)
+			- [Liste des classes (pas finit)](liste_classe.md)
+		- - [Modules](Modules.md)
+			- [Liste des modules (pas finit)](liste_module.md)
+		- [Races](races.md)
+			- [Liste des races (pas finit)](liste_races.md)
 		- [fiche personnage](fiche_perso.md)
 	- Item
 		[Les armures](item/armures.md)
@@ -23,4 +24,3 @@ Des modification seront apporter.
 	- Monde 
 		- [Le transport](transport.md)
 		- [Les plans de la réalité](plan_realite.md)
-		- 

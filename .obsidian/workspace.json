@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "règles/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "5e5cbb32495a190b",
   "lastOpenFiles": [
+    "règles/personnage/Modules.md",
     "règles/index.md",
     "règles/personnage/liste_classe.md",
+    "README.md",
     "règles/monde/transport.md",
     "histoire/~WRD0585.tmp",
     "histoire/~WRD0005.tmp",
@@ -197,7 +199,6 @@
     "règles/monstre/liste_des_monstres.md",
     "règles/monde/traite.md",
     "règles/personnage/races.md",
-    "règles/personnage/Modules.md",
     "règles/personnage/modifications_technologiques.md",
     "règles/personnage/liste_races.md",
     "règles/personnage/liste_module.md",
@@ -209,7 +210,6 @@
     "règles/monstre/familier.md",
     "règles/monde/plan_realite.md",
     "règles/item/armures.md",
-    "README.md",
     "ressources/carte.pdn",
     "ressources/carte.pdn.0.pdnSave",
     "ressources/Nouveau dossier/carte.pdn",
