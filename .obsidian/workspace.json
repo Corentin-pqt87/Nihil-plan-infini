@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "règles/monstre/monstre.md",
+                "file": "règles/monstre/liste_des_monstres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "monstre"
+              "title": "liste_des_monstres"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +197,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "9957c827a3adfb73",
+  "active": "5e5cbb32495a190b",
   "lastOpenFiles": [
     "règles/monstre/liste_des_monstres.md",
     "règles/monstre/familier.md",
+    "règles/monstre/monstre.md",
     "règles/monde/transport.md",
     "règles/monde/traite.md",
     "règles/monde/plan_realite.md",
@@ -230,7 +230,6 @@
     "règles/personnage/modifications_technologiques.md",
     "règles/personnage/liste_module.md",
     "règles/personnage/fiche_perso.md",
-    "règles/monstre/monstre.md",
     "ressources/carte.pdn",
     "ressources/carte.pdn.0.pdnSave",
     "ressources/Nouveau dossier/carte.pdn",
