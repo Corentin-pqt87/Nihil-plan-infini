@@ -2028,6 +2028,58 @@ Si une créature peut faire quelque chose de spécial avec sa réaction, la sect
  
 ## D -
 
+{{monster,frame,wide
+## Drone d’Assistance Tactique
+*Petit Construct, Loyal*
+___
+**Armor Class** :: 15 (armature composite)
+**Hit Points**  :: 2 × niveau d’Ingénieur + mod. INT du joueur
+**Speed**       :: 9 m (ou 6 m et vol 9 m si module de propulsion installé).
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|14 (+2)|14 (+2)|4 (-3) |12 (+1)|6 (-2) |
+___
+**Jets de sauvegarde** :: DEX +2, CON +2
+**Résistances** :: dégâts contondants, perforants et tranchants non magiques
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Sens**               :: vision dans le noir 18 m, perception passive 11  
+**Langues**            :: comprend celles de son créateur mais ne peut parler 
+**Maître technologique**    :: Le drone ajoute ton bonus de maîtrise à ses jets d’attaque, de sauvegarde et de compétences.
+___
+***Onion Stench.*** Any creatures within 5 feet of this thing develops an irrational craving for onion rings.
+:
+***Pack Tactics.*** These guys work together like peanut butter and jelly.
+:
+***Hangriness.*** This creature is angry, and hungry. It will refuse to do anything with you until its hunger is satisfied.
+
+When in visual contact with this creature, you must purchase an extra order of fries, even if they say they aren't hungry.
+### Actions
+***Attaque intégrée Mêlée.*** 1d8 + ton mod. INT (impact mécanique ou électrochoc) 
+:
+***Attaque intégrée Distance.*** 1d6 + ton mod. INT (tir léger ou impulsion énergétique) Portée : 9 m (ou 18 m avec module arme longue)
+### Réactions
+**Interception** :: Quand une créature que tu vois frappe un allié à 1,5 m du drone, il peut interposer une décharge défensive, réduisant les dégâts de 1d8 + ton mod. INT + niveau d’Ingénieur.
+### Capacités spéciales
+**Lien de commande** :: Tu peux ordonner au drone verbalement ou par ton interface.
+**Actions programmées** :: Si tu ne lui donnes pas d’ordre, il agit défensivement et attaque les ennemis à portée.
+**Réparations intégrées** :: Pendant un repos court, tu peux restaurer tous ses PV en dépensant un emplacement de prototype.
+**Modules** :: Le drone peut recevoir des **Modifications technologiques** (chaque amélioration compte dans ton total d’équipements modifiés actifs).
+### Progression avec le niveau
+**Niveau 5** :: Attaque intégrée passe à 2d8 (mêlée) ou 2d6 (distance).
+    
+**Niveau 9** :: CA +1, résistance aux dégâts d’énergie.
+    
+**Niveau 15** :: Peut effectuer **2 attaques** par tour.
+    
+**Niveau 17** :: Accès à IA tactique → agit même si tu es inconscient.
+}}
+
+
+
+
+
+\page
 
 
 
