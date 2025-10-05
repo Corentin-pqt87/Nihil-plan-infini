@@ -1,0 +1,1803 @@
+{{frontCover}}
+
+{{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+# Nihil
+## Dans les plans infini
+___
+
+{{banner DnD 5 - 2014}}
+
+{{footnote
+  Plongez dans l'infinité des plans, où chaque monde est différant dans une histoire mélangeant fantaisie, moderne et science-fiction. 
+}}
+
+![background image](https://i.pinimg.com/1200x/fd/86/ea/fd86eaeca42336f13678041267a61721.jpg){position:absolute,bottom:-50%,left:0,height:155%}
+{{skipCounting}}
+\page
+#### {{font-family:CodeBold Crédit}}
+**Image de couverture :** :: https://pin.it/5VYpYSI9A par Czepeku
+**Image d'ouverture :** :: https://i.pinimg.com/1200x/fe/19/85/fe1985876a314d34f97817ed99b912fb.jpg par Drawing References 
+**Image du chapitre personnage** :: https://i.pinimg.com/736x/89/eb/9d/89eb9d4c731665e43a9b2f57d1de90a1.jpg par mario avila
+**Image du chapitre races** :: https://i.pinimg.com/1200x/8a/a3/fe/8aa3fe40dceb8d8c2c833bf9a2da2524.jpg par Constantine
+**Image du chapitre classes** :: https://i.pinimg.com/1200x/32/fa/44/32fa4473969268e59a34a6aa1440c8ca.jpg par Kyle Rosenberg
+**Image du chapitre plans** :: https://i.pinimg.com/1200x/12/03/97/1203974472a5094e49d92355ac5d4b67.jpg par Øm ▇
+**Image du chapitre transport** :: https://i.pinimg.com/736x/58/ba/c9/58bac9bfef5add18ee9f9a8e2136af33.jpg par Igor Moskalenko
+**Ecriture :** :: PAQUET Corentin
+
+
+
+{{pageNumber $[HB_pageNumber]}}
+
+\page
+# Table des matières
+
+
+
+
+
+
+{{pageNumber $[HB_pageNumber]}}
+\page
+
+{{insideCover}}
+
+# Nihil
+## Dans les plans infini
+___
+
+{{imageMaskCenter4,--offsetX:0%,--offsetY:0%,--rotation:0
+  ![background image](https://i.pinimg.com/1200x/fe/19/85/fe1985876a314d34f97817ed99b912fb.jpg){position:absolute,bottom:-10%,left:0,height:100%}
+}}
+
+{{logo ![](/assets/naturalCritLogoRed.svg)}}
+
+{{pageNumber $[HB_pageNumber]}}
+\page
+
+{{partCover}}
+
+# CHAP I
+## Personnage
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.pinimg.com/736x/89/eb/9d/89eb9d4c731665e43a9b2f57d1de90a1.jpg){position:absolute,bottom:0,left:-15%,height:100%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+
+
+{{footnote CHAP I}}
+
+
+\page
+
+# Création de personnages
+
+La première étape d'une partie de Dungeons & Dragons est d'imaginer et de se créer son propre personnage. Un personnage est défini par des statistiques de jeu, des accroches de roleplay, et par votre imagination. Vous choisissez une race (comme humain ou halfelin) et une classe (comme guerrier ou magicien). Vous inventez aussi la personnalité, l'apparence et l'histoire de votre personnage. Une fois cela achevé, votre personnage est votre avatar dans le monde de Dungeons & Dragons. 
+
+Avant de vous plonger dans la première étape ci-après, imaginez le type d'aventurier que vous voulez jouer. Vous pouvez être un courageux combattant, un roublard furtif, un clerc dévot ou un mage flamboyant. Ou encore vous pouvez choisir d'interpréter un personnage moins conventionnel, comme un robuste roublard aimant le combat rapproché, ou un tireur d'élite préférant abattre ses cibles de loin. Vous aimez la littérature fantasy impliquant des nains ou des elfes ? Essayez-vous à interpréter un personnage d'une de ces races. Vous voulez que votre avatar soit l'aventurier le plus coriace à la table de jeu ? Regardez donc la classe de guerrier. Si vous ne savez pas par où commencer, jetez un œil aux illustrations pour trouver votre inspiration.
+
+Une fois que vous avez imaginé votre personnage, suivez les étapes ci-après dans l'ordre, en faisant les choix qui illustrent le mieux votre personnage. Le concept de votre personnage pourra évoluer en fonction de vos choix au fil de la création. Le plus important est de créer un personnage que vous aurez plaisir à jouer.
+
+Au travers de ce chapitre, nous utilisons le terme [**feuille de personnage**](fiche_perso.md) pour indiquer toute solution qui vous permet de prendre note des éléments de votre personnage, que ce soit une feuille de personnage à proprement parler, un fichier informatique ou un bloc-notes classique. Une feuille de personnage officielle D&D est un bon point de départ, pour savoir quoi noter et comment l'utiliser pendant le jeu.
+
+### 1) Choisir une race
+
+Tout personnage appartient à une race, l'une des nombreuses espèces intelligentes du monde de D&D. Les races les plus communes pour les personnages joueurs sont les elfes, les halfelins, les humains et les nains. Certaines races sont divisées en sous-races, comme les nains des montagnes ou les elfes des bois. Le chapitre [Races](races.md) fournit de plus amples informations sur celles-ci.
+
+Le choix de la race est une contribution importante à l'identité de votre personnage, indiquant son apparence générale et les talents naturels communs à ses membres, qu'ils soient culturels ou ancestraux. La race de votre personnage lui donne des traits raciaux, comme des sens spéciaux, la maîtrise de certaines armes ou certains outils, la maîtrise de certaines compétences, ou la capacité à utiliser certains sorts mineurs. Ces traits s'accordent parfois avec les aptitudes de certaines classes (voir étape 2). Par exemple le trait racial des halfelins pied-légers en font des roublards d'exceptions, et les haut-elfes ont tendance à être de puissants magiciens. Quelquefois, jouer contre nature peut aussi être plaisant. Par exemple, un paladin halfelin ou un magicien nain des montagnes sont des personnages inhabituels, mais ils peuvent être mémorables.
+
+Votre race modifie aussi une ou plusieurs des caractéristiques de votre personnage (voir étape 3). Notez ces modificateurs et souvenez-vous de les appliquer.
+
+Notez les traits accordés par votre race sur la feuille de personnage. N'oubliez pas aussi de noter les langues que vous connaissez, ainsi que votre vitesse de base.
+
+### 2) Choisir une classe
+
+Tout aventurier est membre d'une classe. Une classe dépeint la vocation d'un personnage, quels talents spécifiques il possède, et les tactiques les plus couramment employées par ses membres lors d'une exploration de donjons, pour combattre les monstres, ou s'engager dans d'intenses négociations. Le chapitre [Classes](classe.md) fournit de plus amples informations sur celles-ci.
+
+Votre personnage bénéficie d'un certain nombre d'avantages découlant du choix de la classe. Nombre de ces avantages sont des **capacités de classes** – des aptitudes (comme lancer des sorts) qui différencient votre personnage des membres des autres classes. Vous gagnez aussi un certain nombre de **maîtrises** : pour des armures, des armes, des compétences, des jets de sauvegarde et quelquefois des outils. Vos maîtrises définissent la plupart des choses pour lesquelles votre personnage est particulièrement compétent, de l'usage de certaines armes à savoir raconter des mensonges convaincants.
+
+Sur votre feuille de personnage, notez toutes les aptitudes octroyées par votre classe au niveau 1.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Personnage}}
+
+\page
+#### Niveau
+
+Généralement, un personnage débute au niveau 1 et progresse en niveau en partant à l'aventure et en gagnant des points d'expérience (PX). Au niveau 1, un personnage est inexpérimenté dans le monde des aventuriers, bien qu'il ait pu être un soldat ou un pirate et avoir déjà affronté le danger par le passé.
+
+Débuter au niveau 1 marque l'entrée de votre personnage dans la vie d'aventurier. Si vous avez déjà une expérience du jeu, ou si vous rejoignez une campagne existante, votre MD peut décider de vous faire débuter à un niveau plus élevé, considérant que votre personnage a déjà vécu des aventures harassantes.
+
+Notez votre niveau sur votre feuille de personnage. Si vous démarrez à un niveau supérieur au premier, notez les aptitudes supplémentaires de votre classe pour les niveaux supérieurs. Notez de même vos points d'expérience. 0 au niveau 1, et le minimum requis pour un niveau supérieur (voir [Au-delà du niveau 1](https://www.aidedd.org/regles/creation-de-perso/suite/)).
+
+#### Points de vie et Dés de vie
+
+Les points de vie de votre personnage définissent sa résistance au combat ou dans toutes autres situations dangereuses. Vos points de vie sont déterminés par votre dé de vie (raccourcis pour Dé de points de vie).
+
+Au niveau 1, votre personnage possède 1 dé de vie, et le type de ce dé est défini par votre classe. Vos points de vie de départ sont égaux au maximum de votre dé de vie, comme indiqué dans la description de votre classe (vous ajouterez aussi votre modificateur de Constitution, qui sera déterminé à l'étape 3). Cette valeur finale est aussi votre **maximum de points de vie.**
+
+Notez vos points de vie sur votre feuille de personnage. De même, notez le type de votre dé de vie, et le nombre de dés de vie que vous possédez. Après un repos, vous pouvez dépenser des dés de vie pour regagner des points de vie (voir [Repos](https://www.aidedd.org/regles/aventure/)). 
+
+#### Bonus de maîtrise
+
+Le tableau dans la description de votre classe indique votre bonus de maîtrise, qui est de +2 au niveau 1. Ce bonus s'applique à de nombreuses valeurs que vous noterez sur votre feuille de personnage :
+
+- Jets d'attaque utilisant une arme que vous maîtrisez
+- Jets d'attaque pour les sorts que vous lancez
+- Jets de caractéristique pour les compétences que vous maîtrisez
+- Jets de caractéristique pour l'usage des outils que vous maîtrisez
+- Jets de sauvegarde dont vous avez la maîtrise
+- Degré de difficulté des jets de sauvegarde pour résister aux sorts que vous lancez (voir les explications dans la description des classes de lanceurs de sorts)
+
+Votre classe détermine vos maîtrises d'armes, de jets de sauvegarde, de certaines de vos [compétences](https://www.aidedd.org/regles/caracteristiques/) et usages d'[outils](https://www.aidedd.org/regles/equipement/outils/). Votre historique vous donne d'autres maîtrises de compétences et d'outils, ainsi que certaines races. Notez toutes ces maîtrises ainsi que votre bonus de maîtrise sur votre feuille de personnage. \
+  \
+Votre bonus de maîtrise ne peut s'appliquer plus d'une fois à un même jet de dés ou à un autre nombre. Parfois, votre bonus de maîtrise peut être modifié (doublé ou divisé par deux, par exemple) avant d'être pris en compte. Si une situation semble suggérer que vous pouvez appliquer ou modifier votre bonus plus d'une fois, n'en tenez pas compte. Le bonus de maîtrise ne s'applique, ne se multiplie ou ne se divise qu'une seule fois. 
+ 
+### 3) Déterminer les valeurs de caractéristiques
+
+La majorité des actions de votre personnage dépend de l'une de ses six caractéristiques : **Force**, **Dextérité**, **Constitution**, **Intelligence**, **Sagesse** et **Charisme**. Chaque caractéristique a une valeur que vous devez noter sur votre feuille de personnage. \
+  \
+Les six caractéristiques et leurs utilisations en jeu sont décrites dans le chapitre [Utiliser les caractéristiques](https://www.aidedd.org/regles/caracteristiques/). La table ci-dessous est une référence rapide pour indiquer quelles qualités sont évaluées par chaque caractéristique, quelles races augmentent quelles caractéristiques, et quelles sont les caractéristiques importantes pour chaque classe. \
+  \
+Vous déterminez les six valeurs de caractéristiques de votre personnage aléatoirement. Lancez 4d6 et notez la somme des trois meilleurs dés. Faites cinq autres lancers, pour avoir ainsi six nombres. Si vous voulez aller plus vite, ou si vous n'aimez pas le côté aléatoire pour déterminer les valeurs de caractéristiques, utilisez la série suivante : 15, 14, 13, 12, 10, 8.
+
+  \
+Maintenant, affectez et notez chaque nombre en face de l'une des six caractéristiques, afin d’avoir une valeur en Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme. Puis appliquez les modificateurs de caractéristiques de votre race.
+Déterminez ensuite vos **modificateurs de caractéristiques** en vous référant à la table ci-dessous. Pour calculer la valeur d'un modificateur sans utiliser la table, soustrayez 10 à la valeur, et divisez le résultat par 2, en conservant la partie entière inférieure. Inscrivez chaque modificateur à côté de la caractéristique correspondante.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Personnage}}
+
+\page
+
+| Valeur de  <br>Caractéristique | Modificateur |
+| ------------------------------ | ------------ |
+| 1                              | -5           |
+| 2-3                            | -4           |
+| 4-5                            | -3           |
+| 6-7                            | -2           |
+| 8-9                            | -1           |
+| 10-11                          | +0           |
+| 12-13                          | +1           |
+| 14-15                          | +2           |
+| 16-17                          | +3           |
+| 18-19                          | +4           |
+| 20-21                          | +5           |
+#### Variante : Personnalisation des valeurs de caractéristiques
+
+Si votre MD l'autorise, vous pouvez utiliser la méthode suivante pour déterminer vos valeurs de caractéristiques. Cette méthode vous permet de construire un personnage en choisissant une valeur pour chaque caractéristique.
+
+Vous avez 27 points à répartir dans vos caractéristiques. Le coût de chaque valeur est indiqué sur la table ci-dessous. Par exemple, une valeur de 14 coûte 7 points. En utilisant cette méthode, 15 est la plus haute valeur achetable avant d'appliquer les modificateurs raciaux, et vous ne pouvez avoir une valeur inférieure à 8. Cette méthode vous permet de créer une série de caractéristiques avec 3 valeurs élevées et 3 valeurs faibles (15, 15, 15, 8, 8, 8), une série où les valeurs sont quasiment égales (13, 13, 13, 12, 12, 12), ou toute autre série entre ces deux extrêmes.
+| Valeur | Coût |
+| ------ | ---- |
+| 8      | 0    |
+| 9      | 1    |
+| 10     | 2    |
+| 11     | 3    |
+| 12     | 4    |
+| 13     | 5    |
+| 14     | 7    |
+| 15     | 9    |
+
+### 4) Décrire son personnage
+
+Une fois déterminée la base de jeu de votre personnage, il est temps de l'étoffer et de lui donner « vie ». Votre personnage a besoin d'un nom. Passez quelques instants à réfléchir à quoi il ressemble et comment il se comporte.
+
+En utilisant les informations du chapitre [Personnalité et Historique](https://www.aidedd.org/regles/historiques/), vous pouvez façonner l'apparence physique et les traits de personnalités de votre personnage. Choisissez son **alignement** (le compas moral qui guide ses décisions), et ses **idéaux**. Identifiez également ce à quoi votre personnage tient le plus, les **liens**, et les **défauts** qui pourraient un jour l'ébranler.
+
+L'[historique](https://www.aidedd.org/regles/historiques/#historiques) de votre personnage définit son histoire, son occupation habituelle, et sa place dans le monde de D&D. Votre MD peut vous proposer d'autres historiques en plus que ceux décrits ici, et peut éventuellement travailler avec vous pour construire un historique à la mesure de votre concept de personnage.
+
+Un historique donne à votre personnage une aptitude spécifique et la maîtrise de deux compétences, et éventuellement un accès à des langues additionnelles ou la maîtrise de certains outils. Notez toutes ces informations sur la feuille de personnages.
+
+#### Les caractéristiques de votre personnage
+
+Prenez en compte les valeurs de caractéristiques et la race de votre personnage pour détailler son apparence et sa personnalité. Un personnage très fort doté d'une faible intelligence devrait penser et agir bien différemment d'un personnage très intelligent, mais ayant peu de force.
+
+Par exemple, une Force importante correspond habituellement à un corps athlétique et robuste, alors qu'un personnage doté d'une Force faible sera efflanqué ou rondouillard.  
+Une haute Dextérité indiquera probablement souplesse et minceur, à l'inverse, un personnage avec une faible dextérité sera dégingandé et maladroit ou lourd et boudiné.  
+Un personnage de forte Constitution sera en bonne santé et énergique, à l'inverse, le personnage sera maladif ou fragile.  
+Une haute Intelligence est l'apanage d'un personnage studieux et très curieux, alors qu'un langage simple ou une mémoire évasive indiquera une faible intelligence.  
+Un personnage de forte Sagesse aura un bon jugement, de l'empathie et sera conscient de ce qui se passe autour de lui. À l'inverse, le personnage sera étourdi, téméraire ou inconscient.  
+Une présence gracieuse ou intimidante, couplée à une forte confiance en soi, est l'apanage d'un fort Charisme. À l'opposé, le personnage sera rude, ou peu loquace, ou encore timide.
+### 5) Choisir son équipement
+
+Votre classe et votre historique déterminent l’**équipement de départ** de votre personnage, y compris ses armes, son armure et tout autre équipement d'aventurier. Notez l'équipement sur votre feuille de personnage, vous en trouverez les descriptions dans le chapitre [Équipement](https://www.aidedd.org/regles/equipement/materiel/).
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Personnage}}
+
+\page
+Au lieu de choisir les présélections des classes et des historiques, vous pouvez acheter et choisir l’équipement de votre personnage. Comme indiqué dans le chapitre [Équipement](https://www.aidedd.org/regles/equipement/), vous disposez d'un nombre de **pièces d'or** (po), à dépenser selon votre classe. Des listes d'équipements assez complètes sont présentes dans ce même chapitre. Si vous le souhaitez, votre personnage peut aussi avoir gratuitement une **[babiole](https://www.aidedd.org/regles/equipement/babioles/)**.
+
+Votre valeur de Force indique ce que vous pouvez porter. Essayez de ne pas acheter un poids total d'équipement de plus de 7,5 fois votre valeur de Force en kilogramme. Le chapitre [Utiliser les caractéristiques](https://www.aidedd.org/regles/caracteristiques/) précise les règles sur les capacités de charge.
+#### Classe d'armure
+
+Votre **classe d'armure** (CA) représente l'aptitude de votre personnage à éviter les coups en combat. Votre armure, votre bouclier et votre modificateur de Dextérité contribuent à votre CA. Tous les personnages ne portent cependant pas d'armure ou n'utilisent pas un bouclier.
+
+Sans armure, ni bouclier, la CA de votre personnage est égale à 10 + son modificateur de Dextérité. Si votre personnage porte une armure et/ou utilise un bouclier, calculez votre CA comme indiqué dans les règles sur les [armures](armures.md). Notez votre valeur de CA sur votre feuille de personnage.
+
+Votre personnage doit maîtriser le port de l'armure ou l'usage du bouclier pour pouvoir bénéficier de leurs pleins effets. Vos maîtrises en port d'armure et en utilisation de bouclier sont déterminées par votre classe. Il y a des inconvénients à porter une armure ou à utiliser un bouclier si vous ne possédez pas la maîtrise nécessaire, comme indiqué dans le chapitre [Équipement](https://www.aidedd.org/regles/equipement/armures/).
+
+Certains sorts et certaines aptitudes de classes peuvent modifier le mode de calcul de votre CA. Si vous avez plusieurs aptitudes qui modifient le mode de calcul de base, vous ne devez en choisir qu'une.
+
+#### Armes
+
+Pour chaque arme que le personnage porte, calculez son bonus à l'attaque et aux dégâts avec cette arme.
+
+Lorsque vous attaquez avec une arme, vous lancez un d20 et ajoutez au résultat votre bonus de maîtrise (seulement si vous maîtrisez cette arme), puis le modificateur de caractéristique approprié.
+
+- Pour les attaques avec une arme de **corps à corps**, utilisez votre modificateur de Force pour l'attaque et les dégâts. Une arme ayant la propriété finesse, telle une rapière, vous permet toutefois d'utiliser la Dextérité au lieu de la Force.
+- Pour les attaques avec une arme à **distance**, utilisez votre modificateur de Dextérité pour l'attaque et pour les dégâts. Une arme de corps à corps ayant la propriété lancer, comme les hachettes, vous permet toutefois d'utiliser la Force au lieu de la Dextérité.
+### 6) Jouer ensemble
+
+La plupart des personnages de D&D ne travaillent pas seuls. Chaque personnage joue un rôle au sein d'un **groupe** d'aventuriers qui travaillent ensemble pour un objectif commun. Le travail d'équipe et la collaboration améliorent grandement les chances de votre groupe de survivre aux nombreux périls dans les mondes de D&D. Parlez-en à vos camarades de jeu et à votre MD pour décider si vos personnages se connaissent, comment ils se sont rencontrés, et quelles sortes de quêtes le groupe pourrait entreprendre.
+
+## Historique
+Les personnages ne sont pas définis uniquement par leur race et leur classe. Ce sont des individus avec leurs propres histoires, intérêts, connexions et capacités en plus de celles définies par la classe et la race. Ce chapitre présente des détails pour différencier les personnages les uns des autres, depuis les bases comme le nom et la description physique, les règles d'historiques et les langues, jusqu'aux subtilités de la personnalité et de l'alignement.
+
+Le nom de votre personnage et sa description physique seront probablement les premières choses que les autres joueurs autour de la table vont apprendre de vous. Cela vaut donc la peine de penser à la façon dont ces caractéristiques reflètent le personnage que vous voulez jouer.
+
+### Nom
+
+La description de la race de votre personnage propose plusieurs noms. Ajoutez-y votre touche, même si vous prenez simplement un nom de cette liste.
+
+### Sexe
+
+Vous pouvez jouer un personnage masculin ou féminin, cela n'influencera ni vos bonus ni vos malus. Mais profitez-en pour penser à comment votre personnage se place - ou ne se place pas - vis-à-vis des standards habituels de sa culture pour ce qui est du sexe, du genre et du comportement sexuel. Par exemple, un clerc elfe noir masculin défie les divisions traditionnelles du genre dans la société drow, ce qui pourrait expliquer pourquoi votre personnage a quitté la société et est remonté à la surface.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Personnage}}
+
+\page
+Vous n'avez pas besoin de vous cantonner à une vision binaire du sexe et du genre. Le dieu elfe [Corellon Larethian](https://www.aidedd.org/univers/pantheon/corellon-larethian/) est par exemple souvent perçu comme androgyne, et certains elfes du multivers sont faits à l'image de Corellon. Vous pourriez également jouer un personnage de sexe féminin qui se présente comme étant un homme, ou un homme qui se sentirait piégé dans un corps de femme, ou une naine barbue qui a horreur qu'on la prenne pour un homme. De la même façon, c'est à vous de décider de l'orientation sexuelle de votre personnage.
+
+### Taille et poids
+
+Vous pouvez décider de la taille et du poids de votre personnage en utilisant les informations fournies dans la description de votre race ou en les tirant au hasard sur la table ci-dessous. Pensez à ce que les valeurs des caractéristiques de votre personnage peuvent signifier en ce qui concerne votre taille et votre poids. Un personnage faible mais agile pourrait être mince. Un personnage fort et costaud pourrait être grand ou juste lourd.
+
+Si vous le désirez, vous pouvez tirer au hasard la taille et le poids de votre personnage à l'aide de la table ci-dessous. Le jet de dés pour la colonne Modificateur de taille détermine la taille supplémentaire du personnage à ajouter à la Taille de base. Ce même nombre, multiplié par le jet de dés (ou le nombre) indiqué dans la colonne Modificateur de poids, détermine le poids supplémentaire du personnage à ajouter au Poids de base.
+
+### Autres caractéristiques physiques
+
+Choisissez l'âge de votre personnage, la couleur de ses cheveux, de ses yeux et de sa peau. Pour ajouter une touche distinctive, vous pouvez donner à votre personnage une caractéristique physique inhabituelle comme une cicatrice, un tatouage ou le fait qu'il boîte.
+
+### Alignement
+
+Une créature typique dans les mondes de Dungeons & Dragons possède un alignement qui décrit de façon générale ses attitudes morales et personnelles. L'alignement est une combinaison de deux facteurs : l'un identifie la morale (bon, mauvais ou neutre), et l'autre décrit les attitudes envers la société et l'ordre (loyal, chaotique ou neutre). Ainsi, les neuf combinaisons possibles définissent les alignements.
+
+Les brefs résumés qui suivent des neuf alignements décrivent le comportement typique d'une créature pour un alignement donné. Chaque individu peut toutefois s'écarter considérablement de ce comportement typique ; peu de gens sont parfaitement et constamment fidèles aux préceptes de leur alignement.
+
+**Loyal bon** (LB). On peut compter sur ces créatures pour faire le bien dans le sens où la société l'entend. Les dragons d'or et les paladins sont souvent d'alignement loyal bon.
+
+**Neutre bon** (NB). Ces personnes font du mieux qu'elles peuvent pour aider les autres, en fonction de leurs besoins toutefois. Beaucoup des créatures célestes sont neutre bon.
+
+**Chaotique bon** (CB). Ces créatures agissent selon leur conscience, et ont peu d'égard pour ce que les autres attendent. Les dragons de cuivre et les licornes sont souvent d'alignement chaotique bon.
+
+**Loyal neutre** (LN). Ces individus agissent conformément à la loi, aux traditions ou suivants des codes personnels. Les modrons et beaucoup de magiciens et de moines sont d'alignement loyal neutre.
+
+**Neutre** (N) est l'alignement de ceux qui préfèrent rester à l'écart des questions morales et ne prennent pas parti, faisant ce qui leur semble le mieux à un moment donné. La plupart des druides et des villageois sont neutres.
+
+**Chaotique neutre** (CN). Ces créatures suivent leurs caprices, pensant à leur liberté personnelle avant tout. Beaucoup de roublards et de bardes sont d'alignement chaotique neutre.
+
+**Loyal mauvais** (LM). Ces créatures font méthodiquement ce qu'elles veulent, dans les limites d'un code de tradition, de la loyauté ou d'un ordre. Les diables et les dragons bleus sont souvent d'alignement loyal mauvais.
+
+**Neutre mauvais** (NM) est l'alignement de ceux qui font ce qu'ils veulent, sans aucune compassion ni aucun scrupule. Les yugoloths sont généralement d'alignement neutre mauvais.
+
+**Chaotique mauvais** (CM). Ces créatures agissent avec une violence arbitraire, stimulées par la cupidité, la haine ou la soif de sang. Les démons et les dragons rouges sont souvent d'alignement chaotique mauvais.
+
+#### L'alignement dans le Multivers
+
+Pour de nombreuses créatures douées de raison, l'alignement est un choix moral. Les humains, les nains, les elfes et d'autres peuples peuvent choisir de suivre les voies du bien ou du mal, de la loi ou du chaos. Selon la légende, les dieux qui ont créé ces peuples leur ont laissé le choix de leur voie morale.
+
+L'alignement est une partie essentielle de la nature des célestes et des fiélons. Ces deux types de créatures sont associés à des plans d'existence métaphysiques, en particulier les plans extérieurs, qui incarnent certains alignements. Par exemple, la plupart des diables viennent des Neuf Enfers, un plan loyal mauvais. Un diable ne choisit donc pas d'être loyal mauvais ou de tendre vers cet alignement, il est loyal mauvais par essence. S'il cesse d'une manière ou d'une autre d'être loyal mauvais, il se transforme alors en quelque chose de nouveau, digne des légendes.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Personnage}}
+
+\page
+
+La plupart des créatures qui ne sont pas douées de raison n'ont pas d'alignement, elles sont sans alignement. De telles créatures sont incapables de faire un choix moral ou éthique et agissent selon leur nature bestiale. Les requins sont des prédateurs sauvages, par exemple, mais ils ne sont pas mauvais ; ils sont sans alignement.
+
+### Langues
+
+Votre race indique les langues que votre personnage peut parler par défaut, et votre historique peut vous donner accès à une ou plusieurs autres langues de votre choix. Notez ces langues sur votre feuille de personnage. Choisissez vos langues dans la table des langues standards, ou choisissez-en une qui est commune dans votre campagne. Avec la permission de votre MD, vous pouvez également les choisir dans la table des langues exotiques ou choisir une langue secrète, comme le jargon des voleurs ou la langue des druides.
+
+Certaines de ces langues sont en fait des familles de langues qui comportent de nombreux dialectes. Par exemple, le primordial comprend les dialectes de l'aérien, l'aquatique, l'igné et le terreux, un pour chacun des quatre plans élémentaires. Les créatures qui parlent différents dialectes d'une même langue peuvent communiquer entre elles.
+| **Langues standards** | **Races typiques** | **Écriture** |
+| --------------------- | ------------------ | ------------ |
+| Commun                | Humains            | Commun       |
+| Elfique               | Elfes              | Elfique      |
+| Géant                 | Ogres, géants      | Nain         |
+| Gnome                 | Gnomes             | Nain         |
+| Gobelin               | Gobelinoïdes       | Nain         |
+| Halfelin              | Halfelins          | Commun       |
+| Nain                  | Nains              | Nain         |
+| Orc                   | Orcs               | Nain         |
+
+| **Langues exotiques**  | **Races typiques**             | **Écriture** |
+| ---------------------- | ------------------------------ | ------------ |
+| Abyssal                | Démons                         | Infernal     |
+| Céleste                | Célestes                       | Céleste      |
+| Commun des profondeurs | Créatures de l'Outreterre      | Elfique      |
+| Draconique             | Dragons, drakéides             | Draconique   |
+| Infernal               | Diables                        | Infernal     |
+| Primordial             | Élémentaires                   | Nain         |
+| Profond                | Beholders, flagelleurs mentaux | -            |
+| Sylvestre              | Créatures féeriques            | Elfique      |
+
+| **Langues extraterrestre** | Races typiques    | Ecriture |
+| ---------------------- | ----------------- | -------- |
+| Binaire                | Synthéens         | Binaire  |
+| Kaärnien               | Kaärns / Miridans | Kaärnien |
+| Nyxar                  | Nyxars            |          |
+| Voltari                | Voltari/Voltar    |          |
+| Nexari                 | Nexarien          |          |
+
+### Personnalités
+
+Concrétiser la personnalité de votre personnage, avec les traits, les manières, les habitudes, les croyances et les défauts qui donnent à une personne une identité unique, vous aidera à lui donner vie lors des parties. Quatre catégories de caractéristiques sont présentées ici : les traits, les idéaux, les liens et les défauts. Au-delà de ces catégories, pensez aux mots ou phrases favorites, aux tics et gestes habituels, aux vices et aux marottes de votre personnage, et tout ce que vous pouvez imaginer.
+
+Chaque historique présenté dans ce chapitre comprend des suggestions de personnalités que vous pouvez utiliser pour stimuler votre imagination. Vous n'êtes pas lié à ces options, mais c'est un bon point de départ.
+
+#### Traits
+
+Donnez à votre personnage deux traits. Les traits sont un moyen simple pour vous aider à définir et différencier votre personnage. Vos traits doivent signifier quelque chose d'intéressant et d'amusant pour votre personnage. Ce devrait être des descriptions faites par le personnage lui-même de ce qui le démarque des autres. « Je suis intelligent » n'est pas un bon trait, car il décrit un grand nombre de personnes. « J'ai lu tous les livres de Candlekeep » dit par contre quelque chose de spécifique sur les intérêts et la disposition de votre personnage. Les traits peuvent décrire les choses que votre personnage aime, ses réalisations passées, ses aversions et ses craintes, ses manières ou bien encore l'influence de ses valeurs de caractéristiques.
+
+Une bonne manière pour réfléchir sur les traits est de prendre votre plus grande et plus faible caractéristique, et de définir un trait pour chacune d'elles. Cela peut être positif ou négatif. Vous pourriez travailler dur pour surmonter une faible valeur par exemple, ou être arrogant à propos de votre meilleure valeur.
+
+#### Idéaux
+
+Décrivez un idéal qui anime votre personnage. Vos idéaux sont des choses auxquelles vous croyez fortement, des principes moraux et éthiques fondamentaux qui vous obligent à agir comme vous le faites. Les idéaux englobent tout, de vos objectifs de vie à vos croyances. Les idéaux pourraient répondre à une de ces questions : quels sont les principes que vous ne trahirez jamais ? Qu'est-ce qui pourrait vous faire faire des sacrifices ? Qu'est-ce qui vous pousse à agir et guide vos objectifs et vos ambitions ? Quelle est la chose la plus importante pour laquelle vous luttez ?
+
+Vous pouvez choisir des idéaux qui vous plaisent, mais l'alignement de votre personnage est une bonne chose pour commencer à les définir. Chaque historique propose six idéaux. Cinq d'entre eux sont liés à des aspects de l'alignement : loyal, chaotique, bon, mauvais ou neutre. Le dernier a plus à voir avec l'historique en particulier qu'avec des perspectives morales ou éthiques.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Personnage}}
+
+\page
+#### Liens
+
+Créez un lien pour votre personnage. Les liens représentent les connexions d'un personnage avec des personnes, des lieux et des événements dans le monde. Ils vous attachent à des choses de votre historique. Ils peuvent vous inspirer des actes d'héroïsme ou vous amener à agir contre vos propres intérêts s'ils sont menacés. Ils peuvent ressembler à des idéaux, définissant les motivations et les objectifs d'un personnage. Les liens pourraient répondre à ces questions : de qui vous souciez-vous le plus ? Avec quel lieu vous sentez-vous un lien particulier ? Quel est votre bien le plus précieux ?
+
+Vos liens peuvent être liés à votre classe, à votre historique, à votre race, ou à tout autre aspect de l'histoire ou de la personnalité du personnage. Vous pouvez également acquérir de nouveaux liens au cours de vos aventures.
+
+#### Défauts
+
+Enfin, choisissez un défaut pour votre personnage. Ce défaut représente un vice, une contrainte, une peur ou une faiblesse. C'est quelque chose que quelqu'un d'autre pourrait exploiter pour vous affaiblir ou vous amener à agir contre vos intérêts. Un défaut est plus fort qu'un trait négatif. Un défaut peut répondre à ces questions : qu'est-ce qui vous exaspère ? Quel est la personne, le concept ou l'événement qui vous terrifie ? Quels sont vos vices ?
+
+## Inspiration
+
+L'inspiration est une règle que le MD peut utiliser pour vous récompenser de jouer votre personnage en accord avec vos traits, votre idéal, votre lien et votre défaut. Si vous utilisez l'inspiration, vous pouvez jouer sur le trait de compassion pour les opprimés de votre personnage pour obtenir un avantage lors de la négociation avec le prince mendiant. Ou bien encore l'inspiration peut vous permettre de vous appuyer sur votre lien avec la défense de votre village d'origine pour passer outre l'effet d'un sort qu'on vient de vous lancer.
+
+### Gagner l'inspiration
+
+Votre MD peut choisir de vous donner l'inspiration pour plusieurs raisons. Typiquement, les MD l'accordent lorsque vous jouez correctement vos traits, votre défaut ou un lien, ou pour avoir interprété votre personnage d'une manière convaincante. Votre MD vous dira comment vous pouvez gagner l'inspiration dans le jeu. Vous avez ou vous n'avez pas l'inspiration, vous ne pouvez pas accumuler plusieurs inspirations pour une utilisation future.
+
+### Utiliser l'inspiration
+
+Si vous avez l'inspiration, vous pouvez la dépenser lorsque vous effectuez un jet d'attaque, un jet de sauvegarde ou un jet de caractéristique. Dépenser votre inspiration vous donne un avantage au jet de dé. En outre, si vous avez l'inspiration, vous pouvez récompenser un autre joueur pour son bon jeu de rôle, pour avoir eu une bonne idée, ou tout simplement pour faire quelque chose d'excitant dans le jeu. Quand un autre joueur fait quelque chose qui contribue vraiment à l'histoire d'une façon amusante et intéressante, vous pouvez lui céder votre inspiration.
+
+## Historique
+
+Toute histoire a un début. L'historique de votre personnage révèle d'où vous venez, comment vous êtes devenu un aventurier et votre place dans le monde. Votre guerrier a peut-être été un courageux chevalier ou un soldat. Votre magicien a peut-être été un sage ou un artisan. Votre roublard a peut-être été un voleur de guilde ou un bouffon. Choisir un historique vous donne de précieux éléments d'histoire pour forger l'identité de votre personnage. La question la plus importante à se poser au sujet de votre historique est _qu'est-ce qui a changé_ ? Pourquoi avez-vous arrêté de faire ce que votre historique décrit pour embrasser une vie d'aventurier ? Où avez-vous obtenu l'argent pour acheter votre équipement de départ ou, si vous venez d'un milieu riche, pourquoi n'en avez-vous pas plus ? Comment avez-vous appris les compétences de votre classe ? Qu'est-ce qui vous distingue des gens ordinaires qui partagent votre historique ? Les exemples d'historiques qui suivent fournissent à la fois des avantages concrets (capacités, maîtrises et langues) et des suggestions pour jouer le rôle.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Personnage}}
+
+\page
+{{partCover}}
+
+# CHAP II
+## Les races
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.pinimg.com/1200x/8a/a3/fe/8aa3fe40dceb8d8c2c833bf9a2da2524.jpg){position:absolute,bottom:-20%,left:0,height:130%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les races}}
+\page
+
+# Les Races
+
+Une visite dans l'une des plus grandes cités des mondes de D&D, que ce soit Waterdeep, la cité libre de Faucongris ou même Sigil, la cité des Portes, submerge les sens. On y entend des discussions dans de multiples langues. Les odeurs des différentes cuisines culturelles se mêlent aux émanations des rues bondées et des conditions sanitaires déplorables. Les bâtiments de diverses architectures et styles se côtoient et indiquent les origines variées des habitants. Et les gens eux-mêmes – des personnes de tailles, de formes et de couleurs différentes, habillées dans divers styles bariolés – représentent différentes races, des petits halfelins et robustes nains aux elfes sveltes et majestueux se mélangeant avec de nombreuses ethnies humaines.
+
+Éparpillés parmi ce peuple bigarré, on peut rencontrer des membres d'une race vraiment exotique : un puissant drakéide ici, traçant son chemin dans la foule ; là, un tieffelin narquois espionnant depuis les ombres de la malice dans les yeux. Un groupe de gnomes rit aux éclats, alors que l'un d'eux active un ingénieux jouet de bois, qui se meut de lui-même. Demi-elfes et demi-orcs travaillent et vivent aux côtés des humains, sans appartenir pleinement aux races de leurs parents respectifs. Et par ici, à l'écart des rayons solaires, se dresse un drow solitaire, un fugitif des mondes sous-terrains, tentant de tracer sa voie dans un monde qui craint les membres de sa race.
+
+## Choisir une race
+
+Les humains sont les personnages les plus fréquents dans les mondes de D&D, mais ils vivent et travaillent aux côtés de nains, elfes, halfelins et d'innombrables autres espèces fantastiques. Votre personnage appartient à une de ces races. Toutes les races intelligentes du multivers ne sont cependant pas appropriées pour être incarnées par un joueur. Les elfes, les halfelins, les humains et les nains sont les races les plus communes pour composer un groupe dans une partie typique. Les autres races et sous-races sont moins fréquentes en tant qu'aventuriers.
+
+Le choix de la race affecte de nombreux aspects de votre personnage. Il établit des qualités fondamentales qui vont marquer toute la carrière d'aventurier de votre personnage. Lorsque vous prenez cette décision, gardez bien à l'esprit le genre de personnage que vous voulez jouer. Par exemple, un halfelin pourrait être un bon choix pour un roublard sournois, un nain fait un bon guerrier rude, et un elfe peut être un parfait maître de la magie des arcanes. La race de votre personnage affecte non seulement les valeurs de vos caractéristiques et vos traits, mais fournit également d'importants repères pour la construction de l'histoire de votre personnage. La description de chaque race comporte des informations pour vous aider à jouer le rôle de cette race, sa personnalité, son apparence physique, les caractéristiques de sa société et les tendances raciales de son alignement. Ces détails sont des suggestions pour vous aider à réfléchir à votre personnage. Mais les aventuriers peuvent fortement différer de la norme de leur race. Dans ce cas, il est intéressant de se demander pourquoi votre personnage est différent ; cela vous sera utile pour réfléchir à l'[historique](https://www.aidedd.org/regles/historiques/#historiques) et à la personnalité de votre personnage.
+
+### Traits Raciaux
+
+La description de chaque race indique les traits raciaux communs aux membres de cette race. Les entrées suivantes sont présentes pour chacune des races décrites.
+
+#### Augmentation de caractéristiques
+
+Toute race ajuste une ou plusieurs caractéristiques du personnage.
+
+#### Âge
+
+Ce trait indique l'âge à partir duquel un membre de la race est considéré comme adulte, ainsi que son espérance de vie. Cette information peut vous aider à déterminer l'âge de départ de votre personnage en début de jeu. Vous pouvez choisir n'importe quel âge pour votre personnage, qui pourrait par exemple expliquer certaines valeurs de vos caractéristiques. Par exemple, si vous jouez un personnage jeune ou très vieux, l'âge pourrait expliquer une faible valeur de Force ou de Constitution, et un âge avancé pourrait justifier une forte Intelligence ou Sagesse.
+
+#### Taille
+
+Les personnages de la majorité des races sont de taille Moyenne, une catégorie de taille qui englobe des hauteurs d'en gros 1,20 m à 2,40 m. Quelques races sont de taille Petite (entre 60 cm et 1,20 m), et certaines règles de jeu les affectent différemment. La plus importante d'entre elles précise que les personnages de taille Petite ont des difficultés à manier des armes lourdes, comme cela l'est indiqué dans le chapitre [Équipement](https://www.aidedd.org/regles/equipement/armes/).
+
+#### Vitesse
+
+Votre vitesse détermine la distance que vous pouvez parcourir lors des [Déplacements](https://www.aidedd.org/regles/aventure/) et lors des [Combats](https://www.aidedd.org/regles/combat/).
+
+#### Langues
+
+De par sa race, votre personnage peut parler, lire et écrire certaines langues. Le chapitre [Personnalité et Historique](https://www.aidedd.org/regles/historiques/) énumère les langues les plus communes du multivers de D&D
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les races}}
+\page
+#### Sous-races
+
+Quelques races sont subdivisées en sous-races. Un personnage d'une sous-race possède les traits de la race « mère » en plus des traits de la sous-race choisie. Les relations entre les sous-races varient de manière importante selon les races et les mondes dans lesquels ils vivent. Par exemple, dans le monde de campagne de Dragonlance, les nains des montagnes et ceux des collines vivent ensemble en tant que clans différents d'un même peuple, alors que dans les Royaumes Oubliées ces peuples vivent dans des royaumes séparés sous les noms de nains d'écu et nains d'or, respectivement.
+
+##### Race de D&D5 2014 :
+| Nom | Lien |
+|:------------------|:-----:|
+| Elfe                 | https://www.aidedd.org/regles/races/elfe/     |
+| Halfelin               | https://www.aidedd.org/regles/races/halfelin/    |
+| Humain               | https://www.aidedd.org/regles/races/humain/     |
+| Nain            | https://www.aidedd.org/regles/races/nain/     |
+|Demi-elfe             | https://www.aidedd.org/regles/races/demi-elfe/     |
+| Demi-orc            | https://www.aidedd.org/regles/races/demi-orc/     |
+|Drakéide |https://www.aidedd.org/regles/races/drakeide/ |
+|Gnome | https://www.aidedd.org/regles/races/gnome/ |
+| Tieffelin | https://www.aidedd.org/regles/races/tieffelin/ |
+| Aarakocra | https://www.aidedd.org/regles/races/aarakocra/ |
+| Génasi | https://www.aidedd.org/regles/races/genasis/ |
+| Gnome des profondeurs | https://www.aidedd.org/regles/races/gnome-des-profondeurs/ |
+| Goliath | https://www.aidedd.org/regles/races/goliath/ |
+
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les races}}
+\page
+{{partCover}}
+
+# CHAP III
+## Les Classes
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.pinimg.com/1200x/32/fa/44/32fa4473969268e59a34a6aa1440c8ca.jpg){position:absolute,bottom:0,left:0,height:100%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Classes}}
+\page
+
+# Classes
+
+Les aventuriers sont des personnes extraordinaires poussées par la soif de l'excitation vers une vie que d'autres n'oseraient jamais imaginer. Ce sont des héros, contraints d'explorer les endroits les plus sombres et d'aborder des défis que les femmes et les hommes communs ne pourraient surmonter.
+
+La classe est la première définition de ce que votre personnage peut faire. C'est plus qu'un métier, c'est la vocation de votre personnage. La classe définit la manière dont vous pensez le monde et interagissez avec lui, ainsi que votre relation avec les autres et avec les autorités. Un guerrier, par exemple, pourrait voir le monde en termes pragmatiques de stratégie et de manœuvres, et se considérer comme un simple pion dans un jeu beaucoup plus grand que lui. Un clerc, en revanche, peut se considérer comme un serviteur dans le plan d'un dieu ou dans un conflit entre différentes divinités. Là où le guerrier aura des contacts avec les membres d'une compagnie de mercenaires ou d'une armée, le clerc pourrait connaître un certain nombre de religieux, de paladins ou de dévots qui partagent sa foi.
+
+Votre classe vous donne accès à différentes capacités spéciales, telles la maîtrise d'une arme ou d'une armure, ou bien encore la possibilité de lancer des sorts de magicien. À bas niveau, votre classe ne vous donne accès qu'à deux ou trois capacités, mais au fur et à mesure que vous montez de niveau, vous en gagnerez plus et vos capacités antérieures s'amélioreront souvent. Chaque classe présente un tableau qui résume les avantages que vous gagnez à tous les niveaux, ainsi qu'une explication détaillée de chacun d'eux.
+##### Liste des classes D&D5 2014 :
+|Nom         |  Lien    |                                         
+|:------------|:---------------------------------------------------:|
+|Barbare     |  https://www.aidedd.org/regles/classes/barbare/  | 
+|Barde       |  https://www.aidedd.org/regles/classes/barde/   |  
+|Clerc       |  https://www.aidedd.org/regles/classes/clerc/    | 
+|Druide      |  https://www.aidedd.org/regles/classes/druide/    
+|Guerrier    |  https://www.aidedd.org/regles/classes/guerrier/  |
+|Magicien    |  https://www.aidedd.org/regles/classes/magicien/  |
+|Moine       |  https://www.aidedd.org/regles/classes/monk/      |
+|Occultiste  |  https://www.aidedd.org/regles/classes/occultiste/|
+|Paladin     |  https://www.aidedd.org/regles/classes/paladin/   |
+|Rodeur      |  https://www.aidedd.org/regles/classes/rodeur/    |
+|Roublard    |  https://www.aidedd.org/regles/classes/roublard/  |
+|Sorcier     |  https://www.aidedd.org/regles/classes/sorcier/   |
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Classes}}
+\page
+
+# Psyker (Sous classe ensorceleur)
+
+_Maître de la pensée en mouvement, guerrier de l’esprit et architecte invisible du monde._
+
+Certains individus naissent avec un don rare : la capacité de plier la matière et l’énergie par la seule force de leur esprit. Ces êtres, appelés **Psyker**, manipulent la gravité, repoussent ou attirent leurs ennemis, brisent l’acier ou protègent leurs alliés derrière des barrières invisibles.  
+Dans un monde moderne ou futuriste, leurs pouvoirs sont perçus comme une anomalie scientifique, une mutation génétique ou l’héritage d’expériences secrètes. Mais quelle qu’en soit l’origine, ils incarnent l’idée qu’**aucune arme n’est plus puissante que l’esprit libre**. \
+  \
+Le Psyker ne lance pas de flammes ou d’éclairs. Ses dons résident dans le contrôle, la manipulation et la domination. Il peut arracher une arme des mains de son adversaire, soulever un véhicule en plein vol ou écraser un ennemi dans une poigne invisible. Plus il progresse, plus son esprit devient une force de la nature, jusqu’à pouvoir altérer la gravité ou créer des singularités dévastatrices. \
+  \
+Si les soldats portent des fusils et les mages brandissent des grimoires, le Psyker n’a besoin que d’une chose : **sa volonté**.
+
+### Pouvoirs inexpliqués
+Les Psyker se font rares dans le monde, et il est inhabituel de rencontrer un Psyker qui ne s’adonne pas à une vie d’aventures. Les personnes avec une telle puissance magique bouillonnante dans leurs veines découvrent rapidement que cette puissance n’apprécient pas la quiétude. La magie d’un Psyker veut être maniée et elle a tendance à jaillir de manière imprévisible si on ne l’interpelle pas. \
+  \
+Les Psyker se lancent souvent à l’aventure pour des motifs obscurs ou chimériques. Certains cherchent à mieux comprendre la force magique qui les habite ou la réponse au mystère de son origine. D’autres espèrent trouver un manière de s’en défaire ou d’en exploiter le plein potentiel. Quels que soient leurs buts, les ensorceleurs sont tout aussi utiles à une compagnie d’aventuriers que peut l’être le magicien. Ils compensent leurs lacunes en connaissances magiques par une impressionnante flexibilité lors de l’usage de leurs sorts. 
+
+\column
+
+## Capacités de classe
+
+
+#### Points de vie
+**Dés de vie:**                    :: 1d6 par niveau de Spyker
+**Points de vie au niveau 1:**     :: 6 + votre modificateur de Constitution
+**pv aux niveaux suivants:** :: 1d6 (ou 4) + votre modificateur de Constitution
+
+#### Maîtrises
+**Armures:**   :: Aucune
+**Armes:** :: dague, fléchette, fronde, bâton, arbalète légère 
+**Outils:**   :: Aucun
+
+**Jets de sauvegarde:** :: Constitution, Charisme
+**Compétences:**        :: choisissez deux compétences parmi Arcanes, Intimidation, Intuition, Persuasion, Religion et Tromperie
+
+#### Spellcasting Ability
+{{text-align:center
+**Spell save DC**:: = 6 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier**:: = your proficiency bonus + your Charisma modifier
+}}
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- (*a*) a martial weapon and a shield or (*b*) two martial weapons
+- (*a*) five javelins or (*b*) any simple melee weapon
+- a cherished lost sock
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Classes : Psyker}}
+\page
+{{classTable,frame,decoration,wide
+##### Le Psyker
+| Niveau| Proficiency | Capacités                           | Sorts mineurs | --- Spell Slots Per Spell Level ---|||||||||
+|      ^| Bonus      ^|             ^                       | connus   ^    |1st |2nd |3rd |4th |5th |6th |7th |8th |9th |
+|:-----:|:-----------:|:-------------                       |:--------:     |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  1    | +2          | Incantation, Origine magique        |    4          | 2  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  2    | +2          | Source de magie                     |    4          | 3  | —  | —  | —  | —  | —  | —  | —  | —  |
+|  3    | +2          | Métamagie                           |    4          | 4  | 2  | —  | —  | —  | —  | —  | —  | —  |
+|  4    | +2          | Amélioration de caractéristiques    |    5          | 4  | 3  | —  | —  | —  | —  | —  | —  | —  |
+|  5    | +3          | —                                   |    5          | 4  | 3  | 2  | —  | —  | —  | —  | —  | —  |
+|  6    | +3          | Capacité de l'origine magique       |    5          | 4  | 3  | 3  | —  | —  | —  | —  | —  | —  |
+|  7    | +3          | —                                   |    5          | 4  | 3  | 3  | 1  | —  | —  | —  | —  | —  |
+|  8    | +3          | Amélioration de caractéristiques    |    5          | 4  | 3  | 3  | 2  | —  | —  | —  | —  | —  |
+|  9    | +4          | —                                   |    5          | 4  | 3  | 3  | 2  | 1  | —  | —  | —  | —  |
+| 10    | +4          | Métamagie                           |    6          | 4  | 3  | 3  | 2  | 1  | —  | —  | —  | —  |
+| 11    | +4          | —                                   |    6          | 4  | 3  | 3  | 2  | 1  | 1  | —  | —  | —  |
+| 12    | +4          | Amélioration de caractéristiques    |    6          | 4  | 3  | 3  | 2  | 1  | 1  | —  | —  | —  |
+| 13    | +5          | —                                   |    6          | 4  | 3  | 3  | 2  | 1  | 1  | 1  | —  | —  |
+| 14    | +5          | Capacité de l'origine magique       |    6          | 4  | 3  | 3  | 2  | 1  | 1  | 1  | —  | —  |
+| 15    | +5          | —                                   |    6          | 4  | 3  | 3  | 2  | 1  | 1  | 1  | 1  | —  |
+| 16    | +5          | Amélioration de caractéristiques    |    6          | 4  | 3  | 3  | 2  | 1  | 1  | 1  | 1  | —  |
+| 17    | +6          | Métamagie                           |    6          | 4  | 3  | 3  | 2  | 1  | 1  | 1  | 1  | 1  |
+| 18    | +6          | Capacité de l'origine magique       |    6          | 4  | 3  | 3  | 3  | 1  | 1  | 1  | 1  | 1  |
+| 19    | +6          | Amélioration de caractéristiques    |    6          | 4  | 3  | 3  | 3  | 2  | 2  | 1  | 1  | 1  |
+| 20    | +6          | Restauration magique                |    6          | 4  | 3  | 3  | 3  | 2  | 2  | 2  | 1  | 1  |
+}}
+
+### Incantation
+
+Un événement dans votre passé, ou dans la vie d'un parent ou un ancêtre, vous a laissé une marque indélébile, en vous insufflant la magie des arcanes. Cette source de magie, quelle que soit son origine, alimente vos sorts.
+
+#### Sorts mineurs
+
+Au niveau 1, vous connaissez quatre sorts mineurs de votre choix dans la liste de sorts d'ensorceleur. Vous apprendrez des sorts mineurs supplémentaires de votre choix aux niveaux supérieurs, comme indiqué dans la colonne Sorts mineurs connus de la table ci-dessus.
+
+#### Emplacements de sorts
+
+La table ci-dessus montre combien d'emplacements de sorts vous avez pour lancer vos sorts d'ensorceleur de niveau 1 et supérieur. Pour lancer un de ces sorts d’ensorceleur, vous devez dépenser un emplacement du niveau du sort ou supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un repos long. Par exemple, si vous connaissez le sort de niveau 1 _mains brûlantes_ et qu'il vous reste un emplacement de niveau 1 et un emplacement de niveau 2, vous pouvez lancer deux fois ce sort.
+
+#### Sorts connus de niveau 1 et supérieur
+
+Vous connaissez deux sorts de niveau 1 de votre choix dans la liste des sorts d’ensorceleur. La colonne Sorts connus de la table ci-dessus indique les niveaux auxquels vous apprenez de nouveaux sorts d’ensorceleur de votre choix. Chacun de ces sorts doit être d'un niveau pour lequel vous possédez un emplacement de sort. Par exemple, lorsque vous atteignez le niveau 3 de cette classe, vous pouvez apprendre un nouveau sort de niveau 1 ou 2.
+
+En outre, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir un sort d’ensorceleur que vous connaissez et le remplacer par un autre sort choisi dans la liste de sorts d’ensorceleur, celui-ci devant également être d'un niveau pour lequel vous possédez un emplacement de sort.
+
+#### Caractéristique d'incantation
+
+Le Charisme est votre caractéristique d'incantation pour vos sorts d’ensorceleur, car la puissance de votre magie repose sur votre capacité à projeter votre volonté dans le monde. Vous utilisez votre Charisme chaque fois qu'un sort fait référence à votre capacité de lancer des sorts. En outre, vous utilisez votre modificateur de Charisme pour définir le DD du jet de sauvegarde d'un sort d’ensorceleur que vous lancez et quand vous effectuez un jet d'attaque.
+
+**DD de sauvegarde des sorts** = 8 + votre bonus de maîtrise + votre modificateur de Charisme  
+**Modificateur aux attaques avec un sort** = votre bonus de maîtrise + votre modificateur de Charisme
+
+#### Focaliseur d'incantation
+
+Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour vos sorts d’ensorceleur.
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Classes : Psyker}}
+\page
+### Origine magique
+
+Choisissez une origine d'ensorceleur, qui décrit la source de votre pouvoir magique inné : lignée draconique ou magie sauvage, lesquelles sont détaillées à la fin de la description de la classe.
+
+### Source de magie
+
+Au niveau 2, vous puisez dans une source profonde de magie en vous. Cette source est représentée par des points de sorcellerie qui vous permettent de créer une variété d'effets magiques.
+
+#### Points de sorcellerie
+
+Vous avez 2 points de sorcellerie, et vous en gagnez plus à des niveaux supérieurs, comme indiqué dans la colonne de Points de sorcellerie de la table ci-dessus. Vous ne pouvez jamais avoir plus de points de sorcellerie que ce que vous permet votre niveau dans la table ci-dessus. Vous récupérez tous les points de sorcellerie utilisés lorsque vous terminez un repos long.
+
+#### Flexibilité des sorts
+
+Vous pouvez utiliser vos points de sorcellerie pour gagner des emplacements de sorts supplémentaires ou sacrifier des emplacements de sorts pour gagner des points de sorcellerie supplémentaires. Vous apprenez d'autres façons d'utiliser vos points de sorcellerie lorsque vous atteignez des niveaux plus élevés. Tout emplacement de sort créé de cette manière disparaît lorsque vous terminez un repos long.
+
+**Création d'emplacements de sorts**. Vous pouvez transformer des points de sorcellerie inutilisés en un emplacement de sort par une action bonus à votre tour. La table ci-dessous indique le coût pour créer un emplacement de sort d'un niveau donné. Vous ne pouvez pas créer d’emplacements de sorts d'un niveau supérieur à 5.
+
+##### Character Advancement
+| Niveau d'emplacement de sort | Coût en points de sorcellerie |
+|:------------------           |:-----:                        |
+| 1                            | 2                             |
+| 2                            | 3                             |
+| 3                            | 5                             |
+| 4                            | 6                             |
+| 5                            | 7                             |
+
+### Métamagie
+
+Au niveau 3, vous gagnez la possibilité d’altérer vos sorts en fonction de vos besoins. Vous gagnez deux des options de métamagie suivantes de votre choix. Vous en gagnez une autre aux niveaux 10 et 17. Sauf indication contraire, vous ne pouvez utiliser sur un sort qu'une seule option de métamagie lorsque vous le lancez.
+
+#### Sort accéléré
+
+Lorsque vous lancez un sort qui a un temps d'incantation de 1 action, vous pouvez dépenser 2 points de sorcellerie pour changer le temps d'incantation à 1 action bonus pour lancer ce sort.
+
+#### Sort ample
+
+Quand vous lancez un sort qui a une portée de 1,50 mètre ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler la portée du sort. Si le sort a une portée de contact, vous pouvez dépenser 1 point de sorcellerie pour faire passer sa portée à 9 mètres.
+
+#### Sort étendu
+
+Lorsque vous lancez un sort qui a une durée de 1 minute ou plus, vous pouvez dépenser 1 point de sorcellerie pour doubler sa durée (maximum 24 heures).
+
+#### Sort intensifié
+
+Lorsque vous lancez un sort qui oblige une créature à faire un jet de sauvegarde pour résister à ses effets, vous pouvez dépenser 3 points de sorcellerie pour donner à une cible du sort un désavantage à son premier jet de sauvegarde contre le sort.
+
+#### Sort jumeau
+
+Quand vous lancez un sort qui a pour cible une seule créature et qui n'a pas une portée personnelle, vous pouvez dépenser un nombre de points de sorcellerie égal au niveau du sort pour viser une deuxième créature à portée avec le même sort (1 point de sorcellerie si le sort est un sort mineur).
+
+Pour pouvoir utiliser cette option de métamagie, le sort doit être incapable de cibler plus d'une créature au niveau auquel il est lancé. Par exemple, _[rayon de givre](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre)_ fonctionne avec cette option mais pas [_projectile magique_](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique) ni [_rayon ardent_](https://www.aidedd.org/dnd/sorts.php?vf=rayon-ardent).
+
+#### Sort prévenant
+
+Lorsque vous lancez un sort qui force les autres créatures à faire un jet de sauvegarde, vous pouvez libérer de cette obligation du sort certaines de ces créatures. Pour ce faire, dépensez 1 point de sorcellerie et choisissez un nombre de créatures égal à votre modificateur de Charisme (minimum 1 créature). Chaque créature choisie réussie automatiquement son jet de sauvegarde contre le sort.
+#### Sort renforcé
+
+Lorsque vous lancez les dégâts pour un sort, vous pouvez dépenser 1 point de sorcellerie pour relancer un nombre de dés de dégâts ne dépassant pas votre modificateur de Charisme (minimum 1). Vous devez forcément utiliser les nouveaux dégâts. Vous pouvez utiliser Sort renforcé même si vous avez déjà utilisé une option différente de métamagie lors du lancer de ce sort.
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Classes : Psyker}}
+\page
+#### Sort subtil
+
+Lorsque vous lancez un sort, vous pouvez dépenser 1 point de sorcellerie pour le lancer sans composantes somatiques ou verbales.
+
+## Origines magiques
+### Onde du Nihil
+Une onde provenant du Nihil a toucher vous ou un ancêtre qui vous a transmis des pouvoirs psychique et de télékinésie.
+
+#### Pic de magie sauvage
+
+Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent déclencher des poussées de magie incontrôlables. Une fois par tour, le MD peut vous demander de lancer un d20, immédiatement après que vous ayez lancé un sort d'ensorceleur du niveau 1 ou plus. Si vous obtenez un 1, vous déclenchez un effet magique aléatoire. Reportez-vous au tableau ci-dessous de Pic de magie sauvage pour déterminer les effets du résultat. Si l'effet de la magie sauvage est un sort, celui-ci est trop violent pour être affecté par votre métamagie. S'il demande normalement de la concentration, dans ce cas il n'en demande pas ; le sort persiste pour sa durée totale.
+
+
+
+| d100 | Effet |
+|:------------------|:-----|
+| 01-02    | Au début de vos prochains tours, refaites un jet de Pic de magie sauvage (ignorez ce résultat sur des jets consécutifs). Cet effet dure une minute.|
+| 03-04    | Pendant une minute, vous pouvez voir toutes les créatures invisibles tant qu'elles sont dans votre champs de vision.|
+| 05-06    | Un modron (créature artificielle) choisi et contrôlé par le MD apparaît dans un espace inoccupé à 1,50 mètre de vous. Il disparaît une minute plus tard.|
+| 07-08    | Vous lancez le sort boule de feu de niveau 3 centré sur vous.|
+| 09-10    | Vous lancez un sort projectile magique de niveau 5.|
+| 11-12    | Lancez un d10. Votre taille varie de 2,50 cm x le résultat du jet. Si le résultat est pair vous grandissez, s'il est impair, vous rapetissez.|
+| 13-14    | Vous lancez le sort confusion centré sur vous-même.|
+| 15-16    | Pendant une minute, vous regagnez 5 points de vie au début de chacun de vos tours.|
+| 17-18    | Une longue barbe faite de plumes vous pousse soudainement. Celle-ci s'évanouit dans un nuage de plumes lorsque vous éternuez.|
+| 19-20    | Vous lancez le sort graisse centré sur vous-même.|
+| 21-22    | Les créatures ont un désavantage à leur jets de sauvegarde contre le prochain sort que vous lancez dans la minute qui suit.|
+
+| d100 | Effet |
+|:------------------|:-----|
+| 23-24    | Votre peau devient bleue. Un sort de délivrance des malédictions peut mettre fin à cet effet.|
+| 25-26    | Un oeil apparaît sur votre front pendant une minute. Pendant cette durée, vous avez un avantage à vos jets de Sagesse (Perception) qui se basent sur la vue.|
+| 27-28    | Pendant une minute, tout vos sorts dont le temps d'incantation est d'1 action ont un temps d'incantation d'1 action bonus.|
+| 29-30    | Vous vous téléportez à 18 mètres dans un espace inoccupé que vous pouvez voir.|
+| 31-32    | Vous êtes transporté dans le Plan Astral jusqu'à la fin de votre prochain tour, après quoi vous retournez à votre position d'origine, dans l'espace inoccupé le plus proche.|
+| 33-34    | Le prochain sort que vous lancez dans la minute qui suit fait le maximum de dégâts.|
+| 35-36    | Lancez un d10. Votre âge varie d'un nombre d'années équivalent au résultat du jet. Si le résultat est pair, vous vieillissez, sinon vous rajeunissez (minimum 1 an).|
+| 37-38    | 1d6 flumphs contrôlés par le MD apparaissent dans un périmètre de 18 mètres et ont peur de vous. Ils disparaissent au bout d'une minute.|
+| 39-40    | Vous regagnez 2d10 points de vie.|
+| 41-42    | Vous vous transformez en plante en pot jusqu'au début de votre prochain tour. Sous cette forme, vous êtes incapable d'agir et avez la vulnérabilité à tous les types de dégâts. Si vous tombez à 0 point de vie, votre pot casse et vous retrouvez votre forme d'origine.|
+| 43-44    | Pendant une minute, vous pouvez utiliser à chaque tour votre action bonus pour vous téléporter dans un rayon de 6 mètres.|
+| 45-46    | Vous lancez le sort lévitation sur vous.|
+| 47-48    | Une licorne contrôlée par le MD apparaît à 1,50 mètre de vous puis disparaît une minute plus tard.|
+| 49-50    | Vous ne pouvez plus parler pendant une minute. Chaque fois que vous essayez, des bulles roses sortent de votre bouche.|
+| 51-52    | Un bouclier spectral vous entoure pendant une minute, vous faisant bénéficier d'un bonus de +2 à la CA et de l'immunité au sort projectile magique.|
+| 53-54    | Vous êtes immunisé à l'intoxication par l'alcool pour les 5d6 prochains jours.|
+| 55-56    | Vos cheveux tombent puis repoussent progressivement durant les prochaines 24 h.|
+| 57-58    | Pour la prochaine minute, tout objet inflammable que vous touchez qui n'est ni porté ni équipé par une autre créature prend feu.|
+| 59-60    | Vous regagnez votre emplacement de sort dépensé le plus faible.|
+| 61-62    | Pendant une minute, vous criez lorsque vous essayez de parler.|
+| 63-64    | Vous lancez le sort nappe de brouillard centré sur vous-même.|
+| 65-66    | Jusqu'à 3 créatures, que vous choisissez, situées à 9 mètres ou moins de vous, prennent 4d10 dégâts de foudre.|
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Classes : Psyker}}
+\page
+| d100 | Effet |
+|:------------------|:-----|
+| 67-68    | Vous êtes effrayé par la créature la plus proche de vous jusqu'à la fin de votre prochain tour.|
+| 69-70    | Toutes les créatures dans un rayon de 9 mètres deviennent invisibles pendant une minute. L'invisibilité prend fin lorsque la créature attaque ou lance un sort.|
+| 71-72    | Vous obtenez la résistance à tous les dégâts pendant une minute.|
+| 73-74    | Une créature aléatoire située dans un rayon de 18 mètres est empoisonnée pendant 1d4 heures.|
+| 75-76    | Vous vous mettez à briller dans un rayon de 9 mètres pendant une minute. Toute créature finissant son tour à 1,50 mètre de vous est aveuglée jusqu'à la fin de son prochain tour.|
+| 77-78    | Vous lancez le sort métamorphose sur vous-même. Si vous ratez votre jet de sauvegarde, vous vous transformez en mouton pour la durée du sort.|
+| 79-80    | Des illusions de papillons et de pétales de fleur flottent autour de vous dans un rayon de 3 mètres pendant une minute.|
+| 81-82    | Vous obtenez 1 action supplémentaire immédiatement.|
+| 83-84    | Toutes les créatures à 9 mètres ou moins prennent 1d10 de dégâts nécrotiques. Vous regagnez autant de points de vie que de dégâts infligés. |
+| 85-86    | Vous lancez le sort image miroir.|
+| 87-88    | Vous lancez le sort vol sur une créature aléatoire dans un rayon de 18 mètres.|
+| 89-90    | Vous devenez invisible pendant une minute. Pendant ce temps, les autres créatures ne peuvent pas vous entendre. L'invisibilité prend fin lorsque vous attaquez ou lancez un sort.|
+| 91-92    | Si vous mourrez dans la minute qui suit, vous revenez immédiatement à la vie comme si vous étiez touché par le sort résurrection.|
+| 93-94    | Votre taille augmente d'une catégorie pendant une minute.|
+| 95-96    | Vous et toutes les créatures dans un rayon de 9 mètres obtenez la vulnérabilité aux dégâts perforants pendant une minute.|
+| 97-98    | Vous êtes entouré d'une faible musique éthérée pendant une minute.|
+| 99-100   | Vous regagnez tous vos points de sorcellerie.|
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Classes : Psyker}}
+\page
+{{spellList,wide
+##### Cantrips (0 Level) 
+- Poussée mineure
+- Manipulation télékinétique
+- Vibration mentale
+- Saisie rapide
+- Message
+- Éclat gravitationnel
+- Saute de vent
+- Résistance
+- Protection contre les armes
+- Piqûre mentale
+ 
+
+##### 1 Niveau Début du contrôle 
+- Projection
+- Projection cinétique
+- Champ protecteur
+- Élan télékinétique
+- Poigne mentale
+- Poussée coordonnée
+- Projectile magique
+- Bouclier
+- Armure de mage
+- Secousse sismique
+- Saut
+- Tir Réfléchi
+
+
+##### 2 Niveau Pouvoirs concentrés
+- Lévitation
+- Lancer violent
+- Champ de déviation
+- Lien mental
+- Saisie multiple
+- Fouet mental de Tasha
+- Épine mentale
+- Détection des pensées
+- Poigne de l’esprit
+- Sur-poids
+
+
+##### 3 Niveau Maîtrise intermédiaire
+- Étranglement psychique
+- Onde télékinétique
+- Armes dansantes
+- Barrière invisible
+- Ascension forcée
+- Communication à distance
+- Éruption de terre
+- Forteresse d'intellect
+- Lenteur
+- Marche sur l'eau
+- Minuscules météores de Melf
+- Protection contre une énergie
+
+
+##### 4 Niveau Puissance maitriser
+- Apesanteur
+- Écrasement
+- Maîtrise de la gravité
+- Bouclier cinétique
+- Champ de force protecteur
+- Porte dimensionnelle
+- Sphère de tempête
+- Bannissement
+
+
+##### 5 Niveau 
+- Tempête psychique
+- Domination cinétique
+- Champ gravitationnel
+- Télékinésie
+- Flux de gravité
+- Animation d'objets
+- Marteau psychokinétique
+ 
+
+##### 6 Niveau 
+- Suppression gravitationnelle
+- Rupture psychique
+- Vision suprême
+- Terraformage
+- Prison mentale
+- Portail magique
+- Globe d'invulnérabilité
+- Dispersion
+- Désintégration
+
+
+##### 7 Niveau 
+- Cocon télékinétique
+- Changement de plan
+- Forme éthérée
+- Inversion de la gravité
+- Téléportation
+- Tourbillon
+
+
+##### 8 Niveau 
+- Tremblement de terre
+- Demi-plan
+- Télépathie
+- Manipulation atomique
+
+
+##### 9 Niveau
+- Arrêt du temps
+- Hurlement psychique
+- Nuée de météores
+- Portail
+
+
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Classes : Psyker}}
+
+\page
+{{partCover}}
+
+# CHAP IV
+## Les Armes
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.imgur.com/9TU96xY.jpg){position:absolute,bottom:0,left:0,height:100%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Armes}}
+\page
+# Armes
+
+Votre classe vous octroie la maîtrise de certaines armes, reflétant à la fois ce sur quoi la classe se concentre et les outils que vous êtes le plus susceptible d'utiliser. Que vous privilégiiez une épée longue ou un arc, votre arme et votre capacité à la manier de manière efficace peuvent faire la différence entre la vie et la mort lors d'une aventure.
+
+La table ci-dessous indique les armes utilisées les plus communes dans les mondes de D&D, leur prix et leur poids, les dégâts qu'elles infligent quand elles touchent, et les propriétés spéciales qu'elles possèdent. Toutes les armes sont classées soit comme arme de corps à corps, soit comme arme à distance. Une **arme de corps à corps** est utilisée pour attaquer une cible à 1,50 mètre de vous, alors qu'une **arme à distance** est utilisée pour attaquer une cible éloignée.
+
+### Maîtrise des armes
+
+Votre race, votre classe ou vos dons peuvent vous octroyer la maîtrise de certaines armes ou catégories d'armes. Les deux catégories sont les **armes courantes** et les **armes de guerre**. La plupart des personnes maîtrisent les armes courantes, alors que les armes de guerre requièrent un entrainement spécifique pour être utilisées efficacement. Ces armes comprennent les gourdins, les masses d'armes et d'autres armes que l'on retrouve souvent dans les mains des roturiers. Les armes de guerre, comme les épées, les haches et les armes d'hast, requièrent un entrainement spécifique pour être utilisées efficacement. La plupart des guerriers utilisent des armes de guerre parce qu'elles leur permettent d'optimiser leur style de combat et mettent en valeur leur entrainement.
+
+Utiliser une arme que vous maîtrisez permet d'ajouter votre bonus de maîtrise aux jets d'attaque fait avec cette arme. À l'inverse, utiliser une arme sans la maîtriser ne permet pas d'ajouter son bonus de maîtrise.
+
+{{wide
+##### Moderne
+| Nom                                 | Prix  | Dégât           | Portée  | Properties |
+|:------------------------            |:-----:|:----------------|:-------:|:-----------|
+| *Armes courantes de corps à corps*  |       |                 |         |            |
+| &emsp; Matraque                     | 1 sp  | 1d4 contondant  | &mdash; | Light      |
+| &emsp; Couteau tactique             | 2 gp  | 1d4 perforant   | &mdash; | Finesse    |
+| &emsp; Marteau de service           | 2 gp  | 1d4 contondant  | &mdash; | Thrown     |
+| &emsp; Matraque lourde              | 2 gp  | 1d6 contondant  | &mdash; | Thrown     |
+| &emsp; Bâton taser                  | 1 gp  | 1d6 énergétique | &mdash; | Thrown     |
+| *Armes courantes à distance*        |       |                 |         |            |
+| &emsp; Pistolet 9mm                 | 25 gp | 1d6 perforant   | &mdash; | Munitions (portée 24 m/96 m)    |
+| &emsp; Pistolet .45 ACP             | 25 gp | 1d8 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Pistolet taser               | 1 sp  | 1d4 énergétique | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Couteau de lancer            | 1 sp  | 1d6 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| *Armes de guerre de corps à corps*  |       |                 |         |            |
+| &emsp; Poignard de combat (type Ka-Bar)| 10 gp | 1d6 perforant| &mdash; | Finesse    |
+| &emsp; Machette                     | 25 gp | 1d8 tranchant   | &mdash; | Ammunition |
+| &emsp; Hache de pompier             | 30 gp  | 1d12 tranchant | &mdash; | Ammunition |
+| &emsp; Pelle militaire renforcée    | 10 gp  | 1d10 tranchant | &mdash; | Ammunition |
+| *Armes de guerre à distance*        |       |                 |         |            |
+| &emsp; Carabine de chasse (.308)    | 10 gp | 1d8 perforant   | &mdash; | Munitions (portée 24 m/96 m)    |
+| &emsp; Fusil de précision           | 25 gp | 1d10 perforant  | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Shuriken / étoiles de lancer | 30 gp | 1d4 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Hachette de lancer           | 10 gp | 1d6 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Fusil d’assaut               | 10 gp | 1d12 perforant  | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Fusil à pompe                | 10 gp | 2d6 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Fusil de precision           | 10 gp | 3d4 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Armes}}
+\page
+{{wide
+##### SF
+| Nom                                 | Prix  | Dégât           | Portée  | Properties |
+|:------------------------            |:-----:|:----------------|--------:|:-----------|
+| *Armes courantes de corps à corps*  |       |                 |         |            |
+| &emsp; Bâton télescopique électrifié| 1 sp  | 1d4 contondant  | &mdash; | Light      |
+| &emsp; Couteau à vibration          | 2 gp  | 1d4 perforant   | &mdash; | Finesse    |
+| &emsp; Marteau à impulsion cinétique| 2 gp  | 1d4 contondant  | &mdash; | Thrown     |
+| &emsp; Masse hydraulique            | 2 gp  | 1d6 contondant  | &mdash; | Thrown     |
+| &emsp; Lance énergétique            | 1 gp  | 1d6 énergétique | &mdash; | Thrown     |
+| *Armes courantes à distance*        |       |                 |         |            |
+| &emsp; Pistolet laser compact       | 25 gp | 1d6 perforant   | &mdash; | Munitions (portée 24 m/96 m)    |
+| &emsp; Pistolet à projectiles magnétiques (Gauss)| 25 gp | 1d8 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Pistolet à impulsion EMP     | 1 sp  | 1d4 énergétique | &mdash; | Munitions (portée 24 m/96 m) |
+| *Armes de guerre de corps à corps*  |       |                 |         |            |
+| &emsp; Épée à énergie               | 10 gp | 1d6 perforant   | &mdash; | Finesse    |
+| &emsp; Sabre à vibration            | 25 gp | 1d8 tranchant   | &mdash; | Ammunition |
+| &emsp; Hallebarde plasma            | 30 gp | 1d12 tranchant  | &mdash; | Ammunition |
+| &emsp; Espadon énergétique lourd    | 10 gp | 2d6   tranchant | &mdash; | Ammunition |
+| *Armes de guerre à distance*        |       |                 |         |            |
+| &emsp; Fusil laser de précision     | 10 gp | 1d8 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Fusil railgun                | 25 gp | 1d10 perforant  | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Micro-drones explosifs       | 30 gp | 1d4 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Lance-missile plasma léger   | 10 gp | 3d4 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Fusil à plasma               | 10 gp | 1d12 perforant  | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Canon à impulsion            | 10 gp | 2d6 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+| &emsp; Pistolet à rafale ionique    | 10 gp | 3d4 perforant   | &mdash; | Munitions (portée 24 m/96 m) |
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Armes}}
+\page
+{{partCover}}
+
+# CHAP V
+## Les Armures
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.imgur.com/9TU96xY.jpg){position:absolute,bottom:0,left:0,height:100%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Armures}}
+\page
+# Les Armures
+Les armures utiliser sont des conversion de DnD.
+Les mondes de D&D sont une vaste tapisserie composée de nombreuses cultures différentes, chacune possédant son propre niveau de technologie. Pour cette raison, les aventuriers ont accès à une variété de types d'armures, allant de l'armure de cuir au coûteux harnois en passant par la cotte de mailles et de nombreuses autres armures entre les deux. La table ci-dessous indique les types d'armures les plus couramment utilisés dans le jeu et les classe en trois catégories : armure légère, armure intermédiaire et armure lourde. De nombreux guerriers complètent leur armure avec un bouclier.
+
+**Maîtrise des armures.** Qui que ce soit peut revêtir des pièces d’armure ou se mettre un bouclier au bras. Cependant, seuls ceux qui maîtrisent les armures savent le faire avec efficacité. Votre classe vous accorde la maîtrise de certains types d’armures. Si vous portez une armure sans avoir la maîtrise de celle-ci, vous obtenez un désavantage à tous les jets de caractéristique, de sauvegarde et d'attaque basés sur la Force ou la Dextérité, et vous ne pouvez pas lancer de sorts.
+\column
+**Classe d'armure (CA).** Une armure protège son porteur contre les attaques. L'armure (et le bouclier) que vous portez détermine votre classe d'armure de base.
+
+**Armures lourdes.** Les armures les plus lourdes interfèrent avec la capacité du porteur à se déplacer rapidement, discrètement et librement. Si la table indique « For 13 » ou « For 15 » dans la colonne Force pour une armure donnée, l'armure réduit la vitesse du porteur de 3 mètres, à moins que celui-ci ne possède une valeur de Force égale ou supérieure au nombre indiqué.
+
+**Discrétion.** Si pour une armure donnée la table indique Désavantage dans la colonne Discrétion, le porteur obtient un désavantage aux jets de Dextérité (Discrétion).
+
+## Armure légère :
+Faites de matériaux souples et minces, les armures légères favorisent les aventuriers agiles, car elles leurs offrent une protection sans sacrifier leur mobilité. Si vous portez une armure légère, vous ajoutez votre modificateur de Dextérité à votre CA.
+
+
+{{wide
+##### Armure légère
+| Nom                             | Prix  | CA          | Description  | Notes |
+|:------------------------        |:-----:|:----------------|:--------|:-----------:|
+| *Moderne*                       |       |                 |         |            |
+| &emsp; Veste a capuche          | 1 sp  | 11 + DEX | Protection textile épaisse type veste de motard ou de travail.<hr> Bonne contre coups légers, faible contre balles   | Discrète, légère      |
+| &emsp; Blouson en cuir          | 2 gp  | 11 + DEX    | Blouson de biker avec inserts en kevlar ou plaques fines en plastique   | Populaire dans gangs ou motards    |
+| &emsp; Veste pare-balles légère | 1 gp  | 12 + DEX    | Protection souple, efficace contre armes blanches et certains calibres faibles.   | Facile à cacher sous un manteau    |
+| *SF* |       |                 |         |            |
+| &emsp; Combinaison en nano-fibres             | 5 cp  | 11 + DEX     | Vêtement renforcé de micro-mailles polymères, protège contre chocs légers et éclats | Discrète, souple, passe pour un vêtement civil.    |
+| &emsp; Veste en cuir synthétique         | 25 gp | 11 + DEX    | Textile composite avec inserts en graphène. Bonne contre armes blanches, faible contre énergie.   | Look de contrebandier ou pilote. |
+| &emsp; Combinaison balistique légère            | 1 sp  | 12 + DEX | Kevlar futuriste doublé de nano-couches dispersant l’énergie cinétique. | Protection légère contre armes à projectiles et lasers faibles. |
+}}
+
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Armures}}
+\page
+## Armure intermédiaire :
+Les armures intermédiaires offrent une meilleure protection que les armures légères, mais entravent quelque peu les mouvements. Si vous portez une armure intermédiaire, vous ajoutez votre modificateur de Dextérité, limité à un maximum de +2, à votre CA.
+
+{{wide
+##### Armure intermédiaire
+| Nom                    | Prix  | CA          | Description  | Notes |
+|:------------------------|:-----:|:----------------|:--------|:-----------|
+| *Moderne*  |       |                 |         |            |
+| &emsp; Parka renforcée             | 1 sp  | 12 + DEX | Veste épaisse avec renforts composites (type SWAT léger)   | Offre chaleur + protection.      |
+| &emsp; Gilet pare-balles intermédiaire            | 2 gp  | 13 + DEX    | Protège contre armes de poing puissantes, shrapnel.   | Porté par policiers en intervention    |
+| &emsp; Gilet pare-balles + plaques céramique            | 1 gp  | 14 + DEX    | Protection contre fusils d’assaut standards, plus lourd et encombrant.   | Militaires et unités spéciales.     |
+| *SF* |       |                 |         |            |
+| &emsp; Veste en fibres carbone             | 5 cp  | 12 + DEX     | Se rigidifie à l’impact grâce à des microcapteurs. | Populaire chez mercenaires urbains.    |
+| &emsp; Gilet en maillage de titane         | 25 gp | 13 + DEX    | Micro-mailles métalliques bloquant lames et balles, tout en restant flexibles.   | Porté par forces de sécurité spatiale. |
+| &emsp; Armure de combat légère            | 1 sp  | 14 + DEX | Plaques céramiques futuristes + générateur de champ faible. | Standard des marines de l’espace. |
+}}
+
+## Armure lourde :
+De toutes les armures, les armures lourdes offrent la meilleure protection. Elles couvrent tout le corps et sont conçues pour arrêter une large palette d'attaques. Seuls les guerriers expérimentés peuvent manier correctement leur poids et leur grosseur. Si vous portez une armure lourde, vous ne pouvez pas ajouter votre modificateur de Dextérité à votre CA, mais un éventuel malus ne s'applique pas non plus.
+
+{{wide
+##### Weapons
+| Nom                    | Prix  | CA          | Description  | Notes |
+|:------------------------|:-----:|:----------------|:--------|:-----------|
+| *Moderne*  |       |                 |         |            |
+| &emsp; Combinaison anti-émeute complète             | 1 sp  | 16 | Boucliers, protections articulées pour bras/jambes, casque intégral.   | Excellente contre armes contondantes.      |
+| &emsp; Armure tactique complète            | 2 gp  | 17    | Combinaison blindée utilisée par forces spéciales ou anti-bombe allégée.   | Mobilité réduite    |
+| &emsp; Combinaison EOD lourde + bouclier balistique            | 1 gp  | 18    | Protection extrême, quasi invulnérable aux armes légères.   | Déplacement très lent.     |
+| *SF* |       |                 |         |            |
+| &emsp; Armure exo-squelette d’intervention             | 5 cp  | 16     | Blindage composite + assistance mécanique pour porter le poids. | Idéale contre projectiles lourds et créatures massives.    |
+| &emsp; Armure tactique motorisée         | 25 gp | 17    | Exo-armure intégrale avec blindage en alliage énergétique   | Militaires d’élite et forces spéciales spatiales. |
+| &emsp; Armure de siège à champ énergétique            | 1 sp  | 18 | Exo-armure lourde + bouclier à énergie déflecteur. Protection quasi absolue contre armes légères et plasma. | Extrêmement encombrant. |
+}}
+
+## Mettre et ôter une armure
+
+Le temps nécessaire pour mettre ou ôter une armure dépend de sa catégorie.
+
+**Mettre une armure.** C'est le temps nécessaire pour revêtir une armure. Vous ne bénéficiez de la CA de l'armure qu'à la fin du temps indiqué.
+
+**Ôter une armure.** C'est le temps nécessaire pour quitter une armure tout seul. Si vous êtes aidé, réduisez le temps indiqué de moitié.
+
+##### Character Advancement
+| Catégorie | Mettre | Ôter |
+|:------------------|:-----:|:-----------------:|
+| Armure légère                 | 1 minute     | 1 minute                |
+| Armure intermédiaire               | 5 minute     | 1 minute                |
+| Armure lourde               | 10 minute     | 5 minute                |
+| Bouclier             | 1 minute     | 1 minute                |
+
+
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Armures}}
+
+\page
+{{partCover}}
+
+# CHAP VI
+## Les Sorts
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.imgur.com/9TU96xY.jpg){position:absolute,bottom:0,left:0,height:100%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Sorts}}
+\page
+## Cantrips
+
+#### Poussée mineure
+*cantrips*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 3m
+**Components:**   :: 
+**Duration:**     :: 1min
+
+Déplace un petit objet de 1 kg dans un rayon de 3 m.
+Peut aussi déséquilibrer légèrement une créature (−2 au prochain jet d’attaque). \
+**Niveau supèrieur** :: +1Kg/lv de joueur et +3m/lv de sort
+
+*Psyker*
+
+#### Manipulation télékinétique
+*cantrips*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 9m
+**Components:**   :: S, M (a small doll)
+**Duration:**     :: 1min
+
+Actionner un bouton, ouvrir une porte non verrouillée, ramasser un objet (5Kg et 9m)… comme _Main de mage_.
+**Niveau supèrieur** :: +2Kg/lv de joueur et +5m/lv de sort
+
+*Psyker*
+
+#### Vibration mentale
+*cantrips*
+
+**Casting Time:** :: -
+**Range:**        :: 18m
+**Components:**   :: S, V
+**Duration:**     :: -
+
+Envoie une onde mentale qui inflige 1d6 dégâts psychiques.
+**Niveau supèrieur** :: +6m/lv de sort
+
+*Psyker*
+
+#### Saisie rapide
+*cantrips*
+
+**Casting Time:** :: -
+**Range:**        :: m/t du joueur
+**Components:**   :: M, S (a crushed button worth at least 1cp, a small doll, discarded gum wrapper)
+**Duration:**     :: -
+
+Intercepte ou attire un petit objet vers ta main (comme lancer un grappin invisible) d'une vitesse de 30m/s \
+*(exe: flèche = 70m/s)*
+**Niveau supèrieur** :: +10m/s/lv de joueur
+
+*Psyker*
+
+\column
+#### Éclat gravitationnel
+*cantrips*
+
+**Casting Time:** :: 1 action
+**Range:**        :: m/t du joueur
+**Components:**   :: S
+**Duration:**     :: 1t
+
+Petite poussée qui fait reculer un ennemi de 1,5 m.
+**Niveau supèrieur** :: +0.5m/lv de joueur
+
+*Psyker*
+
+
+
+#### Résistance
+*cantrips*
+
+**Casting Time:** :: -
+**Range:**        :: contact
+**Components:**   :: V, S
+**Duration:**     :: 1min
+Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat du dé à un jet de sauvegarde de son choix. Elle peut lancer le dé avant ou après avoir effectué son jet de sauvegarde. Le sort prend alors fin.
+
+*Psyker*
+
+
+#### Protection contre les armes
+*cantrips*
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: V, S
+**Duration:**     :: 1t
+
+Vous tendez votre main et tracez un symbole de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez la résistance contre les dégâts contondants, tranchants et perforants infligés par des attaques avec arme.
+
+*Psyker*
+
+#### Piqûre mentale
+*cantrips*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 18m
+**Components:**   :: V
+**Duration:**     :: 1t
+
+Vous injectez une pointe d'énergie psychique désorientante dans l'esprit d'une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde d'Intelligence. En cas d'échec, elle subit 1d6 dégâts psychiques et la première fois qu'elle effectuera un jet de sauvegarde avant la fin de votre prochain tour, elle devra lancer un d4 et soustraire le nombre obtenu du résultat de sa sauvegarde.
+Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez les niveaux 5 (2d6), 11 (3d6) et 17 (4d6).
+
+*Psyker*
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Sorts : cantrips}}
+\page
+## Niveau 1
+
+#### **Projection**
+*niveau 1*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 18m
+**Components:**   :: S
+**Duration:**     :: -
+
+Choisissez un objet pesant de 500 g à 2,5 kg à portée et qui n'est ni porté ni transporté. L'objet vole en ligne droite jusqu'à 27 mètres dans une direction que vous choisissez avant de tomber au sol, s'arrêtant plus tôt s'il rencontre une surface solide. Si l'objet va frapper une créature, cette créature doit faire un jet de sauvegarde de Dextérité. En cas d'échec à la sauvegarde, l'objet frappe la cible et arrête sa course. Lorsque l'objet heurte quelque chose, l'objet et ce qu'il frappe subissent chacun 3d8 dégâts contondants. \
+**Aux niveaux supérieur** ::. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le poids maximal de l'objet que vous pouvez cibler avec ce sort augmente de 2,5 kg et les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.
+
+*Psyker*
+
+#### Champ protecteur
+*niveau 1*
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: V, S
+**Duration:**     :: 1t
+
+Génère un bouclier invisible conférant +2 CA jusqu’au prochain tour.
+**Aux niveaux supérieur** ::+1 CA au lv (5;10;15;20) de joueur
+
+*Psyker*
+
+#### Élan télékinétique
+*niveau 1*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: S, V, M
+**Duration:**     :: -
+
+Déplace un allié volontaire de 3 m (sans provoquer d’attaque d’opportunité).
+**Aux niveaux supérieur** :: +1m/lv (2 ;4; 6; 8; 10; 12; 14; 16; 18; 20) de joueur
+
+*Psyker*
+\column
+#### Poigne mentale
+*niveau 1*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 3 * m/t du joueur
+**Components:**   :: M 
+**Duration:**     :: 1min
+
+Maintient un objet ou une créature (taille P) immobile, comme un mini-_immobilisation_.
+**Aux niveaux supérieur** ::Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 (taille M), sort de niveau 6 (G), sort de niveau 8 (taille TG)
+
+*Psyker*
+
+#### Poussée coordonnée
+*niveau 1*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 2 * m/t du joueur 
+**Components:**   :: S
+**Duration:**     :: -
+
+Tu aides un allié en lui donnant avantage sur un test de force/dex.
+
+*Psyker*
+
+
+#### Tir Réfléchi
+*niveau 1*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 6m
+**Components:**   :: M, S 
+**Duration:**     :: Concentration, 1 round
+
+Tu utilises ton pouvoir pour dévier un projectile (balle, flèche, objet lancé).
+Fais un jet de réaction télékinétique (d20 + mod. CHA). Si ton résultat dépasse l’attaque de ton adversaire, tu dévies le projectile.
+
+Sur un succès supérieur de 5 ou plus, tu peux renvoyer la balle vers une cible à 6 m (attaque de sort, 1d8 dégâts de force).
+
+*Psyker*
+
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Les Sorts : niveau 1 }}
+\page
+## Niveau 2
+
+
+
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Les Sorts : niveau 2}}
+
+#### Lancer violent
+*niveau 2*
+
+**Casting Time:** :: -
+**Range:**        :: 30m
+**Components:**   :: V, S, M (a small doll, discarded gum wrapper)
+**Duration:**     :: -
+
+Attrape un objet/ennemi léger et le projette (2d6 dégâts de force + chute). Faite un jet de sauvegarde de sort pour déterminer la hauteur que la cible va atindre.
+###### distance 
+| jet de sauvegarde de sort | Hauteur | Longeur |
+| :------------------------------: | :------------: | :---: |
+| 1                              | 0                | 0     |
+| 2-3                            | 0                | 1     |
+| 4-5                            | 1                | 3     |
+| 6-7                            | 2                | 6     |
+| 8-9                            | 3                | 9     |
+| 10-11                          | 3                | 9     |
+| 12-13                          | 4                | 12    |
+| 14-15                          | 5                | 15    |
+| 16-17                          | 7                | 21    |
+| 18-19                          | 8                | 24    |
+| 20-21                          | 9                | 27    |
+| 20 naturel                     | 9 + modificateur de force          | 27 + modificateur de force|
+###### Dégat de chute
+| Hauteur           | Dégat |
+|:-----------------:|:-----:|
+| 3m-5m             | 2d6   |
+| 6m-9m             | 4d6   |
+| 10m-12m           | 8d6   |
+| 13m-15m           | 16d6  |
+| 16m-18m           | 32d6  |
+| 19m-21m           | 64d6  |
+| 22m+              | 128d6 |
+
+*Psyker*
+
+#### Champ de déviation
+*niveau 2*
+
+**Casting Time:** :: -
+**Range:**        :: 3m
+**Components:**   :: M 
+**Duration:**     :: -
+
+Tu dévies projectiles et attaques à distance, réduisant les dégâts de 2d10.
+
+*Psyker*
+
+\column
+
+#### Lien mental
+*niveau 2*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 36m
+**Components:**   :: S
+**Duration:**     :: 30min
+
+Connecte ton esprit à celui d’un allié pour lui faire parvenir un souvenir ou un entrevue de ce que vous percevait (image et son).
+
+*Psyker*
+
+#### Saisie multiple
+*niveau 2*
+
+**Casting Time:** :: 1 action
+**Range:**        :: m/t du joueur
+**Components:**   :: S, M (a crushed button worth at least 1cp)
+**Duration:**     :: 5min
+
+Tu manipules jusqu’à 2 objets à distance.
+**Aux niveaux supérieur** ::+2 objet/lv de sort
+
+*Psyker*
+
+#### Sur-poids
+*niveau 2*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 12m
+**Components:**   :: M, S
+**Duration:**     :: Concentration, 1 minute
+
+Tu augmentes localement la gravité sur une cible.
+Elle subit un *désavantage aux jets de DEX* et voit sa vitesse réduite de moitié.
+
+À la fin de son tour, elle subit **2d6 dégâts de force** si elle rate un *jet de CON* contre ton DD de sort.
+
+*Psyker*
+
+
+## Niveau 3
+
+#### Étranglement psychique
+*niveau 3*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: S, M 
+**Duration:**     :: 1 round
+
+Maintient un ennemi en l’air, inflige 8d6 dégâts de force et l’empêche de respirer (concentration +1d4/t).
+
+*Psyker*
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Les Sorts : niveau 2 - 3}}
+\page
+#### Onde télékinétique
+*niveau 3*
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: M, S, V 
+**Duration:**     :: 1 round
+
+Repousse toutes les créatures dans un rayon de 6 m et inflige 3d6 dégâts de force + dégât de chut.
+**Aux niveaux supérieur** ::+1m/lv de joueur
+
+*Psyker*
+
+
+#### Armes dansantes
+*niveau 3*
+
+**Casting Time:** :: 1 action
+**Range:**        :: Touch
+**Components:**   :: V, M, S 
+**Duration:**     :: 5t
+
+Tu manipules 2 armes à distance qui attaquent comme si tu les brandissais (arme de corp a corp) 5 tours.
+
+*Psyker*
+
+
+#### Barrière invisible
+*niveau 3*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 18m
+**Components:**   :: V, S, M
+**Duration:**     :: 30min
+
+Vous créez un mur sur le sol, à un point que vous pouvez voir à portée. Vous pouvez créer un mur mesurant jusqu'à 9 mètres de long, 3 mètres de haut et 30 cm d'épaisseur, ou vous pouvez faire un mur circulaire mesurant jusqu'à 6 mètres de diamètre, 6 mètres de haut et 30 cm d'épaisseur. Le mur disparaît quand le sort se termine. L'espace occupé par le mur est un terrain difficile. Toute attaque à distance avec une arme qui entre dans l'espace du mur à un désavantage au jet d'attaque, et tous les dégâts de feu sont réduits de moitié si l'effet de feu traverse le mur pour atteindre son objectif. Les sorts infligeant des dégâts de froid qui traversent la paroi transforment en onde de choque sur la zone du mur impactée (au minimum un carré de 1,50 mètre est gelé). Chaque section gelée de 1,50 mètre de côté a 15 pv et une CA de 5. Réduire les points de vie d'une section gelée à 0 la détruit. Lorsqu'une section est détruite, un troue le remplace.
+
+*Psyker*
+
+#### Ascension forcée
+*niveau 3*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 18m
+**Components:**   :: M (discarded gum wrapper, a small doll)
+**Duration:**     :: 2t
+
+Soulève un ennemi de taille (M ou moins) de 6 m de haut.
+**Aux niveaux supérieur** ::+2m/lv de sort
+
+*Psyker*
+
+## Niveau 4
+
+#### Apesanteur
+*niveau 4*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 18m
+**Components:**   :: M 
+**Duration:**     :: -
+
+Zone de 6 m de rayon sans gravité : les créatures flottent, se déplacent difficilement, les projectiles ralentissent.
+
+| jet de sauvegarde de sort | Durée (t) 
+| :----------------------------: | :--------------: |
+| 1                              | 1                |
+| 2-3                            | 2                |
+| 4-5                            | 2                |
+| 6-7                            | 3                |
+| 8-9                            | 3                |
+| 10-11                          | 4                |
+| 12-13                          | 4                |
+| 14-15                          | 5                |
+| 16-17                          | 5                |
+| 18-19                          | 6                |
+| 20-21                          | 6                |
+
+
+*Psyker*
+
+#### Écrasement
+*niveau 4*
+
+**Casting Time:** :: -
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: M, S, V 
+**Duration:**     :: Concentration, up to 10 minutes
+
+Tu écrases un ennemi avec une force invisible (1d8 dégâts de force, test de CON pour résister) le lanceur peu maintenir le sort pour ajouter +1d6/tour
+
+*Psyker*
+
+
+#### Maîtrise de la gravité
+*niveau 4*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 36m
+**Components:**   :: V, M, S (a small doll)
+**Duration:**     :: 5t
+
+Tu augmentes ou réduis le poids des créatures/objets (ralentit ou accélère) dans un diametre de 6m.
+**Aux niveaux supérieur** ::+1m/lv (11;15;17) de joueur
+
+*Psyker*
+
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Les Sorts : niveau 3 - 4}}
+\page
+#### Bouclier cinétique
+*niveau 4*
+
+**Casting Time:** :: -
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: S, V
+**Duration:**     :: -
+
+Protège un allié contre 20 dégâts par round, le sort peux être maintenue mais vous ne pouvez plus vous déplacez.
+
+*Psyker*
+
+
+#### Champ de force protecteur
+*niveau 4*
+
+**Casting Time:** :: 1 action
+**Range:**        :: Touch
+**Components:**   :: S, M (a small doll, discarded gum wrapper, a crushed button worth at least 1cp)
+**Duration:**     :: 1h
+
+Ce sort transforme la chair d'une créature consentante que vous touchez en un revêtement aussi dur que la pierre. Jusqu'à ce que le sort se termine, la cible obtient la résistante aux dégâts non magiques contondants, perforants et tranchants.
+
+*Psyker*
+
+## Niveau 5
+
+
+#### Tempête psychique
+*niveau 5*
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: V, S, M
+**Duration:**     :: -
+
+Onde massive de force (conne), 8d6 dégâts + repousser 9 m.
+
+*Psyker*
+
+
+#### Domination cinétique
+*niveau 5*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 18m
+**Components:**   :: S, V
+**Duration:**     :: concentration, jusqu'à 1 minute
+
+Vous tentez de subjuguer un humanoïde à portée que vous pouvez voir. Celui-ci doit réussir un jet de sauvegarde de Sagesse ou être charmé pour la durée du sort. Si vous ou des créatures qui vous sont amies le combattez, il bénéficie d'un avantage à son jet de sauvegarde.
+
+Tant que la cible est charmée, vous établissez un contact télépathique avec elle aussi longtemps que vous vous trouvez tous les deux sur le même plan d'existence. Vous pouvez utiliser ce lien télépathique pour donner des ordres à la créature, tant que vous êtes conscient (aucune action n'est requise). La créature fait tout ce qui est en son pouvoir pour obéir. Vous pouvez préciser un type d'action à la fois simple et général, comme « Attaque cette créature », « Cours jusque-là » ou « Rapporte cet objet ». Si la créature exécute la demande et ne reçoit pas d'autres indications de votre part, elle se défend au mieux de sa capacité.
+
+Vous pouvez utiliser une action pour obtenir le contrôle total et précis de la cible. Jusqu'à la fin de votre prochain tour, la créature agit seulement selon vos choix et elle ne peut rien faire sans que vous ne l'autorisiez. Pendant cette période, vous pouvez provoquer une réaction de la part de la créature, mais l'usage de cette réaction sera aussi le vôtre.
+Chaque fois que la cible subit des dégâts, elle tente un nouveau jet de sauvegarde de Sagesse. Si elle réussit, le sort prend fin.
+**Aux niveaux supérieur** ::Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6, la durée du sort sous concentration augmente jusqu'à 10 minutes. Avec un emplacement de sort de niveau 7, la durée du sort sous concentration augmente jusqu'à 1 heure. Avec un emplacement de sort de niveau 8 ou supérieur, la durée du sort sous concentration augmente jusqu'à 8 heures.
+
+*Psyker*
+
+#### Champ gravitationnel
+*niveau 5*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 20m
+**Components:**   :: V, S, M
+**Duration:**     :: -
+
+Zone de 20m où tout est attiré au centre, 8d6 dégâts et fait tombé les victimes les cibles doivent réussir un jet de force pour ne pas être impacter.
+
+*Psyker*
+
+#### Flux de gravité
+*niveau 5*
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: M, S (a small doll)
+**Duration:**     :: 1min
+
+Inverse la gravité dans une zone de 20m de diamètre, le joueur est impacté ou non en fonction de son choix.
+
+*Psyker*
+
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Les Sorts : niveau 4 - 5}}
+\page
+#### Marteau psychokinétique
+*niveau 5*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 15
+**Components:**   :: V, M, S (a small doll)
+**Duration:**     :: -
+
+Tu matérialises une masse d’énergie pure qui frappe un point précis.
+Toutes les créatures dans un rayon de 3 m subissent 6d10 dégâts de force (jet de DEX pour moitié).
+
+Les objets non ancrés sont projetés à 6 m.
+
+*Psyker*
+
+
+
+## Niveau 6
+
+#### Suppression gravitationnelle
+*niveau 6*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 30m
+**Components:**   :: V
+**Duration:**     :: 1min
+
+Les ennemis dans une zone de 12m ne peuvent pas sauter, voler, escalader ou courir.
+
+*Psyker*
+
+
+#### Rupture psychique
+*niveau 6*
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: V, M (discarded gum wrapper, a crushed button worth at least 1cp)
+**Duration:**     :: -
+
+10d6 dégâts de force dans un cône, étourdit les cibles ratant un jet de CON.
+
+*Psyker*
+
+
+
+#### Dispersion
+*niveau 6*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 9m
+**Components:**   :: S, M 
+**Duration:**     :: -
+
+Jusqu'à 5 créatures sont téléportées (JdS de Sag. si non consentantes) dans un rayon de 36 m dans la limite de vision du joueur.
+
+*Psyker*
+
+## Niveau 7
+
+#### Cocon télékinétique
+*niveau 7*
+
+**Casting Time:** :: -
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: V
+**Duration:**     :: 1t
+
+Protège un allié en l’enfermant dans une bulle indestructible 1 round.
+
+*Psyker*
+
+
+## Niveau 8
+
+#### Manipulation atomique
+*niveau 8*
+
+**Casting Time:** :: 2 action
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: V
+**Duration:**     :: Concentration, 1 minute
+
+Tu contrôles la structure d’un objet ou matériau.
+Tu peux ::
+- Déformer ou plier le métal
+- Faire fondre une arme
+- Sceller une porte
+- Créer une ouverture de 1 m dans une paroi solide
+Objet inanimé seulement. Dans la limite du MJ.
+
+*Psyker*
+
+
+
+## Niveau 9
+
+#### Hurlement psychique
+*niveau 9*
+
+**Casting Time:** :: 1 action
+**Range:**        :: 30m
+**Components:**   :: M, V 
+**Duration:**     :: -
+
+Jusqu'à 10 créatures doivent réussir un JdS d'Int. ou subir 14d6 dégâts psychiques.
+
+*Psyker*
+
+
+
+
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Les Sorts : niveau 5 - 9}}
+\page
+{{partCover}}
+
+# CHAP VII
+## Le Transport
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.pinimg.com/736x/58/ba/c9/58bac9bfef5add18ee9f9a8e2136af33.jpg){position:absolute,bottom:-0%,left:0,height:100%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Le Transport}}
+\page
+# Le Transport
+Le transport est un élément important de cette univers vaste qu'il soit d'origine artificiel (véhicule, générateur de faille, porte passe par tout etc) ou naturel (point de distorsion non euclidien). 
+Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi entre plusieurs monde. 
+### Transport locale :
+- **Voiture :** 50 km/h; 1 000 po; 4 passages; carburant 
+	- Véhicule de taille moyen de plusieurs couleur, ce dissimule dans dans les pans moderne
+- **Moto :** 70 km/h; 500 po; 2 passages; carburant
+	- Véhicule de taille petit de plusieurs couleur, ce dissimule dans dans les pans moderne
+- **Camion/bus :** 50 km/h; 2 000 po; 6 passages; carburant
+	- Véhicule de taille grand de plusieurs couleur, ce dissimule dans dans les pans moderne
+- **Navette :** 300 km/h; 8 000 po; 6 passages; carburant ou batterie atomique
+	- Véhicule de taille moyen de plusieurs couleur, ce dissimule dans dans les pans SF
+- **avion :** 150 km/h; 5 000 po; 4 passages; carburant
+	- Véhicule de taille grand de plusieurs couleur, ce dissimule dans dans les pans moderne
+- **bateau** : 80 km/h; 700 po; 3 passages; carburant ou vent
+	- Véhicule de taille grand, ce dissimule dans dans les pans moderne ou ancien en fonction du model.
+- **M.T.L.D.** *(Module de Transport Longue Distance)* **:** ? km/h; 25 000 po; 5 passages; 7 jours de recharges; 1h de charge; batterie atomique 
+	- Module de transport casi instantané mais avec un temps de recharge et de charge a l'activation, permet de transporter des véhicule de taille moyen.
+\column
+### Transport externe artificielle
+- **Générateur de faille :** 2 000 po; 7 jours de recharges; **+16D INT** pour activation; carburant
+	- Petite machine où l'on doit tirer une corde comme sur un groupe électrogène a fin de l'activer. Une fois activer fait une vibration sur sa partie supérieur forment une faille, celle ci ce ferme dans les 5 minutes suivant son ouverture. Si **10D<D<16D** alors envoi a un endroit aléatoire. 
+- **Porte passe par tout :** 10 000 po
+	- Une porte qui s'ouvre vers un endroit voulue par son créateur, celui ci ne peux pas être changer.
+- **M.T.E.P.** *(Module de Transport Extra Plan)* **:** 25 000 po; 5 passages; 7 jours de recharges; 1h de charge; batterie atomique 
+	- Module de transport casi instantané mais avec un temps de recharge et de charge a l'activation, permet de transporter des véhicule de taille moyen.
+
+### Transport externe naturel 
+- **Faille :** 
+	- Une faille dans l'espace qui ne se ferme pas de manière naturelle, sa croissance peux évoluer, sois en ce contractant, sois en s'décontractent. Si celle ci a un diamètre de 5 m alors elle ne peux que s'agrandir et ce nome une **brèche**.  
+- **Point de distorsion non euclidien** 
+	- Un arbre, un menhir, un rocher ... 
+	- Si une personne s'approche a moins de 5m alors elle est dit dans son champs d'action. Une fois dans le champ d'action l'objet a avoir un diamètre fini mais un périmètre infini, lorsque la personne fera le tour elle ne pourra jamais retombé sur ses pas a moins de tourné dans le sans inverse. En fessent le tour elle se déplace sans sen rendre compte et le paysage change progressivement autour d'elle. Les druides ont un fort lien avec eux et des légende raconte que certain arrive a les contrôler.
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Le Transport}}
+\page
+{{partCover}}
+
+# CHAP IX
+## Les Plans
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.pinimg.com/1200x/12/03/97/1203974472a5094e49d92355ac5d4b67.jpg){position:absolute,bottom:-42%,left:0,height:142%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Plans}}
+\page
+# Les plans de la réalité
+Les plans de la réalité sont des zones qui ne sont relier que par des fréquences mais rien de physique (pas de frontière).
+Les habitants des plan ne sont pas tous accourant de l'existence de d'autre plan il est donc interdit par [le traité de confidentialité et de protection des populations](traite.md) de transmettre des information sur l'existence des plan sans autorisation d'une entité supérieur locale (gouvernement) au faction (des faction qui dirige plusieurs plans).
+
+Il existe plusieurs théorie pour représenter les plans entre eux. L'une d'entre elle est la théorie de la boite, il existe aussi la théorie de la bibliothèque, mais la carte la plus utiliser par les navigateur est celle des ondes commune.
+
+## traité de confidentialité et de protection des populations
+Ce traité met en accord les factions sur la confidentialité au populations et leurs implications dans des conflits.
+
+### 1. Confidentialité
+1. Il est **interdit** de divulgué des informations sur l'**existence** des plans au populations des don leurs gouvernement n'en non pas fait l'objet au paravent sauf dans un cas de **recrutement**.
+2. Si une personne est **suspecté** d'avoir **divulgué** ces dite information, l'organisation don il **appartiens** est responsable de ses actes et doit ce charger de **supprimer** ces informations.
+3.  Si une personne est **suspecté** d'avoir divulgué ces dite information, si cette personne n'appartiens a **aucune** faction, alors ces la faction **locale** qui est responsable de ses actes et doit ce charger de **supprimer** ces informations.
+4. En cas de **force majeur**, la faction **locale** et le **gouvernement** doivent **informé** les populations sur l'existence des plans. L'article **1.2** et **1.3** n'est donc **plus** valable dans cette situation. L'objectif est d'informer a des fin de limité la panique.
+
+### 2. Sécurité
+1. Si une **brèche** vient a s'ouvrir les **factions** et les **gouvernements** affecter par cette brèche doivent **tout** mettre en œuvrent pour la **fermer** au plus **vite**. 
+2. Si une **brèche** n'a pas pus être fermer alors l'article **1.4** doit être mis en œuvre et une procédure de **relocalisation** doit être mis en œuvre.
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Plans}}
+\page
+{{partCover}}
+
+# CHAP X
+## Les Monstres
+
+{{imageMaskEdge5,--offset:10cm,--rotation:180
+  ![Background image](https://i.pinimg.com/736x/8d/c1/bf/8dc1bff323e51c2330c63772364e53bf.jpg){position:absolute,bottom:-0%,left:0,height:110%}
+}}
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les Monstres}}
+\page
+
+
+
+\page
+{{backCover}}
+
+# Nihil
+
+Join a band of brave adventurers and set out to explore the unknown lands beyond the horizon. Along the way, you’ll face perilous challenges, make new friends and enemies, and uncover a plot that threatens to destroy everything you hold dear. The fate of the world rests in your hands.
+:
+Enter a world of wonder and danger, where you can find allies and enemies among the various races and factions that inhabit it. You can choose to join or oppose any of them, or forge your own path. The game world is alive and responsive to your actions.
+:
+Dive into a world of epic fantasy and adventure, where you can explore ancient civilizations, dark dungeons, and hidden secrets. Along the way, you’ll meet colorful characters, collect powerful items, and learn new skills. The more you play, the more you’ll discover.
+___
+
+For use with any fantasy roleplaying ruleset. Play the best game of your life!
+
+![background image](https://i.imgur.com/MJ4YHu7.jpg){position:absolute,bottom:0,left:0,height:100%}
+
+{{logo
+![](/assets/naturalCritLogoWhite.svg)
+
+Homebrewery.Naturalcrit.com
+}}
+

@@ -29,12 +29,12 @@ Utiliser une arme que vous maîtrisez permet d'ajouter votre bonus de maîtrise 
 | Lance énergétique             | 1d6 perforant  | 1 po     |                |
 ## _**Armes courantes à distance**_
 
-| Arme              | **Dégât**      | **Prix** | **Propriétés**  |
-| ----------------- | -------------- | -------- | --------------- |
-| Pistolet 9mm      | 1d6 perforant  | 25 po    | 12/96 m         |
-| Pistolet .45 ACP  | 1d8 perforant  | 25 po    | 12/96 m         |
-| Pistolet taser    | 1d4 contondant | 1 pa     | portée 9 m/36 m |
-| Couteau de lancer | 1d6 perforant  | 5 pc     | portée 6 m/18 m |
+| Arme              | **Dégât**       | **Prix** | **Propriétés**  |
+| ----------------- | --------------- | -------- | --------------- |
+| Pistolet 9mm      | 1d6 perforant   | 25 po    | 12/96 m         |
+| Pistolet .45 ACP  | 1d8 perforant   | 25 po    | 12/96 m         |
+| Pistolet taser    | 1d4 énergétique | 1 pa     | portée 9 m/36 m |
+| Couteau de lancer | 1d6 perforant   | 5 pc     | portée 6 m/18 m |
 
 | Arme                                       | **Dégât**      | **Prix** | **Propriétés**  |
 | ------------------------------------------ | -------------- | -------- | --------------- |

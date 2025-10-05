@@ -1,3 +1,4 @@
+Plongez dans l'infinité des plans, où chaque monde est différant dans une histoire mélangeant fantaisie, moderne et science-fiction. 
 ## Objectif :
 Ce git a pour but de canaliser l'ensembles des règles, histoires et ressources au même en droit.
 

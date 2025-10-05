@@ -6,7 +6,7 @@ Des modification seront apporter.
 - POUR LES JOUEURS:
 	- Personnage
 		- [Création de personnage](personnage/creation_de_personnages.md)
-		- [Historique](personnagehistorique.md)
+		- [Historique](personnage/historique.md)
 		- [Classe](personnage/classe.md)
 			- [Liste des classes (pas finit)](personnage/liste_classe.md)
 		- [Modules](personnage/Modules.md)
@@ -20,7 +20,7 @@ Des modification seront apporter.
 - POUR LE MJ
 	- [Les monstres](monstre/monstre.md)
 		- [La liste des monstres](monstre/liste_des_monstres.md)
-		- [Les familiers](monstre/familier.md) 
+		- [Les familiers](monstre/familier.md)
 	- Monde 
 		- [Le transport](transport.md)
 		- [Les plans de la réalité](plan_realite.md)
