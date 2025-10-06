@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "règles/monstre/liste_des_monstres.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "liste_des_monstres"
+              "title": "README"
             }
           }
         ],
@@ -200,6 +200,7 @@
   "active": "b82b9e5e3b05ec02",
   "lastOpenFiles": [
     "Liste_fichier.base",
+    "book.md",
     "règles/monstre/liste_des_monstres.md",
     "règles/monstre/familier.md",
     "règles/monstre/monstre.md",
@@ -217,7 +218,6 @@
     "règles/personnage/historique.md",
     "règles/personnage/creation_de_personnages.md",
     "README.md",
-    "book.md",
     "règles/personnage/liste_classe.md",
     "règles/personnage/Liste des classes/Ingénieur.md",
     "règles/personnage/Liste des classes",

@@ -51,7 +51,7 @@ ___
 ___
 
 {{imageMaskCenter4,--offsetX:0%,--offsetY:0%,--rotation:0
-  ![background image](https://i.pinimg.com/1200x/fe/19/85/fe1985876a314d34f97817ed99b912fb.jpg){position:absolute,bottom:-10%,left:0,height:100%}
+  ![background image](https://i.pinimg.com/1200x/fe/19/85/fe1985876a314d34f97817ed99b912fb.jpg){position:absolute,bottom:-10%,left:0,height:105%}
 }}
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
@@ -396,7 +396,7 @@ Toute histoire a un début. L'historique de votre personnage révèle d'où vous
 ## Les races
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
-  ![Background image](https://i.pinimg.com/1200x/8a/a3/fe/8aa3fe40dceb8d8c2c833bf9a2da2524.jpg){position:absolute,bottom:-20%,left:0,height:130%}
+  ![Background image](https://i.pinimg.com/1200x/8a/a3/fe/8aa3fe40dceb8d8c2c833bf9a2da2524.jpg){position:absolute,bottom:-20%,left:0,height:131%}
 }}
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Les races}}
@@ -470,7 +470,7 @@ Quelques races sont subdivisées en sous-races. Un personnage d'une sous-race po
 ## Les Classes
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
-  ![Background image](https://i.pinimg.com/1200x/32/fa/44/32fa4473969268e59a34a6aa1440c8ca.jpg){position:absolute,bottom:0,left:0,height:100%}
+  ![Background image](https://i.pinimg.com/1200x/32/fa/44/32fa4473969268e59a34a6aa1440c8ca.jpg){position:absolute,bottom:0,left:0,height:102%}
 }}
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Les Classes}}
@@ -2030,8 +2030,11 @@ Si une créature peut faire quelque chose de spécial avec sa réaction, la sect
 {{wide 
 ## Construct
 }}
- 
 
+artist,bottom:160px,left:100px 
+
+
+\page
 {{monster,frame,wide
 ## Drone d’Assistance Tactique
 *Petit Construct, Loyal*
@@ -2079,6 +2082,12 @@ When in visual contact with this creature, you must purchase an extra order of f
     
 **Niveau 17** :: Accès à IA tactique → agit même si tu es inconscient.
 }}
+
+{{imageMaskCenter1,--offsetX:30%,--offsetY:-10%,--rotation:0,height:70%,width:50%
+
+![Drone](https://i.pinimg.com/736x/19/17/c6/1917c6c26f28e2087933e53560cfa7fe.jpg) {width:90%,mix-blend-mode:multiply,height:70%,left:30%}
+}}
+
 \page
 
 {{monster,frame
