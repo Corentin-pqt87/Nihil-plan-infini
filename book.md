@@ -2117,7 +2117,7 @@ ___
 ___
 ***Repli aérien.*** Le drone ne provoque pas d'attaques d'opportunité lorsqu'elle quitte l'allonge d'un ennemi en volant.
 :
-***Ouïe et vue aiguisées.*** Le drone a un avantage aux jets de Sagesse (Perception) faisant appel à l'ouïe ou à la vue..
+***Ouïe et vue aiguisées.*** Le drone a un avantage aux jets de Sagesse (Perception) faisant appel à l'ouïe ou à la vue.
 
 ### Actions
 ***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
@@ -2133,30 +2133,31 @@ ___
 **Points de vie**  :: 27 (5d8 + 5)
 **Vitesse**       :: 9 m
 ___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|9 (+0)|8 (-1)|14 (+2)|7 (-1)|5 (-2)|6 (-2)|
+|15 (+2)|14 (+2)|13 (+1)|8 (-1) |11 (+0)|9 (-1) |
 ___
-**Condition Immunities** :: None
-**Senses**               :: darkvision 60 ft., passive Perception 7
-**Languages**            :: Jive
-**Challenge**            :: 2 (9030 XP) {{bonus **Proficiency Bonus** +3}}
+**Compétences** :: Discrétion +6, Survie +2
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Vulnérabilité** :: dégâts énergétique
+**Sens**               :: vision dans le noir 18 m, Perception passive 10, Vision à 360°
+**Langues**            :: Onde, commain si branché
+**Puissance**            :: 1 (200 PX)
 ___
-***Pack Tactics.*** These guys work together like peanut butter and jelly.
+***Ouïe et vue aiguisées.*** Le drone a un avantage aux jets de Sagesse (Perception) faisant appel à l'ouïe ou à la vue.
 :
-***Fowl Appearance.*** While the creature remains motionless, it is indistinguishable from a normal chicken.
+***Attaque surprise.*** Si un Robot de patrouille surprend une créature et touche avec une attaque lors du premier round de combat, la cible subit 7 (2d6) dégâts supplémentaires pour cette attaque.
 :
-***Big Jerk.*** Whenever this creature makes an attack, it starts telling you how much cooler it is than you.
-:
-***Enormous Nose.*** This creature gains advantage on any check involving putting things in its nose.
-:
-***Hangriness.*** This creature is angry, and hungry. It will refuse to do anything with you until its hunger is satisfied.
+***Brutal.*** Une arme de corps à corps inflige un dé de dégâts supplémentaires lorsque le Robot de patrouille réussit son attaque (inclus dans l'attaque ci-dessous).
 
-When in visual contact with this creature, you must purchase an extra order of fries, even if they say they aren't hungry.
 ### Actions
-***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+***Morgenstern.*** Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d8 + 2) dégâts perforants. 
 :
-***Somersault Stump Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+***Taser monté.*** Distance 6 m, 1d6 foudre + paralysie (DD 12 CON ou Incapacité 1 tour).
+### Capacités spéciales
+***Mode alarme***déclenche sirènes et renforts.
+:
+
 }}
 
 {{imageMaskCenter11,--offsetX:5%,--offsetY:-10%,--rotation:0,height:80%,width:50%
@@ -2166,6 +2167,37 @@ When in visual contact with this creature, you must purchase an extra order of f
 
 
 \page
+
+{{monster,frame
+## Drone d’assaut
+*Construct de taille M, Loyal mauvais*
+___
+**Classe d'armure** :: 13
+**Points de vie**  :: 67 (9d8 + 27)
+**Vitesse**       :: 9 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)|
+___
+**Compétences** :: Discrétion +6, Survie +2
+**Résistance** :: projectiles
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Vulnérabilité** :: dégâts énergétique
+**Sens**               :: Perception passive 10, Détection de chaleur 15m
+**Langues**            :: Onde, commain si branché
+**Puissance**            :: 2 (450 PX)
+___
+***Téméraire.*** Au début de son tour, un Drone d’assaut peut obtenir un avantage à tous les jets d'attaque au corps à corps avec une arme pendant ce tour, mais les attaques contre lui ont un avantage jusqu'au début de son prochain tour.
+
+### Actions
+***Hache à deux mains.*** Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d12 + 3) dégâts tranchants.
+:
+***Mitrailleuse.*** +5, portée 30/90 m, 2d8 perforants.
+:
+***Mini-roquette.*** portée 18 m, zone 3 m, 2d6 feu.
+
+}}
 
 
 
