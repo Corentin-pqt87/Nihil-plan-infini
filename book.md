@@ -1,3 +1,4 @@
+<!-- Nihil : DnD+. -->
 {{frontCover}}
 
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
@@ -33,6 +34,7 @@ ___
 
 \page
 # Table des matières
+
 
 
 
@@ -2023,18 +2025,20 @@ Si une créature peut faire quelque chose de spécial avec sa réaction, la sect
 ## A -
 
 ## B -
-
+\page
 ## C -
+{{wide 
+## Construct
+}}
  
-## D -
 
 {{monster,frame,wide
 ## Drone d’Assistance Tactique
 *Petit Construct, Loyal*
 ___
-**Armor Class** :: 15 (armature composite)
-**Hit Points**  :: 2 × niveau d’Ingénieur + mod. INT du joueur
-**Speed**       :: 9 m (ou 6 m et vol 9 m si module de propulsion installé).
+**Classe d'armure** :: 15 (armature composite)
+**Points de vie**  :: 2 × niveau d’Ingénieur + mod. INT du joueur
+**Vitesse**       :: 9 m (ou 6 m et vol 9 m si module de propulsion installé).
 ___
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2043,6 +2047,7 @@ ___
 **Jets de sauvegarde** :: DEX +2, CON +2
 **Résistances** :: dégâts contondants, perforants et tranchants non magiques
 **Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Vulnérabilité** :: dégâts énergétique
 **Sens**               :: vision dans le noir 18 m, perception passive 11  
 **Langues**            :: comprend celles de son créateur mais ne peut parler 
 **Maître technologique**    :: Le drone ajoute ton bonus de maîtrise à ses jets d’attaque, de sauvegarde et de compétences.
@@ -2074,7 +2079,70 @@ When in visual contact with this creature, you must purchase an extra order of f
     
 **Niveau 17** :: Accès à IA tactique → agit même si tu es inconscient.
 }}
+\page
 
+{{monster,frame
+## Drone de reconnaissance
+*Petit Construct, neutre*
+___
+**Classe d'armure** :: 12
+**Points de vie**  :: 19 (3d10 +3)
+**Vitesse**       :: 1,50 m, vol 18 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|13 (+1)|15 (+2)|12 (+1)|8 (-1) |13 (+1)|10 (+0)|
+___
+**Compétences** :: Discrétion +4, Perception +5
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Vulnérabilité** :: dégâts énergétique
+**Sens**        :: vision dans le noir 36 m, Perception passive 15
+**Langues**     :: Onde, commain si branché
+**Puissance**   :: 1/4 (50 PX)
+___
+***Repli aérien.*** Le drone ne provoque pas d'attaques d'opportunité lorsqu'elle quitte l'allonge d'un ennemi en volant.
+:
+***Ouïe et vue aiguisées.*** Le drone a un avantage aux jets de Sagesse (Perception) faisant appel à l'ouïe ou à la vue..
+
+### Actions
+***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+:
+***Somersault Stump Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+}}
+
+{{monster,frame
+## Robot de patrouille
+*Construct de taille M, Loyal mauvais*
+___
+**Classe d'armure** :: 16
+**Points de vie**  :: 27 (5d8 + 5)
+**Vitesse**       :: 9 m
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|9 (+0)|8 (-1)|14 (+2)|7 (-1)|5 (-2)|6 (-2)|
+___
+**Condition Immunities** :: None
+**Senses**               :: darkvision 60 ft., passive Perception 7
+**Languages**            :: Jive
+**Challenge**            :: 2 (9030 XP) {{bonus **Proficiency Bonus** +3}}
+___
+***Pack Tactics.*** These guys work together like peanut butter and jelly.
+:
+***Fowl Appearance.*** While the creature remains motionless, it is indistinguishable from a normal chicken.
+:
+***Big Jerk.*** Whenever this creature makes an attack, it starts telling you how much cooler it is than you.
+:
+***Enormous Nose.*** This creature gains advantage on any check involving putting things in its nose.
+:
+***Hangriness.*** This creature is angry, and hungry. It will refuse to do anything with you until its hunger is satisfied.
+
+When in visual contact with this creature, you must purchase an extra order of fries, even if they say they aren't hungry.
+### Actions
+***Elbow Hold.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+:
+***Somersault Stump Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+}}
 
 
 

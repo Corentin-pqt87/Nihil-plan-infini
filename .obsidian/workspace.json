@@ -19,8 +19,23 @@
               "icon": "lucide-table",
               "title": "Liste_fichier"
             }
+          },
+          {
+            "id": "b82b9e5e3b05ec02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "règles/monstre/liste_des_monstres.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "liste_des_monstres"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +197,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7c24ae7ddc541cb8",
+  "active": "b82b9e5e3b05ec02",
   "lastOpenFiles": [
+    "Liste_fichier.base",
     "règles/monstre/liste_des_monstres.md",
     "règles/monstre/familier.md",
     "règles/monstre/monstre.md",
@@ -194,7 +210,6 @@
     "règles/personnage/Liste des classes/Psyker (Sous classe ensorceleur).md",
     "règles/item/armures.md",
     "règles/item/armes.md",
-    "Liste_fichier.base",
     "règles/index.md",
     "règles/personnage/classe.md",
     "règles/personnage/liste_races.md",
