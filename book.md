@@ -2126,6 +2126,44 @@ ___
 }}
 
 {{monster,frame
+## Drone d’assaut
+*Construct de taille M, Loyal mauvais*
+___
+**Classe d'armure** :: 13
+**Points de vie**  :: 67 (9d8 + 27)
+**Vitesse**       :: 9 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)|
+___
+**Compétences** :: Discrétion +6, Survie +2
+**Résistance** :: projectiles
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Vulnérabilité** :: dégâts énergétique
+**Sens**               :: Perception passive 10, Détection de chaleur 15m
+**Langues**            :: Onde, commain si branché
+**Puissance**            :: 2 (450 PX)
+___
+***Téméraire.*** Au début de son tour, un Drone d’assaut peut obtenir un avantage à tous les jets d'attaque au corps à corps avec une arme pendant ce tour, mais les attaques contre lui ont un avantage jusqu'au début de son prochain tour.
+
+### Actions
+***Hache à deux mains.*** Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d12 + 3) dégâts tranchants.
+:
+***Mitrailleuse.*** +5, portée 30/90 m, 2d8 perforants.
+:
+***Mini-roquette.*** portée 18 m, zone 3 m, 2d6 feu.
+
+}}
+
+
+
+
+
+
+\page
+
+{{monster,frame
 ## Robot de patrouille
 *Construct de taille M, Loyal mauvais*
 ___
@@ -2160,46 +2198,10 @@ ___
 
 }}
 
-{{imageMaskCenter11,--offsetX:5%,--offsetY:-10%,--rotation:0,height:80%,width:50%
+{{imageMaskCenter11,--offsetX:50%,--offsetY:25%,--rotation:0,height:80%,width:50%
 
-![Drone](https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:15%,bottom:-10%}
+![Drone](https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:55%,bottom:25%}
 }}
-
-
-\page
-
-{{monster,frame
-## Drone d’assaut
-*Construct de taille M, Loyal mauvais*
-___
-**Classe d'armure** :: 13
-**Points de vie**  :: 67 (9d8 + 27)
-**Vitesse**       :: 9 m
-___
-|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|12 (+1)|17 (+3)|9 (-1)|11 (+0)|9 (-1)|
-___
-**Compétences** :: Discrétion +6, Survie +2
-**Résistance** :: projectiles
-**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
-**Vulnérabilité** :: dégâts énergétique
-**Sens**               :: Perception passive 10, Détection de chaleur 15m
-**Langues**            :: Onde, commain si branché
-**Puissance**            :: 2 (450 PX)
-___
-***Téméraire.*** Au début de son tour, un Drone d’assaut peut obtenir un avantage à tous les jets d'attaque au corps à corps avec une arme pendant ce tour, mais les attaques contre lui ont un avantage jusqu'au début de son prochain tour.
-
-### Actions
-***Hache à deux mains.*** Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 9 (1d12 + 3) dégâts tranchants.
-:
-***Mitrailleuse.*** +5, portée 30/90 m, 2d8 perforants.
-:
-***Mini-roquette.*** portée 18 m, zone 3 m, 2d6 feu.
-
-}}
-
-
 
 \page
 {{backCover}}
