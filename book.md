@@ -31,6 +31,7 @@ ___
 
 **Drone** :: https://i.pinimg.com/736x/19/17/c6/1917c6c26f28e2087933e53560cfa7fe.jpg par 
 Phil Warwick
+**Drone 2** :: https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg par Francisco Luis Bravo Piluso
 
 **Ecriture :** :: PAQUET Corentin
 
@@ -2109,7 +2110,7 @@ ___
 |13 (+1)|15 (+2)|12 (+1)|8 (-1) |13 (+1)|10 (+0)|
 ___
 **Compétences** :: Discrétion +4, Perception +5
-**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil, effrayé 
 **Vulnérabilité** :: dégâts énergétique
 **Sens**        :: vision dans le noir 36 m, Perception passive 15
 **Langues**     :: Onde, commain si branché
@@ -2139,7 +2140,7 @@ ___
 ___
 **Compétences** :: Discrétion +6, Survie +2
 **Résistance** :: projectiles
-**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil, effrayé
 **Vulnérabilité** :: dégâts énergétique
 **Sens**               :: Perception passive 10, Détection de chaleur 15m
 **Langues**            :: Onde, commain si branché
@@ -2176,7 +2177,7 @@ ___
 |15 (+2)|14 (+2)|13 (+1)|8 (-1) |11 (+0)|9 (-1) |
 ___
 **Compétences** :: Discrétion +6, Survie +2
-**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil 
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil, effrayé 
 **Vulnérabilité** :: dégâts énergétique
 **Sens**               :: vision dans le noir 18 m, Perception passive 10, Vision à 360°
 **Langues**            :: Onde, commain si branché
@@ -2201,6 +2202,43 @@ ___
 {{imageMaskCenter11,--offsetX:50%,--offsetY:25%,--rotation:0,height:80%,width:50%
 
 ![Drone](https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:55%,bottom:25%}
+}}
+\page
+
+{{monster
+## Sentinelle de sécurité
+*Construct de taille M, Loyal mauvais*
+___
+**Classe d'armure** :: 18
+**Points de vie**  :: 52 (8d8 + 16)
+**Vitesse**       :: 9 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|11 (+0)|14 (+2)|11 (+0)|11 (+0)|15 (+2)|
+___
+**Jets de sauvegarde** :: Con +4, Sag +2
+**Résistance** :: projectiles
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil, effrayé
+**Vulnérabilité** :: dégâts énergétique
+**Sens**               :: Perception passive 10, Détection de chaleur 15m
+**Langues**            :: Onde, commain si branché
+**Puissance**            :: 3 (700 PX)
+___
+
+### Actions
+***Attaques multiples.*** La Sentinelle de sécurité effectue deux attaques au corps à corps. 
+:
+***Bras hydraulique.*** +6, 2d8 contondant, peut saisir la cible 
+:
+***Canon électrique.*** +6, portée 12 m, 2d10 foudre, étourdit \
+(DD 14 Con). 
+ 
+}}
+
+{{imageMaskCenter13,--offsetX:20%,--offsetY:-10%,--rotation:0,height:130%,width:100%
+
+![Drone](https://i.pinimg.com/1200x/28/40/ba/2840ba0366b6396e76c4def5215ed27a.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:29%,bottom:-10%}
 }}
 
 \page
