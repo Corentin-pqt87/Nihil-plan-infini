@@ -32,6 +32,7 @@ ___
 **Drone** :: https://i.pinimg.com/736x/19/17/c6/1917c6c26f28e2087933e53560cfa7fe.jpg par 
 Phil Warwick
 **Drone 2** :: https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg par Francisco Luis Bravo Piluso
+**Drone 3** :: https://i.pinimg.com/1200x/28/40/ba/2840ba0366b6396e76c4def5215ed27a.jpg par Doosan’s Dashboard
 
 **Ecriture :** :: PAQUET Corentin
 
@@ -2164,7 +2165,7 @@ ___
 
 \page
 
-{{monster,frame
+{{monster
 ## Robot de patrouille
 *Construct de taille M, Loyal mauvais*
 ___
@@ -2192,16 +2193,17 @@ ___
 ### Actions
 ***Morgenstern.*** Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 11 (2d8 + 2) dégâts perforants. 
 :
-***Taser monté.*** Distance 6 m, 1d6 foudre + paralysie (DD 12 CON ou Incapacité 1 tour).
+***Taser monté.*** Distance 6 m, 1d6 foudre + paralysie \
+(DD 12 CON ou Incapacité 1 tour).
 ### Capacités spéciales
 ***Mode alarme***déclenche sirènes et renforts.
 :
 
 }}
 
-{{imageMaskCenter11,--offsetX:50%,--offsetY:25%,--rotation:0,height:80%,width:50%
+{{imageMaskCenter13,--offsetX:30%,--offsetY:-10%,--rotation:0,height:120%,width:80%
 
-![Drone](https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:55%,bottom:25%}
+![Drone](https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg) {width:82%,mix-blend-mode:multiply,height:70%,left:39%,bottom:-2%}
 }}
 \page
 
@@ -2240,6 +2242,41 @@ ___
 
 ![Drone](https://i.pinimg.com/1200x/28/40/ba/2840ba0366b6396e76c4def5215ed27a.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:29%,bottom:-10%}
 }}
+\page
+{{monster
+## Unité de combat lourd "Titan"
+*Construct de taille G, Loyal mauvais*
+___
+**Classe d'armure** :: 17 (armure naturelle)
+**Points de vie**  :: 126 (12d10 + 60)
+**Vitesse**       :: 9 m.
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|19 (+5)|11 (+0)|21 (+5)|2 (-4)|10 (+0)|5 (-3)|
+___
+**Sens**               :: Sens vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 16
+**Résistance** :: projectiles
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil, effrayé
+**Vulnérabilité** :: dégâts énergétique
+**Languages**            :: Onde, commain si branché
+**Challenge**            :: 6 (2300 PX)
+___
+***Saut sans élan.*** Le Titan peut sauter en longueur jusqu'à 9 mètres ou en hauteur jusqu'à 4,50 mètres, avec ou sans élan.
+:
+***Monstre de siège.*** Le Titan inflige le double des dégâts aux objets et structures qu'il attaque.
+:
+***Champ d’énergie*** +2 CA contre attaques à distance tant que le Titan a un nombre de point de vie supèrieur à 90.
+### Actions
+***Attaques multiples.*** L'élémentaire effectue deux attaques de coup.
+:
+***Saut implacable.*** Si le Titan parcourt au moins 4,50 mètres en sautant lors de son mouvement, il peut utiliser son action pour atterrir sur un espace où se trouvent une ou plusieurs créatures. Chaque créature doit alors réussir un jet de sauvegarde de Force ou de Dextérité DD 16 (au choix de la cible) ou tomber à terre et subir 14 (3d6 + 4) dégâts contondants + 14 (3d6 + 4) dégâts tranchants. Si le jet de sauvegarde est réussi, la créature subit la moitié des dégâts, n'est pas projetée au sol, et est poussée de 1,50 mètre hors de l'espace de le Titan (vers un espace inoccupé choisi par la créature). S'il n'y a pas d'espace libre à portée, la créature se retrouve à terre dans l'espace du Titan. 
+:
+***Canon à plasma.*** +8, portée 27 m, 4d8 feu/radiant.
+:
+***Missiles.*** portée 45 m, zone 6 m, 4d6 force.
+}}
+
 
 \page
 {{backCover}}
