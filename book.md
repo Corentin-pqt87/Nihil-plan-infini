@@ -17,6 +17,7 @@ ___
 {{skipCounting}}
 \page
 #### {{font-family:CodeBold Crédit}}
+## Image de chapitre
 **Image de couverture :** :: https://pin.it/5VYpYSI9A par Czepeku
 **Image d'ouverture :** :: https://i.pinimg.com/1200x/fe/19/85/fe1985876a314d34f97817ed99b912fb.jpg par Drawing References 
 **Image du chapitre personnage** :: https://i.pinimg.com/736x/89/eb/9d/89eb9d4c731665e43a9b2f57d1de90a1.jpg par mario avila
@@ -26,6 +27,11 @@ ___
 **Image du chapitre transport** :: https://i.pinimg.com/736x/58/ba/c9/58bac9bfef5add18ee9f9a8e2136af33.jpg par Igor Moskalenko
 **Image du chapitre monstre** :: https://i.pinimg.com/736x/c8/50/47/c85047c56b3d84be37fd3d6cf1fbee65.jpg par Dark Majesty
 **Image du chapitre sort** :: https://i.pinimg.com/1200x/0e/75/f6/0e75f630676f5113a0ef5216dbd98ac3.jpg par Javier Charro
+## Image de monstre
+
+**Drone** :: https://i.pinimg.com/736x/19/17/c6/1917c6c26f28e2087933e53560cfa7fe.jpg par 
+Phil Warwick
+
 **Ecriture :** :: PAQUET Corentin
 
 
@@ -2153,7 +2159,10 @@ When in visual contact with this creature, you must purchase an extra order of f
 ***Somersault Stump Fists.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
 }}
 
+{{imageMaskCenter11,--offsetX:5%,--offsetY:-10%,--rotation:0,height:80%,width:50%
 
+![Drone](https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:15%,bottom:-10%}
+}}
 
 
 \page
