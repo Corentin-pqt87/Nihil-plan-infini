@@ -2277,6 +2277,10 @@ ___
 ***Missiles.*** portée 45 m, zone 6 m, 4d6 force.
 }}
 
+{{imageMaskCenter11,--offsetX:34%,--offsetY:-10%,--rotation:0,height:130%,width:100%
+
+![Drone](https://i.pinimg.com/1200x/12/20/e1/1220e1da5add3d7fc40bf4fedb5f887d.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:35%,bottom:-10%}
+}}
 
 \page
 {{backCover}}
