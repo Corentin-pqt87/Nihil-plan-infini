@@ -410,5 +410,3 @@ Réactions
     - Pond une larve toutes les 2 rounds (CR 1/8).
         
     - Cri d’alarme → tous les drones aliens dans 30 m peuvent agir immédiatement.
-
-# 
