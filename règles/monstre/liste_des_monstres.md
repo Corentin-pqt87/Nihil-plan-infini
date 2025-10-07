@@ -216,7 +216,7 @@ Réactions
     - Mode berserk : peut faire une attaque supplémentaire en dessous de 50% PV.
         
 - **Faiblesse** : un tir précis sur le réacteur (DD 18 pour toucher) inflige double dégâts.
-
+ 
 ---
 # **Bestiaire Alien – Univers SF**
 

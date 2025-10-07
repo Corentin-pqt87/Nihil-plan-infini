@@ -29,6 +29,9 @@ ___
 **Image du chapitre sort** :: https://i.pinimg.com/1200x/0e/75/f6/0e75f630676f5113a0ef5216dbd98ac3.jpg par Javier Charro
 ## Image de monstre
 
+**Alien** :: https://i.pinimg.com/1200x/e4/58/8f/e4588f0769d951c220cfadf92c649888.jpg par Mr Jack
+**Alien 2** :: https://i.pinimg.com/1200x/3f/61/19/3f61197e20febf53212acd91e72fd9b7.jpg par Mr Jack
+
 **Drone** :: https://i.pinimg.com/736x/19/17/c6/1917c6c26f28e2087933e53560cfa7fe.jpg par Slava Shestopalov
 Phil Warwick
 **Drone 2** :: https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg par Francisco Luis Bravo Piluso
@@ -2057,6 +2060,20 @@ ___
 ***Morsure acide.*** +3, 1d4 perforant + 1d4 acide
 }}
 
+
+{{watercolor2,top:20px,left:30px,width:300px,background-color:#BBAD82,opacity:80%}}
+
+{{imageMaskCenter14,--offsetX:0%,--offsetY:-10%,--rotation:0,height:90%,width:100%
+
+![Drone](https://i.pinimg.com/1200x/e4/58/8f/e4588f0769d951c220cfadf92c649888.jpg) {width:82%,mix-blend-mode:multiply,height:60%,left:10%,bottom:12%}
+}}
+{{artist,bottom:520px,left:100px
+##### Larve Zerg
+}}
+
+
+\page
+
 {{monster,frame
 ## Eclaireur insectoïde
 *Alien de taille G, sans alignement*
@@ -2072,7 +2089,7 @@ ___
 **Compétences** :: Discrétion +6, Perception +3
 **Sens**               :: vision dans le noir 18 m, Perception passive 13
 **Langues**            :: —
-**Puissance **            :: 1 (200 PX)
+**Puissance**            :: 1 (200 PX)
 ___
 ***Odorat aiguisé.*** L'Eclaireur insectoïde a un avantage aux jets de Sagesse (Perception) basés sur l'odorat.
 :
@@ -2084,10 +2101,6 @@ ___
 ***Morsure.*** Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d10 + 3) dégâts perforants. 
 
 }}
-
-
-
-\page
 
 {{monster,frame
 ## Chasseur Kraal
@@ -2115,6 +2128,42 @@ ___
 ***Fusil railgun.*** Attaque à distance avec une arme : +6 au toucher, portée 45/90 m, une cible. Touché : 8 (1d8 + 4) dégâts perforants. 
 ### Actions bonus
 ***Oeil du chasseur (3/jour).*** Immédiatement après avoir effectué un jet d'attaque ou de dégâts avec une arme de distance, le chasseur Kraal peut ajouter un d10 au résultat du dé.
+}}
+{{watercolor3,top:40%,left:40%,width:300px,background-color:#BBAD82,opacity:80%}}
+
+{{imageMaskCenter14,--offsetX:0%,--offsetY:-20%,--rotation:0,height:90%,width:100%
+
+![Drone](https://i.pinimg.com/1200x/3f/61/19/3f61197e20febf53212acd91e72fd9b7.jpg) {width:82%,mix-blend-mode:multiply,height:60%,left:10%,bottom:1%}
+}}
+
+{{artist,bottom:220px,left:100px
+##### Eclaireur insectoïde
+}}
+\page
+
+{{monster,frame
+## Mutalisk
+*Alien de taille G, sans alignement*
+___
+**Classe d'armure** :: 17
+**Points de vie**  :: 75 (10d8 + 30)
+**Vitesse**       :: 9 m, escalade 9 m, vol 18 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|6 (-2)|19 (+4)|16 (+3)|16 (+3)|15 (+2)|14 (+2)|
+___
+**Jets de sauvegarde** :: Dex +2
+**Immunités** :: poison, charme, peur
+**Sens**               :: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+**Langues**            :: —
+**Puissance**            :: 4 (1100 PX)
+___
+
+### Actions
+***Griffes.*** Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : (2d8 tranchant)
+:
+***queue perforante.*** Attaque au corps à corps avec une arme : +6 au toucher, allonge 4 m, une cible. Touché : (1d10 perforant + 1d6 acide). 
 }}
 
 
@@ -2145,13 +2194,7 @@ ___
 **Langues**            :: comprend celles de son créateur mais ne peut parler 
 **Maître technologique**    :: Le drone ajoute ton bonus de maîtrise à ses jets d’attaque, de sauvegarde et de compétences.
 ___
-***Onion Stench.*** Any creatures within 5 feet of this thing develops an irrational craving for onion rings.
-:
-***Pack Tactics.*** These guys work together like peanut butter and jelly.
-:
-***Hangriness.*** This creature is angry, and hungry. It will refuse to do anything with you until its hunger is satisfied.
 
-When in visual contact with this creature, you must purchase an extra order of fries, even if they say they aren't hungry.
 ### Actions
 ***Attaque intégrée Mêlée.*** 1d8 + ton mod. INT (impact mécanique ou électrochoc) 
 :
@@ -2327,7 +2370,7 @@ ___
 \page
 {{monster
 ## Unité de combat lourd "Titan"
-*Construct de taille G, Loyal mauvais*
+*Construct de taille TG, Loyal mauvais*
 ___
 **Classe d'armure** :: 17 (armure naturelle)
 **Points de vie**  :: 126 (12d10 + 60)
@@ -2363,6 +2406,46 @@ ___
 
 ![Drone](https://i.pinimg.com/1200x/12/20/e1/1220e1da5add3d7fc40bf4fedb5f887d.jpg) {width:80%,mix-blend-mode:multiply,height:80%,left:35%,bottom:-10%}
 }}
+\page
+
+{{monster,frame
+## Comandant 404
+*Construct de taille M, Loyal mauvais*
+___
+**Classe d'armure** :: 16 (armure naturelle)
+**Points de vie**  :: 168 (16d8 + 96)
+**Points de battrie** :: 4 (2d8)
+**Vitesse**       :: 9 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|17 (+3)|12 (+1)|23 (+6)|18 (+4)|12 (+1)|16 (+3)|
+___
+**Jets de sauvegarde** :: Dex +6, Sag +6, Cha +8
+**Compétences** :: Perception +6
+**Résistance** :: projectiles
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil, effrayé
+**Vulnérabilité** :: dégâts énergétique
+**Sens**               :: vision dans le noir 18 m, Perception passive 16
+**Languages**            :: Gibberish, Jive
+**Puissance**            :: 16 (15000 PX) {{bonus **Bonus de maîtrise** +5}}
+___
+***Forme immuable.***  Le Comandant 404 est immunisé aux sorts et effets qui altèreraient son apparence.
+:
+***Chef de groupe*** Le Comandant 404 peux communiquer avec tout les constructs dans une sone de 5 Km.
+### Actions
+***Attaques multiples.*** Le Comandant 404 effectue deux attaques au corps à corps. 
+:
+***Réseptacle*** Le Comandant 404 peux absorber l'énergie d'un construct avec qui il peux communiquer a fin de récharger ses battries.
+:
+***Bouclier énergétique.*** Lorsque le Comandant 404 prend des dégat, il peut consommer un point de battrie pour diminuer de 2d6 les dégats subit. 
+:
+***Team Elbow.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+:
+***Dual Cobra Wristlock.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+}}
+
+
 
 \page
 {{backCover}}
