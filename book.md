@@ -29,10 +29,11 @@ ___
 **Image du chapitre sort** :: https://i.pinimg.com/1200x/0e/75/f6/0e75f630676f5113a0ef5216dbd98ac3.jpg par Javier Charro
 ## Image de monstre
 
-**Drone** :: https://i.pinimg.com/736x/19/17/c6/1917c6c26f28e2087933e53560cfa7fe.jpg par 
+**Drone** :: https://i.pinimg.com/736x/19/17/c6/1917c6c26f28e2087933e53560cfa7fe.jpg par Slava Shestopalov
 Phil Warwick
 **Drone 2** :: https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg par Francisco Luis Bravo Piluso
 **Drone 3** :: https://i.pinimg.com/1200x/28/40/ba/2840ba0366b6396e76c4def5215ed27a.jpg par Doosan’s Dashboard
+**Drone 4** :: https://i.pinimg.com/1200x/12/20/e1/1220e1da5add3d7fc40bf4fedb5f887d.jpg par
 
 **Ecriture :** :: PAQUET Corentin
 
@@ -2030,19 +2031,100 @@ Si une créature peut faire quelque chose de spécial avec sa réaction, la sect
 {{footnote Les Monstres}}
 
 \page
-## A -
+# A -
+## Alien
 
-## B -
+{{monster,frame,wide
+## Larve Zerg
+*Alien de taille TP, sans alignement*
+___
+**Classe d'armure** :: 13
+**Points de vie**  :: 2 (1d4)
+**Vitesse**       :: 9 m, nage 9 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|2 (-4)|16 (+3)|11 (+0)|1 (-5)|10 (+0)|3 (-4)|
+___
+**Sens**               :: vision aveugle 3 m, Perception passive 10
+**Langues**            :: —
+**Puissance**            :: 1/8 (25 PX)
+___
+***Implosion.*** A sa mort cose une explotion d'acide (1d6 acide zone 1,5 m)
+### Actions
+***Morsure.*** Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 1 dégât perforant et la cible doit réaliser un jet de sauvegarde de Constitution DD 10, subissant 5 (2d4) dégâts de poison en cas d'échec, ou la moitié de ces dégâts en cas de réussite. 
+:
+***Morsure acide.*** +3, 1d4 perforant + 1d4 acide
+}}
+
+{{monster,frame
+## Eclaireur insectoïde
+*Alien de taille G, sans alignement*
+___
+**Classe d'armure** :: 12
+**Points de vie**  :: 37 (5d10 + 10)
+**Vitesse**       :: 12 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|17 (+3)|15 (+2)|14 (+2)|3 (-4)|12 (+1)|8 (-1)|
+___
+**Compétences** :: Discrétion +6, Perception +3
+**Sens**               :: vision dans le noir 18 m, Perception passive 13
+**Langues**            :: —
+**Puissance **            :: 1 (200 PX)
+___
+***Odorat aiguisé.*** L'Eclaireur insectoïde a un avantage aux jets de Sagesse (Perception) basés sur l'odorat.
+:
+***Bond agressif.*** Si l'Eclaireur insectoïde se déplace d'au moins 6 mètres en ligne droite vers une créature, puis la touche lors d'une attaque avec ses griffes dans le même tour, la cible doit réussir un jet de sauvegarde de Force DD 13 pour ne pas tomber à terre. Si la cible est à terre, l'Eclaireur insectoïde peut effectuer une attaque de morsure contre elle en tant qu'action bonus.
+
+### Actions
+***Lames chitineuses.*** Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 1d6 tranchant x2 attaques tranchants. 
+:
+***Morsure.*** Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d10 + 3) dégâts perforants. 
+
+}}
+
+
+
 \page
-## C -
+
+{{monster,frame
+## Chasseur Kraal
+*Humanoïde extraterrestrede taille G, neutre*
+___
+**Classe d'armure** :: 16 (Combinaison en nano-fibres)
+**Points de vie**  :: 75 (10d8 + 30)
+**Vitesse**       :: 9 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|11 (+0)|18 (+4)|16 (+3)|11 (+0)|13 (+1)|10 (+0)|
+___
+**Compétences** :: Acrobaties +6, Perception +5
+**Sens**               :: Perception passive 15
+**Langues**            :: une langue au choix (généralement le commun)
+**Puissance**            :: 3 (700 PX)
+___
+
+### Actions
+***Attaques multiples.***  Le chasseur Kraal effectue deux attaques avec sa Lance énergétique ou son Fusil railgun. 
+:
+***Lance énergétique.*** Attaque au corps à corps avec une arme : +6 au toucher, allonge 1,50 m, une cible. Touché : 7 (1d6 + 4) dégâts perforants. 
+:
+***Fusil railgun.*** Attaque à distance avec une arme : +6 au toucher, portée 45/90 m, une cible. Touché : 8 (1d8 + 4) dégâts perforants. 
+### Actions bonus
+***Oeil du chasseur (3/jour).*** Immédiatement après avoir effectué un jet d'attaque ou de dégâts avec une arme de distance, le chasseur Kraal peut ajouter un d10 au résultat du dé.
+}}
+
+
+
+\page
+# C -
 {{wide 
 ## Construct
 }}
 
-artist,bottom:160px,left:100px 
-
-
-\page
 {{monster,frame,wide
 ## Drone d’Assistance Tactique
 *Petit Construct, Loyal*
