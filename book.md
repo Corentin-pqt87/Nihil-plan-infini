@@ -37,6 +37,7 @@ Phil Warwick
 **Drone 2** :: https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg par Francisco Luis Bravo Piluso
 **Drone 3** :: https://i.pinimg.com/1200x/28/40/ba/2840ba0366b6396e76c4def5215ed27a.jpg par Doosan’s Dashboard
 **Drone 4** :: https://i.pinimg.com/1200x/12/20/e1/1220e1da5add3d7fc40bf4fedb5f887d.jpg par
+**Drone 5** :: https://i.pinimg.com/736x/9c/21/99/9c2199614fb428ac568704e0c3d3ff14.jpg par auteur non identifier
 
 **Ecriture :** :: PAQUET Corentin
 
@@ -2440,13 +2441,15 @@ ___
 :
 ***Bouclier énergétique.*** Lorsque le Comandant 404 prend des dégat, il peut consommer un point de battrie pour diminuer de 2d6 les dégats subit. 
 :
-***Team Elbow.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+***Épée à énergie.*** Attaque au corps à corps avec une arme : +9 au toucher, allonge 1,50 m, une cible. Touché : 12 (2d6 + 5) dégâts tranchants et énergétique. 
 :
-***Dual Cobra Wristlock.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) 
+***railgun.***  Attaque à distance avec une arme : +7 au toucher, portée 24/96 m, une cible. Touché : 6 (1d6 + 3) dégâts perforants 
 }}
 
+{{imageMaskCenter11,--offsetX:34%,--offsetY:-20%,--rotation:0,height:150%,width:100%
 
-
+![img 404](https://i.pinimg.com/736x/9c/21/99/9c2199614fb428ac568704e0c3d3ff14.jpg){width:80%,mix-blend-mode:multiply,height:70%,left:35%,bottom:-8%}
+}}
 \page
 {{backCover}}
 
