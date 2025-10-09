@@ -37,7 +37,7 @@ Phil Warwick
 **Drone 2** :: https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg par Francisco Luis Bravo Piluso
 **Drone 3** :: https://i.pinimg.com/1200x/28/40/ba/2840ba0366b6396e76c4def5215ed27a.jpg par Doosan’s Dashboard
 **Drone 4** :: https://i.pinimg.com/1200x/12/20/e1/1220e1da5add3d7fc40bf4fedb5f887d.jpg par
-**Drone 5** :: https://i.pinimg.com/736x/9c/21/99/9c2199614fb428ac568704e0c3d3ff14.jpg par auteur non identifier
+**Drone 5** :: https://i.pinimg.com/736x/9c/21/99/9c2199614fb428ac568704e0c3d3ff14.jpg par auteur non 
 
 **Ecriture :** :: PAQUET Corentin
 
@@ -1750,6 +1750,51 @@ Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Le Transport}}
 \page
+
+{{descriptive
+##### Voiture
+*taille moyen*
+| Vitesse | Prix     |Nombre de passagé| Carburant |
+| :---    | :---     | :---            | :---      |
+| 50 Km/h | 1 000 po | 4               | oui       |
+:
+**Véhicule commun** Véhicule de taille moyen de plusieurs couleur, ce dissimule dans dans les pans moderne.
+}}
+
+{{descriptive
+##### Moto
+*taille petit*
+| Vitesse | Prix     |Nombre de passagé| Carburant |
+| :---    | :---     | :---            | :---      |
+| 70 Km/h | 500 po   | 2               | oui       |
+:
+**Véhicule commun** Véhicule de taille petit de plusieurs couleur, ce dissimule dans dans les pans moderne.
+}}
+
+{{descriptive
+##### Camion
+*taille petit*
+| Vitesse | Prix     |Nombre de passagé| Carburant |
+| :---    | :---     | :---            | :---      |
+| 70 Km/h | 2 000 po | 2               | oui       |
+:
+**Véhicule commun** Véhicule de taille petit de plusieurs couleur, ce dissimule dans dans les pans moderne.
+:
+**Grand contenant** Ce véhicule un grand éspace de stockage.
+}}
+
+{{descriptive
+##### Bus
+*taille petit*
+| Vitesse | Prix     |Nombre de passagé| Carburant |
+| :---    | :---     | :---            | :---      |
+| 70 Km/h | 2 000 po | 20              | oui       |
+:
+**Véhicule commun** Véhicule de taille petit de plusieurs couleur, ce dissimule dans dans les pans moderne.
+}}
+
+
+\page
 {{partCover}}
 
 # CHAP IX
@@ -2327,6 +2372,10 @@ ___
 
 }}
 
+{{watercolor8,top:20px,left:30px,width:300px,background-color:#BBAD82,opacity:80%}}
+
+
+
 {{imageMaskCenter13,--offsetX:30%,--offsetY:-10%,--rotation:0,height:120%,width:80%
 
 ![Drone](https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg) {width:82%,mix-blend-mode:multiply,height:70%,left:39%,bottom:-2%}
@@ -2449,6 +2498,51 @@ ___
 {{imageMaskCenter11,--offsetX:34%,--offsetY:-20%,--rotation:0,height:150%,width:100%
 
 ![img 404](https://i.pinimg.com/736x/9c/21/99/9c2199614fb428ac568704e0c3d3ff14.jpg){width:80%,mix-blend-mode:multiply,height:70%,left:35%,bottom:-8%}
+}}
+
+\page
+
+{{monster,frame
+## Dévoreur de Terre
+*Construct de taille G, Loyal mauvais*
+___
+**Classe d'armure** :: 16 (armure naturelle)
+**Points de vie**  :: 247 (15d20 + 90)
+**Vitesse**       :: 15 m, creusement 9 m
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|28 (+9)|7 (-2)|22 (+6)|1 (-5)|8 (-1)|4 (-3)|
+___
+**Jets de sauvegarde** :: Con +11, Sag +4
+**Résistance** :: projectiles
+**Immunités** :: poison, maladies, états d’empoisonné, inconscient, sommeil, effrayé
+**Vulnérabilité** :: dégâts énergétique
+**Sens**               :: vision aveugle 9 m, perception des vibrations 18 m, Perception passive 9
+**Langues**            :: —
+**Puissance**            :: 15 (13000 PX)
+___
+***Fouisseur.*** Le Dévoreur de Terre peut creuser à travers la roche solide en se déplaçant à la moitié de sa vitesse de creusement et laisser sur son passage un tunnel de 3 mètres de diamètre.
+
+### Actions
+***Attaques multiples.***  Le Dévoreur de Terre effectue deux attaques : une de morsure et une avec sa queue.
+:
+***Morsure.*** Attaque au corps à corps avec une arme : +12 au toucher, allonge 3 m, une cible. Touché : 18 (2d10 + 7) dégâts perforants + 5 (1d10) dégâts de foudre.
+:
+***Queue.*** Attaque au corps à corps avec une arme : +14 au toucher, allonge 4,50 m, une cible. Touché : 17 (2d8 + 8) dégâts contondants. 
+:
+***Présence terrifiante.*** Chaque créature choisit par le dragon, située à 36 mètres ou moins de lui et consciente de sa présence, doit réussir un jet de sauvegarde de Sagesse DD 19 ou être effrayée pendant 1 minute. Une créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin l'effet qu'elle subit. Si le jet de sauvegarde d'une créature est réussi ou que l'effet qu'elle subit se termine, celle-ci devient immunisée à la Présence terrifiante du Dévoreur de Terre pendant les prochaines 24 heures. 
+:
+***Souffle de feu (Recharge 5-6).***  Le Dévoreur de Terre exhale des flammes dans un cône de 18 mètres. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Dextérité DD 21, subissant 63 (18d6) dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.
+}}
+
+
+\page
+
+
+{{imageMaskCenter11,--offsetX:-20%,--offsetY:-30%,--rotation:0,height:180%,width:150%
+
+![img 404](https://i.pinimg.com/736x/85/5f/1a/855f1a8057b2be81457cc55a8ce43ebb.jpg){width:65%,mix-blend-mode:multiply,height:70%,left:-10%,bottom:-20%}
 }}
 \page
 {{backCover}}
