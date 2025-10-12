@@ -1717,29 +1717,7 @@ Jusqu'à 10 créatures doivent réussir un JdS d'Int. ou subir 14d6 dégâts psy
 # Le Transport
 Le transport est un élément important de cette univers vaste qu'il soit d'origine artificiel (véhicule, générateur de faille, porte passe par tout etc) ou naturel (point de distorsion non euclidien). 
 Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi entre plusieurs monde. 
-### Transport locale :
-- **Voiture :** 50 km/h; 1 000 po; 4 passages; carburant 
-	- Véhicule de taille moyen de plusieurs couleur, ce dissimule dans dans les pans moderne
-- **Moto :** 70 km/h; 500 po; 2 passages; carburant
-	- Véhicule de taille petit de plusieurs couleur, ce dissimule dans dans les pans moderne
-- **Camion/bus :** 50 km/h; 2 000 po; 6 passages; carburant
-	- Véhicule de taille grand de plusieurs couleur, ce dissimule dans dans les pans moderne
-- **Navette :** 300 km/h; 8 000 po; 6 passages; carburant ou batterie atomique
-	- Véhicule de taille moyen de plusieurs couleur, ce dissimule dans dans les pans SF
-- **avion :** 150 km/h; 5 000 po; 4 passages; carburant
-	- Véhicule de taille grand de plusieurs couleur, ce dissimule dans dans les pans moderne
-- **bateau** : 80 km/h; 700 po; 3 passages; carburant ou vent
-	- Véhicule de taille grand, ce dissimule dans dans les pans moderne ou ancien en fonction du model.
-- **M.T.L.D.** *(Module de Transport Longue Distance)* **:** ? km/h; 25 000 po; 5 passages; 7 jours de recharges; 1h de charge; batterie atomique 
-	- Module de transport casi instantané mais avec un temps de recharge et de charge a l'activation, permet de transporter des véhicule de taille moyen.
-\column
-### Transport externe artificielle
-- **Générateur de faille :** 2 000 po; 7 jours de recharges; **+16D INT** pour activation; carburant
-	- Petite machine où l'on doit tirer une corde comme sur un groupe électrogène a fin de l'activer. Une fois activer fait une vibration sur sa partie supérieur forment une faille, celle ci ce ferme dans les 5 minutes suivant son ouverture. Si **10D<D<16D** alors envoi a un endroit aléatoire. 
-- **Porte passe par tout :** 10 000 po
-	- Une porte qui s'ouvre vers un endroit voulue par son créateur, celui ci ne peux pas être changer.
-- **M.T.E.P.** *(Module de Transport Extra Plan)* **:** 25 000 po; 5 passages; 7 jours de recharges; 1h de charge; batterie atomique 
-	- Module de transport casi instantané mais avec un temps de recharge et de charge a l'activation, permet de transporter des véhicule de taille moyen.
+
 
 ### Transport externe naturel 
 - **Faille :** 
@@ -1749,8 +1727,8 @@ Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi
 	- Si une personne s'approche a moins de 5m alors elle est dit dans son champs d'action. Une fois dans le champ d'action l'objet a avoir un diamètre fini mais un périmètre infini, lorsque la personne fera le tour elle ne pourra jamais retombé sur ses pas a moins de tourné dans le sans inverse. En fessent le tour elle se déplace sans sen rendre compte et le paysage change progressivement autour d'elle. Les druides ont un fort lien avec eux et des légende raconte que certain arrive a les contrôler.
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Le Transport}}
-\page
 
+## Transport locale
 {{descriptive
 ##### Voiture
 *taille moyen*
@@ -1773,7 +1751,7 @@ Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi
 
 {{descriptive
 ##### Camion
-*taille petit*
+*taille moyen*
 | Vitesse | Prix     |Nombre de passagé| Carburant |
 | :---    | :---     | :---            | :---      |
 | 70 Km/h | 2 000 po | 2               | oui       |
@@ -1785,7 +1763,7 @@ Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi
 
 {{descriptive
 ##### Bus
-*taille petit*
+*taille moyen*
 | Vitesse | Prix     |Nombre de passagé| Carburant |
 | :---    | :---     | :---            | :---      |
 | 70 Km/h | 2 000 po | 20              | oui       |
@@ -1793,6 +1771,110 @@ Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi
 **Véhicule commun** Véhicule de taille petit de plusieurs couleur, ce dissimule dans dans les pans moderne.
 }}
 
+{{descriptive
+##### Avion
+*taille grand*
+| Vitesse | Prix     |Nombre de passagé| Carburant |
+| :---    | :---     | :---            | :---      |
+| 520 Km/h| 5 000 po | 21 (19 Passagers, 2 pilotes) | oui       |
+:
+**Véhicule moderne** Véhicule de taille grand de plusieurs couleur, ce dissimule dans dans les pans moderne
+}}
+
+{{descriptive
+##### Navette
+*taille grand*
+| Vitesse | Prix     |Nombre de passagé| Carburant |
+| :---    | :---     | :---            | :---      |
+| 450 Km/h| 8 000 po | 10              | oui       |
+:
+**Véhicule SF** Véhicule de taille moyen de plusieurs couleur, ce dissimule dans dans les pans SF
+}}
+\page
+{{descriptive
+##### Bateau
+*taille moyen*
+| Vitesse | Prix     |Nombre de passagé| Carburant |
+| :---    | :---     | :---            | :---      |
+| 80 Km/h | 700 po   | 3               | oui ou vent     |
+:
+**Véhicule commun** Véhicule de taille grand, ce dissimule dans dans les pans moderne ou ancien en fonction du model.
+}}
+
+
+{{descriptive
+##### M.T.L.D. *(Module de Transport Longue Distance)*
+*taille moyen*
+| Vitesse | Prix     |Nombre de passagé| Carburant |
+| :---    | :---     | :---            | :---      |
+| ? Km/h | 25 000 po   | 5             | batterie atomique     |
+
+Module de transport casi instantané mais avec un temps de recharge et de charge a l'activation, permet de transporter des véhicule de taille moyen.
+:
+**Temps de recharge** 7 jours de recharges entre 2 utilisations.
+:
+**Temps de charge** 1h de charge pour utilisation.
+}}
+
+## Transport externe artificielle
+
+{{descriptive
+##### Générateur de faille
+*taille petit*
+| Prix     |Nombre de passagé| Carburant |
+| :---     | :---            | :---      |
+| 2 000 po | 3               | batterie  |
+
+Petite machine où l'on doit tirer une corde comme sur un groupe électrogène a fin de l'activer. Une fois activer fait une vibration sur sa partie supérieur forment une faille, celle ci ce ferme dans les 5 minutes suivant son ouverture. 
+:
+**Temps de recharge** 7 jours de recharges entre 2 utilisations.
+:
+**Batterie** ce recharge à l'électricité.
+:
+**Complexe** *+16D INT* pour activation. Si *10D < D < 16D* alors envoi a un endroit aléatoire.
+}}
+
+{{descriptive
+##### Porte passe par tout
+*taille petit*
+| Prix     |Nombre de passagé| Carburant |
+| :---     | :---            | :---      |
+| 10 000 po (les deux) | ---               | non  |
+
+Une porte qui s'ouvre vers un endroit voulue par son créateur, celui ci ne peux pas être changer.
+}}
+
+{{descriptive
+##### M.T.E.P. *(Module de Transport Extra Plan)*
+*taille moyen*
+| Prix     |Nombre de passagé| Carburant |
+| :---     | :---            | :---      |
+| 25 000 po (les deux) | 5               | batterie atomique  |
+
+Module de transport casi instantané mais avec un temps de recharge et de charge a l'activation, permet de transporter des véhicule de taille moyen.
+
+**Temps de recharge** 7 jours de recharges entre 2 utilisations.
+:
+**Temps de charge** 1h de charge pour utilisation.
+}}
+
+## Transport externe naturel 
+
+{{descriptive
+##### Faille
+*taille variable*
+
+Une faille dans l'espace qui ne se ferme pas de manière naturelle, sa croissance peux évoluer, sois en ce contractant, sois en s'décontractent. Si celle ci a un diamètre de 5 m alors elle ne peux que s'agrandir et ce nome une **brèche**. 
+}}
+
+{{descriptive
+##### Point de distorsion non euclidien
+*taille variable*
+
+**Camouflable** peux resembler a un arbre, un menhir, un rocher , etc...
+
+Si une personne s'approche a moins de 5m alors elle est dit dans son champs d'action. Une fois dans le champ d'action l'objet a avoir un diamètre fini mais un périmètre infini, lorsque la personne fera le tour elle ne pourra jamais retombé sur ses pas a moins de tourné dans le sans inverse. En fessent le tour elle se déplace sans sen rendre compte et le paysage change progressivement autour d'elle. Les druides ont un fort lien avec eux et des légende raconte que certain arrive a les contrôler. 
+}}
 
 \page
 {{partCover}}
@@ -1811,6 +1893,72 @@ Les plans de la réalité sont des zones qui ne sont relier que par des fréquen
 Les habitants des plan ne sont pas tous accourant de l'existence de d'autre plan il est donc interdit par [le traité de confidentialité et de protection des populations](traite.md) de transmettre des information sur l'existence des plan sans autorisation d'une entité supérieur locale (gouvernement) au faction (des faction qui dirige plusieurs plans).
 
 Il existe plusieurs théorie pour représenter les plans entre eux. L'une d'entre elle est la théorie de la boite, il existe aussi la théorie de la bibliothèque, mais la carte la plus utiliser par les navigateur est celle des ondes commune.
+
+## Le temps
+
+Les plans ont une durée de vie, après un temps t, un plan s'écraser sur lui même avant de recommencer a zéro. Le Nihil est le dernier des plans a s'écraser, les voyageurs et les factions politiques se sont donc mis d'accord pour dire que le début d'une nouvelle génération de plan ce fait après chaque écrasement du Nihil.
+
+Le cour du temps ce se déplace pas à la même vitesse, pour définir et représenter ce fennomane les explorateurs et les scientifiques des factions politiques utilise la théorie des dimensions supérieur.
+
+## la théorie des dimensions supérieur
+Pour mieux ce représenter la théorie des dimensions supérieur il faut d'abord ce placer dans un plan inférieur ca celui de l'entité a qui on explique ce principe. Dans notre cas nous prendrons comme exemple la dimension 2.
+
+### représentation en dimension 2
+
+On admet un plan d'existence de dimension 2 ou vie des êtres de dimension 2. Dans un plan 2D, les seules axes sont (x,y) appartenant a l'ensemble des réels, nous les nommerons hauteur et largeur. Ces deux axes possède des directions haut et bas pour l'axe des hauteurs, droites et gauche pour l'axe de largeur.
+
+On sait que le cerveau interprète des informations visuel d'une dimension inférieur a celle on vie. Un êtres de dimension 2 aura donc des yeux qui voie en 1D et son cerveau retranscrit les informations en 2D.
+
+Si nous qui venons d'une dimensions de plus arrivons face a la sienne, nous verrons une feuille qui représente sont monde dans les moindre détaille, mais luis ne pourrais pas nous voir car nous nous situons dans un axes supérieur. La questions est comment lui expliquer ce qu'est un objet 3D ?
+
+Nous pourrions fait passer un objet dans sont plan avec une vitesse constante. Pour cette exemple l'objet sera un cube de 5cm de coté et la vitesse sera 1cm/s.
+
+Au moment ou le cube arrivera a son plan 2D il verrait soudainement apparaitre un carré pour une duré de 5s, pour quoi ? Car il ne verrait pas juste un carré mais une vue de coupe de notre cube.
+
+Pour autre exemple si nous prenons une sphère de 4cm de rayon avec une vitesse identique alors un phénomène de 8s se déroulera sous ses yeux, un point qui grossi en un cercle qui grossi de moins en moins vite, puis qui stagne avant de rétrécir, de redevenir un point et de disparaitre.
+
+
+### représentation en dimension 3
+On admet un plan d'existence de dimension 3 ou vie des êtres de dimension 3. Dans un plan 3D, les seules axes sont (x,y,z) appartenant a l'ensemble des réels, nous les nommerons hauteur, largeur et profondeur. Ces trois axes possède des directions haut et bas pour l'axe des hauteurs, droites et gauche pour l'axe de largeur et avant et arrière pour la profondeur.
+
+On sait que le cerveau interprète des informations visuel d'une dimension inférieur a celle on vie. Un êtres de dimension 3 aura donc des yeux qui voie en 2D et son cerveau retranscrit les informations en 3D.
+
+Si une entité de dimension supérieur a ce plan il verrait un espace 3D qui représente notre monde dans les moindre détaille, mais nous ne pourrions pas le voir car il se situerait dans un axes supérieur. La questions est comment pourrait-il nous expliquer ce qu'est un objet 4D ?
+
+Il pourrait faire passer un objet dans sont plan avec une vitesse constante. Pour cette exemple l'objet sera un hypercube de 5cm de coté et la vitesse sera 1cm/s.
+
+Au moment ou l'hypercube arrivera a notre plan 3D nous verrions soudainement apparaitre un cube pour une duré de 5s, pour quoi ? Car nous ne verrions pas juste un cube mais une vue de coupe de son hypercube.
+
+Pour autre exemple si nous prenons une hypersphère de 4cm de rayon avec une vitesse identique, alors un phénomène de 8s se déroulera sous nos yeux, un point qui grossi en une sphère qui grossi de moins en moins vite, puis qui stagne avant de rétrécir, de redevenir un point et de disparaitre.
+
+\page
+
+### point important 
+
+Nous pouvons donc voir un point important de la théorie, celui qui dit que le temps un une longueur de dimension supérieur. Dans le cas de notre exemple nous pouvons dire que la longueur 1cm/s équivaut a une durée de 1s.
+
+Nous nommerons désormais "vitesse de transite" la vitesse d'un objet de dimension supérieur qui traverse une dimension inférieur et "vitesse à 0" la vitesse minimal qu'un objet dois avoir pour ne pas être vue.
+Un point important qui détermine la "vitesse à 0" est le volume total du plan, sois sa taille. 
+
+notation ::
+- dD+ : dimension supérieur
+- vT(n) : vitesse de transite du plan "n"
+- v0(n) : vitesse à 0 du plan "n"
+
+### les déflagrations
+
+Si on admet un plan "a" et un plan "b" de même dimension mais que "a" est plus petit que "b" alors si un objet de dimension dD+ arrive de "a" avec une v0(a) lors cette objet sera vue par "b" car trop lent comparait a la v0(b). Ce fennomane ce nome déflagration.
+
+Des déflagration importante sont déjà connue par la plus par de explorateur et des pilotes des factions politique. D'un point de vue technique cela signifie que si vous vous situé dans un plan "a" et que vous allez dans un plan "b" avec une forte déflagration positive comparait à "a", vous pourriez rester 2 mois dans "b" pour une duré de 1s chez "a" et idem dans l'autre sans.
+
+### le problème de déflagrations du Nihil
+
+Le problème avec le Nihil est que nul  ne peux en revenir a moins d'être un primordial, car vue précédemment le Nihil est le plan le plus vaste ce qui signifie que v0(Nihil) est titanesque est qu'il faudrait un véhicule qui peux atteindre une vitesse vT égale à la v0(Nihil) soit :
+:
+v = vT(v0(Nihil))
+:
+Sauf que actuellement aucun vaisseau ou module de transport n'ai capable d'une telle vitesse. Les seuls vaisseau qui jadis en était capable étaient ce des "Miles tuulet" ce qui signifie qu'il est presque impossible de sortir du Nihil. 
+
 
 ## traité de confidentialité et de protection des populations
 Ce traité met en accord les factions sur la confidentialité au populations et leurs implications dans des conflits.
