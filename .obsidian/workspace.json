@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "règles/monde/transport.md",
+                "file": "règles/monde/divinité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "transport"
+              "title": "divinité"
             }
           }
         ],
@@ -213,6 +213,8 @@
   },
   "active": "f951158dae4ec638",
   "lastOpenFiles": [
+    "règles/monde/transport.md",
+    "règles/monde/divinité.md",
     "règles/monde/plan_realite.md",
     "règles/monde/traite.md",
     "règles/personnage/Liste des classes/Éclaireur (Sous classe rodeur).md",
@@ -223,7 +225,6 @@
     "book.md",
     "règles/monstre/familier.md",
     "règles/monstre/monstre.md",
-    "règles/monde/transport.md",
     "règles/item/armures.md",
     "règles/item/armes.md",
     "règles/index.md",

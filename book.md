@@ -1847,7 +1847,7 @@ Module de transport casi instantané mais avec un temps de recharge et de charge
 :
 **Temps de charge** 1h de charge pour utilisation.
 }}
-
+\column
 ## Transport externe naturel 
 
 {{descriptive
