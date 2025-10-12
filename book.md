@@ -1718,16 +1718,6 @@ Jusqu'à 10 créatures doivent réussir un JdS d'Int. ou subir 14d6 dégâts psy
 Le transport est un élément important de cette univers vaste qu'il soit d'origine artificiel (véhicule, générateur de faille, porte passe par tout etc) ou naturel (point de distorsion non euclidien). 
 Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi entre plusieurs monde. 
 
-
-### Transport externe naturel 
-- **Faille :** 
-	- Une faille dans l'espace qui ne se ferme pas de manière naturelle, sa croissance peux évoluer, sois en ce contractant, sois en s'décontractent. Si celle ci a un diamètre de 5 m alors elle ne peux que s'agrandir et ce nome une **brèche**.  
-- **Point de distorsion non euclidien** 
-	- Un arbre, un menhir, un rocher ... 
-	- Si une personne s'approche a moins de 5m alors elle est dit dans son champs d'action. Une fois dans le champ d'action l'objet a avoir un diamètre fini mais un périmètre infini, lorsque la personne fera le tour elle ne pourra jamais retombé sur ses pas a moins de tourné dans le sans inverse. En fessent le tour elle se déplace sans sen rendre compte et le paysage change progressivement autour d'elle. Les druides ont un fort lien avec eux et des légende raconte que certain arrive a les contrôler.
-{{pageNumber $[HB_pageNumber]}}
-{{footnote Le Transport}}
-
 ## Transport locale
 {{descriptive
 ##### Voiture
@@ -1790,7 +1780,7 @@ Les transports permettront aux joueur de ce déplacer dans leur monde mais aussi
 :
 **Véhicule SF** Véhicule de taille moyen de plusieurs couleur, ce dissimule dans dans les pans SF
 }}
-\page
+
 {{descriptive
 ##### Bateau
 *taille moyen*
@@ -1815,7 +1805,7 @@ Module de transport casi instantané mais avec un temps de recharge et de charge
 :
 **Temps de charge** 1h de charge pour utilisation.
 }}
-
+\page
 ## Transport externe artificielle
 
 {{descriptive
