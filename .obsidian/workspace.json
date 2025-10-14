@@ -38,14 +38,12 @@
             "id": "f951158dae4ec638",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "règles/monde/divinité.md",
-                "mode": "source",
-                "source": false
+                "file": "ressources/[5R-Editable]Feuille_de_personnage-v.2.3.2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "divinité"
+              "icon": "lucide-file-text",
+              "title": "[5R-Editable]Feuille_de_personnage-v.2.3.2"
             }
           }
         ],
@@ -213,15 +211,18 @@
   },
   "active": "f951158dae4ec638",
   "lastOpenFiles": [
-    "règles/monde/transport.md",
+    "ressources/règles/boite.png",
+    "Liste_fichier.base",
+    "Nihil _ DnD+ - The Homebrewery.pdf",
+    "README.md",
+    "The Homebrewery V3.md",
     "règles/monde/divinité.md",
+    "règles/monde/transport.md",
     "règles/monde/plan_realite.md",
     "règles/monde/traite.md",
     "règles/personnage/Liste des classes/Éclaireur (Sous classe rodeur).md",
     "règles/personnage/Liste des classes/Psyker (Sous classe ensorceleur).md",
     "règles/monstre/liste_des_monstres.md",
-    "README.md",
-    "Liste_fichier.base",
     "book.md",
     "règles/monstre/familier.md",
     "règles/monstre/monstre.md",
@@ -244,11 +245,7 @@
     "ressources/[5R-Editable]Feuille_de_personnage-v.2.3.2.pdf",
     "règles/personnage/modifications_technologiques.md",
     "règles/personnage/liste_module.md",
-    "règles/personnage/fiche_perso.md",
     "ressources/carte.pdn",
-    "ressources/carte.pdn.0.pdnSave",
-    "ressources/Nouveau dossier/carte.pdn",
-    "ressources/règles/boite.png",
-    "Feuille_de_personnage_barbar.pdf.md"
+    "ressources/carte.pdn.0.pdnSave"
   ]
 }

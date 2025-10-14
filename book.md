@@ -10,7 +10,7 @@ ___
 {{banner DnD 5 - 2014}}
 
 {{footnote
-  Plongez dans l'infinité des plans, où chaque monde est différant dans une histoire mélangeant fantaisie, moderne et science-fiction. 
+  Plongez dans l'infinité des plans, où chaque monde est différent dans une histoire mélangeant fantaisie, moderne et science-fiction. 
 }}
 
 ![background image](https://i.pinimg.com/1200x/fd/86/ea/fd86eaeca42336f13678041267a61721.jpg){position:absolute,bottom:-50%,left:0,height:155%}
