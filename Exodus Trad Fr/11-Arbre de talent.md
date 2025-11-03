@@ -222,3 +222,75 @@ Le personnage a appris à se soigner lui-même et ses compagnons.
 - **Médecin de Campagne :** Le personnage peut remettre sur pied un compagnon grièvement blessé au cœur du combat. Il peut faire un test de **Premiers Secours** pour restaurer **1d4 points de vie** à un compagnon qui est à **0 PV ou moins**.
     
     - **Prérequis :** Don pour les Soins, Touguérisseuse 1, Touguérisseuse 2.
+
+### **STRATÉGIE**
+
+
+| Résultat du Jet | Bonus |
+| --------------- | ----- |
+| 9 ou moins      | +0    |
+| 10-14           | +1    |
+| 15-24           | +2    |
+| 25 ou plus      | +3    |
+
+
+Le personnage a la matière grise nécessaire pour trouver des solutions à la plupart des situations. Ces talents peuvent être sélectionnés dans n'importe quel ordre, mais avant de pouvoir sélectionner un talent de cet arbre, il doit avoir préalablement sélectionné au moins un talent de l'**Arbre de Recherche**.
+
+- **Exploitation de la Faiblesse :** Après **1 round de combat**, le personnage peut désigner un adversaire et tenter de trouver des moyens de prendre l'avantage en utilisant la cervelle plutôt que les muscles. Le personnage utilise une **action de déplacement** et fait un **test d'Intelligence (DD 15)** avec un bonus égal à son niveau.
+    
+    - Si le test réussit, pour le **reste du combat**, le personnage utilise son **bonus d'Intelligence** à la place de son bonus de **Force** ou de **Dextérité** sur ses **jets d'attaque**. Il trouve ainsi des moyens de déjouer son adversaire et remarque les faiblesses dans son style de combat.
+        
+    - **Prérequis :** Un talent de l'Arbre de Recherche.
+        
+- **Planification :** Avant une rencontre, le personnage peut élaborer un plan d'action pour gérer la situation. L'utilisation de ce talent nécessite une **préparation** ; un personnage ne peut pas l'utiliser s'il est surpris ou autrement non préparé. La création d'un plan nécessite **1 minute**.
+    
+    - Après avoir créé le plan, le personnage fait un **test d'Intelligence (DD 10)** avec un bonus égal à son niveau. Le résultat confère au personnage et à ses alliés un **bonus de circonstances**.
+        
+    - Ce bonus peut être appliqué à **tous les tests de compétence et jets d'attaque** du personnage et de ses alliés, mais il ne dure que pour les **3 premiers rounds** après l'élaboration du plan. Ensuite, le bonus **diminue de 1 point** (jusqu'à un minimum de +0) par round supplémentaire, les aléas des circonstances venant défaire même les meilleurs plans.
+        
+    - **Prérequis :** Un talent de l'Arbre de Recherche.
+        
+- **Ruse :** Le personnage a la capacité de semer temporairement la confusion chez une cible par la ruse et la tromperie. La cible doit avoir une **INT de 3 ou plus**, être à **9 mètres (30 pieds)**, et pouvoir entendre et comprendre le personnage.
+    
+    - Pour piéger une cible, le personnage doit utiliser une **action de round complet** et faire un **test d'Intelligence (DD 15)** avec un bonus égal à son niveau. Si le test réussit, la cible peut résister par un **jet de Volonté (DD 10 + niveau du personnage + bonus d'INT du personnage)**.
+        
+    - Si le jet de sauvegarde échoue, la cible est **étourdie** (incapable d'agir, mais peut se défendre normalement) pendant **1 round**.
+        
+    - Une ruse ne peut être utilisée **qu'une seule fois par rencontre** contre une cible particulière. Après la première tentative, la cible devient méfiante et **immunisée** à de telles manoeuvres.
+        
+    - C'est une capacité **influençant l'esprit**.
+        
+    - **Prérequis :** Un talent de l'Arbre de Recherche.
+
+### **SURVIE**
+
+Errer dans le Terrain Dévasté n'est pas qu'un travail – c'est un mode de vie. Certains personnages peuvent trouver des chemins, de l'eau ou de la nourriture là où d'autres ne deviendraient qu'une autre victime de l'environnement.
+
+- **Chasseur Accompli :** Le personnage sait exactement quels animaux et plantes du Terrain Dévasté sont comestibles, et comment les attraper. Les rats n'ont peut-être pas beaucoup de goût, mais ils peuvent vous maintenir en vie. Le personnage peut faire un **test de Survie (DD 12)** pour trouver et préparer assez de nourriture et d'eau potable pour lui-même pour une journée. Pour chaque **+3** au-delà du DD, il peut fournir de la nourriture et de l'eau pour un personnage supplémentaire.
+    
+- **Sourcier :** Le personnage a une capacité étrange à trouver des sources d'eau dans les Terres Dévastées ; bien que l'eau ne soit pas garantie propre à la consommation. Il peut faire un **test de Survie (DD 15)** pour localiser une source d'eau naturelle en extérieur ou souterraine.
+    
+- **Camouflage :** Le personnage a appris à connaître les particularités du terrain du Terrain Dévasté au point de pouvoir s'y fondre facilement. Lorsqu'il est dans le Terrain Dévasté (loin des colonies), le personnage peut **substituer** sa compétence de **Survie** à sa compétence de **Dissimulation** pour tous les tests de Dissimulation.
+    
+- **Apaisement des Bêtes :** Le personnage a assez fréquenté les animaux, mutés ou non, pour savoir comment les calmer. Il peut faire un **test de Dressage (DD 20)** pour changer l'attitude d'une créature hostile non intelligente (INT 2 ou moins) en **Neutre**. Cette capacité ne fonctionne pas sur les nuisibles.
+    
+    - **Prérequis :** Deux autres talents de l'Arbre de Survie.
+        
+- **Embuscade :** Le personnage sait exactement comment tendre – et éviter – les embuscades. Lorsqu'il tend une embuscade, la cible subit un **malus de -4** à tous ses tests de **Détection** pour la repérer ; de même, le personnage reçoit un **bonus de +4** à tous ses tests de **Détection** pour éviter une embuscade tendue par quelqu'un d'autre.
+    
+    - **Prérequis :** Deux autres talents de l'Arbre de Survie.
+        
+- **Éclaireur :** Le personnage connaît le Terrain Dévasté comme le fond de sa poche. Il reçoit un **bonus égal à son niveau** à tous les tests de **Survie** liés à sa vitesse de déplacement dans les Terres Dévastées, grâce à son talent pour localiser des sentiers et des raccourcis inconnus même de la faune locale.
+    
+
+### **INCASSABLE**
+
+Les personnages possédant ces talents sont particulièrement résistants et coriaces.
+
+- **Rester Conscient :** Le personnage acquiert la capacité de continuer à accomplir des actions alors qu'il serait autrement considéré comme inconscient et mourant. Lorsque les points de vie du personnage atteignent **-1**, il peut agir comme s'il était **handicapé**, effectuant soit une **action d'attaque**, soit une **action de déplacement** chaque round jusqu'à ce que ses PV atteignent **-10** (et qu'il meure) ou remontent à **1 ou plus**. Le personnage peut choisir de succomber à l'inconscience s'il pense que cela pourrait l'empêcher de subir plus de dégâts.
+    
+- **Robuste :** Le personnage devient particulièrement robuste, gagnant un nombre de points de vie égal à son **niveau** immédiatement après avoir sélectionné ce talent. Par la suite, le personnage gagne **+1 point de vie supplémentaire** à chaque niveau qu'il gagne.
+    
+- **Second Souffle :** Le personnage peut dépenser **1 Point Karma** pour gagner un second souffle en tant qu'**action libre**. Lorsqu'il fait cela, il récupère un nombre de points de vie égal à son **modificateur de Constitution**. Ce talent ne peut pas augmenter les PV du personnage au-delà de son total normal maximum.
+    
+- **Endurance :** Le personnage récupère **deux fois plus vite** que la normale. Il récupère **2 points de vie par niveau** par soirée de repos, **2 points de dégâts temporaires aux caractéristiques** par soirée de repos, et se réveille en **moitié moins de temps** après avoir été assommé.
