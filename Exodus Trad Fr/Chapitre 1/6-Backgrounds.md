@@ -110,7 +110,7 @@ Les gangs sont un **mode de vie** partout où règnent le désordre et l'absen
 
 ---
 
-**MUTANT DÉSERTEUR**
+## **MUTANT DÉSERTEUR**
 
 Après plusieurs années d'**entraînement militaire** au sein de votre escouade de Mutants à Los Alamos, vous avez **tourné le dos** à vos frères d'armes pour tracer votre propre voie dans les Terres Dévastées. Comme d'autres Mutants Déserteurs avant vous, vous avez cherché à rejoindre les **régions contrôlées par les humains**. Un jour, votre décision de quitter l'Armée Mutante pourrait bien **vous retomber dessus**, mais telle est la vie dans le Terrain Dévasté.
 

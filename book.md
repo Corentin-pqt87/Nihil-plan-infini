@@ -402,6 +402,67 @@ Toute histoire a un début. L'historique de votre personnage révèle d'où vous
 
 {{footnote Personnage}}
 
+
+
+#### ENFANT SAUVAGE
+
+Vous avez passé la majeure partie, voire la totalité, de votre **enfance dans la nature sauvage**. Bien que le Terrain Dévasté soit un endroit dangereux, l'**instinct maternel** de nombreuses espèces y demeure fort. Par miracle, vous avez **survécu** à votre abandon, qu'il ait été intentionnel ou accidentel, et, suite à des circonstances inhabituelles, vous êtes à présent **revenu à la civilisation**.
+
+L'Enfant Sauvage est **compétent** avec les **Armes Simples**.
+
+**Compétences de Classe Bonus :** Athlétisme, Escalade, Dressage, Acrobaties, Nature et Survie.
+
+**bonus** :: +1 en Force et en Dextérité
+**malus** :: -1 en Intelligence et en Charisme
+**note** :: analphabète
+\page
+#### ESCLAVE AFFRANCHI
+
+Vous êtes un ancien esclave qui a **conquis sa liberté**, après vous être échappé ou avoir été libéré par votre ancien maître. La majeure partie, sinon la totalité, de votre vie s'est passée **en servitude** et vous avez été traité à peine mieux qu'une **bête de somme**.
+
+En l'absence de lois pour protéger les personnes contre l'exploitation, **l'esclavage est bien vivant** dans la plupart des plans. À certains endroits, on l'appelle par des termes plus civilisés, comme la **servitude sous contrat**, mais le résultat final est le même : l'**achat, la vente et le troc** d'autres êtres humains ne sont pas seulement acceptés dans de nombreuses communautés, mais sont souvent encouragés.
+
+Les esclaves sont, en général, des **ouvriers peu éduqués** qui travaillent dans des conditions **totalement inhumaines**. En de rares occasions, cependant, un maître fournira une formation en lecture, écriture et calcul pour avoir un serviteur éduqué.
+
+Inévitablement, les esclaves portent une **marque** quelconque les identifiant comme un bien ; la seule façon de l'effacer est de la **brûler ou de la découper**, ce qui laisse une **importante cicatrice**.
+
+Les Esclaves Affranchis sont **compétents** avec les **Armes Simples**.
+
+**Compétences de Classe Bonus :** Artisanat (Structurel), Dressage, Profession (majordome, cuisinier, fermier, ouvrier, garde, servante et prostitué(e)).
+
+**bonus** :: +1 en Constitution
+**malus** :: -1 en Charisme
+**note** :: analphabète
+
+#### **GANGSTER**
+
+Vous avez passé vos années de formation **au sein ou à proximité d'un syndicat du crime organisé**. Là, vous y avez appris plusieurs leçons de vie importantes : l'**intimidation** peut être la plus grande forme de négociation ; les **balles sont plus éloquentes que les mots** ; et la **famille et la loyauté** signifient tout, même quand tout le reste a échoué.
+
+Les gangs sont un **mode de vie** partout où règnent le désordre et l'absence de loi. Même dans le Terrain Dévasté, le **crime organisé** existe toujours et, dans certains cas, **contrôle des villes entières**.
+
+Les Gangsters sont **compétents** avec les **Armes Légères** et les **Armures Légères**.
+
+**Compétences de Classe Bonus :** Marchandage, Bluff, Déguisement, Intimidation, Falsification, Jeu, Recherche d'Informations, Connaissance (Rue et Pègre), Détection des Intentions, Escamotage et Détection.
+
+#### **SURVIVALISTE**
+
+Vous venez d'une communauté qui place la **survie au-dessus de tout**. Typiquement, cela signifie une **méfiance envers les étrangers** et un entraînement proche du **militaire** ; cela peut aussi signifier un **isolement total** dans une grotte souterraine ou derrière d'**énormes murailles**. Dans les deux cas, vous êtes capable de **vous débrouiller seul**, et les grandes villes ou organisations ne doivent être **approchées qu'en cas de nécessité absolue**.
+
+Les Survivalistes sont **compétents** avec les **Armes Légères** et les **Armures Légères**.
+
+**Compétences de Classe Bonus** en Survie, Investigation, Acrobaties, Discrétion et Dressage.
+
+
+#### **FAUCHEUR TECNO**
+
+Vous êtes un membre de la secte des **Faucheurs Technos**. Contrairement aux autres sectateurs, vous ne vous intéressez pas tant à la métaphysique qu'à la **technologie**. Pour vous, la technologie n'est pas seulement importante ; c'est **la seule chose** qui puisse **sauver la race humaine de l'extinction**. Votre objectif est de **sauver la technologie, quel qu'en soit le prix**.
+
+Les Faucheurs Technos sont une secte **technophile** basée dans un ancien centre de recherche militaire de San Antonio, au Texas, mais ils ont ouvert de nombreuses **cellules dissidentes** dans les grandes villes du Terrain Dévasté. Contrairement aux sectes typiques, les Faucheurs Technos ne **vénèrent** pas nécessairement la technologie – même si, pour un étranger, cela pourrait y ressembler – mais prennent plutôt **tous les moyens nécessaires** pour la **préserver**.
+
+Les Faucheurs sont **compétents** avec les **Armes courantes** et les **Armures Légères et Lourde**.
+
+**Compétences de Classe Bonus :** Utilisation d'Ordinateur, Artisanat(DEX), Escamotage, Histoire (Science et Technologie), Investigation.
+
 \page
 {{partCover}}
 
@@ -2703,4 +2764,3 @@ For use with any fantasy roleplaying ruleset. Play the best game of your life!
 
 Homebrewery.Naturalcrit.com
 }}
-
