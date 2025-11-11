@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exodus Trad Fr/Chapitre 2/1-Skills.md",
+                "file": "Exodus Trad Fr/Chapitre 1/9-Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-Skills"
+              "title": "9-Traits"
+            }
+          },
+          {
+            "id": "142c3a705cc36ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "règles/monde/divinité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "divinité"
             }
           }
         ]
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "right": {
     "id": "dd76c8a8d1b95324",
@@ -185,30 +199,33 @@
   },
   "active": "2eb8a33a89f3ec08",
   "lastOpenFiles": [
+    "règles/monde/divinité.md",
+    "Exodus Trad Fr/Chapitre 1/9-Traits.md",
+    "Exodus Trad Fr/Chapitre 1/8-Experience.md",
+    "Exodus Trad Fr/Chapitre 1/7-Classe.md",
+    "Exodus Trad Fr/Chapitre 1/6-Backgrounds.md",
+    "règles/item/armes.md",
+    "règles/monde/traite.md",
+    "Exodus Trad Fr/Chapitre 1/10-Occupations.md",
+    "Exodus Trad Fr/Chapitre 1/5-Races.md",
+    "Exodus Trad Fr/Chapitre 1/4-Création de personnage.md",
+    "Exodus Trad Fr/Chapitre 1/12-Réputation.md",
     "Exodus Trad Fr/Chapitre 2/1-Skills.md",
     "Exodus Trad Fr/Chapitre 2",
-    "Exodus Trad Fr/Chapitre 1/12-Réputation.md",
     "Exodus Trad Fr/Chapitre 1",
     "Exodus Trad Fr/Chapitre 1/11-Arbre de talent.md",
     "Exodus Trad Fr/img/arbre de talent 3.png",
     "Exodus Trad Fr/img/arbre de talent 2.png",
     "Exodus Trad Fr/img/arbre de talent 1.png",
-    "Exodus Trad Fr/Chapitre 1/10-Occupations.md",
-    "Exodus Trad Fr/Chapitre 1/9-Traits.md",
     "Exodus Trad Fr/img/trait2.png",
     "Exodus Trad Fr/img/trait1.png",
-    "Exodus Trad Fr/Chapitre 1/8-Experience.md",
     "Exodus Trad Fr/img/experience.png",
-    "Exodus Trad Fr/Chapitre 1/7-Classe.md",
     "Exodus Trad Fr/img/age.png",
     "Exodus Trad Fr/img/classe.png",
-    "Exodus Trad Fr/Chapitre 1/6-Backgrounds.md",
-    "Exodus Trad Fr/Chapitre 1/5-Races.md",
     "Exodus Trad Fr/img/mutant.png",
     "Exodus Trad Fr/img/ghoul.png",
     "Exodus Trad Fr/img",
     "Exodus Trad Fr/Nouveau dossier",
-    "Exodus Trad Fr/Chapitre 1/4-Création de personnage.md",
     "Exodus Trad Fr/Chapitre 1/3-Ability Scores.md",
     "Exodus Trad Fr/Chapitre 1/2-d20.md",
     "Exodus Trad Fr/Chapitre 1/1-Introduction.md",
@@ -219,16 +236,13 @@
     "Nihil _ DnD+ - The Homebrewery.pdf",
     "README.md",
     "The Homebrewery V3.md",
-    "règles/monde/divinité.md",
     "règles/monde/transport.md",
-    "règles/monde/traite.md",
     "règles/personnage/Liste des classes/Éclaireur (Sous classe rodeur).md",
     "règles/personnage/Liste des classes/Psyker (Sous classe ensorceleur).md",
     "règles/monstre/liste_des_monstres.md",
     "book.md",
     "règles/monstre/familier.md",
     "règles/monstre/monstre.md",
-    "règles/item/armures.md",
     "règles/personnage/Liste des classes",
     "histoire/~WRD0585.tmp"
   ]
