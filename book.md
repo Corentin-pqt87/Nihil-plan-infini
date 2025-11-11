@@ -556,7 +556,7 @@ Le personnage a une **forte dose de malchance** et ne **reconstitué sa rése
 Le personnage ne **réfléchit pas ou ne s'inquiète pas des menaces**, lui permettant d'agir plus vite mais l'exposant à plus de danger au combat. Il obtient le don **Initiative Améliorée** comme don bonus, mais ne peut **bénéficier d'aucun bonus de Dextérité ou d'esquive à sa Défense**.
 
 #### CORPS MASSIF
-Le personnage est **plus grand que la normale**. Il gagne un **bonus de +1 en Force et en Constitution**, mais subit un **malus de -2 en Dextérité**.
+Le personnage est **plus grand que la normale**. Il gagne un **bonus de +1 en Force et en Constitution**, mais subit un **malus de -2 en Dextérité**. Sa vitesse est augmenté de +1.
 
 \page
 
