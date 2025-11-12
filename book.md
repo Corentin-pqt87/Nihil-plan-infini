@@ -23,6 +23,7 @@ ___
 **Image du chapitre personnage** :: https://i.pinimg.com/736x/89/eb/9d/89eb9d4c731665e43a9b2f57d1de90a1.jpg par mario avila
 **Immage du chapitre Historique et traits** :: https://i.pinimg.com/736x/18/60/2b/18602bb207c8e57cadf56a676c98e657.jpg par Торговая
 **Image du chapitre races** :: https://i.pinimg.com/1200x/8a/a3/fe/8aa3fe40dceb8d8c2c833bf9a2da2524.jpg par Constantine
+**Image du chapitre Armes** :: https://i.pinimg.com/1200x/0f/c0/2f/0fc02f858998183002d8fb83d35c43bd.jpg par Michele Vurchio
 **Image du chapitre classes** :: https://i.pinimg.com/1200x/32/fa/44/32fa4473969268e59a34a6aa1440c8ca.jpg par Kyle Rosenberg
 **Image du chapitre plans** :: https://i.pinimg.com/1200x/12/03/97/1203974472a5094e49d92355ac5d4b67.jpg par Øm ▇
 **Image du chapitre transport** :: https://i.pinimg.com/736x/58/ba/c9/58bac9bfef5add18ee9f9a8e2136af33.jpg par Igor Moskalenko
@@ -1087,7 +1088,7 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 ## Les Armes
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
-  ![Background image](https://i.imgur.com/9TU96xY.jpg){position:absolute,bottom:0,left:0,height:100%}
+  ![Background image](https://i.pinimg.com/1200x/0f/c0/2f/0fc02f858998183002d8fb83d35c43bd.jpg){position:absolute,bottom:-39%,left:-30%,height:140%}
 }}
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Les Armes}}
