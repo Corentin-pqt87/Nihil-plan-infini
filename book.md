@@ -472,6 +472,10 @@ Les Survivalistes sont **compétents** avec les **Armes Légères** et les 
 
 **Compétences de Classe Bonus** en Survie, Investigation, Acrobaties, Discrétion et Dressage.
 
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Historiques et Traits}}
+
 \page
 #### **FAUCHEUR TECNO**
 
@@ -511,6 +515,9 @@ Le personnage est **naturellement intelligent** et gagne un **bonus de +1 en 
 
 #### COGNEUR
 Le personnage est un peu **plus lent, mais un peu plus costaud**. Son **initiative subit un malus de -2**, mais il inflige **+1 point de dégâts supplémentaires** avec ses attaques de mêlée.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Historiques et Traits}}
 
 \page
 
@@ -558,6 +565,9 @@ Le personnage ne **réfléchit pas ou ne s'inquiète pas des menaces**, lui per
 
 #### CORPS MASSIF
 Le personnage est **plus grand que la normale**. Il gagne un **bonus de +1 en Force et en Constitution**, mais subit un **malus de -2 en Dextérité**. Sa vitesse est augmenté de +1.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Historiques et Traits}}
 
 \page
 
@@ -590,10 +600,14 @@ Le personnage est **plus intelligent que la moyenne**. Il gagne un **bonus de 
 
 #### AS DE LA TECHNOLOGIE  
 Le personnage est doué pour **improviser et améliorer les appareils technologiques**. Il reçoit un **bonus de +1** aux compétences **Utilisation d'Ordinateur, Artisanat (Électronique), Connaissance (Technologie) et Réparation** lorsqu'il s'agit de **réparer des dispositifs technologiques**. Cependant, parce qu'il a passé **trop de temps parmi les machines**, il est devenu **isolé du monde** et subit un **malus de -1 à tous les tests de compétences basées sur la Sagesse**.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Historiques et Traits}}
+
 \page
 {{partCover}}
 
-# CHAP II
+# 3 Partie
 ## Les races
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
@@ -667,7 +681,7 @@ Quelques races sont subdivisées en sous-races. Un personnage d'une sous-race po
 \page
 {{partCover}}
 
-# CHAP III
+# 4 Partie
 ## Les Classes
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
@@ -1069,7 +1083,7 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 \page
 {{partCover}}
 
-# CHAP IV
+# 5 Partie
 ## Les Armes
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
@@ -1155,7 +1169,7 @@ Utiliser une arme que vous maîtrisez permet d'ajouter votre bonus de maîtrise 
 \page
 {{partCover}}
 
-# CHAP V
+# 6 Partie
 ## Les Armures
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
@@ -1254,7 +1268,7 @@ Le temps nécessaire pour mettre ou ôter une armure dépend de sa catégorie.
 \page
 {{partCover}}
 
-# CHAP VI
+# 7 Partie
 ## Les Sorts
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
@@ -1893,7 +1907,7 @@ Jusqu'à 10 créatures doivent réussir un JdS d'Int. ou subir 14d6 dégâts psy
 \page
 {{partCover}}
 
-# CHAP VII
+# 8 Partie
 ## Le Transport
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
@@ -2057,7 +2071,7 @@ Si une personne s'approche a moins de 5m alors elle est dit dans son champs d'ac
 \page
 {{partCover}}
 
-# CHAP IX
+# 9 Partie
 ## Les Plans
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
@@ -2155,7 +2169,7 @@ Ce traité met en accord les factions sur la confidentialité au populations et 
 \page
 {{partCover}}
 
-# CHAP X
+# 10 Partie
 ## Les Monstres
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
