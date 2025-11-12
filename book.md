@@ -24,6 +24,7 @@ ___
 **Immage du chapitre Historique et traits** :: https://i.pinimg.com/736x/18/60/2b/18602bb207c8e57cadf56a676c98e657.jpg par Торговая
 **Image du chapitre races** :: https://i.pinimg.com/1200x/8a/a3/fe/8aa3fe40dceb8d8c2c833bf9a2da2524.jpg par Constantine
 **Image du chapitre Armes** :: https://i.pinimg.com/1200x/0f/c0/2f/0fc02f858998183002d8fb83d35c43bd.jpg par Michele Vurchio
+**Image du chapitre armures** :: https://i.pinimg.com/736x/fc/6b/f2/fc6bf2c2e715ba9fa341ee02c0ca26e4.jpg par Mathieu DOUDOU
 **Image du chapitre classes** :: https://i.pinimg.com/1200x/32/fa/44/32fa4473969268e59a34a6aa1440c8ca.jpg par Kyle Rosenberg
 **Image du chapitre plans** :: https://i.pinimg.com/1200x/12/03/97/1203974472a5094e49d92355ac5d4b67.jpg par Øm ▇
 **Image du chapitre transport** :: https://i.pinimg.com/736x/58/ba/c9/58bac9bfef5add18ee9f9a8e2136af33.jpg par Igor Moskalenko
@@ -1174,7 +1175,7 @@ Utiliser une arme que vous maîtrisez permet d'ajouter votre bonus de maîtrise 
 ## Les Armures
 
 {{imageMaskEdge5,--offset:10cm,--rotation:180
-  ![Background image](https://i.imgur.com/9TU96xY.jpg){position:absolute,bottom:0,left:0,height:100%}
+  ![Background image](https://i.pinimg.com/736x/fc/6b/f2/fc6bf2c2e715ba9fa341ee02c0ca26e4.jpg){position:absolute,bottom:-9%,left:0%,height:110%}
 }}
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Les Armures}}
