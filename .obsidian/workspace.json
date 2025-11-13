@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2eb8a33a89f3ec08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exodus Trad Fr/Chapitre 1/9-Traits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9-Traits"
-            }
-          },
-          {
             "id": "142c3a705cc36ac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "règles/monde/divinité.md",
+                "file": "règles/monstre/creatures of freeport/flowers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "divinité"
+              "title": "flowers"
             }
           }
         ]
@@ -197,9 +183,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2eb8a33a89f3ec08",
+  "active": "142c3a705cc36ac2",
   "lastOpenFiles": [
     "règles/monde/divinité.md",
+    "règles/monstre/creatures of freeport/flowers.md",
+    "règles/monstre/creatures of freeport",
     "Exodus Trad Fr/Chapitre 1/9-Traits.md",
     "Exodus Trad Fr/Chapitre 1/8-Experience.md",
     "Exodus Trad Fr/Chapitre 1/7-Classe.md",
@@ -242,8 +230,6 @@
     "règles/monstre/liste_des_monstres.md",
     "book.md",
     "règles/monstre/familier.md",
-    "règles/monstre/monstre.md",
-    "règles/personnage/Liste des classes",
-    "histoire/~WRD0585.tmp"
+    "règles/personnage/Liste des classes"
   ]
 }
