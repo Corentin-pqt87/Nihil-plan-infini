@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d54d84c3ec99fede",
+        "id": "8722449515ebca3f",
         "type": "tabs",
         "children": [
           {
-            "id": "142c3a705cc36ac2",
+            "id": "3723397a83019731",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "flowers"
             }
+          },
+          {
+            "id": "236cf37c38adf18f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +194,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "142c3a705cc36ac2",
+  "active": "236cf37c38adf18f",
   "lastOpenFiles": [
-    "règles/monde/divinité.md",
     "règles/monstre/creatures of freeport/flowers.md",
+    "règles/monde/divinité.md",
     "règles/monstre/creatures of freeport",
     "Exodus Trad Fr/Chapitre 1/9-Traits.md",
     "Exodus Trad Fr/Chapitre 1/8-Experience.md",
