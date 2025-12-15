@@ -1,3 +1,4 @@
+#exodus
 Plutôt que de proposer plusieurs classes reflétant les différents rôles que les personnages peuvent endosser, il existe deux classes **« modèles »** qui servent de choix disponibles pour tous les personnages d'Exodus. Ces deux modèles sont connus sous le nom de classe **Agressive** et classe **Défensive**.
 
 À mesure que le personnage progresse, il peut acquérir un **entraînement spécialisé** ou rejoindre l'une des nombreuses **organisations du Terrain Dévasté**. Ces spécialisations et affiliations supplémentaires sont représentées par les différentes **classes de prestige**, détaillées dans le Chapitre 6.

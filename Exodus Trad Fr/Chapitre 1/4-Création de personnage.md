@@ -1,3 +1,4 @@
+#exodus
 Ce chapitre détaille le processus nécessaire pour créer un personnage adapté à l'univers d'**Exodus** ou à un univers post-apocalyptique similaire. Les personnages sont créés comme détaillé ci-dessous. Le chapitre est divisé en **huit sections** qu'il convient de suivre dans l'ordre présenté, chaque section offrant plusieurs options de personnalisation pour aboutir à un personnage final unique.
 
 **1. La Race**  

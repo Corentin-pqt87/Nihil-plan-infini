@@ -1,3 +1,4 @@
+#exodus
 **L'EXPÉRIENCE (EXP)** est ce qui mesure la puissance globale d'un personnage. Tous les personnages commencent avec **0 point d'expérience (niveau 1)** et doivent apprendre les leçons de la vie en **expérimentant le monde**. L'expérience est acquise grâce à une variété de leçons de vie, telles que le **Combat**, le **Jeu de Rôle** et les **Rencontres Situationnelles**, ainsi que des **bonus pour l'Achèvement d'une Quête**.
 
 Chaque type de rencontre gère l'EXP différemment. L'expérience de **Combat** est détaillée dans le Bestiaire d'Exodus, tandis que les autres formes d'expérience sont détaillées dans le Guide de l'Overseer.

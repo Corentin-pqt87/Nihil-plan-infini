@@ -1,3 +1,4 @@
+#exodus
 Les Historiques représentent la grande variété d'influences sociétales qu'un personnage a pu rencontrer durant son éducation. Alors qu'une **Occupation** représente ce que le personnage fait pour vivre, un **Historique** est la manière dont le personnage a été élevé ou les expériences qu'il a vécues et qui ont servi de facteur de développement principal.
 
 Tous les personnages doivent **commencer avec un Historique** et ne peuvent en posséder **qu'un seul**. Si votre personnage était, par exemple, un Tribal Survivaliste, vous devriez décider lequel de ces Historiques a le plus influencé son développement et le sélectionner ; l'autre option d'Historique représenterait une opportunité de jeu de rôle.

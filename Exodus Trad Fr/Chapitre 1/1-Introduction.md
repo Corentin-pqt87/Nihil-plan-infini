@@ -1,3 +1,4 @@
+#exodus
 Il est dans la nature de l'Homme de détruire, qu'il s'agisse d'éradiquer une espèce animale, d'abattre la forêt tropicale ou de tuer ses semblables, une chose demeure : la guerre ne change jamais. Le 21 décembre 2012, la fin arriva pour l'Homme alors que la Guerre contre la Terreur escaladait à des proportions nucléaires et réduisait la planète en cendres. Cette date avait été pressentie dans des prophéties de l'apocalypse, qu'elles viennent des Mayas ou de l'Apocalypse du Nouveau Testament.
 
 En jetant un regard rétrospectif sur ce qui a conduit à l'Exode de l'homme, le quittant de l'âge technologique du 21e siècle, il apparaît évident que tout a commencé en 1938.

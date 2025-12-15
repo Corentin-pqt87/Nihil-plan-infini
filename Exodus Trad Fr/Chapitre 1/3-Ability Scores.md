@@ -1,3 +1,4 @@
+#exodus
 **CARACTÉRISTIQUES**
 
 Chaque personnage possède six **Caractéristiques** de base :

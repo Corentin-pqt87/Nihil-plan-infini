@@ -1,3 +1,4 @@
+#exodus
 Dans le monde post-apocalyptique, tout tourne autour des **Occupations**. Si les métiers n'existaient pas dans le Terrain Dévasté, la société cesserait de fonctionner et les villes tomberaient en ruine. Quelqu'un doit bien faire le travail, et la liste ci-dessous présente les occupations des habitants du Terrain Dévasté. Tout comme pour l'Historique, un personnage doit choisir une **Occupation** lors de la création du personnage – cependant, l'option **'Sans Occupation'** existe pour ceux qui n'ont pas encore trouvé leur voie.
 
 Une occupation offre au personnage la possibilité de choisir **deux compétences de classe supplémentaires** parmi une liste et détermine la **richesse de départ** du personnage en pièces d'acier.

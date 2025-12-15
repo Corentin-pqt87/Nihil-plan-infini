@@ -1,3 +1,4 @@
+#exodus
 **RÉPUTATION**
 
 Les personnages dans le monde d'Exodus acquièrent de la **réputation** par leurs actions, bonnes et mauvaises. Chaque action a une conséquence, et la **Réputation** d'un personnage est la mesure de ces conséquences. La réputation est mesurée en **pourcentages (d%)** avec un maximum de **100%** dans deux catégories : la **Célébrité** et l'**Infamie**.

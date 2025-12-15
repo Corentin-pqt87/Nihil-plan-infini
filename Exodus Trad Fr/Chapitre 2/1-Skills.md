@@ -1,3 +1,4 @@
+#exodus
 **COMPÉTENCES**
 
 Les **Compétences** sont aussi précieuses dans le Terrain Dévasté que l'argent l'était avant la Grande Guerre. Un bon éventail de compétences est nécessaire pour survivre aux climats rudes du nouveau monde – sans parler de la malignité des hommes et des mutants. Les compétences peuvent être utilisées pour se sortir de situations délicates, se souvenir de savoirs anciens, réparer des objets, accomplir des activités physiques et bien plus encore.

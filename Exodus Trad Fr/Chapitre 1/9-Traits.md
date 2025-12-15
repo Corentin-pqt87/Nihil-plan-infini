@@ -1,3 +1,4 @@
+#exodus
 Les **Traits** sont des caractéristiques avec lesquelles les personnages naissent ou qu'ils acquièrent tôt dans leur vie, en raison d'un dévouement, d'accidents, de traumatismes ou d'autres circonstances inhabituelles. Le choix d'un Trait ou d'une combinaison de ceux-ci est **optionnel**, mais un personnage ne peut en avoir **plus de deux**.
 
 **PEUREUX (AFRAID)**  
