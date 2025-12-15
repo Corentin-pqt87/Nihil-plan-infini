@@ -1,3 +1,6 @@
+
+[[Psyker (Sous classe ensorceleur)]]
+
 # ⚙️ **L’Ingénieur Techno-mécanicien**
 
 _(Version moderne/SF de l’Artificier)_
