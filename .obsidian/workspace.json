@@ -4,17 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "8722449515ebca3f",
+        "id": "e7d8deba31b075d9",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba1e78722538474",
+            "id": "5e1e083c35ba7864",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "histoire/dico/Mörk vinter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mörk vinter"
+            }
+          },
+          {
+            "id": "fdf021247c65b0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "histoire/dico/Krull.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Krull"
+            }
+          },
+          {
+            "id": "e9b57a057e13b90e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "histoire/dico/Galnat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Galnat"
+            }
+          },
+          {
+            "id": "ddac9d8903ebf0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "règles/monde/divinité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "divinité"
             }
           }
         ]
@@ -49,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,10 +225,23 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1ba1e78722538474",
+  "active": "5e1e083c35ba7864",
   "lastOpenFiles": [
-    "règles/index.md",
+    "histoire/frise chronologique.canvas",
+    "histoire/dico/Mörk vinter.md",
+    "histoire/dico/Krull.md",
+    "histoire/dico/Guerre de l'Orgueil.md",
+    "histoire/dico/Tijd.md",
+    "histoire/dico/Galnat.md",
+    "histoire/dico/station spatial Jupiter.md",
+    "histoire/dico/Miles tuulet.md",
+    "histoire/dico/Arāqu.md",
     "règles/monde/divinité.md",
+    "histoire/dico/Dāmu.md",
+    "histoire/dico/clefs du vent.md",
+    "histoire/dico/Tuulet.md",
+    "histoire/dico/primordio.md",
+    "règles/index.md",
     "Liste_fichier.base",
     "règles/personnage/liste_classe.md",
     "règles/personnage/classe.md",
@@ -195,26 +254,13 @@
     "Exodus Trad Fr/Chapitre 1/7-Classe.md",
     "Exodus Trad Fr/Chapitre 1/6-Backgrounds.md",
     "Exodus Trad Fr/Chapitre 1/5-Races.md",
-    "Exodus Trad Fr/Chapitre 1/4-Création de personnage.md",
-    "Exodus Trad Fr/Chapitre 1/3-Ability Scores.md",
-    "Exodus Trad Fr/Chapitre 1/2-d20.md",
-    "Exodus Trad Fr/Chapitre 1/1-Introduction.md",
-    "histoire/dico/sombres lune.md",
-    "histoire/dico/Tuulet.md",
-    "histoire/dico/Miles tuulet.md",
-    "histoire/dico/Måne.md",
     "ressources/image/sombre lune.jpg",
     "ressources/image/sombre lune.jpg.HInywL",
     "ressources/image/sombre lune.kra",
     "ressources/image/sombre lune.kra.MSRULd",
     "ressources/image",
     "ressources/Nouveau dossier",
-    "histoire/dico/guerre de L'orgueil.md",
     "histoire/dico",
-    "règles/monstre/creatures of freeport/animal.md",
-    "règles/monstre/creatures of freeport/flowers.md",
-    "règles/monstre/creatures of freeport/mort-vivant.md",
-    "règles/monstre/creatures of freeport/féérique.md",
     "règles/monstre/creatures of freeport",
     "Exodus Trad Fr/Chapitre 2",
     "Exodus Trad Fr/Chapitre 1",

@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"565f037fb29b3841","type":"group","x":3200,"y":-200,"width":2200,"height":560,"color":"1","label":"XXIIsi (22°em sicle)"},
+		{"id":"ab2180a7235250b8","x":-4320,"y":-200,"width":1800,"height":560,"color":"5","type":"group","label":"Isi (1er sicle)"},
+		{"id":"ad44a950407c1b68","type":"group","x":1320,"y":-200,"width":1160,"height":560,"color":"2","label":"XVIIIsi (18°em sicle)"},
+		{"id":"23cbde4103305ada","type":"group","x":160,"y":-200,"width":1120,"height":560,"color":"2","label":"XVIIsi (17°em sicle)"},
+		{"id":"2b0504de27828cfc","type":"group","x":-2320,"y":-200,"width":840,"height":560,"color":"5","label":"IVsi (4°em sicle)"},
+		{"id":"cc1c53b25e2584f3","type":"group","x":-1240,"y":-200,"width":840,"height":560,"color":"4","label":"IIXsi (8°em sicle)"},
+		{"id":"c5ff062f1b3ccd16","x":3240,"y":-40,"width":315,"height":240,"type":"text","text":"Victoire de Cartel Macabes sur les Miles tuulet"},
+		{"id":"648df61fb6dbe80c","x":1420,"y":-35,"width":420,"height":230,"type":"text","text":"# Réapparition de la station spatial Jupiter"},
+		{"id":"a98ecdac0f77b2bb","x":2020,"y":-35,"width":388,"height":230,"type":"text","text":"# Victoire su du golem"},
+		{"id":"6103f0d7d846a411","type":"file","file":"histoire/dico/Guerre de l'Orgueil.md","x":-4280,"y":-120,"width":400,"height":426},
+		{"id":"50cc523ab837de45","x":-3660,"y":-120,"width":400,"height":426,"type":"file","file":"histoire/dico/Miles tuulet.md"},
+		{"id":"a3387a5078819deb","x":-3040,"y":-107,"width":400,"height":400,"type":"file","file":"histoire/dico/station spatial Jupiter.md"},
+		{"id":"7c3a7eb00091a923","x":-2200,"y":40,"width":600,"height":60,"type":"text","text":"# Disparition de la station spatial Jupiter"},
+		{"id":"481ccbd167911c02","x":-1160,"y":-107,"width":400,"height":400,"type":"file","file":"histoire/dico/Galnat.md"},
+		{"id":"6cb3e59fa906dc8b","x":200,"y":-20,"width":320,"height":200,"type":"text","text":"# Création du golem\nCréation du golem par [[Tijd]] et [[Dāmu]]"}
+	],
+	"edges":[
+		{"id":"ae9c50ea3be3b5d8","fromNode":"6103f0d7d846a411","fromSide":"right","toNode":"50cc523ab837de45","toSide":"left"},
+		{"id":"9822c5be3e766bf5","fromNode":"ab2180a7235250b8","fromSide":"right","toNode":"2b0504de27828cfc","toSide":"left"},
+		{"id":"b0609c58980efa19","fromNode":"50cc523ab837de45","fromSide":"right","toNode":"a3387a5078819deb","toSide":"left"},
+		{"id":"85cd25bc8dd647e2","fromNode":"23cbde4103305ada","fromSide":"right","toNode":"ad44a950407c1b68","toSide":"left"},
+		{"id":"2ddbcf20c3ec9c92","fromNode":"ad44a950407c1b68","fromSide":"right","toNode":"565f037fb29b3841","toSide":"left"},
+		{"id":"e3bc9cf03b58576d","fromNode":"648df61fb6dbe80c","fromSide":"right","toNode":"a98ecdac0f77b2bb","toSide":"left"},
+		{"id":"b655dae3231849a9","fromNode":"2b0504de27828cfc","fromSide":"right","toNode":"cc1c53b25e2584f3","toSide":"left"},
+		{"id":"82e7705aaf1a9779","fromNode":"cc1c53b25e2584f3","fromSide":"right","toNode":"23cbde4103305ada","toSide":"left"}
+	]
+}
