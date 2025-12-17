@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "histoire/dico/Krull.md",
+                "file": "histoire/dico/cartel macabes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Krull"
-            }
-          },
-          {
-            "id": "e9b57a057e13b90e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "histoire/dico/Galnat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Galnat"
+              "title": "cartel macabes"
             }
           },
           {
@@ -71,9 +57,9 @@
               "state": {
                 "file": "histoire/frise chronologique.canvas",
                 "viewState": {
-                  "x": 1365.0995982956697,
-                  "y": 1060.0790454753665,
-                  "zoom": -3.1999999999999997
+                  "x": 2073.28727459555,
+                  "y": 801.1479263282223,
+                  "zoom": -1.6
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -91,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,21 +239,22 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b6893141c1f1152d",
+  "active": "fdf021247c65b0fc",
   "lastOpenFiles": [
-    "histoire/dico/Galnat.md",
     "histoire/frise chronologique.canvas",
+    "histoire/dico/cartel macabes.md",
+    "histoire/dico/Miles tuulet.md",
     "histoire/dico/Krull.md",
+    "histoire/dico/Galnat.md",
+    "histoire/dico/Dāmu.md",
+    "histoire/dico/clefs du vent.md",
     "histoire/dico/bête noire.md",
+    "histoire/dico/Arāqu.md",
     "histoire/dico/station spatial Jupiter.md",
     "histoire/dico/Mörk vinter.md",
     "histoire/dico/Guerre de l'Orgueil.md",
     "histoire/dico/Tijd.md",
-    "histoire/dico/Miles tuulet.md",
-    "histoire/dico/Arāqu.md",
     "règles/monde/divinité.md",
-    "histoire/dico/Dāmu.md",
-    "histoire/dico/clefs du vent.md",
     "histoire/dico/Tuulet.md",
     "histoire/dico/primordio.md",
     "règles/index.md",
@@ -281,7 +268,6 @@
     "Exodus Trad Fr/Chapitre 1/9-Traits.md",
     "Exodus Trad Fr/Chapitre 1/8-Experience.md",
     "Exodus Trad Fr/Chapitre 1/7-Classe.md",
-    "Exodus Trad Fr/Chapitre 1/6-Backgrounds.md",
     "ressources/image/sombre lune.jpg",
     "ressources/image/sombre lune.jpg.HInywL",
     "ressources/image/sombre lune.kra",
