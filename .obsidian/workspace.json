@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "06fcf08d8c70412e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "histoire/dico/bête noire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bête noire"
-            }
-          },
-          {
             "id": "fdf021247c65b0fc",
             "type": "leaf",
             "state": {
@@ -85,9 +71,9 @@
               "state": {
                 "file": "histoire/frise chronologique.canvas",
                 "viewState": {
-                  "x": -1297.6018907687956,
-                  "y": 1289.2928597177454,
-                  "zoom": -2.8
+                  "x": 1365.0995982956697,
+                  "y": 1060.0790454753665,
+                  "zoom": -3.1999999999999997
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -105,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -267,14 +253,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "297e09622cdf69df",
+  "active": "b6893141c1f1152d",
   "lastOpenFiles": [
-    "histoire/frise chronologique.canvas",
-    "histoire/dico/station spatial Jupiter.md",
-    "histoire/dico/bête noire.md",
-    "histoire/dico/Mörk vinter.md",
     "histoire/dico/Galnat.md",
+    "histoire/frise chronologique.canvas",
     "histoire/dico/Krull.md",
+    "histoire/dico/bête noire.md",
+    "histoire/dico/station spatial Jupiter.md",
+    "histoire/dico/Mörk vinter.md",
     "histoire/dico/Guerre de l'Orgueil.md",
     "histoire/dico/Tijd.md",
     "histoire/dico/Miles tuulet.md",
