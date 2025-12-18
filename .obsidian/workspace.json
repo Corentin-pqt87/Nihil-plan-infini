@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "5090a0dc420b4a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "histoire/dico/Arāqu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arāqu"
+            }
+          },
+          {
             "id": "b6893141c1f1152d",
             "type": "leaf",
             "state": {
@@ -57,9 +71,9 @@
               "state": {
                 "file": "histoire/frise chronologique.canvas",
                 "viewState": {
-                  "x": 2073.28727459555,
-                  "y": 801.1479263282223,
-                  "zoom": -1.6
+                  "x": 4598.961960621267,
+                  "y": 487.1132618337275,
+                  "zoom": -1.2000000000000002
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -77,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -239,23 +253,24 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "fdf021247c65b0fc",
+  "active": "297e09622cdf69df",
   "lastOpenFiles": [
+    "The Homebrewery V3.md",
+    "histoire/dico/Tuulet.md",
+    "histoire/dico/bête noire.md",
+    "histoire/dico/Galnat.md",
+    "histoire/dico/station spatial Jupiter.md",
+    "histoire/dico/Arāqu.md",
+    "histoire/dico/Tijd.md",
+    "règles/monde/divinité.md",
     "histoire/frise chronologique.canvas",
     "histoire/dico/cartel macabes.md",
     "histoire/dico/Miles tuulet.md",
     "histoire/dico/Krull.md",
-    "histoire/dico/Galnat.md",
     "histoire/dico/Dāmu.md",
     "histoire/dico/clefs du vent.md",
-    "histoire/dico/bête noire.md",
-    "histoire/dico/Arāqu.md",
-    "histoire/dico/station spatial Jupiter.md",
     "histoire/dico/Mörk vinter.md",
     "histoire/dico/Guerre de l'Orgueil.md",
-    "histoire/dico/Tijd.md",
-    "règles/monde/divinité.md",
-    "histoire/dico/Tuulet.md",
     "histoire/dico/primordio.md",
     "règles/index.md",
     "Liste_fichier.base",

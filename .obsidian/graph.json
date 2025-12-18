@@ -8,10 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#personnage",
+      "query": "tag:#personnage",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#evenement  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#lieu  ",
+      "color": {
+        "a": 1,
+        "rgb": 5410784
+      }
+    },
+    {
+      "query": "tag:#faction  ",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
       }
     }
   ],
@@ -25,6 +46,6 @@
   "repelStrength": 12.0833333333333,
   "linkStrength": 0.588541666666667,
   "linkDistance": 282,
-  "scale": 0.47551697508162744,
+  "scale": 0.31701131672108473,
   "close": false
 }
