@@ -706,27 +706,93 @@ De par sa race, votre personnage peut parler, lire et écrire certaines langues.
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Les races}}
 \page
-#### Sous-races
+#### Variante
 
 Quelques races sont subdivisées en sous-races. Un personnage d'une sous-race possède les traits de la race « mère » en plus des traits de la sous-race choisie. Les relations entre les sous-races varient de manière importante selon les races et les mondes dans lesquels ils vivent. Par exemple, dans le monde de campagne de Dragonlance, les nains des montagnes et ceux des collines vivent ensemble en tant que clans différents d'un même peuple, alors que dans les Royaumes Oubliées ces peuples vivent dans des royaumes séparés sous les noms de nains d'écu et nains d'or, respectivement.
 
-##### Race de D&D5 2014 :
-| Nom | Lien |
-|:------------------|:-----:|
-| Elfe                 | https://www.aidedd.org/regles/races/elfe/     |
-| Halfelin               | https://www.aidedd.org/regles/races/halfelin/    |
-| Humain               | https://www.aidedd.org/regles/races/humain/     |
-| Nain            | https://www.aidedd.org/regles/races/nain/     |
-|Demi-elfe             | https://www.aidedd.org/regles/races/demi-elfe/     |
-| Demi-orc            | https://www.aidedd.org/regles/races/demi-orc/     |
-|Drakéide |https://www.aidedd.org/regles/races/drakeide/ |
-|Gnome | https://www.aidedd.org/regles/races/gnome/ |
-| Tieffelin | https://www.aidedd.org/regles/races/tieffelin/ |
-| Aarakocra | https://www.aidedd.org/regles/races/aarakocra/ |
-| Génasi | https://www.aidedd.org/regles/races/genasis/ |
-| Gnome des profondeurs | https://www.aidedd.org/regles/races/gnome-des-profondeurs/ |
-| Goliath | https://www.aidedd.org/regles/races/goliath/ |
 
+## Drakéide
+**Type de créature :**:: Humanoïde
+
+**Taille :**:: M (entre 1,50 m à 2,15 m)
+
+**Vitesse :**:: 9 m
+
+En tant que drakéide, vous possédez les caractéristiques suivantes.
+
+**Ascendance draconique.**:: Votre lignée provient d’un ancêtre dragon. Choisissez le type de dragon dans la table Ancêtres draconiques. Votre choix affecte vos traits de Souffle et de Résistance aux dégâts, ainsi que votre apparence.
+##### Ancêtres draconiques
+| Dragon | Type de dégâts | 
+|:-----------------:|:-----: |
+| Airain            | Feu    |
+| Argent            | Froid  | 
+| Blanc             | Froid  |
+| Bleu              | Foudre | 
+| Bronze            | Foudre |
+| Cuivre            | Acide  |
+| Noir              | Acide  |
+| Or                | Feu    |
+| Rouge             | Feu    |
+| Vert              | Poison |
+
+
+**Souffle.**:: Lorsque vous prenez l’action Attaque à votre tour, vous pouvez remplacer l’une de vos attaques par une expiration d’énergie magique dans un Cône de 4,50 m ou sur une Ligne de 9 m de long et 1,50 m de large (choisissez la forme à chaque fois). Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Dextérité (DD 8 plus votre modificateur de Constitution et votre bonus de maîtrise). En cas d'échec, la créature subit 1d10 dégâts du type déterminé par votre trait Ascendance draconique. En cas de réussite, elle subit la moitié de ces dégâts. Ces dégâts augmentent de 1d10 lorsque vous atteignez les niveaux 5 (2d10), 11 (3d10) et 17 (4d10). Vous pouvez utiliser ce Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un Repos long.
+
+**Résistance aux dégâts.**:: Vous bénéficiez d'une Résistance au type de dégâts déterminé par votre trait Ascendance draconique.
+
+**Vision dans le noir.**:: Vous possédez la Vision dans le noir sur 18 m.
+
+**Vol draconique.**:: Lorsque vous atteignez le niveau 5, vous pouvez canaliser la magie draconique pour voler temporairement. Par une action Bonus, des ailes spectrales apparaissent dans votre dos pendant 10 minutes ou jusqu'à ce que vous les rétractiez (aucune action requise) ou que vous soyez Incapable d'agir. Pendant ce temps, votre Vitesse de vol est égale à votre Vitesse. Vos ailes semblent être constituées de la même énergie que votre Souffle. Une fois ce trait utilisé, vous ne pouvez plus le réutiliser avant d'avoir terminé un Repos long.
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les races}}
+\page
+## Elfe
+### Drows
+Les drows vivent généralement dans l'Outreterre, où ils ont été façonnés. Certains individus et sociétés drows évitent toutefois l'Outreterre, tout en conservant sa magie. Dans l'univers d'Éberron, par exemple, les drows vivent dans les forêts tropicales et les ruines cyclopéennes du continent de Xen'drik.
+
+### Hauts-elfes
+Les hauts-elfes ont été imprégnés de la magie issue des croisements entre la Féerie et le plan Matériel. Sur certains mondes, les hauts-elfes se désignent eux-mêmes par d'autres noms. Par exemple, ils se nomment elfes du soleil ou de la lune dans l'univers des Royaumes Oubliés, silvanesti et qualinesti dans l'univers de Dragonlance, ou Aereni dans l'univers d'Éberron.
+
+### Elfes des bois
+Les elfes des bois portent en eux la magie des forêts primitives. On les connaît sous de nombreux autres noms, notamment elfes sauvages, elfes verts, elfes des forêts ou elfes sylvestres. Les grugach sont des elfes des bois reclus du monde de Greyhawk, tandis que les kagonesti et les tairnadal sont respectivement des elfes des bois des mondes de Dragonlance et d'Éberron.
+
+### Elfes des mers
+Les elfes des mers se sont épris de la beauté sauvage de l'océan dès l'aube de multivres. Tandis que leurs cousins voyageaeint de royaume en royaume, les elfes des mers naviguaient parmi les courants et exploraient les fonds marins de nombreux mondes. 
+Comme les autres elfes ils peuvent vivrent plus de 750 ans.
+
+**Type de créature :**:: Humanoïde
+
+**Taille :**:: M (entre 1,50 m et 1,85 m)
+
+**Vitesse :**:: 9 m
+
+En tant qu'elfe, vous possédez les traits spéciaux suivants.
+
+**Vision dans le noir.**:: Vous possédez la Vision dans le noir sur 18 m.
+
+**Lignage elfique.**:: Vous faites partie d'un lignage qui vous confère des pouvoirs surnaturels. Choisissez-en une dans la table Lignages elfiques. Vous obtenez le bénéfice de niveau 1 de ce lignage.
+
+Lorsque vous atteignez les niveaux 3 et 5, vous apprenez un sort de niveau supérieur, comme indiqué dans la table. Ce sort est toujours préparé pour vous. Vous pouvez le lancer une fois sans dépenser d'emplacement de sort, et vous retrouvez cette capacité lorsque vous terminez un Repos long. Vous pouvez également lancer le sort en utilisant n'importe quel emplacement de sort du niveau approprié. L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour les sorts lancés avec ce trait (choisissez la caractéristique lors de la sélection du lignage).
+
+**Ascendance féerique.**:: Vous bénéficiez d'un Avantage aux jets de sauvegarde que vous effectuez pour éviter ou mettre fin à l'état Charmé.
+
+**Sens aiguisés.**:: Vous maîtrisez la compétence Intuition, Perception ou Survie.
+
+**Transe.**:: Vous n'avez pas besoin de dormir, et la magie ne peut pas vous endormir. Vous pouvez terminer un Repos long en 4 heures si vous passez ces heures en trance méditative durant laquelle vous restez conscient.
+
+##### Lignages elfiques
+| Lignage | Niveau 1 | Niveau 3 |Niveau 5|
+|:------------------|:-----|:-----------------|:---|
+| Drow   | La portée de votre Vision dans le noir passe à 36 m. Vous connaissez également le sort mineur lumières dansantes.     | lueurs féeriques    | ténèbres|
+| Haut-elfe   | Vous connaissez le sort mineur prestidigitation. Chaque fois que vous terminez un Repos long, vous pouvez le remplacer par un autre sort mineur de magicien.     | détection de la magie     | foulée brumeuse|
+| Elfe des bois   | Votre Vitesse passe à 10,50 m. Vous connaissez également le sort mineur druidisme.     | grande foulée    |
+
+
+
+
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les races}}
+\page
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Les races}}
 \page
