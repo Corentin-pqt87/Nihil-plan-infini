@@ -1,13 +1,13 @@
 <!-- Nihil : DnD+. -->
 {{frontCover}}
 
-{{logo ![](/assets/naturalCritLogoRed.svg)}}
+
 
 # Nihil
 ## Dans les plans infini
 ___
 
-{{banner DnD 5 - 2014}}
+{{banner DnD 5 - D20 system}}
 
 {{footnote
   Plongez dans l'infinité des plans, où chaque monde est différent dans une histoire mélangeant fantaisie, moderne et science-fiction. 
@@ -15,6 +15,9 @@ ___
 
 ![background image](https://i.pinimg.com/1200x/fd/86/ea/fd86eaeca42336f13678041267a61721.jpg){position:absolute,bottom:-50%,left:0,height:155%}
 {{skipCounting}}
+
+![homebrewery_mug](https://fichiers.rolis.net/ext/d20/__full.jpg){position:relative,bottom:230px,width:80px}
+
 \page
 #### {{font-family:CodeBold Crédit}}
 ## Image de chapitre
@@ -107,7 +110,6 @@ Tout personnage appartient à une race, l'une des nombreuses espèces intelligen
 
 Le choix de la race est une contribution importante à l'identité de votre personnage, indiquant son apparence générale et les talents naturels communs à ses membres, qu'ils soient culturels ou ancestraux. La race de votre personnage lui donne des traits raciaux, comme des sens spéciaux, la maîtrise de certaines armes ou certains outils, la maîtrise de certaines compétences, ou la capacité à utiliser certains sorts mineurs. Ces traits s'accordent parfois avec les aptitudes de certaines classes (voir étape 2). Par exemple le trait racial des halfelins pied-légers en font des roublards d'exceptions, et les haut-elfes ont tendance à être de puissants magiciens. Quelquefois, jouer contre nature peut aussi être plaisant. Par exemple, un paladin halfelin ou un magicien nain des montagnes sont des personnages inhabituels, mais ils peuvent être mémorables.
 
-Votre race modifie aussi une ou plusieurs des caractéristiques de votre personnage (voir étape 3). Notez ces modificateurs et souvenez-vous de les appliquer.
 
 Notez les traits accordés par votre race sur la feuille de personnage. N'oubliez pas aussi de noter les langues que vous connaissez, ainsi que votre vitesse de base.
 
@@ -426,6 +428,53 @@ Si vous avez l'inspiration, vous pouvez la dépenser lorsque vous effectuez un j
 # Les Historique
 Toute histoire a un début. L'historique de votre personnage révèle d'où vous venez, comment vous êtes devenu un aventurier et votre place dans le monde. Votre guerrier a peut-être été un courageux chevalier ou un soldat. Votre magicien a peut-être été un sage ou un artisan. Votre roublard a peut-être été un voleur de guilde ou un bouffon. Choisir un historique vous donne de précieux éléments d'histoire pour forger l'identité de votre personnage. La question la plus importante à se poser au sujet de votre historique est _qu'est-ce qui a changé_ ? Pourquoi avez-vous arrêté de faire ce que votre historique décrit pour embrasser une vie d'aventurier ? Où avez-vous obtenu l'argent pour acheter votre équipement de départ ou, si vous venez d'un milieu riche, pourquoi n'en avez-vous pas plus ? Comment avez-vous appris les compétences de votre classe ? Qu'est-ce qui vous distingue des gens ordinaires qui partagent votre historique ? Les exemples d'historiques qui suivent fournissent à la fois des avantages concrets (capacités, maîtrises et langues) et des suggestions pour jouer le rôle.
 
+## Dungeons & Dragons 2024
+
+#### Acolyte
+**Valeur de caractéristiques.**:: Intelligence, Sagesse, Charisme
+**Don.**:: Initié à la magie (clerc)
+**Maîtrise des compétences.**:: Intuition et Religion
+**Maîtrise d'outils.**:: Matériel de calligraphe
+
+**Équipement.**:: Choisissez A ou B : (A) Matériel de calligraphe, livre (prières), symbole sacré, parchemin (10 feuilles), robe, 8 po ; ou (B) 50 po
+
+Vous étiez au service d'un temple, en ville ou retiré dans un bosquet sacré. Vous y avez accompli des rites en l'honneur d'un dieu ou d'un panthéon. Vous avez servi un prêtre et étudié la religion. Grâce à l'instruction de ce prêtre et à votre propre dévotion, vous avez également appris à canaliser un peu de puissance divine au service de votre lieu de culte et de ceux qui y priaient.
+\column
+#### Criminel
+**Valeur de caractéristiques.**:: Dextérité, Constitution, Intelligence
+**Don.**:: Vigilant
+**Maîtrise des compétences.**:: Escamotage et Discrétion
+**Maîtrise d'outils.**:: Outils de voleur
+**Équipement.**:: Choisissez A ou B : (A) 2 dagues, outils de voleur, pied-de-biche, 2 sacoches, tenue de voyage, 16 po ; ou (B) 50 po
+
+Vous gagniez péniblement votre vie dans de sombres ruelles, coupant des bourses ou cambriolant des boutiques. Peut-être faisiez-vous partie d'une petite bande de malfrats partageant les mêmes idées et se protégeant les uns les autres. Ou peut-être étiez-vous un loup solitaire, luttant seul contre une guilde des voleurs locale ou d'autres criminels encore plus redoutables.
+
+#### Sage
+**Valeur de caractéristiques.**:: Constitution, Intelligence, Sagesse
+**Don.**:: Initié à la magie (magicien)
+**Maîtrise des compétences.**:: Arcanes et Histoire
+**Maîtrise d'outils.**:: Matériel de calligraphe
+**Équipement.**:: Choisissez A ou B : (A) Bâton, Matériel de calligraphe, livre (histoire), parchemin (8 feuilles), robe, 8 po ; ou (B) 50 po
+
+Vous avez passé des années à voyager entre manoirs et monastères, effectuant divers petits travaux et services en échange d’un accès à leurs bibliothèques. Vous avez ainsi passé de longues soirées à étudier des livres et des parchemins, à engranger des connaissances sur le multivers et à acquérir des rudiments de magie. Votre esprit aspire maintenant à plus.
+
+#### Soldat
+**Valeur de caractéristiques.**:: Force, Dextérité, Constitution
+**Don.**:: Sauvagerie martiale
+**Maîtrise des compétences.**:: Athlétisme et Intimidation
+**Maîtrise d'outils.**:: Choisissez un type de jeu (voir Équipement)
+**Équipement.**:: Choisissez A ou B : (A) Lance, arc court, 20 flèches, jeu (identique au précédent), trousse de soins, carquois, tenue de voyage, 14 po ; ou (B) 50 po
+
+Vous vous êtes entraîné à la guerre dès l’âge adulte et n'avez que peu de précieux souvenirs de votre vie avant de prendre les armes. Le combat est dans votre sang. Parfois, vous vous surprenez à exécuter par réflexe vos premiers exercices de combat. Au final, vous avez mis cet entraînement en pratique sur le champ de bataille, en faisant la guerre pour protéger le royaume.
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Historiques et Traits}}
+\page
+
+
+
+## D20 System
+
 #### ENFANT SAUVAGE
 
 Vous avez passé la majeure partie, voire la totalité, de votre **enfance dans la nature sauvage**. Bien que le Terrain Dévasté soit un endroit dangereux, l'**instinct maternel** de nombreuses espèces y demeure fort. Par miracle, vous avez **survécu** à votre abandon, qu'il ait été intentionnel ou accidentel, et, suite à des circonstances inhabituelles, vous êtes à présent **revenu à la civilisation**.
@@ -455,7 +504,7 @@ Les Esclaves Affranchis sont **compétents** avec les **Armes Simples**.
 **bonus** :: +1 en Constitution
 **malus** :: -1 en Charisme
 **note** :: analphabète
-
+\column
 #### **GANGSTER**
 
 Vous avez passé vos années de formation **au sein ou à proximité d'un syndicat du crime organisé**. Là, vous y avez appris plusieurs leçons de vie importantes : l'**intimidation** peut être la plus grande forme de négociation ; les **balles sont plus éloquentes que les mots** ; et la **famille et la loyauté** signifient tout, même quand tout le reste a échoué.
@@ -505,7 +554,7 @@ Le personnage a **peur de quelque chose** (choisissez un objet de peur approuv
 
 #### BEAU
 Le personnage est d'une **beauté stupéfiante** et reçoit un **bonus de +1 en Charisme** et un **bonus de +3% en célébrité** à une seule catégorie de réputation. Cependant, cela provoque de **l'envie**, suscitant la jalousie d'autres PNJ pouvant mener à des confrontations non violentes ou violentes. De plus, il y a aussi des **esclavagistes** qui tenteront de vous capturer pour votre beauté à la moindre occasion pour vous mettre sur le marché des esclaves.
-
+\column
 #### GROS ET BÊTE
 Le personnage est né **borné et maladroit** et subit un **malus de -1 en Dextérité, en Intelligence et en Charisme**. Il souffre également de **réactions lentes** et reçoit un **malus de -5 à sa vitesse**. Cependant, la nature l'a doté d'une **Force accrue**. Le personnage gagne un **bonus de +3 en Force**.
 
