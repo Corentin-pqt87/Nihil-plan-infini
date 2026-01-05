@@ -786,13 +786,49 @@ Lorsque vous atteignez les niveaux 3 et 5, vous apprenez un sort de niveau supé
 | Drow   | La portée de votre Vision dans le noir passe à 36 m. Vous connaissez également le sort mineur lumières dansantes.     | lueurs féeriques    | ténèbres|
 | Haut-elfe   | Vous connaissez le sort mineur prestidigitation. Chaque fois que vous terminez un Repos long, vous pouvez le remplacer par un autre sort mineur de magicien.     | détection de la magie     | foulée brumeuse|
 | Elfe des bois   | Votre Vitesse passe à 10,50 m. Vous connaissez également le sort mineur druidisme.     | grande foulée    |
-
+##### Lignages Elfes des mers
+**Allié des mers.**:: Les Bêtes aquatiques présentent une affinité profonde avec vote peuples. Vous pouvez communiquer des idées rudimentaires aux Bêtes dotées d'une vitesse de nague. Elles saisissent le sens de vos paroles, mais vous n'avez pas la capacité de les comprendre.
+**Enfant des mers.**::Vous pouvez respirer sous l'eau comme à l'air libre, et vous bénéficiez d'une résistance au dégâts de froid.
 
 
 
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Les races}}
 \page
+## Gnome
+**Type de créature :**:: Humanoïde
+
+**Taille :**:: P (entre 90 cm et 1,20 m)
+
+**Vitesse :**:: 9 m
+
+En tant que gnome, vous possédez les traits spéciaux suivants.
+
+**Vision dans le noir.**:: Vous possédez la Vision dans le noir sur 18 m.
+
+**Ruse gnome.**:: Vous avez un Avantage aux jets de sauvegarde d’Intelligence, de Sagesse et de Charisme.
+
+**Lignage gnome.**:: Vous appartenez à un lignage qui vous confère des pouvoirs surnaturels. Choisissez l’une des options suivantes ; quelle que soit votre sélection, l'Intelligence, la Sagesse ou le Charisme est votre caractéristique d’incantation pour les sorts que vous lancez avec ce trait (choisissez la caractéristique lors de la sélection du lignage) :
+
+  **__Gnome des forêts.**:: Vous connaissez le sort mineur illusion mineure. Vous avez également toujours préparé le sort communication avec les animaux. Vous pouvez le lancer sans dépenser d'emplacement de sort un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un Repos long. Vous pouvez également lancer ce sort en dépensant un emplacement de sort adapté.
+
+  **__Gnome des roches.**:: Vous connaissez les sorts mineurs réparation et prestidigitation. De plus, vous pouvez consacrer 10 minutes à lancer prestidigitation pour créer un appareil mécanique de taille TP (CA 5, 1 pv) comme un jouet, un allume-feu ou une boîte à musique. Lors de la création de l'appareil, vous déterminez sa fonction en choisissant l'un des effets de prestidigitation ; l'appareil produit cet effet chaque fois que vous ou une autre créature prenez une action Bonus pour l'activer par contact. Si l'effet choisi possède des options, vous en choisissez une pour l'appareil lors de sa création. Par exemple, si vous choisissez l'effet « jeu avec le feu » du sort, vous déterminez si l'appareil allume ou éteint le feu ; il ne fait pas les deux. Vous pouvez avoir trois appareils de ce type en même temps, et chacun arrête de fonctionner 8 heures après sa création ou lorsque vous le démantelez par contact avec l'action Utilisation.
+  
+
+{{pageNumber $[HB_pageNumber]}}
+{{footnote Les races}}
+\page
+## Gnome des profondeurs
+Les gnomes des prondeurs ou svirfneblins, originaires d'Outreterre, sont empreints de la magie de ce royaume sous-terrain. Leurs talent
+ surnaturel leur permet de se  comoufler et leur magie les rend presque indétectables.
+Ces facultés leur ont permis de survivreaux périls de l'Outreterre pendant des générations.
+
+### Trait des gnomes des profondeurs
+**Type de créature.**:: Vous êtes un Humanoïde. Vous êtes considéré comme gnome lorsqu'un prérequis ou un effet vous demande de l'ête.
+**Catégorie de taille**:: Vous êtes de taille P.
+**Vitesse.**:: Votre vitesse de base au sol est de 9 m.
+**Camouflage svirfneblin**::Lorsque vous effectuez un tes de Dextérité (Discretion).
+
 {{pageNumber $[HB_pageNumber]}}
 {{footnote Les races}}
 \page
