@@ -23,7 +23,7 @@ Placeholder
 ## Autres détails
 
 **Scores de capacité**: 
-| FOR | DEX | CON | SAG | INT | CHA |  
+| FOR | DEX | CON | INT | SAG | CHA |  
 |---|---|---|---|---|---|  
 | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) |
 
@@ -35,7 +35,7 @@ Placeholder
 
 **Résistances aux dégâts**: Placeholder
 
-**Damage Immunities**: Placeholder
+**Immunités aux dégâts**: Placeholder
 
 **Immunités aux états**: Placeholder
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "histoire/dico/Arāqu.md",
+                "file": "histoire/dico/Krull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arāqu"
+              "title": "Krull"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "histoire/dico/Arāqu.md",
+                "file": "histoire/dico/Krull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Arāqu"
+              "title": "Liens sortants de Krull"
             }
           },
           {
@@ -214,9 +214,13 @@
   },
   "active": "722af72aeaa84c2f",
   "lastOpenFiles": [
+    "histoire/dico/Tijd.md",
+    "histoire/dico/Dāmu.md",
+    "histoire/dico/bête noire.md",
     "ressources/Template/Template - Créature.md",
-    "histoire/dico/Arāqu.md",
+    "histoire/dico/Krull.md",
     "histoire/dico/Galnat.md",
+    "histoire/dico/Arāqu.md",
     "ressources/Template/Template - Véhicule.md",
     "ressources/Template/Template - Scénario.md",
     "ressources/Template/Template - Quête.md",
@@ -230,7 +234,6 @@
     "ressources/Template/Template - Lieu.md",
     "ressources/Template/Template - Incident.md",
     "README.md",
-    "histoire/dico/Krull.md",
     "book.md",
     "Liste_fichier.base",
     "ressources/règles/boite.png",
@@ -248,9 +251,6 @@
     "histoire/frise chronologique.canvas",
     "règles/monde/divinité.md",
     "histoire/dico/cartel macabes.md",
-    "histoire/dico/Tuulet.md",
-    "histoire/dico/bête noire.md",
-    "histoire/dico/station spatial Jupiter.md",
     "ressources/image/sombre lune.jpg",
     "ressources/image/sombre lune.jpg.HInywL",
     "ressources/image/sombre lune.kra",

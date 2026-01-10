@@ -40,7 +40,7 @@ Placeholder
 ## Autres détails
 
 **Scores de capacité**: 
-| FOR | DEX | CON | SAG | INT | CHA |  
+| FOR | DEX | CON | INT | SAG | CHA |  
 |:---:|:---:|:---:|:---:|:---:|:---:|  
 | 18(+4) | 18(+4) | 18(+4) | 17(+3) | 20(+5) | 20(+5) |
 
