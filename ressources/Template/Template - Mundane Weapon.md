@@ -1,4 +1,5 @@
-## Overview 
+# Template - Mundane Weapon
+## Aperçu 
 
 **Price**: Placeholder
 

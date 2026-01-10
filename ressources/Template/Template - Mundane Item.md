@@ -1,4 +1,5 @@
-## Overview 
+# Template - Mundane Item
+## Aperçu 
 
 **Price**: Placeholder
 

@@ -3,5 +3,6 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "style"
-  ]
+  ],
+  "accentColor": ""
 }
