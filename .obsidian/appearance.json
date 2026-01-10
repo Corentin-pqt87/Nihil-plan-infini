@@ -1,4 +1,7 @@
 {
   "theme": "system",
-  "cssTheme": "Typewriter"
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "style"
+  ]
 }

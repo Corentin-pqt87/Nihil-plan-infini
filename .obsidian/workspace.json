@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7d8deba31b075d9",
+        "id": "bbe2dd54f8534faf",
         "type": "tabs",
         "children": [
           {
-            "id": "b6893141c1f1152d",
+            "id": "8e7bba2182085ba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "297e09622cdf69df",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "title": "book"
             }
           }
         ]
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour README"
+              "title": "Rétrolien pour book"
             }
           },
           {
@@ -123,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de README"
+              "title": "Liens sortants de book"
             }
           },
           {
@@ -208,53 +198,54 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b6893141c1f1152d",
+  "active": "8e7bba2182085ba8",
   "lastOpenFiles": [
+    "ressources/Template/Template - Vehicle.md",
+    "ressources/Template/Template - Mundane Weapon.md",
+    "ressources/Template/Template - Mundane Item.md",
+    "ressources/Template/Template - Mundane Armor_Shield.md",
+    "ressources/Template/Template - Trap.md",
+    "ressources/Template/Template - Poison.md",
+    "ressources/Template/Template - Disease.md",
+    "ressources/Template/Template - Time Period.md",
+    "ressources/Template/Template - Storyline.md",
+    "ressources/Template/Template - Scene.md",
+    "ressources/Template/Template - Quest.md",
+    "ressources/Template/Template - Incident.md",
+    "ressources/Template/Template - Creature.md",
+    "Liste_fichier.base",
+    "book.md",
+    "ressources/règles/boite.png",
+    "ressources/Template",
+    "ressources/style.css",
+    "ressources/Nouveau document",
+    "ressources/pdf/[5R-Editable]Feuille_de_personnage-v.2.3.2.pdf",
+    "ressources/pdf",
+    "ressources/Nouveau dossier",
+    "ressources/Sans titre.md",
+    "Exodus Trad Fr/img/Pasted image 20251102121833.png",
+    "The Homebrewery V3.md",
+    "README.md",
     "histoire/dico/sombres lune.md",
     "Nihil _ DnD+ - The Homebrewery.pdf",
-    "README.md",
     "histoire/frise chronologique.canvas",
     "histoire/dico/Arāqu.md",
     "règles/monde/divinité.md",
     "histoire/dico/cartel macabes.md",
-    "The Homebrewery V3.md",
     "histoire/dico/Tuulet.md",
     "histoire/dico/bête noire.md",
     "histoire/dico/Galnat.md",
     "histoire/dico/station spatial Jupiter.md",
     "histoire/dico/Tijd.md",
-    "histoire/dico/Miles tuulet.md",
-    "histoire/dico/Krull.md",
-    "histoire/dico/Dāmu.md",
-    "histoire/dico/clefs du vent.md",
-    "histoire/dico/Mörk vinter.md",
-    "histoire/dico/Guerre de l'Orgueil.md",
-    "histoire/dico/primordio.md",
-    "règles/index.md",
-    "Liste_fichier.base",
-    "règles/personnage/liste_classe.md",
-    "règles/personnage/classe.md",
-    "Exodus Trad Fr/Chapitre 2/1-Skills.md",
-    "Exodus Trad Fr/Chapitre 1/12-Réputation.md",
-    "Exodus Trad Fr/Chapitre 1/11-Arbre de talent.md",
-    "Exodus Trad Fr/Chapitre 1/10-Occupations.md",
     "ressources/image/sombre lune.jpg",
     "ressources/image/sombre lune.jpg.HInywL",
     "ressources/image/sombre lune.kra",
-    "ressources/image/sombre lune.kra.MSRULd",
-    "ressources/image",
-    "ressources/Nouveau dossier",
-    "histoire/dico",
-    "règles/monstre/creatures of freeport",
-    "Exodus Trad Fr/Chapitre 2",
     "Exodus Trad Fr/img/arbre de talent 3.png",
     "Exodus Trad Fr/img/arbre de talent 2.png",
     "Exodus Trad Fr/img/arbre de talent 1.png",
     "Exodus Trad Fr/img/trait2.png",
     "Exodus Trad Fr/img/trait1.png",
     "Exodus Trad Fr/img/experience.png",
-    "Exodus Trad Fr/img/age.png",
-    "Exodus Trad Fr/img/classe.png",
-    "Exodus Trad Fr/img/mutant.png"
+    "Exodus Trad Fr/img/age.png"
   ]
 }
