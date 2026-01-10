@@ -35,6 +35,7 @@ Utilise le OBSIDIAN TTRPG
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - [Fantasy Statblocks](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Plugin+Tutorials/The+Plugin+List)
 - [Templater](https://github.com/SilentVoid13/Templater)
+- [Timelines](https://github.com/George-debug/obsidian-timeline)
 
 
 ### Leaflet : une extension pour les maps

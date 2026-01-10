@@ -39,14 +39,18 @@
             "id": "3ab1594cec300c51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ressources/Template/Template - Creature.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Template - Creature"
+              "title": "Rétrolien pour README"
             }
           },
           {
@@ -138,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ressources/Template/Template - Creature.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Template - Creature"
+              "title": "Liens sortants de README"
             }
           },
           {
@@ -223,8 +227,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "722af72aeaa84c2f",
+  "active": "3ab1594cec300c51",
   "lastOpenFiles": [
+    "ressources/Template/Template - Creature.md",
     "ressources/Template/Template - Vehicle.md",
     "ressources/Template/Template - Trap.md",
     "ressources/Template/Template - Time Period.md",
@@ -237,7 +242,6 @@
     "ressources/Template/Template - Mundane Armor_Shield.md",
     "ressources/Template/Template - Incident.md",
     "ressources/Template/Template - Disease.md",
-    "ressources/Template/Template - Creature.md",
     "histoire/dico/Galnat.md",
     "histoire/dico/Krull.md",
     "book.md",
