@@ -1,4 +1,4 @@
-# Template - Poison 
+# Template - Potion 
 ## Aperçu 
 
 **Type**: Injury

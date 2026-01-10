@@ -1,4 +1,4 @@
-# Template - Quest 
+# Template - Quête 
 
 ## Aperçu 
 

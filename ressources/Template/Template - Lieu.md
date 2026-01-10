@@ -1,4 +1,4 @@
-# Template - Scene
+# Template - Lieu
 ## Aperçu 
 
 **Scene Type**: Conclusion, Description, Encounter, Exposition, Introduction, Other, Preparation, Revelation, Transition

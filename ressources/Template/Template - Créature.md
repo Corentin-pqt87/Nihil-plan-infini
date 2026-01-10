@@ -1,4 +1,4 @@
-# Template - Creature
+# Template - Créature
 ## Aperçu 
 
 ### Placeholder Portrait 

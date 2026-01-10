@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ressources/Template/Template - Creature.md",
+                "file": "ressources/Template/Template - Incident.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - Creature"
+              "title": "Template - Incident"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ressources/Template/Template - Creature.md",
+                "file": "ressources/Template/Template - Incident.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Template - Creature"
+              "title": "Rétrolien pour Template - Incident"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ressources/Template/Template - Creature.md",
+                "file": "ressources/Template/Template - Incident.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Template - Creature"
+              "title": "Liens sortants de Template - Incident"
             }
           },
           {
@@ -215,20 +215,20 @@
   },
   "active": "722af72aeaa84c2f",
   "lastOpenFiles": [
+    "ressources/Template/Template - Véhicule.md",
+    "ressources/Template/Template - Piège.md",
+    "ressources/Template/Template - Période.md",
+    "ressources/Template/Template - Scénario.md",
+    "ressources/Template/Template - Mundane Armor_Shield.md",
+    "ressources/Template/Template - Maladie.md",
+    "ressources/Template/Template - Lieu.md",
+    "ressources/Template/Template - Quête.md",
+    "ressources/Template/Template - Potion.md",
+    "ressources/Template/Template - Créature.md",
     "README.md",
-    "ressources/Template/Template - Creature.md",
-    "ressources/Template/Template - Vehicle.md",
-    "ressources/Template/Template - Trap.md",
-    "ressources/Template/Template - Time Period.md",
-    "ressources/Template/Template - Storyline.md",
-    "ressources/Template/Template - Scene.md",
-    "ressources/Template/Template - Quest.md",
-    "ressources/Template/Template - Poison.md",
     "ressources/Template/Template - Mundane Weapon.md",
     "ressources/Template/Template - Mundane Item.md",
-    "ressources/Template/Template - Mundane Armor_Shield.md",
     "ressources/Template/Template - Incident.md",
-    "ressources/Template/Template - Disease.md",
     "histoire/dico/Galnat.md",
     "histoire/dico/Krull.md",
     "book.md",

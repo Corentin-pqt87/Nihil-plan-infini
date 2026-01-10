@@ -1,4 +1,4 @@
-# Template - Trap 
+# Template - Piège 
 
 ## Aperçu 
 

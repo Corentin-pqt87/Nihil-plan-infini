@@ -1,4 +1,4 @@
-# Template - Disease
+# Template - Maladie
 ## Aperçu 
 
 Placeholder
