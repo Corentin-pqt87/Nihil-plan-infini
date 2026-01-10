@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "histoire/dico/Krull.md",
+                "file": "histoire/dico/Måne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Krull"
+              "title": "Måne"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "histoire/dico/Krull.md",
+                "file": "histoire/dico/Måne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Krull"
+              "title": "Liens sortants de Måne"
             }
           },
           {
@@ -214,11 +214,11 @@
   },
   "active": "722af72aeaa84c2f",
   "lastOpenFiles": [
+    "histoire/dico/Krull.md",
+    "histoire/dico/bête noire.md",
     "histoire/dico/Tijd.md",
     "histoire/dico/Dāmu.md",
-    "histoire/dico/bête noire.md",
     "ressources/Template/Template - Créature.md",
-    "histoire/dico/Krull.md",
     "histoire/dico/Galnat.md",
     "histoire/dico/Arāqu.md",
     "ressources/Template/Template - Véhicule.md",
