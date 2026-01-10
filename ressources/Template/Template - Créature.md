@@ -23,7 +23,7 @@ Placeholder
 ## Autres détails
 
 **Scores de capacité**: 
-| STR | DEX | CON | WIS | INT | CHA |  
+| FOR | DEX | CON | SAG | INT | CHA |  
 |---|---|---|---|---|---|  
 | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) |
 
@@ -51,7 +51,7 @@ Placeholder
 
 Placeholder
 
-## Special Traits 
+## Traits spéciaux 
 
 Placeholder
 
@@ -59,11 +59,11 @@ Placeholder
 
 Placeholder
 
-## Reactions 
+## Réactions 
 
 Placeholder
 
-## Legendary Actions 
+## Actions légendaires 
 
 Placeholder
 
@@ -71,6 +71,6 @@ Placeholder
 
 Placeholder
 
-## Additional Details 
+## Détails supplémentaires
 
 Placeholder

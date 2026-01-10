@@ -3,22 +3,22 @@
 
 **Type**: Injury
 
-**Price**: Placeholder
+**Prix**: Placeholder
 
 Placeholder
 
-## Becoming Afflicted 
+## Devenir affligé 
 
 Placeholder
 
-## Effects 
+## Effets 
 
 Placeholder
 
-## Prevention and Recovery 
+## Prévention et rétablissement
 
 Placeholder
 
-## Obtaining 
+## Obtention 
 
 Placeholder

@@ -1,7 +1,7 @@
 # Template - Période
 ## Aperçu 
 
-**Time Span**: From: Monday, 1 January -20000 12:00:00 AM To: Monday, 1 January -20000 12:00:00 AM
+**Durée**: From: Monday, 1 January -20000 12:00:00 AM To: Monday, 1 January -20000 12:00:00 AM
 
 Placeholder
 
@@ -9,26 +9,26 @@ Placeholder
 
 Placeholder
 
-## Location 
+## Emplacement 
 
 Placeholder
 
-## Causes and Effects 
+## Causes et effets
 
 Placeholder
 
-## Story 
+## Histoire 
 
 Placeholder
 
-## Relationships 
+## Relations 
 
 Placeholder
 
-## Background 
+## Arrière-plan 
 
 Placeholder
 
-## Additional Details 
+## Détails supplémentaires
 
 Placeholder

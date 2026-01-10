@@ -3,14 +3,14 @@
 
 Placeholder
 
-## Becoming Afflicted 
+## Devenir affligé
 
 Placeholder
 
-## Effects 
+## Effets 
 
 Placeholder
 
-## Prevention and Recovery 
+## Prévention et rétablissement
 
 Placeholder

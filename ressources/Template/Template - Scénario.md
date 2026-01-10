@@ -3,22 +3,22 @@
 
 Placeholder
 
-## Key People, Places, and Things 
+## Personnes, lieux et choses clés
 
 Placeholder
 
-## Storyline Elements 
+## Éléments du scénario
 
 Placeholder
 
-## Background 
+## Arrière-plan 
 
 Placeholder
 
-## Concluding the Adventure 
+## Conclusion de l'aventure
 
 Placeholder
 
-## Additional Details 
+## Détails supplémentaires
 
 Placeholder

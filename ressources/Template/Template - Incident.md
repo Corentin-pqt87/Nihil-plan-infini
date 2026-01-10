@@ -10,26 +10,26 @@ Placeholder
 
 Placeholder
 
-## Location 
+## Emplacement 
 
 Placeholder
 
-## Causes and Effects 
+## Causes et effets
 
 Placeholder
 
-## Story 
+## Histoire 
 
 Placeholder
 
-## Relationships 
+## Relations 
 
 Placeholder
 
-## Background 
+## Arrière-plan 
 
 Placeholder
 
-## Additional Details 
+## Détails supplémentaires
 
 Placeholder

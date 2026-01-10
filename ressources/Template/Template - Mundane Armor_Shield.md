@@ -1,22 +1,22 @@
 # Template - Mundane Armor_Shield
 ## Aperçu 
 
-**Price**: Placeholder
+**Prix**: Placeholder
 
-### Placeholder Picture 
+### Image d'espace réservé
 
 ![Placeholder Picture](https://publish-01.obsidian.md/access/36b98e212e9d73fe1bd4813f96b0fd71/z_Assets/Misc/ImagePlaceholder.png)  
 [open outside](https://obsidianttrpgtutorials.com/z_Assets/Misc/ImagePlaceholder.png)
 
-**Weight**: Placeholder
+**Poids**: Placeholder
 
-**Type**: Light Armor
+**Taper**: Light Armor
 
-**Armor Class**: Placeholder
+**Classe d'armure**: Placeholder
 
-**Min. Strength**: Placeholder
+**Min. Force**: Placeholder
 
-**Stealth**: Placeholder
+**Furtivité**: Placeholder
 
 Placeholder
 
@@ -24,6 +24,6 @@ Placeholder
 
 Placeholder
 
-## Additional Details 
+## Détails supplémentaires
 
 Placeholder

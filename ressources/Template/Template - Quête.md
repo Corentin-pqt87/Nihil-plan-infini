@@ -8,30 +8,30 @@ Placeholder
 
 Placeholder
 
-## Integration 
+## Intégration 
 
 Placeholder
 
-## Beginning 
+## Début 
 
 Placeholder
 
-## Relationships 
+## Relations 
 
 Placeholder
 
-## Completion 
+## Achèvement 
 
 Placeholder
 
-### Rewards 
+### Récompenses 
 
 Placeholder
 
-## Background 
+## Arrière-plan 
 
 Placeholder
 
-## Additional Details 
+## Détails supplémentaires
 
 Placeholder

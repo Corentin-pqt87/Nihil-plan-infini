@@ -8,14 +8,14 @@ Placeholder
 
 Placeholder
 
-## Effects 
+## Effets 
 
 Placeholder
 
-## Avoidance and Mitigation 
+## Prévention et atténuation 
 
 Placeholder
 
-## Additional Details 
+## Détails supplémentaires
 
 Placeholder
