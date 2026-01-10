@@ -18,4 +18,41 @@ Ce git a pour but de canaliser l'ensembles des règles, histoires et ressources 
 - [Warhammer 40k (1987)](https://fr.wikipedia.org/wiki/Warhammer_40,000_(jeu_de_figurines))
 ## Les sites qui m'on bien aidé :
 - [Aidedd](https://www.aidedd.org/) : un site regroupent les règles de base de DnD.
+- [OBSIDIAN TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials) : un site qui propose un tuto d'utilisation d'obsidian pour le ttrpg
 
+# Information d'utilisation 
+Ce git est fait avec l'application [obsidian](https://obsidian.md/) et requière des extensions. La pages [[book]] est fait via le site [homebrewery](https://homebrewery.naturalcrit.com/).
+
+Utilise le OBSIDIAN TTRPG
+[Obsidian TTRPG Tutorials](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Obsidian+TTRPG+Tutorials)
+## Extensions obsidian :
+- [advence canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas)
+- [dialogue](https://forum.obsidian.md/t/dialogue-plugin/27982)
+- [markdown prettifier](https://github.com/cristianvasquez/obsidian-prettify)
+- [Leaflet](https://github.com/javalent/obsidian-leaflet?tab=readme-ov-file)
+- [Iconize](https://florianwoelki.github.io/obsidian-iconize/)
+- [Dice Roller](https://github.com/javalent/dice-roller)
+- [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+- [Fantasy Statblocks](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Plugin+Tutorials/The+Plugin+List)
+- [Templater](https://github.com/SilentVoid13/Templater)
+
+
+### Leaflet : une extension pour les maps
+structure de base :
+
+leaflet
+id: leaflet-map
+image: [[Image.jpg]]
+height: 500px
+lat: 50
+long: 50
+minZoom: 1
+maxZoom: 10
+defaultZoom: 5
+unit: meters
+scale: 1
+marker: default, 39.983334, -82.983330, [[Note]]
+darkMode: true
+
+![Obsidian - Working with Encounter Maps](https://www.youtube.com/watch?v=pTJGWO25le0&list=PLV5XWfKkFpk7MJTKv5YdSSpT9b-vLslWu&index=18)
+![Obsidian - Working with Regional Maps](https://www.youtube.com/watch?v=G_Fw5mau-tA&t=247s)
