@@ -6,29 +6,30 @@
 ![Placeholder Portrait](https://publish-01.obsidian.md/access/36b98e212e9d73fe1bd4813f96b0fd71/z_Assets/Misc/ImagePlaceholder.png)  
 [open outside](https://obsidianttrpgtutorials.com/z_Assets/Misc/ImagePlaceholder.png)
 
-**Alignment**: Neutral
+**Alignement**: Neutral
 
-**Armor Class**: Placeholder
+**Classe d'armure**: Placeholder
 
-**Hit Points**: Placeholder
+**Points de vie**: Placeholder
 
-**Speed**: Placeholder
+**Vitesse**: Placeholder
 
-**Challenge**: CR 1
+**Défi**: CR 1
 
-**Experience**: Placeholder
+**Expérience**: Placeholder
 
 Placeholder
 
-## Other Details 
+## Autres détails
 
-**Ability Scores**: | STR | DEX | CON | WIS | INT | CHA |  
+**Scores de capacité**: 
+| STR | DEX | CON | WIS | INT | CHA |  
 |---|---|---|---|---|---|  
 | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) |
 
-**Saving Throws**: Placeholder
+**Jets de sauvegarde**: Placeholder
 
-**Skills**: Placeholder
+**Compétences**: Placeholder
 
 **Damage Vulnerabilities**: Placeholder
 
