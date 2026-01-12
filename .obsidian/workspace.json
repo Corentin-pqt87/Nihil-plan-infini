@@ -25,14 +25,17 @@
             "id": "722af72aeaa84c2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "histoire/dico/Måne.md",
-                "mode": "source",
-                "source": false
+                "file": "histoire/frise chronologique.canvas",
+                "viewState": {
+                  "x": -485.5892990426971,
+                  "y": 472.5033102518213,
+                  "zoom": -1.4579481274619663
+                }
               },
-              "icon": "lucide-file",
-              "title": "Måne"
+              "icon": "lucide-layout-dashboard",
+              "title": "frise chronologique"
             }
           }
         ],
@@ -128,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "histoire/dico/Måne.md",
+                "file": "histoire/frise chronologique.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Måne"
+              "title": "Liens sortants de frise chronologique"
             }
           },
           {
@@ -186,6 +189,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "9e3d49e1884f78fc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -195,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,11 +228,14 @@
   },
   "active": "722af72aeaa84c2f",
   "lastOpenFiles": [
+    "ressources/Template/Template - Timeline.md",
+    "histoire/frise chronologique.canvas",
+    "histoire/dico/Måne.md",
+    "ressources/Template/Template - Créature.md",
     "histoire/dico/Krull.md",
     "histoire/dico/bête noire.md",
     "histoire/dico/Tijd.md",
     "histoire/dico/Dāmu.md",
-    "ressources/Template/Template - Créature.md",
     "histoire/dico/Galnat.md",
     "histoire/dico/Arāqu.md",
     "ressources/Template/Template - Véhicule.md",
@@ -248,9 +265,6 @@
     "The Homebrewery V3.md",
     "histoire/dico/sombres lune.md",
     "Nihil _ DnD+ - The Homebrewery.pdf",
-    "histoire/frise chronologique.canvas",
-    "règles/monde/divinité.md",
-    "histoire/dico/cartel macabes.md",
     "ressources/image/sombre lune.jpg",
     "ressources/image/sombre lune.jpg.HInywL",
     "ressources/image/sombre lune.kra",
