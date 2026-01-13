@@ -9,8 +9,20 @@
 
 ### Image 
 
-![Image](https://publish-01.obsidian.md/access/36b98e212e9d73fe1bd4813f96b0fd71/z_Assets/Misc/ImagePlaceholder.png)  
-[open outside](https://obsidianttrpgtutorials.com/z_Assets/Misc/ImagePlaceholder.png)
+```leaflet
+id: galnat
+image: [[carte galnat.jpg]]
+height: 500px
+lat: 50
+long: 50
+minZoom: 3
+maxZoom: 6
+defaultZoom: 0.5
+unit: meters
+scale: 1
+darkMode: false
+
+```
 
 Placeholder
 
