@@ -36,6 +36,8 @@ Utilise le OBSIDIAN TTRPG
 - [Fantasy Statblocks](https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Plugin+Tutorials/The+Plugin+List)
 - [Templater](https://github.com/SilentVoid13/Templater)
 - [Timelines](https://github.com/George-debug/obsidian-timeline)
+- BRAT
+- [Zoom Map](https://github.com/Jareika/zoom-map)(installer via brat ^)
 
 
 ### Leaflet : une extension pour les maps
