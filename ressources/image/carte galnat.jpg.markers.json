@@ -1,0 +1,33 @@
+{
+  "image": "ressources/image/carte galnat.jpg",
+  "size": {
+    "w": 3508,
+    "h": 2480
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "ressources/image/carte galnat.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "ressources/image/carte galnat.jpg",
+  "measurement": {
+    "displayUnit": "auto-metric",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}

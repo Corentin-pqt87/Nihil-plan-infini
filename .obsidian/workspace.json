@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ressources/Template/Template - Map.md",
+                "file": "ressources/Template/Template - Zoom Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - Map"
+              "title": "Template - Zoom Map"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,20 +237,36 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5759c156bb822d77",
+  "active": "1caeaa13ae3eaa9e",
   "lastOpenFiles": [
-    "ressources/Template/Template - Lieu.md",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/zigzag-leaf.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/zebra-shield.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/x-mark.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wyvern.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wrench.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wooden-sign.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wolf-howl.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wolf-head.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wireless-signal.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wifi.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/water-drop.svg",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/Font",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/README.md",
+    "ZoomMap/SVGs/rpg-awesome-raw-master/LICENSE",
+    "ZoomMap/SVGs/rpg-awesome-raw-master",
+    "ZoomMap/SVGs/rpg-awesome.zip",
+    "ZoomMap/SVGs",
+    "ZoomMap",
+    "ressources/svg",
+    "ressources/Nouveau dossier",
+    "ressources/image/carte galnat.jpg.markers.json",
+    "ressources/Template/Template - Zoom Map.md",
     "ressources/Template/Template - Map.md",
     "README.md",
+    "ressources/Template/Template - Lieu.md",
     "Note.md",
     "histoire/dico/Galnat.md",
-    "ressources/image/carte galnat.jpg",
     "ressources/image/carte galnat.jpg.aXCyQR",
-    "ressources/image/carte galnat.kra.hAUeBe",
-    "ressources/image/carte galnat.kra~",
-    "ressources/image/qt_temp.JOAhvZ",
-    "ressources/image/carte galnat.kra",
-    "ressources/image/carte galnat.kra.DpHbKV",
     "ressources/Template/Template - Créature.md",
     "histoire/frise chronologique.canvas",
     "ressources/Template/Template - Timeline.md",
@@ -270,22 +285,6 @@
     "ressources/Template/Template - Mundane Weapon.md",
     "ressources/Template/Template - Mundane Item.md",
     "ressources/Template/Template - Mundane Armor_Shield.md",
-    "ressources/Template/Template - Maladie.md",
-    "ressources/Template/Template - Incident.md",
-    "book.md",
-    "Liste_fichier.base",
-    "ressources/règles/boite.png",
-    "ressources/Template",
-    "ressources/style.css",
-    "ressources/Nouveau document",
-    "ressources/Sans titre.md",
-    "Exodus Trad Fr/img/Pasted image 20251102121833.png",
-    "ressources/image/sombre lune.jpg",
-    "Exodus Trad Fr/img/arbre de talent 3.png",
-    "Exodus Trad Fr/img/arbre de talent 2.png",
-    "Exodus Trad Fr/img/arbre de talent 1.png",
-    "Exodus Trad Fr/img/trait2.png",
-    "Exodus Trad Fr/img/trait1.png",
-    "Exodus Trad Fr/img/experience.png"
+    "ressources/Template/Template - Maladie.md"
   ]
 }
