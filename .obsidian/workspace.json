@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Galnat"
             }
+          },
+          {
+            "id": "a1c89d802cf0230f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "histoire/dico/Toure de Galnat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Toure de Galnat"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,14 +224,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ccfd095fcd22571c",
+  "active": "a1c89d802cf0230f",
   "lastOpenFiles": [
+    "ressources/Template/Template - Map.md",
+    "ressources/Template/Template - Lieu.md",
+    "histoire/dico/Toure de Galnat.md",
+    "histoire/dico/Galnat.md",
+    "ressources/image/tour de galnat.png",
+    "ressources/image/Gemini_Generated_Image_mu2or7mu2or7mu2o.png",
     "ressources/image/galnat du dessus.png",
     "ressources/image/Gemini_Generated_Image_jmn044jmn044jmn0.png",
     "ressources/image/galnat représentation.png",
     "ressources/image/Gemini_Generated_Image_ol9ig5ol9ig5ol9i.png",
     "histoire/dico/Krull.md",
-    "histoire/dico/Galnat.md",
     "Liste_fichier.base",
     "histoire/dico/Guerre de l'Orgueil.md",
     "ressources/image/galnat (1).png.markers.json",
@@ -244,13 +264,8 @@
     "histoire/dico/bête noire.md",
     "histoire/dico/Arāqu.md",
     "README.md",
-    "ressources/Template/Template - Timeline.md",
-    "Exodus Trad Fr/Chapitre 1/12-Réputation.md",
     "ZoomMap/SVGs/rpg-awesome-raw-master/Font/zigzag-leaf.svg",
     "ZoomMap/SVGs/rpg-awesome-raw-master/Font/zebra-shield.svg",
-    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/x-mark.svg",
-    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wyvern.svg",
-    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/wrench.svg",
     "ZoomMap/SVGs/rpg-awesome-raw-master/Font",
     "ZoomMap/SVGs/rpg-awesome-raw-master/LICENSE",
     "ZoomMap/SVGs/rpg-awesome-raw-master",

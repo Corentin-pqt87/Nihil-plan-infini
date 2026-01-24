@@ -5,14 +5,17 @@ Galnat était une titanesque citée construite au cœur d'un dessert par [[Krull
 
 Au XVIIsi elle succombera a la colère du golem, la tour étant toujours en état les ruines de Galnat survivrons au sicles. 
 
+**Au MJ :**
+- La ville peux être peuplé ou non en fonction de vaut besoins (exemple : en faire un lieu de passage, de repo ou de vie de vos joueurs ).
+
 # Template - Lieu
 ## Aperçu 
 
-**Type de lieu**: Conclusion, Description, Encounter, Exposition, Introduction, Other, Preparation, Revelation, Transition
+**Type de lieu**: #ville
 
 **Paramètre**: Extradimensional, Indoors, Interstellar, Nautical, Other, Outdoors, Underground, Urban, Wilderness
 
-**Type de rencontre**: Exploration, Combat, Social, Subterfuge, Skill Challenge, Puzzle, Roleplaying, Investigative
+**Type de rencontre**: Combat, Social, Roleplaying, Investigative
 
 ### Image 
 
