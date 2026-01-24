@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Galnat"
             }
-          },
-          {
-            "id": "8aa58278e08f16d5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,8 +209,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8aa58278e08f16d5",
+  "active": "ccfd095fcd22571c",
   "lastOpenFiles": [
+    "histoire/dico/Krull.md",
     "histoire/dico/Galnat.md",
     "Liste_fichier.base",
     "histoire/dico/Guerre de l'Orgueil.md",
@@ -246,7 +234,6 @@
     "histoire/dico/Mörk vinter.md",
     "histoire/dico/Miles tuulet.md",
     "histoire/dico/Måne.md",
-    "histoire/dico/Krull.md",
     "histoire/dico/Dāmu.md",
     "histoire/dico/clefs du vent.md",
     "histoire/dico/cartel macabes.md",
