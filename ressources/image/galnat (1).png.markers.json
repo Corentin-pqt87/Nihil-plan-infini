@@ -1,0 +1,84 @@
+{
+  "size": {
+    "w": 3941,
+    "h": 4256
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_ujf3a2",
+      "x": 0.6630168121952125,
+      "y": 0.8574605847264728,
+      "layer": "default",
+      "link": "",
+      "iconKey": "castle-fortress-14-svgrepo-com",
+      "tooltip": "Porte Sud"
+    },
+    {
+      "type": "pin",
+      "id": "marker_zqfch9",
+      "x": 0.8870363263494647,
+      "y": 0.5058330674960818,
+      "layer": "default",
+      "link": "",
+      "iconKey": "castle-fortress-14-svgrepo-com",
+      "tooltip": "Porte Est"
+    },
+    {
+      "type": "pin",
+      "id": "marker_m7nk81",
+      "x": 0.19153096156685595,
+      "y": 0.43746850152033817,
+      "layer": "default",
+      "link": "",
+      "iconKey": "castle-fortress-14-svgrepo-com",
+      "tooltip": "Porte Ouest"
+    },
+    {
+      "type": "pin",
+      "id": "marker_q2at3z",
+      "x": 0.621450707942134,
+      "y": 0.18457114981918105,
+      "layer": "default",
+      "link": "",
+      "iconKey": "castle-fortress-14-svgrepo-com",
+      "tooltip": "Porte Nord"
+    },
+    {
+      "type": "pin",
+      "id": "marker_nfhxo0",
+      "x": 0.5766842503823892,
+      "y": 0.5632297376517565,
+      "layer": "default",
+      "link": "",
+      "iconKey": "airport-14-svgrepo-com",
+      "tooltip": "Tour Ascenseur",
+      "iconColor": "#000000"
+    }
+  ],
+  "bases": [
+    "ressources/image/galnat (1).png"
+  ],
+  "overlays": [],
+  "activeBase": "ressources/image/galnat (1).png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}

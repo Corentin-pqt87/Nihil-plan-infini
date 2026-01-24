@@ -1,5 +1,4 @@
 {
-  "image": "ressources/image/carte galnat.jpg",
   "size": {
     "w": 3508,
     "h": 2480
@@ -19,7 +18,7 @@
   "overlays": [],
   "activeBase": "ressources/image/carte galnat.jpg",
   "measurement": {
-    "displayUnit": "auto-metric",
+    "displayUnit": "km",
     "scales": {},
     "customUnitPxPerUnit": {},
     "travelTimePresetIds": [],
