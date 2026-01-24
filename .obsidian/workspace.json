@@ -35,8 +35,7 @@
               "title": "Toure de Galnat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +239,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cc804437a3e6d641",
+  "active": "ccfd095fcd22571c",
   "lastOpenFiles": [
+    "histoire/dico/Toure de Galnat.md",
     "histoire/dico/Galnat.md",
     "histoire/dico/Krull.md",
     "ressources/image/map_galnat_population.svg",
@@ -251,7 +251,6 @@
     "ressources/image/map_galnat.svg.markers.json",
     "ressources/image/greenlight_rock.svg",
     "ressources/image/greenlight_rock (2).svg",
-    "histoire/dico/Toure de Galnat.md",
     "ressources/Template/Template - Map.md",
     "ressources/Template/Template - Lieu.md",
     "ressources/image/tour de galnat.png",
