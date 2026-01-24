@@ -27,7 +27,7 @@ Au XVIIsi elle succombera a la colère du golem, la tour étant toujours en éta
 ### Carte 
 
 ```zoommap
-image: "ressources/image/galnat (1).png"
+image: "ressources/image/map_galnat.svg"
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 
@@ -52,8 +52,14 @@ responsive: false        # true → always fit; disables pan/zoom gestures
 # Alignment / wrapping (optional)
 align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
+imageBases:
+  - path: "ressources/image/map_galnat.svg"
+    name: "map_galnat"
+imageOverlays:
+  - path: "ressources/image/map_galnat_population.svg"
+    name: "map_galnat_population"
 ```
-
+[générateur](https://watabou.github.io/city-generator?size=100&seed=1372938664&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=0&coast=0&river=0&greens=0&gates=-1)
 ## Participants 
 
 Placeholder - Encounter Code

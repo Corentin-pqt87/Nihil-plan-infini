@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "a1c89d802cf0230f",
+            "id": "cc804437a3e6d641",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "histoire/frise chronologique.canvas",
+                "file": "histoire/dico/Toure de Galnat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de frise chronologique"
+              "title": "Liens sortants de Toure de Galnat"
             }
           },
           {
@@ -202,10 +202,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "c0db1867da3aa50b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e806b536f8cf31e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -224,25 +240,28 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a1c89d802cf0230f",
+  "active": "cc804437a3e6d641",
   "lastOpenFiles": [
+    "histoire/dico/Galnat.md",
+    "histoire/dico/Krull.md",
+    "ressources/image/map_galnat_population.svg",
+    "ressources/image/map_galnat.svg",
+    "ressources/image/middlerock (2).svg",
+    "ressources/image/middlerock.svg",
+    "ressources/image/map_galnat.svg.markers.json",
+    "ressources/image/greenlight_rock.svg",
+    "ressources/image/greenlight_rock (2).svg",
+    "histoire/dico/Toure de Galnat.md",
     "ressources/Template/Template - Map.md",
     "ressources/Template/Template - Lieu.md",
-    "histoire/dico/Toure de Galnat.md",
-    "histoire/dico/Galnat.md",
     "ressources/image/tour de galnat.png",
     "ressources/image/Gemini_Generated_Image_mu2or7mu2or7mu2o.png",
     "ressources/image/galnat du dessus.png",
     "ressources/image/Gemini_Generated_Image_jmn044jmn044jmn0.png",
-    "ressources/image/galnat représentation.png",
-    "ressources/image/Gemini_Generated_Image_ol9ig5ol9ig5ol9i.png",
-    "histoire/dico/Krull.md",
     "Liste_fichier.base",
     "histoire/dico/Guerre de l'Orgueil.md",
     "ressources/image/galnat (1).png.markers.json",
-    "ressources/image/galnat (1).png",
     "ressources/image/galnat.png.markers.json",
-    "ressources/image/galnat.png",
     "ressources/Template/Template - Zoom Map.md",
     "ressources/Template/Template - Véhicule.md",
     "ressources/Template/Template - Scénario.md",
@@ -263,15 +282,11 @@
     "histoire/dico/cartel macabes.md",
     "histoire/dico/bête noire.md",
     "histoire/dico/Arāqu.md",
-    "README.md",
-    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/zigzag-leaf.svg",
-    "ZoomMap/SVGs/rpg-awesome-raw-master/Font/zebra-shield.svg",
     "ZoomMap/SVGs/rpg-awesome-raw-master/Font",
     "ZoomMap/SVGs/rpg-awesome-raw-master/LICENSE",
     "ZoomMap/SVGs/rpg-awesome-raw-master",
     "ZoomMap/SVGs/rpg-awesome.zip",
     "ZoomMap/SVGs",
-    "ZoomMap",
-    "ressources/svg"
+    "ZoomMap"
   ]
 }

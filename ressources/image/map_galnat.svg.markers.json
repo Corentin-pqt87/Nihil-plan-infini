@@ -1,0 +1,52 @@
+{
+  "size": {
+    "w": 1200,
+    "h": 1094
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_9a4hzh",
+      "x": 0.5131861685727512,
+      "y": 0.4780832910248593,
+      "layer": "default",
+      "link": "Toure de Galnat",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "ressources/image/map_galnat.svg",
+      "name": "map_galnat"
+    }
+  ],
+  "overlays": [
+    {
+      "path": "ressources/image/map_galnat_population.svg",
+      "name": "map_galnat_population",
+      "visible": false
+    }
+  ],
+  "activeBase": "ressources/image/map_galnat.svg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}

@@ -55,13 +55,44 @@
     {
       "type": "pin",
       "id": "marker_nfhxo0",
-      "x": 0.5766842503823892,
-      "y": 0.5632297376517565,
+      "x": 0.5828868842514897,
+      "y": 0.5616633216116562,
       "layer": "default",
       "link": "Toure de Galnat",
       "iconKey": "airport-14-svgrepo-com",
       "tooltip": "Tour Ascenseur",
-      "iconColor": "#991a1a"
+      "iconColor": "#991a1a",
+      "tooltipAlwaysOn": true
+    },
+    {
+      "type": "pin",
+      "id": "marker_gjwvck",
+      "x": 0.5040747961899906,
+      "y": 0.5091002625471054,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Angar à véhicule"
+    },
+    {
+      "type": "pin",
+      "id": "marker_lftyhi",
+      "x": 0.5868452917256661,
+      "y": 0.4453283452309034,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Hopital"
+    },
+    {
+      "type": "pin",
+      "id": "marker_aqzqx6",
+      "x": 0.6700190670842499,
+      "y": 0.7344097842866503,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Alchimiste"
     }
   ],
   "bases": [
@@ -70,11 +101,14 @@
   "overlays": [],
   "activeBase": "ressources/image/galnat (1).png",
   "measurement": {
-    "scales": {},
+    "scales": {
+      "ressources/image/galnat (1).png": 0.21874733074656913
+    },
     "customUnitPxPerUnit": {},
     "travelTimePresetIds": [],
     "travelDaysEnabled": false,
-    "displayUnit": "km"
+    "displayUnit": "m",
+    "metersPerPixel": 0.21874733074656913
   },
   "pinSizeOverrides": {},
   "panClamp": true,
