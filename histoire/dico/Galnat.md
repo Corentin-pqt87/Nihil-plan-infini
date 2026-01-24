@@ -16,6 +16,13 @@ Au XVIIsi elle succombera a la colère du golem, la tour étant toujours en éta
 
 ### Image 
 
+![[galnat du dessus.png]]
+
+
+## Installation 
+
+### Carte 
+
 ```zoommap
 image: "ressources/image/galnat (1).png"
 # markers is optional; defaults to <image>.markers.json
@@ -43,16 +50,6 @@ responsive: false        # true → always fit; disables pan/zoom gestures
 align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
 ```
-
-
-## Installation 
-
-### Carte 
-
-![Map](https://publish-01.obsidian.md/access/36b98e212e9d73fe1bd4813f96b0fd71/z_Assets/Misc/MapPlaceholder.png)  
-[open outside](https://obsidianttrpgtutorials.com/z_Assets/Misc/MapPlaceholder.png)
-
-Placeholder
 
 ## Participants 
 
