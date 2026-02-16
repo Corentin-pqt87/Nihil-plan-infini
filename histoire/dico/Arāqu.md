@@ -1,4 +1,17 @@
-#definition #primordio #personnage #XVIIsi
+---
+tags:
+  - definition
+type:
+  - personnage
+  - primordio
+époque:
+  - XVII
+aliases:
+  - La Lune
+  - Séléné
+faction: 
+- Miles Tuulet
+---
 
 (w)arāqu(m)
 ## Définition :

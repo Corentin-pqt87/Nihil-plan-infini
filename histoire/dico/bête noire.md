@@ -1,8 +1,14 @@
-#definition #primordio #XVIIsi #personnage
-
-
-
-
+---
+tags:
+  - definition
+type:
+  - personnage
+  - primordio
+époque:
+  - XVII
+aliases:
+faction:
+---
 
 ---
 
