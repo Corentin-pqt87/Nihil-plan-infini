@@ -58,15 +58,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "histoire/dico/Galnat.md",
+                "file": "histoire/dico/cartel macabes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galnat"
+              "title": "cartel macabes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,9 +271,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cc804437a3e6d641",
+  "active": "7c24ae7ddc541cb8",
   "lastOpenFiles": [
     "histoire/dico/Galnat.md",
+    "histoire/dico/cartel macabes.md",
+    "histoire/dico/Solut Dour.md",
+    "histoire/dico/Tuulet.md",
     "histoire/dico/Toure de Galnat.md",
     "histoire/dico/Tijd.md",
     "histoire/dico/station spatial Jupiter.md",
