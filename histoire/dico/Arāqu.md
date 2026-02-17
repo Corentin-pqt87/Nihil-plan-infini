@@ -7,10 +7,8 @@ type:
 époque:
   - XVII
 aliases:
-  - La Lune
-  - Séléné
-faction: 
-- Miles Tuulet
+faction:
+  - Miles Tuulet
 ---
 
 (w)arāqu(m)

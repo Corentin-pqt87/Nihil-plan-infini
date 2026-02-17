@@ -1,6 +1,16 @@
-#definition #lieu #IIXsi #XVIIIsi
-
+---
+tags:
+  - definition
+type:
+  - lieu
+époque:
+  - IIX
+  - XVIII
+aliases:
+faction:
+  - solut dour
+---
 ## Définition :
-La tour de Galnat se situe au centre de la ville. Elle fait office de lieu administratif mais aussi de point d'amarrage pour les véhicules volant.
+La tour de [[Galnat]] se situe au centre de la ville. Elle fait office de lieu administratif mais aussi de point d'amarrage pour les véhicules volant.
 
 ![[tour de galnat.png]]

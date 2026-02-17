@@ -1,4 +1,16 @@
-#definition #evenement #XVIIsi
+---
+tags:
+  - definition
+  - EN_COUR
+type:
+  - evenement
+époque:
+  - XVII
+aliases:
+  - long hivert
+  - sombre hivert
+faction:
+---
 
 mörk vinter (sombre hiver en suédois)
 ## Définition :

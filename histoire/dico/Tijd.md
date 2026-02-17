@@ -1,5 +1,20 @@
-#definition #primordio #personnage #XXIIIsi #XVIIsi #Isi
-
+---
+tags:
+  - definition
+type:
+  - personnage
+  - primordio
+époque:
+  - I
+  - XVII
+  - XXIII
+aliases:
+  - Le Temps
+  - Tid
+  - Aika
+faction:
+  - Miles Tuulet
+---
 ## Définition :
 Tijd/Tid/Aika (temps)
 

@@ -1,3 +1,19 @@
+---
+tags:
+  - definition
+type:
+  - personnage
+  - primordio
+époque:
+  - I
+aliases:
+  - La Lune
+  - Séléné
+faction:
+  - Miles Tuulet
+  - sombre lune
+---
+
 #definition #primordio #personnage
 
 ## Définition :
