@@ -1,5 +1,15 @@
-#definition #ville #IIXsi #XVIIIsi #lieu
-
+---
+tags:
+  - definition
+type:
+  - lieu
+époque:
+  - XVIII
+  - IIX
+aliases:
+faction:
+  - solut dour
+---
 ## Définition :
 Galnat était une titanesque citée construite au cœur d'un dessert par [[Krull]] au IIXsi. La citée était connu pour être impénétrable, ces mur ([barrière orographique](https://fr.wikipedia.org/wiki/Soul%C3%A8vement_orographique)) était suffisamment haut pour que la cité est ça propre météo sois entre 3000 et 4000 mètres. De ce fait on y trouve différent climat. La ville a en son cœur une tour qui lui permet de subsister au sicle.
 
@@ -28,11 +38,13 @@ Au XVIIsi elle succombera a la colère du golem, la tour étant toujours en éta
 
 ```zoommap
 image: "ressources/image/map_galnat.svg"
+image: "ressources/image/galnat (1).png"
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 
 # Map view limits
 minZoom: 0.3
+minZoom: 0
 maxZoom: 8
 
 # Size & interactivity
@@ -52,12 +64,6 @@ responsive: false        # true → always fit; disables pan/zoom gestures
 # Alignment / wrapping (optional)
 align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
-imageBases:
-  - path: "ressources/image/map_galnat.svg"
-    name: "map_galnat"
-imageOverlays:
-  - path: "ressources/image/map_galnat_population.svg"
-    name: "map_galnat_population"
 ```
 [générateur](https://watabou.github.io/city-generator?size=100&seed=1372938664&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=0&coast=0&river=0&greens=0&gates=-1)
 ## Participants 
