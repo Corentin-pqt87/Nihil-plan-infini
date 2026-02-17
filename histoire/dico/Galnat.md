@@ -37,13 +37,11 @@ Au XVIIsi elle succombera a la colère du golem, la tour étant toujours en éta
 ### Carte 
 
 ```zoommap
-image: "ressources/image/map_galnat.svg"
 image: "ressources/image/galnat (1).png"
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 
 # Map view limits
-minZoom: 0.3
 minZoom: 0
 maxZoom: 8
 
