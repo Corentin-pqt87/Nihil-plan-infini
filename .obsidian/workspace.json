@@ -66,8 +66,7 @@
               "title": "Galnat"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,11 +270,8 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bddc33f220102f47",
+  "active": "cc804437a3e6d641",
   "lastOpenFiles": [
-    "histoire/dico/cartel macabes.md",
-    "histoire/dico/Solut Dour.md",
-    "histoire/dico/Tuulet.md",
     "histoire/dico/Galnat.md",
     "histoire/dico/Toure de Galnat.md",
     "histoire/dico/Tijd.md",
