@@ -1,3 +1,18 @@
+---
+tags:
+  - definition
+type:
+  - lieu
+époque:
+  - I
+  - IV
+  - XXII
+  - XVIII
+aliases:
+faction:
+  - Miles Tuulet
+---
+
 #definition #Isi #IVsi #XVIIIsi #XXIIsi #lieu
 
 ## Définition : 

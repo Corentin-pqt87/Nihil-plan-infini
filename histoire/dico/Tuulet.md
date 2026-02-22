@@ -1,1 +1,1 @@
-#definition #personnage #primordio
+#definition #personnage #primordio #EN_COUR 

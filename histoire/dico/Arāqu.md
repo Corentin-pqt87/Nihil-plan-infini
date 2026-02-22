@@ -1,4 +1,15 @@
-#definition #primordio #personnage #XVIIsi
+---
+tags:
+  - definition
+type:
+  - personnage
+  - primordio
+époque:
+  - XVII
+aliases:
+faction:
+  - Miles Tuulet
+---
 
 (w)arāqu(m)
 ## Définition :
