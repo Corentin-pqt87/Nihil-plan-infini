@@ -26,4 +26,3 @@ Puis ce trouve la hiérarchie non familiale telle que les deux bras droits nomm�
 
 ## Hiérarchie
 Pour monté dans la hiérarchie on utilise le système de réputation.
-

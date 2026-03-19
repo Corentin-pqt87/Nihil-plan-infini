@@ -17,10 +17,8 @@ faction:
 # Bête noire
 ## Aperçu 
 
-### Portrait d'espace réservé
-
-![Placeholder Portrait](https://publish-01.obsidian.md/access/36b98e212e9d73fe1bd4813f96b0fd71/z_Assets/Misc/ImagePlaceholder.png)  
-[open outside](https://obsidianttrpgtutorials.com/z_Assets/Misc/ImagePlaceholder.png)
+![](https://i.pinimg.com/736x/fe/65/cf/fe65cfbe405f5426a4fee2bf46aa72e2.jpg)
+*Art Engineer*
 
 **Alignement**: chaotique bon
 
