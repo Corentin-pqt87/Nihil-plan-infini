@@ -1,0 +1,47 @@
+{
+  "size": {
+    "w": 1061,
+    "h": 615
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_qw1qim",
+      "x": 0.3265850275102361,
+      "y": 0.25418193542435996,
+      "layer": "default",
+      "link": "Galnat",
+      "iconKey": "pinRed",
+      "tooltip": "",
+      "tooltipAlwaysOn": true,
+      "tooltipLabelPosition": "below",
+      "tooltipLabelAlways": true
+    }
+  ],
+  "bases": [
+    "ressources/image/map.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "ressources/image/map.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": [],
+  "secondScreen": {}
+}
