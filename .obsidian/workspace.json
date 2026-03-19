@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Varovainen"
             }
+          },
+          {
+            "id": "b9d70ac9fa49f44d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "histoire/dico/Tijd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tijd"
+            }
+          },
+          {
+            "id": "04943cca887f7e1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "histoire/dico/Måne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Måne"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#definition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,10 +252,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "33dc5958c9379316",
+  "active": "04943cca887f7e1f",
   "lastOpenFiles": [
+    "histoire/dico/Tijd.md",
     "histoire/dico/Arāqu.md",
     "histoire/dico/Varovainen.md",
+    "histoire/dico/Måne.md",
+    "histoire/dico/Tuulet.md",
     "règles/item/protéase.md",
     "ressources/image/ressource en ligne pour livre.md",
     "histoire/campagne/Yngvild/ressource/grotte de Yngvild.md",
@@ -239,7 +270,6 @@
     "règles/monde/divinité.md",
     "histoire/dico/Dāmu.md",
     "histoire/dico/Krull.md",
-    "histoire/dico/Tijd.md",
     "histoire/carte.md",
     "histoire/dico/Galnat.md",
     "ressources/image/map.jpg.markers.json",
@@ -254,12 +284,10 @@
     "histoire/dico/primordio.md",
     "histoire/dico/Mörk vinter.md",
     "histoire/dico/Miles tuulet.md",
-    "histoire/dico/Måne.md",
     "histoire/dico/vide/fils de la lune.md",
     "histoire/dico/vide",
     "histoire/dico/bête noire.md",
     "ressources/Template/Template - properties def.md",
-    "histoire/dico/clefs du vent.md",
     "ressources/image/map_galnat_population.svg",
     "ressources/image/map_galnat.svg",
     "ressources/image/middlerock (2).svg",

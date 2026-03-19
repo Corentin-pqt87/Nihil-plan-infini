@@ -11,8 +11,10 @@ faction:
   - Miles Tuulet
 ---
 
-(w)arāqu(m)
 ## Définition :
+(w)arāqu(m)
+Ud soleil en Sumérien
+
 Arāqu est un primordiale représenter par le symbole d'un soleil, il fait parti des "[[Miles tuulet]]". Il est vue par de nombreux peuple comme une figure sage
 
 Domaine :
