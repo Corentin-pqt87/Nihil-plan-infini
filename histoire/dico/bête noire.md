@@ -20,6 +20,9 @@ faction:
 ![](https://i.pinimg.com/736x/fe/65/cf/fe65cfbe405f5426a4fee2bf46aa72e2.jpg)
 *Art Engineer*
 
+![v2](https://i.pinimg.com/736x/7b/7f/49/7b7f490d2272ca3a5df4f980f308b2ae.jpg)
+serenity ✿
+
 **Alignement**: chaotique bon
 
 **Classe d'armure**: 18 (armure naturelle)
