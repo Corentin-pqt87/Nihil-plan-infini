@@ -2,7 +2,7 @@
     "id": "sumarique",
     "terre": "ki",
     "eau": "a",
-    "feu": "isãtu",
+    "feu": "isÃ£tu",
     "vent": "lil",
     "vie": "nam-til",
     "mur": "bad",
@@ -16,5 +16,6 @@
     "petit": "sig",
     "danger": "aksu",
     "homme": "lu",
-    "femme": "munus"
+    "femme": "munus",
+    "maison": "étou"
 }

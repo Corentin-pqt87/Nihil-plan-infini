@@ -15,10 +15,11 @@
     "soleil": "sol",
     "sang": "blod",
     "nouriture": "mat",
-    "arbre": "trÃ¤d",
+    "arbre": "trÃƒÂ¤d",
     "grand": "lang",
     "petit": "liten",
     "danger": "risk",
     "homme": "man",
-    "femme": "kvinna"
+    "femme": "kvinna",
+    "maison": "hem"
 }
