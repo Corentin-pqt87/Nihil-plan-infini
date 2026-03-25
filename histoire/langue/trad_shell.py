@@ -136,12 +136,33 @@ def help_cmd():
     """
     system("Commandes disponibles :\n")
 
-    print(Fore.GREEN + "add" + Fore.WHITE + " langue mot_fr mot_lg [...]")
-    print(Fore.GREEN + "echo" + Fore.WHITE + " langue [mot]")
-    print(Fore.GREEN + "del" + Fore.WHITE + " langue mot")
-    print(Fore.GREEN + "lang")
-    print(Fore.GREEN + "cd fichier.json | cd ..")
+    info("Ajouter un mot")
+    print(Fore.GREEN + "add" + Fore.WHITE + " langue mot_fr mot_lg [...]\n")
+
+    info("afficher la valeur d'une clé (pas de mot alors : tout les mots)")
+    print(Fore.GREEN + "echo" + Fore.WHITE + " langue [mot]\n")
+
+    info("Supprimer un mot")
+    print(Fore.GREEN + "del" + Fore.WHITE + " langue mot\n")
+
+    info("Lister les langue")
+    print(Fore.GREEN + "lang\n")
+
+    info("Ce dépplacer entre les fichiers")
+    print(Fore.GREEN + "cd fichier.json | cd ..\n")
+
+    info("Afficher les aides")
     print(Fore.GREEN + "help\n")
+
+    info("Liste de mots aléatoire")
+    print(Fore.GREEN + "rd" + Fore.WHITE + " langue nombre_de_mot\n")
+
+    info("Traduire un mot ou une phrase")
+    print(Fore.GREEN + "trad" + Fore.WHITE + " langue [mots]\n")
+
+    info("Lister un dossier ou un fichier")
+    print(Fore.GREEN + "ls")
+
 
 def cd(path=None):
     """
