@@ -67,6 +67,43 @@ def resolve(expr, visited=None):
     parts = expr.split("+")
     return "".join(parts)
 
+def run(file):
+    """
+    run fichier.txt
+    """
+
+    if not os.path.exists(file):
+        return error(f"fichier '{file}' introuvable")
+
+    try:
+        with open(file, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+
+        info(f"exécution de {file}...\n")
+
+        for i, line in enumerate(lines, 1):
+            line = line.strip()
+
+            # ignorer lignes vides
+            if not line:
+                continue
+
+            # ignorer commentaires
+            if line.startswith("#"):
+                continue
+
+            print(Fore.MAGENTA + f"[ligne {i}] >>> " + Fore.WHITE + line)
+
+            parsed = read_terminal(line)
+
+            if not parsed:
+                continue
+
+            interpret(parsed['function'], parsed['argument'])
+
+    except Exception as e:
+        error(str(e))
+
 def error(msg):
     print(Style.BRIGHT + Fore.RED + msg)
 
@@ -189,7 +226,10 @@ def help_cmd():
     print(Fore.GREEN + "trad" + Fore.WHITE + " langue [mots]\n")
 
     info("Lister un dossier ou un fichier")
-    print(Fore.GREEN + "ls")
+    print(Fore.GREEN + "ls\n")
+
+    info("Executer un fichier d'instruction")
+    print(Fore.GREEN + "run" + Fore.WHITE + " fichier")
 
 
 def cd(path=None):
@@ -337,7 +377,9 @@ COMMANDS = {
     'traduction':trad,
     't':trad,
     'echo-s':trad,
-    'ls':ls
+    'ls':ls,
+    'run': run,
+    'execute': run
 }
 
 
