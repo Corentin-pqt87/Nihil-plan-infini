@@ -1,6 +1,7 @@
 import json
 from colorama import init, Fore, Style
 import os
+import re
 
 init(autoreset=True)
 
@@ -39,6 +40,32 @@ def read_terminal(t: str):
         'argument': parts[1:]
     }
 
+def resolve(expr, visited=None):
+    if visited is None:
+        visited = set()
+
+    # éviter les boucles infinies
+    if expr in visited:
+        return "?"
+    visited.add(expr)
+
+    # trouver {langue[mot]}
+    pattern = r"\{(\w+)\[(\w+)\]\}"
+
+    while re.search(pattern, expr):
+        match = re.search(pattern, expr)
+        langue, mot = match.groups()
+
+        if langue in data and mot in data[langue]:
+            value = resolve(data[langue][mot], visited)
+        else:
+            value = "?"
+
+        expr = expr[:match.start()] + value + expr[match.end():]
+
+    # gérer concat avec "+"
+    parts = expr.split("+")
+    return "".join(parts)
 
 def error(msg):
     print(Style.BRIGHT + Fore.RED + msg)
@@ -92,12 +119,12 @@ def echo(langue, mot=None):
     if mot:
         val = data[langue].get(mot)
         if val:
-            print(val)
+            print(resolve(val))
         else:
             error(f"mot '{mot}' introuvable")
     else:
         for fr, lg in data[langue].items():
-            print(Fore.GREEN + fr + Fore.WHITE + " : " + Fore.CYAN + lg)
+            print(Fore.GREEN + fr + Fore.WHITE + " : " + Fore.CYAN + resolve(lg))
 
 
 def delete(langue, mot):
@@ -138,6 +165,7 @@ def help_cmd():
 
     info("Ajouter un mot")
     print(Fore.GREEN + "add" + Fore.WHITE + " langue mot_fr mot_lg [...]\n")
+    info("Pour faire le lien entre un mot d'une langue : {langue[mot]}")
 
     info("afficher la valeur d'une clé (pas de mot alors : tout les mots)")
     print(Fore.GREEN + "echo" + Fore.WHITE + " langue [mot]\n")
@@ -240,7 +268,7 @@ def trad(langue, *phrase):
         if mot in data[langue]:
             traduction.append(data[langue][mot])
         else:
-            traduction.append("?")
+            traduction.append(resolve(data[langue][mot]))
 
     # afficher la traduction
     output(" ".join(traduction))
