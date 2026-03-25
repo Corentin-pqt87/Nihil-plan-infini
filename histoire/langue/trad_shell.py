@@ -306,9 +306,9 @@ def trad(langue, *phrase):
     for mot in words:
         # si le mot existe → on traduit
         if mot in data[langue]:
-            traduction.append(data[langue][mot])
-        else:
             traduction.append(resolve(data[langue][mot]))
+        else:
+            traduction.append("?")
 
     # afficher la traduction
     output(" ".join(traduction))
