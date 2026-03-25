@@ -164,8 +164,8 @@ def help_cmd():
     system("Commandes disponibles :\n")
 
     info("Ajouter un mot")
-    print(Fore.GREEN + "add" + Fore.WHITE + " langue mot_fr mot_lg [...]\n")
-    info("Pour faire le lien entre un mot d'une langue : {langue[mot]}")
+    print(Fore.GREEN + "add" + Fore.WHITE + " langue mot_fr mot_lg [...]")
+    info("Pour faire le lien entre un mot d'une langue : {langue[mot]}\n")
 
     info("afficher la valeur d'une clé (pas de mot alors : tout les mots)")
     print(Fore.GREEN + "echo" + Fore.WHITE + " langue [mot]\n")
