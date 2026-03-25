@@ -104,6 +104,31 @@ def run(file):
     except Exception as e:
         error(str(e))
 
+def export(file):
+    """
+    export fichier.txt
+    """
+
+    if not require_file():
+        return
+
+    try:
+        with open(file, 'w', encoding='utf-8') as f:
+
+            # reset propre
+            f.write(f"# export de {current_file}\n")
+            f.write(f"cd {os.path.basename(current_file)}\n\n")
+
+            for langue, mots in data.items():
+                for fr, lg in mots.items():
+                    # ⚠️ garder la valeur originale (avec { } si présent)
+                    f.write(f"add {langue} {fr} {lg}\n")
+
+        success(f"export terminé : {file}")
+
+    except Exception as e:
+        error(str(e))
+
 def error(msg):
     print(Style.BRIGHT + Fore.RED + msg)
 
@@ -202,34 +227,49 @@ def help_cmd():
 
     info("Ajouter un mot")
     print(Fore.GREEN + "add" + Fore.WHITE + " langue mot_fr mot_lg [...]")
+    print(Fore.GREEN + "+" + Fore.WHITE + " langue mot_fr mot_lg [...]")
     info("Pour faire le lien entre un mot d'une langue : {langue[mot]}\n")
 
     info("afficher la valeur d'une clé (pas de mot alors : tout les mots)")
-    print(Fore.GREEN + "echo" + Fore.WHITE + " langue [mot]\n")
+    print(Fore.GREEN + "echo" + Fore.WHITE + " langue [mot]")
+    print(Fore.GREEN + "print" + Fore.WHITE + " langue [mot]")
+    print(Fore.GREEN + "->" + Fore.WHITE + " langue [mot]\n")
 
     info("Supprimer un mot")
-    print(Fore.GREEN + "del" + Fore.WHITE + " langue mot\n")
+    print(Fore.GREEN + "del" + Fore.WHITE + " langue mot")
+    print(Fore.GREEN + "-" + Fore.WHITE + " langue mot\n")
 
     info("Lister les langue")
-    print(Fore.GREEN + "lang\n")
+    print(Fore.GREEN + "lang")
+    print(Fore.GREEN + "langue")
+    print(Fore.GREEN + "language\n")
 
     info("Ce dépplacer entre les fichiers")
     print(Fore.GREEN + "cd fichier.json | cd ..\n")
 
     info("Afficher les aides")
-    print(Fore.GREEN + "help\n")
+    print(Fore.GREEN + "help")
+    print(Fore.GREEN + "?\n")
 
     info("Liste de mots aléatoire")
-    print(Fore.GREEN + "rd" + Fore.WHITE + " langue nombre_de_mot\n")
+    print(Fore.GREEN + "rd" + Fore.WHITE + " langue nombre_de_mot")
+    print(Fore.GREEN + "random" + Fore.WHITE + " langue nombre_de_mot\n")
 
     info("Traduire un mot ou une phrase")
-    print(Fore.GREEN + "trad" + Fore.WHITE + " langue [mots]\n")
+    print(Fore.GREEN + "trad" + Fore.WHITE + " langue [mots]")
+    print(Fore.GREEN + "t" + Fore.WHITE + " langue [mots]")
+    print(Fore.GREEN + "echo-s" + Fore.WHITE + " langue [mots]\n")
 
     info("Lister un dossier ou un fichier")
     print(Fore.GREEN + "ls\n")
 
     info("Executer un fichier d'instruction")
     print(Fore.GREEN + "run" + Fore.WHITE + " fichier")
+    print(Fore.GREEN + "execute" + Fore.WHITE + " fichier\n")
+
+    info("Exporter la base de donné dans un fichier")
+    print(Fore.GREEN + "export" + Fore.WHITE + " fichier")
+    print(Fore.GREEN + "save-script" + Fore.WHITE + " fichier\n")
 
 
 def cd(path=None):
@@ -366,7 +406,8 @@ COMMANDS = {
     '->':echo,
     'del': delete,
     '-': delete,
-    'lang': lang,
+    'lg':lang,
+    'langue': lang,
     'language': lang,
     'help': help_cmd,
     '?': help_cmd,
@@ -379,7 +420,9 @@ COMMANDS = {
     'echo-s':trad,
     'ls':ls,
     'run': run,
-    'execute': run
+    'execute': run,
+    'export': export,
+    'save-script': export
 }
 
 
