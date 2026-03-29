@@ -4,161 +4,161 @@ tags:
 ---
 # LA GUERRE
 
-| Question                                               | Réponse |
-| ------------------------------------------------------ | ------- |
-| Quels sont les raisons des guerres ?                   |         |
-| Qui prend les décisions ?                              |         |
-| Qui sont les conseillers ?                             |         |
-| Existe-t-il différents arts de batailler ?             |         |
-| Les factions sont-elles différenciées ?                |         |
-| Les différence sont-elles liées à la culture ?         |         |
-| A l’histoire ?                                         |         |
-| A la religion ?                                        |         |
-| A des influences ?                                     |         |
-| Aux généraux ?                                         |         |
-| Aux dirigeants actuels ?                               |         |
-| Quels sont les quantités de soldats ?                  |         |
-| Comment sont-elles équipées ?                          |         |
-| Quels armes sont utilisées ?                           |         |
-| Armes blanches ?                                       |         |
-| Armes de jet ?                                         |         |
-| Telle ou telle faction a-t-elle des préférences ?      |         |
-| Les armes sont-elles attribuées ?                      |         |
-| Choisies par les soldats ?                             |         |
-| Données à la naissance ?                               |         |
-| Y a-t-il différents corps de militaires ?              |         |
-| Comment sont divisés soldat à distance et au contact ? |         |
-| Et entre les soldats à distance ?                      |         |
-| Et entre les soldats au contact ?                      |         |
-| Quelles armes spéciales existe-t-il ?                  |         |
-| Quelle est leur nature ?                               |         |
-| Quelle est leur efficacité ?                           |         |
-| Qui les utilisent ?                                    |         |
-| Faut-il une formation ?                                |         |
-| Où se positionnent-ils dans les formations ?           |         |
-| Quelle est la place de la technologie ?                |         |
-| Quelle est la place de la magie ?                      |         |
-| Quels sont les engins de siège ?                       |         |
-| De quoi sont-ils faits ?                               |         |
-| Qui les utilisent ?                                    |         |
-| Dans quelle situation ?                                |         |
-| Qui magne ces engins ?                                 |         |
-| Y a-t-il des armes plus destructrices ?                |         |
-| Quand sont-elles utilisées ?                           |         |
-| Quels sont leurs effets ?                              |         |
-| Comment s’entendent les troupes ?                      |         |
-| Quels sont les priorités d’un soldat ?                 |         |
-| Qui sont ces soldats ?                                 |         |
-| Est-ce une carrière ?                                  |         |
-| Un contingent ?                                        |         |
-| Un métier ?                                            |         |
-| Comment se divisent les troupes ?                      |         |
-| Quel est leur équipement ?                             |         |
-| Que sont-ils autorisés à transporter ?                 |         |
-| Ont-ils une armure ?                                   |         |
-| Des vêtements ?                                        |         |
-| De quelle couleur ?                                    |         |
-| Les couleurs ont-elles une signification ?             |         |
-| Pour le rang ?                                         |         |
-| Pour la spécialité ?                                   |         |
-| Y a-t-il des coutumes chez les soldats ?               |         |
-| Jouent-ils ?                                           |         |
-| A quoi ?                                               |         |
-| Avec qui ?                                             |         |
-| Y a-t-il des spécialistes ?                            |         |
-| Comment les différencier ?                             |         |
-| Y a-t-il d’autres troupes très spéciales ?             |         |
-| Des espions ?                                          |         |
-| Des mages ?                                            |         |
-| Des saboteurs ?                                        |         |
-| Comment les différencier ?                             |         |
-| Comment sont-elles formées ?                           |         |
-| Sur le tas ?                                           |         |
-| Par des écoles ?                                       |         |
-| Où sont-elles ?                                        |         |
-| Par qui sont-elles tenues ?                            |         |
-| Qu’est-ce qu’on y apprend ?                            |         |
-| Est-elle indispensable ?                               |         |
-| Y a-t-il des femmes dans les rangs ?                   |         |
-| Leur place est-elle la même ?                          |         |
-| Ont-elles des postes différents ?                      |         |
-| Pourquoi ?                                             |         |
-| A quel âge peut-on être soldat ?                       |         |
-| A quelle âge sonne la retraite ?                       |         |
-| Y a-t-il des déserteurs ?                              |         |
-| Comment sont-ils traités ?                             |         |
-| Quelle est la nature des punitions ?                   |         |
-| Comment se déroulent les débuts de bataille ?          |         |
-| Où se trouve le champ de bataille ?                    |         |
-| Comment est-il décidé ?                                |         |
-| Comment communiquer avec l’ennemi ?                    |         |
-| Des missives ?                                         |         |
-| Des personnes ?                                        |         |
-| Quelle est l’habitude ?                                |         |
-| Et avant ?                                             |         |
-| Comment va le moral ?                                  |         |
-| Comment se préparent-ils ?                             |         |
-| Dans la bataille, quelles sont les tactiques ?         |         |
-| Comment s’organisent les troupes ?                     |         |
-| Qui est en première ligne ?                            |         |
-| En dernière ligne ?                                    |         |
-| Qui sont les ailiers ?                                 |         |
-| Usent-ils de ruse ?                                    |         |
-| De jeu de cache-cache ?                                |         |
-| De violence brute ?                                    |         |
-| Après la bataille, quelle est la stratégie ?           |         |
-| Des prisonniers ?                                      |         |
-| Un massacre total ?                                    |         |
-| De l’esclavage ?                                       |         |
-| Rien de tout ça ?                                      |         |
-| En cas d’échec, que se passe-t-il ?                    |         |
-| Battent-ils en retraite ?                              |         |
-| Comment cela est perçu ?                               |         |
-| Comment se déroulent les sièges ?                      |         |
-| Est-ce une guerre de position ?                        |         |
-| Est-ce une guerre d’usure ?                            |         |
-| Quels sont les rapports soldats et officiers ?         |         |
-| Quels sont les devoirs d’un officier ?                 |         |
-| Qu’a-t-il de plus ?                                    |         |
-| Est-il plus entraîné ?                                 |         |
-| Y a-t-il des écoles d’officiers ?                      |         |
-| Qui y a accès ?                                        |         |
-| Où se trouvent-elles ?                                 |         |
-| Par qui sont-elles tenues ?                            |         |
-| Qui sont les professeurs ?                             |         |
-| Comment le devient-on ?                                |         |
-| Qu’enseignent-ils ?                                    |         |
-| Y a-t-il différents types d’officiers ?                |         |
-| Quels sont les rangs d’officiers ?                     |         |
-| Quels sont les rangs de soldats ?                      |         |
-| Y a-t-il des vétérans ?                                |         |
-| Quelle est leur place ?                                |         |
-| Sont-ils armés différemment ?                          |         |
-| Et la nouvelle recrue ?                                |         |
-| Quelle est sa place ?                                  |         |
-| Comment est-elle considérée ?                          |         |
-| Qu’endure-t-elle ?                                     |         |
-| Comment est-elle formée ?                              |         |
-| Comment est perçue la guerre ?                         |         |
-| Comment vit un militaire ?                             |         |
-| Comment vit sa famille ?                               |         |
-| En cas de mort, que se passe-t-il ?                    |         |
-| Qui est prévenu ?                                      |         |
-| Comment est-il reconnu ?                               |         |
-| Qui se charge des obsèques ?                           |         |
-| Que pense la religion de la guerre ?                   |         |
-| Comment procède-t-elle avec les soldats morts ?        |         |
-| Les fils de soldats sont-ils voués à l’être aussi ?    |         |
-| Quelles sont les batailles mémorables ?                |         |
-| Quelle ont été les plus meurtrières ?                  |         |
-| Les plus longues ?                                     |         |
-| Les plus courtes ?                                     |         |
-| Les plus ancrées dans les mémoires ?                   |         |
-| Quel conflit a créé le plus de batailles ?             |         |
-| Qui sont les héros de guerre ?                         |         |
-| Les plus meurtriers ?                                  |         |
-| Les plus aimés ?                                       |         |
-| Les plus craints ?                                     |         |
-| Que sont-ils devenus ?                                 |         |
-| Quel a été leur postérité ?                            |         |
-| Où sont-ils enterrés ?                                 |         |
+| N°  | Question                                               | Réponse |
+| --- | ------------------------------------------------------ | ------- |
+| 1   | Quels sont les raisons des guerres ?                   |         |
+| 2   | Qui prend les décisions ?                              |         |
+| 3   | Qui sont les conseillers ?                             |         |
+| 4   | Existe-t-il différents arts de batailler ?             |         |
+| 5   | Les factions sont-elles différenciées ?                |         |
+| 6   | Les différence sont-elles liées à la culture ?         |         |
+| 7   | A l’histoire ?                                         |         |
+| 8   | A la religion ?                                        |         |
+| 9   | A des influences ?                                     |         |
+| 10  | Aux généraux ?                                         |         |
+| 11  | Aux dirigeants actuels ?                               |         |
+| 12  | Quels sont les quantités de soldats ?                  |         |
+| 13  | Comment sont-elles équipées ?                          |         |
+| 14  | Quels armes sont utilisées ?                           |         |
+| 15  | Armes blanches ?                                       |         |
+| 16  | Armes de jet ?                                         |         |
+| 17  | Telle ou telle faction a-t-elle des préférences ?      |         |
+| 18  | Les armes sont-elles attribuées ?                      |         |
+| 19  | Choisies par les soldats ?                             |         |
+| 20  | Données à la naissance ?                               |         |
+| 21  | Y a-t-il différents corps de militaires ?              |         |
+| 22  | Comment sont divisés soldat à distance et au contact ? |         |
+| 23  | Et entre les soldats à distance ?                      |         |
+| 24  | Et entre les soldats au contact ?                      |         |
+| 25  | Quelles armes spéciales existe-t-il ?                  |         |
+| 26  | Quelle est leur nature ?                               |         |
+| 27  | Quelle est leur efficacité ?                           |         |
+| 28  | Qui les utilisent ?                                    |         |
+| 29  | Faut-il une formation ?                                |         |
+| 30  | Où se positionnent-ils dans les formations ?           |         |
+| 31  | Quelle est la place de la technologie ?                |         |
+| 32  | Quelle est la place de la magie ?                      |         |
+| 33  | Quels sont les engins de siège ?                       |         |
+| 34  | De quoi sont-ils faits ?                               |         |
+| 35  | Qui les utilisent ?                                    |         |
+| 36  | Dans quelle situation ?                                |         |
+| 37  | Qui magne ces engins ?                                 |         |
+| 38  | Y a-t-il des armes plus destructrices ?                |         |
+| 39  | Quand sont-elles utilisées ?                           |         |
+| 40  | Quels sont leurs effets ?                              |         |
+| 41  | Comment s’entendent les troupes ?                      |         |
+| 42  | Quels sont les priorités d’un soldat ?                 |         |
+| 43  | Qui sont ces soldats ?                                 |         |
+| 44  | Est-ce une carrière ?                                  |         |
+| 45  | Un contingent ?                                        |         |
+| 46  | Un métier ?                                            |         |
+| 47  | Comment se divisent les troupes ?                      |         |
+| 48  | Quel est leur équipement ?                             |         |
+| 49  | Que sont-ils autorisés à transporter ?                 |         |
+| 50  | Ont-ils une armure ?                                   |         |
+| 51  | Des vêtements ?                                        |         |
+| 52  | De quelle couleur ?                                    |         |
+| 53  | Les couleurs ont-elles une signification ?             |         |
+| 54  | Pour le rang ?                                         |         |
+| 55  | Pour la spécialité ?                                   |         |
+| 56  | Y a-t-il des coutumes chez les soldats ?               |         |
+| 57  | Jouent-ils ?                                           |         |
+| 58  | A quoi ?                                               |         |
+| 59  | Avec qui ?                                             |         |
+| 60  | Y a-t-il des spécialistes ?                            |         |
+| 61  | Comment les différencier ?                             |         |
+| 62  | Y a-t-il d’autres troupes très spéciales ?             |         |
+| 63  | Des espions ?                                          |         |
+| 64  | Des mages ?                                            |         |
+| 65  | Des saboteurs ?                                        |         |
+| 66  | Comment les différencier ?                             |         |
+| 67  | Comment sont-elles formées ?                           |         |
+| 68  | Sur le tas ?                                           |         |
+| 69  | Par des écoles ?                                       |         |
+| 70  | Où sont-elles ?                                        |         |
+| 71  | Par qui sont-elles tenues ?                            |         |
+| 72  | Qu’est-ce qu’on y apprend ?                            |         |
+| 73  | Est-elle indispensable ?                               |         |
+| 74  | Y a-t-il des femmes dans les rangs ?                   |         |
+| 75  | Leur place est-elle la même ?                          |         |
+| 76  | Ont-elles des postes différents ?                      |         |
+| 77  | Pourquoi ?                                             |         |
+| 78  | A quel âge peut-on être soldat ?                       |         |
+| 79  | A quelle âge sonne la retraite ?                       |         |
+| 80  | Y a-t-il des déserteurs ?                              |         |
+| 81  | Comment sont-ils traités ?                             |         |
+| 82  | Quelle est la nature des punitions ?                   |         |
+| 83  | Comment se déroulent les débuts de bataille ?          |         |
+| 84  | Où se trouve le champ de bataille ?                    |         |
+| 85  | Comment est-il décidé ?                                |         |
+| 86  | Comment communiquer avec l’ennemi ?                    |         |
+| 87  | Des missives ?                                         |         |
+| 88  | Des personnes ?                                        |         |
+| 89  | Quelle est l’habitude ?                                |         |
+| 90  | Et avant ?                                             |         |
+| 91  | Comment va le moral ?                                  |         |
+| 92  | Comment se préparent-ils ?                             |         |
+| 93  | Dans la bataille, quelles sont les tactiques ?         |         |
+| 94  | Comment s’organisent les troupes ?                     |         |
+| 95  | Qui est en première ligne ?                            |         |
+| 96  | En dernière ligne ?                                    |         |
+| 97  | Qui sont les ailiers ?                                 |         |
+| 98  | Usent-ils de ruse ?                                    |         |
+| 99  | De jeu de cache-cache ?                                |         |
+| 100 | De violence brute ?                                    |         |
+| 101 | Après la bataille, quelle est la stratégie ?           |         |
+| 102 | Des prisonniers ?                                      |         |
+| 103 | Un massacre total ?                                    |         |
+| 104 | De l’esclavage ?                                       |         |
+| 105 | Rien de tout ça ?                                      |         |
+| 106 | En cas d’échec, que se passe-t-il ?                    |         |
+| 107 | Battent-ils en retraite ?                              |         |
+| 108 | Comment cela est perçu ?                               |         |
+| 109 | Comment se déroulent les sièges ?                      |         |
+| 110 | Est-ce une guerre de position ?                        |         |
+| 111 | Est-ce une guerre d’usure ?                            |         |
+| 112 | Quels sont les rapports soldats et officiers ?         |         |
+| 113 | Quels sont les devoirs d’un officier ?                 |         |
+| 114 | Qu’a-t-il de plus ?                                    |         |
+| 115 | Est-il plus entraîné ?                                 |         |
+| 116 | Y a-t-il des écoles d’officiers ?                      |         |
+| 117 | Qui y a accès ?                                        |         |
+| 118 | Où se trouvent-elles ?                                 |         |
+| 119 | Par qui sont-elles tenues ?                            |         |
+| 120 | Qui sont les professeurs ?                             |         |
+| 121 | Comment le devient-on ?                                |         |
+| 122 | Qu’enseignent-ils ?                                    |         |
+| 123 | Y a-t-il différents types d’officiers ?                |         |
+| 124 | Quels sont les rangs d’officiers ?                     |         |
+| 125 | Quels sont les rangs de soldats ?                      |         |
+| 126 | Y a-t-il des vétérans ?                                |         |
+| 127 | Quelle est leur place ?                                |         |
+| 128 | Sont-ils armés différemment ?                          |         |
+| 129 | Et la nouvelle recrue ?                                |         |
+| 130 | Quelle est sa place ?                                  |         |
+| 131 | Comment est-elle considérée ?                          |         |
+| 132 | Qu’endure-t-elle ?                                     |         |
+| 133 | Comment est-elle formée ?                              |         |
+| 134 | Comment est perçue la guerre ?                         |         |
+| 135 | Comment vit un militaire ?                             |         |
+| 136 | Comment vit sa famille ?                               |         |
+| 137 | En cas de mort, que se passe-t-il ?                    |         |
+| 138 | Qui est prévenu ?                                      |         |
+| 139 | Comment est-il reconnu ?                               |         |
+| 140 | Qui se charge des obsèques ?                           |         |
+| 141 | Que pense la religion de la guerre ?                   |         |
+| 142 | Comment procède-t-elle avec les soldats morts ?        |         |
+| 143 | Les fils de soldats sont-ils voués à l’être aussi ?    |         |
+| 144 | Quelles sont les batailles mémorables ?                |         |
+| 145 | Quelle ont été les plus meurtrières ?                  |         |
+| 146 | Les plus longues ?                                     |         |
+| 147 | Les plus courtes ?                                     |         |
+| 148 | Les plus ancrées dans les mémoires ?                   |         |
+| 149 | Quel conflit a créé le plus de batailles ?             |         |
+| 150 | Qui sont les héros de guerre ?                         |         |
+| 151 | Les plus meurtriers ?                                  |         |
+| 152 | Les plus aimés ?                                       |         |
+| 153 | Les plus craints ?                                     |         |
+| 154 | Que sont-ils devenus ?                                 |         |
+| 155 | Quel a été leur postérité ?                            |         |
+| 156 | Où sont-ils enterrés ?                                 |         |

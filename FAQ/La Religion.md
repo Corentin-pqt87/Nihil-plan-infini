@@ -4,159 +4,105 @@ tags:
 ---
 # LA RELIGION
 
-| Question                                                        | Réponse |
-| --------------------------------------------------------------- | ------- |
-| La religion existe-t-elle dans l’univers ?                      |         |
-| Comment a-t-elle été créée ?                                    |         |
-| Est-ce une simple croyance ?                                    |         |
-| S’est-elle déjà manifestée ?                                    |         |
-| Sous quelle forme ?                                             |         |
-| S’agit-il de dieux ?                                            |         |
-| Monothéisme ?                                                   |         |
-| Polythéisme ?                                                   |         |
-| Animisme ?                                                      |         |
-| Y a-t-il une seule ou plusieurs religions ?                     |         |
-| Où s’étendent-elles ?                                           |         |
-| Lesquelles cohabitent ?                                         |         |
-| Au niveau des dieux, combien sont-ils ?                         |         |
-| Est-il seul ?                                                   |         |
-| Sont-ils nombreux ?                                             |         |
-| Autours de quoi se divisent-ils ?                               |         |
-| Qui représente le bien et le mal ?                              |         |
-| La vie et la mort ?                                             |         |
-| La matière et le vide ?                                         |         |
-| Le vivant et l’inerte ?                                         |         |
-| Quels sont les valeurs de cette religion ?                      |         |
-| La liberté ?                                                    |         |
-| L’intelligence ?                                                |         |
-| Le courage ?                                                    |         |
-| L’autorité ?                                                    |         |
-| La tradition ?                                                  |         |
-| La modernité ?                                                  |         |
-| Qui les représente ?                                            |         |
-| S’il s’agit d’un monothéisme, comment se divise ces valeurs ?   |         |
-| Comment est-il théorisé ?                                       |         |
-| Pourquoi est-il unique ?                                        |         |
-| L’a-t-il toujours été ?                                         |         |
-| Dans l’histoire, cette philosophie a-t-elle évoluée ?           |         |
-| Pourquoi ?                                                      |         |
-| Une guerre ?                                                    |         |
-| Une fusion avec d’autres religions ?                            |         |
-| Est-ce grâce à des théologiens ?                                |         |
-| Des penseurs ?                                                  |         |
-| Qui ça ?                                                        |         |
-| A quelle époque ?                                               |         |
-| Quelles son les missions de la religion ?                       |         |
-| Qui la dirige ?                                                 |         |
-| Un groupe ?                                                     |         |
-| Un unique représentant ?                                        |         |
-| Par qui est-il désigné ?                                        |         |
-| Le clergé ?                                                     |         |
-| Le dieu lui-même ?                                              |         |
-| Par rapport à la population, quel est le lien ?                 |         |
-| Y a-t-il des lieux de cultes ?                                  |         |
-| Où sont-ils ?                                                   |         |
-| Qu’est-ce qu’on y trouve ?                                      |         |
-| Qui sont ceux qui s’en chargent ?                               |         |
-| Des prêtres ?                                                   |         |
-| La communauté ?                                                 |         |
-| Des chefs ?                                                     |         |
-| Que doit le peuple au clergé ?                                  |         |
-| De l’argent ?                                                   |         |
-| Des vivres ?                                                    |         |
-| Du temps de travail ?                                           |         |
-| Pour ce qui est des hautes instances, comment cela s’organise ? |         |
-| Y a-t-il une hiérarchie ?                                       |         |
-| Quand s’est-elle formée ?                                       |         |
-| De qui est-elle composée ?                                      |         |
-| Comment cette institution est financée ?                        |         |
-| Y a-t-il de la corruption ?                                     |         |
-| Comment ?                                                       |         |
-| Pourquoi cela ?                                                 |         |
-| Est-ce que le peuple est au courant ?                           |         |
-| Qu’en pensent-ils ?                                             |         |
-| Y a-t-il des théologiens ?                                      |         |
-| Quelle est leur place ?                                         |         |
-| Ont-ils des lieux dédiés ?                                      |         |
-| Comment sont-ils vus ?                                          |         |
-| Quelle est leur mission ?                                       |         |
-| Y a-t-il des prières ?                                          |         |
-| Quand ça ?                                                      |         |
-| Comment se déroule le culte ?                                   |         |
-| En extérieur ?                                                  |         |
-| Dans un bâtiment ?                                              |         |
-| Lequel ?                                                        |         |
-| Quel est le but ?                                               |         |
-| Se confesser ?                                                  |         |
-| Manifester sa foi ?                                             |         |
-| Démontrer sa foi ?                                              |         |
-| Est-ce un moment intime ?                                       |         |
-| Un moment de communion ?                                        |         |
-| Quels sont les différentes cérémonies ?                         |         |
-| A la naissance ?                                                |         |
-| A la mort ?                                                     |         |
-| A un moment de l’année ?                                        |         |
-| Lesquels ?                                                      |         |
-| Pourquoi ces jours-ci ?                                         |         |
-| Y a-t-il des objets utilisés ?                                  |         |
-| Quelle est leur fonction ?                                      |         |
-| Comment les utiliser ?                                          |         |
-| Pourquoi les utiliser ?                                         |         |
-| Qui les a inventés ?                                            |         |
-| Y a-t-il un objet représentant cette religion ?                 |         |
-| Pourquoi celui-ci ?                                             |         |
-| Quel est sa symbolique ?                                        |         |
-| Par qui est-il porté ?                                          |         |
-| Sur quoi se base la religion ?                                  |         |
-| Un texte ?                                                      |         |
-| Une image ?                                                     |         |
-| Des événements ?                                                |         |
-| En quoi cela a marqué ?                                         |         |
-| Que se raconte-t-il à propos de la religion ?                   |         |
-| Quels sont les héros les plus célèbres ?                        |         |
-| En quoi sont-ils des héros ?                                    |         |
-| Dans leurs actes ?                                              |         |
-| Dans leur dévotion ?                                            |         |
-| Quand se sont déroulés ces faits ?                              |         |
-| Qui les a retranscrits ?                                        |         |
-| Pourquoi en parle-t-on encore ?                                 |         |
-| Quels valeurs représentent-ils ?                                |         |
-| Les dieux sont-ils à l’origines d’histoires ?                   |         |
-| Sont-elles fantasmées ?                                         |         |
-| Sont-elles avérées ?                                            |         |
-| Quels dieux en sont les acteurs ?                               |         |
-| Quel est leur rapport aux hommes ?                              |         |
-| Qu’est-ce que ces histoires disent des dieux ?                  |         |
-| De la religion ?                                                |         |
-| Quels idéaux transmettent-elles ?                               |         |
-| A qui sont elles racontées ?                                    |         |
-| Pour quelles raisons ?                                          |         |
-| D’où viennent les dissidences ?                                 |         |
-| D’anciens cultes ?                                              |         |
-| Des nouvelles religions ?                                       |         |
-| De branches de la même religion ?                               |         |
-| Qui les ont fondés ?                                            |         |
-| Des adversaires politiques ?                                    |         |
-| Des théologiens ?                                               |         |
-| Quelles sont les différences fondamentales ?                    |         |
-| Philosophique ?                                                 |         |
-| Historiques ?                                                   |         |
-| Des conflits d’intérêt ?                                        |         |
-| Ces dérives sont-elles tolérées ?                               |         |
-| Sont-elles combattues ?                                         |         |
-| Par qui ?                                                       |         |
-| Pourquoi ?                                                      |         |
-| Qui sont les premiers visés ?                                   |         |
-| Quel sort est réservé à l’hérétique ?                           |         |
-| L’hérésie est-elle importante ?                                 |         |
-| S’agit-il de sectes ?                                           |         |
-| D’un courant à part entière ?                                   |         |
-| Où se basent-ils ?                                              |         |
-| Se cachent-ils ?                                                |         |
-| Ont-elles des institutions ?                                    |         |
-| Dans quelles régions sont-elles importantes ?                   |         |
-| Pourquoi celles-ci ?                                            |         |
-| Qui sont leurs représentants ?                                  |         |
-| Des gourous ?                                                   |         |
-| Des communautés ?                                               |         |
-| Des conseils ?                                                  |         |
+| N°  | Question                                                        | Réponse |
+| --- | --------------------------------------------------------------- | ------- |
+| 1   | La religion existe-t-elle dans l’univers ?                      |         |
+| 2   | Comment a-t-elle été créée ?                                    |         |
+| 3   | Est-ce une simple croyance ?                                    |         |
+| 4   | S’est-elle déjà manifestée ?                                    |         |
+| 5   | Sous quelle forme ?                                             |         |
+| 6   | S’agit-il de dieux ?                                            |         |
+| 7   | Monothéisme ?                                                   |         |
+| 8   | Polythéisme ?                                                   |         |
+| 9   | Animisme ?                                                      |         |
+| 10  | Y a-t-il une seule ou plusieurs religions ?                     |         |
+| 11  | Où s’étendent-elles ?                                           |         |
+| 12  | Lesquelles cohabitent ?                                         |         |
+| 13  | Au niveau des dieux, combien sont-ils ?                         |         |
+| 14  | Est-il seul ?                                                   |         |
+| 15  | Sont-ils nombreux ?                                             |         |
+| 16  | Autours de quoi se divisent-ils ?                               |         |
+| 17  | Qui représente le bien et le mal ?                              |         |
+| 18  | La vie et la mort ?                                             |         |
+| 19  | La matière et le vide ?                                         |         |
+| 20  | Le vivant et l’inerte ?                                         |         |
+| 21  | Quels sont les valeurs de cette religion ?                      |         |
+| 22  | La liberté ?                                                    |         |
+| 23  | L’intelligence ?                                                |         |
+| 24  | Le courage ?                                                    |         |
+| 25  | L’autorité ?                                                    |         |
+| 26  | La tradition ?                                                  |         |
+| 27  | La modernité ?                                                  |         |
+| 28  | Qui les représente ?                                            |         |
+| 29  | S’il s’agit d’un monothéisme, comment se divise ces valeurs ?   |         |
+| 30  | Comment est-il théorisé ?                                       |         |
+| 31  | Pourquoi est-il unique ?                                        |         |
+| 32  | L’a-t-il toujours été ?                                         |         |
+| 33  | Dans l’histoire, cette philosophie a-t-elle évoluée ?           |         |
+| 34  | Pourquoi ?                                                      |         |
+| 35  | Une guerre ?                                                    |         |
+| 36  | Une fusion avec d’autres religions ?                            |         |
+| 37  | Est-ce grâce à des théologiens ?                                |         |
+| 38  | Des penseurs ?                                                  |         |
+| 39  | Qui ça ?                                                        |         |
+| 40  | A quelle époque ?                                               |         |
+| 41  | Quelles son les missions de la religion ?                       |         |
+| 42  | Qui la dirige ?                                                 |         |
+| 43  | Un groupe ?                                                     |         |
+| 44  | Un unique représentant ?                                        |         |
+| 45  | Par qui est-il désigné ?                                        |         |
+| 46  | Le clergé ?                                                     |         |
+| 47  | Le dieu lui-même ?                                              |         |
+| 48  | Par rapport à la population, quel est le lien ?                 |         |
+| 49  | Y a-t-il des lieux de cultes ?                                  |         |
+| 50  | Où sont-ils ?                                                   |         |
+| 51  | Qu’est-ce qu’on y trouve ?                                      |         |
+| 52  | Qui sont ceux qui s’en chargent ?                               |         |
+| 53  | Des prêtres ?                                                   |         |
+| 54  | La communauté ?                                                 |         |
+| 55  | Des chefs ?                                                     |         |
+| 56  | Que doit le peuple au clergé ?                                  |         |
+| 57  | De l’argent ?                                                   |         |
+| 58  | Des vivres ?                                                    |         |
+| 59  | Du temps de travail ?                                           |         |
+| 60  | Pour ce qui est des hautes instances, comment cela s’organise ? |         |
+| 61  | Y a-t-il une hiérarchie ?                                       |         |
+| 62  | Quand s’est-elle formée ?                                       |         |
+| 63  | De qui est-elle composée ?                                      |         |
+| 64  | Comment cette institution est financée ?                        |         |
+| 65  | Y a-t-il de la corruption ?                                     |         |
+| 66  | Comment ?                                                       |         |
+| 67  | Pourquoi cela ?                                                 |         |
+| 68  | Est-ce que le peuple est au courant ?                           |         |
+| 69  | Qu’en pensent-ils ?                                             |         |
+| 70  | Y a-t-il des théologiens ?                                      |         |
+| 71  | Quelle est leur place ?                                         |         |
+| 72  | Ont-ils des lieux dédiés ?                                      |         |
+| 73  | Comment sont-ils vus ?                                          |         |
+| 74  | Quelle est leur mission ?                                       |         |
+| 75  | Y a-t-il des prières ?                                          |         |
+| 76  | Quand ça ?                                                      |         |
+| 77  | Comment se déroule le culte ?                                   |         |
+| 78  | En extérieur ?                                                  |         |
+| 79  | Dans un bâtiment ?                                              |         |
+| 80  | Lequel ?                                                        |         |
+| 81  | Quel est le but ?                                               |         |
+| 82  | Se confesser ?                                                  |         |
+| 83  | Manifester sa foi ?                                             |         |
+| 84  | Démontrer sa foi ?                                              |         |
+| 85  | Est-ce un moment intime ?                                       |         |
+| 86  | Un moment de communion ?                                        |         |
+| 87  | Quels sont les différentes cérémonies ?                         |         |
+| 88  | A la naissance ?                                                |         |
+| 89  | A la mort ?                                                     |         |
+| 90  | A un moment de l’année ?                                        |         |
+| 91  | Lesquels ?                                                      |         |
+| 92  | Pourquoi ces jours-ci ?                                         |         |
+| 93  | Y a-t-il des objets utilisés ?                                  |         |
+| 94  | Quelle est leur fonction ?                                      |         |
+| 95  | Comment les utiliser ?                                          |         |
+| 96  | Pourquoi les utiliser ?                                         |         |
+| 97  | Qui les a inventés ?                                            |         |
+| 98  | Y a-t-il un objet représentant cette religion ?                 |         |
+| 99  | Pourquoi celui-ci ?                                             |         |
+| 100 | Quel est sa symbolique ?                                        |         |
