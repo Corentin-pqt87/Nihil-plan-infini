@@ -1,6 +1,8 @@
 #definition #evenement #Isi
 
 ## Définition :
+La guerre est causé par un désaccord sur la libération de la magie et de donner cette connaissance au mortel. [[Måne]], [[Arāqu]], [[Tijd]] et [[Tuulet]] était pour mais [[Krull]] ne pouvais que voir le danger que cela engendrera.
+
 La fin de la guerre de l'Orgueil est le point de départ du calendrier.
 Elle oppose deux groupes de [[primordio]], le premier menait pas [[Tuulet]] avec à ses coté [[Måne]], [[Tijd]] et [[Arāqu]], et de l'autre coté [[Krull]] et ces spectres.
 
@@ -8,3 +10,5 @@ Le conflit prend fin quand Krull viens à bout de [[Tuulet]], ce dernier diviser
 
 [[Måne]] fera fuir [[Krull]] qui battra en retraite ce qui conclura cette guerre.
 Par la suite [[Tijd]] prendra l'initiative de créé les [[Miles tuulet]] afin de rassemblé les [[clefs du vent]]
+
+Voir : [[La guerre]] dans le chapitre 1 en cas de questi
