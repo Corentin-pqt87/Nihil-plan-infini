@@ -19,7 +19,7 @@ faction:
 Tijd/Tid temps en néerlandais
 Aika temps en finnois
 
-Tid est le [[primordio]] représenter par le symbole d'un cadrant d'horloge, il fait parti des "[[Miles tuulet]]". Il est vue par de nombreux peuple comme une figure de stabilité.
+Tid est le [[primordiaux]] représenter par le symbole d'un cadrant d'horloge, il fait parti des "[[Miles tuulet]]". Il est vue par de nombreux peuple comme une figure de stabilité.
 
 Domaine :
 - le temps

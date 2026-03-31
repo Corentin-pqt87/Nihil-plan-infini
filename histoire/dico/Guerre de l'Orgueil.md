@@ -4,7 +4,7 @@
 La guerre est causé par un désaccord sur la libération de la magie et de donner cette connaissance au mortel. [[Måne]], [[Arāqu]], [[Tijd]] et [[Tuulet]] était pour mais [[Krull]] ne pouvais que voir le danger que cela engendrera.
 
 La fin de la guerre de l'Orgueil est le point de départ du calendrier.
-Elle oppose deux groupes de [[primordio]], le premier menait pas [[Tuulet]] avec à ses coté [[Måne]], [[Tijd]] et [[Arāqu]], et de l'autre coté [[Krull]] et ces spectres.
+Elle oppose deux groupes de [[primordiaux]], le premier menait pas [[Tuulet]] avec à ses coté [[Måne]], [[Tijd]] et [[Arāqu]], et de l'autre coté [[Krull]] et ces spectres.
 
 Le conflit prend fin quand Krull viens à bout de [[Tuulet]], ce dernier divisera son âme en une infinité de partie qui ce disperseront dans l'infinité des plans afin de ce fusionner a d'autre âmes a fin de leurs donné des fragment de son pouvoir. Ces personnes seront nommé les [[clefs du vent]].
 
