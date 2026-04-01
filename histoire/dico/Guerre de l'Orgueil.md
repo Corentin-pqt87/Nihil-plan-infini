@@ -11,4 +11,4 @@ Le conflit prend fin quand Krull viens à bout de [[Tuulet]], ce dernier diviser
 [[Måne]] fera fuir [[Krull]] qui battra en retraite ce qui conclura cette guerre.
 Par la suite [[Tijd]] prendra l'initiative de créé les [[Miles tuulet]] afin de rassemblé les [[clefs du vent]]
 
-Voir : [[La guerre]] dans le chapitre 1 en cas de questi
+Voir : [[La guerre]] dans le chapitre 1 en cas de question

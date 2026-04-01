@@ -19,7 +19,6 @@ tags:
 >*Dans les flots du temps, les première être vivant ce développèrent.*
 >*Dans son long voyage, le quatrième ([[Krull]]) vu la vie et la mort des êtres vivant et la guerre n'aitre.*
 
-
 >*En son retour, les autres primordiaux partagèrent leurs désir, celui de donner de leur pouvoir au mortel.*
 >*Mais ce dernier avait vue la mort, la guerre et ne pouvais qu'imaginer le désastre que cela provoquerait.*
 >*De ce désaccord suivie une opposition, de cette opposition suivie de la colère et de cette colère suivie une confrontation.*
