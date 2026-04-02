@@ -33,8 +33,8 @@ Il est avec [[Tijd]] les créateurs du golem au XVIIsi.
 Céleste de taille M, loyal bon
 ### Portrait d'espace réservé 
 
-![Placeholder Portrait](https://publish-01.obsidian.md/access/36b98e212e9d73fe1bd4813f96b0fd71/z_Assets/Misc/ImagePlaceholder.png)  
-[open outside](https://obsidianttrpgtutorials.com/z_Assets/Misc/ImagePlaceholder.png)
+![img](https://i.pinimg.com/1200x/5b/4c/ac/5b4cac2c53464355b48b60b242abcd44.jpg)
+*ArtStation*
 
 **Alignement**: Bon
 

@@ -40,4 +40,6 @@ Compte sur l'origine des primordiaux et des plans.
 ---
 Les primordiaux sont des entités divine qui ce caractérise non pas par leurs en enveloppe physique mais par leurs concept. Si un primordial meurs sans que son âme/esprit ne sois détruit alors au même moment ou avec un décalage, une enfant naitra avec son âme/esprit. Plus le temps passera plus des souvenir de ça vie extérieur surgira jusqu'à ce que la personne ne sois plus capable de définir a qui son les souvenir, alors on dit que cette personne est vaisseau/réincarnation du primordial. 
 
+Les primordiaux sont unique, et n'il n'en existe qu'un malgré tout les plans.
+
 **idée :** Un joueur pourrait être le nouveau vaisseau d'un primordial, il aurait donc des visions du passé et cela expliquerait l'origine de ses pouvoirs.
