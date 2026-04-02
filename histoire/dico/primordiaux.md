@@ -23,7 +23,7 @@ tags:
 >*Mais ce dernier avait vue la mort, la guerre et ne pouvais qu'imaginer le désastre que cela provoquerait.*
 >*De ce désaccord suivie une opposition, de cette opposition suivie de la colère et de cette colère suivie une confrontation.*
 >*Deux camps ce formeret, celui de la libération et celui de la raison.*
->*Et les mortels ce joignèrent à cette guerre.*
+>*Et les mortels ce joignèrent à cette guerre ([[Guerre de l'Orgueil]]).*
 
 >*Europe, une des lunes de Jupiter abrita une grande bataille, la dernière.*
 >*En peins duel, le cinquième ([[Tuulet]]) affrontât le quatrième ([[Krull]]).*
