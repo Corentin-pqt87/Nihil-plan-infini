@@ -1,6 +1,9 @@
 ---
 tags:
   - definition
+type:
+  - evenement
+  - primordio
 ---
 ---
 
@@ -18,13 +21,13 @@ tags:
 >*Envouter par la curiosité le quatrième ([[Krull]]) parât chercher la source seul.*
 >*Dans les flots du temps, les première être vivant ce développèrent.*
 >*Dans son long voyage, le quatrième ([[Krull]]) vu la vie et la mort des êtres vivant et la guerre n'aitre.*
-
+>(...)
 >*En son retour, les autres primordiaux partagèrent leurs désir, celui de donner de leur pouvoir au mortel.*
 >*Mais ce dernier avait vue la mort, la guerre et ne pouvais qu'imaginer le désastre que cela provoquerait.*
 >*De ce désaccord suivie une opposition, de cette opposition suivie de la colère et de cette colère suivie une confrontation.*
 >*Deux camps ce formeret, celui de la libération et celui de la raison.*
 >*Et les mortels ce joignèrent à cette guerre ([[Guerre de l'Orgueil]]).*
-
+>(...)
 >*Europe, une des lunes de Jupiter abrita une grande bataille, la dernière.*
 >*En peins duel, le cinquième ([[Tuulet]]) affrontât le quatrième ([[Krull]]).*
 >*D'un coup de hache de la main de son frère, le cinquième tombât.*
@@ -33,7 +36,8 @@ tags:
 >*Il n'y eu ni vainqueur ni perdant, le premier camps libéra le magie comme il le voulait.*
 >*Et le second camps montrât à tout le monde qu'il avait raisons, que la magie les avaient amener a s'entre tuer.*
 >*La guerre ce finnisât, et chacun repartie de son coté.*
->*Les [[Miles tuulet]] fut créé pour but de retrouver chaque personnes qui possédaient un fragment de l'âme que l'on nomma les [[clefs du vent]]."*
+>*Les [[Miles tuulet]] fut créé pour but de retrouver chaque personnes qui possédaient un fragment de l'âme que l'on nomma les [[clefs du vent]].*
+>*L'ordre des [[Solut Dour]] fut créer peux de temps après par le quatrième"*
 
 Compte sur l'origine des primordiaux et des plans.
 
