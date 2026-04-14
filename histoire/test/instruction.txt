@@ -1,0 +1,13 @@
+# création ou lecture du fichier test.json
+cd test.json
+
+# ajout de mot
+add langue1 mot1 b
+add langue1 mot2 a+{langue1[mot1]}
+add langue1 mot3 {langue1[mot2]}+c
+
+# lire avec ls
+ls
+
+# lire avec echo
+echo langue1

@@ -1,0 +1,7 @@
+{
+    "langue1": {
+        "mot1": "b",
+        "mot2": "a+{langue1[mot1]}",
+        "mot3": "{langue1[mot2]}+c"
+    }
+}

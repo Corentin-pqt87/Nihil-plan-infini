@@ -351,7 +351,7 @@ def trad(langue, *phrase):
             traduction.append("?")
 
     # afficher la traduction
-    output(" ".join(traduction))
+    success(" ".join(traduction))
 
 def ls():
     """

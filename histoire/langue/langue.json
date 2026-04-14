@@ -21,7 +21,10 @@
         "danger": "risk",
         "homme": "man",
         "femme": "kvinna",
-        "maison": "hem"
+        "maison": "hem",
+        "je": "{sedonien[moi]}",
+        "toi": "{sedonien[autre]}",
+        "tu": "{sedonien[autre]}"
     },
     "sumarique": {
         "terre": "ki",
@@ -42,6 +45,11 @@
         "femme": "munus",
         "maison": "étou",
         "moi": "men",
-        "autre": "za"
+        "autre": "za",
+        "je": "{sumarique[moi]}",
+        "toi": "{sumarique[autre]}",
+        "tu": "{sumarique[autre]}",
+        "vie": "{sumarique[soleil]}{sumarique[sang]}",
+        "lune": "{sumarique[petit]}{sumarique[terre]}"
     }
 }
