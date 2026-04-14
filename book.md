@@ -1144,6 +1144,9 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 - Secousse sismique
 - Saut
 - Tir Réfléchi
+- Frappe du zéphyr
+- Serviteur invisible
+- Vents contraires
 
 
 ##### 2 Niveau Pouvoirs concentrés
@@ -1157,6 +1160,10 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 - Détection des pensées
 - Poigne de l’esprit
 - Sur-poids
+- Arme magique
+- Attraction terrestre
+- Bourrasque
+- Déblocage
 
 
 ##### 3 Niveau Maîtrise intermédiaire

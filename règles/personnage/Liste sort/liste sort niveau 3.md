@@ -17,7 +17,7 @@ La créature est sous votre contrôle pour une période de 24 heures, à la fin 
 
 # Antidétection
 
-niveau 3 - abjuration
+niveau 3 - abjuration - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -48,7 +48,7 @@ Si vous êtes en extérieur et dans des conditions orageuses lors de l'incantati
 
 # Arme élémentaire
 
-niveau 3 - transmutation
+niveau 3 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -107,7 +107,7 @@ Le feu contourne les coins. Il enflamme les objets inflammables qui ne sont pas 
 
 # Cercle magique
 
-niveau 3 - abjuration
+niveau 3 - abjuration - combinable
 
 **Temps d'incantation** : 1 minute
 
@@ -142,7 +142,7 @@ Une créature aveuglée par ce sort effectue un nouveau jet de sauvegarde de Con
 
 # Clairvoyance
 
-niveau 3 - divination
+niveau 3 - divination - combinable
 
 **Temps d'incantation** : 10 minutes
 
@@ -173,7 +173,7 @@ Lorsque vous êtes dans le plan éthéré, vous pouvez voir et entendre le plan 
 
 # Communication à distance
 
-niveau 3 - évocation
+niveau 3 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -309,7 +309,7 @@ La créature est votre allié et celui de vos compagnons. En combat, elle partag
 
 # Création de nourriture et d'eau
 
-niveau 3 - invocation
+niveau 3 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -323,7 +323,7 @@ Vous créez 22,5 kg de nourriture et 120 litres d'eau sur le sol ou dans des con
 
 # Croissance végétale
 
-niveau 3 - transmutation
+niveau 3 - transmutation - combinable
 
 **Temps d'incantation** : 1 action ou 8 heures
 
@@ -369,7 +369,7 @@ Choisissez une créature, un objet ou un effet magique dans la portée du sort. 
 
 # Don des langues
 
-niveau 3 - divination
+niveau 3 - divination - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -477,7 +477,7 @@ Vous touchez un carquois contenant des flèches ou des carreaux. Quand une cible
 
 # Forme gazeuse
 
-niveau 3 - transmutation
+niveau 3 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -524,7 +524,7 @@ Lorsque vous vous déplacez à 1,50 mètre ou moins d'une créature ou d'un obje
 
 # Foulée tonitruante
 
-niveau 3 - invocation
+niveau 3 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -576,7 +576,7 @@ Lorsque vous inscrivez le glyphe, faites un choix entre les _runes explosives_�
 
 # Hâte
 
-niveau 3 - transmutation
+niveau 3 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -591,7 +591,7 @@ Lorsque le sort prend fin, la cible ne peut plus bouger ou agir jusqu'à la fin 
 
 # Image majeure
 
-niveau 3 - illusion
+niveau 3 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 

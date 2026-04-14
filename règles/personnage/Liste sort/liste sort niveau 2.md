@@ -1,6 +1,6 @@
 # Agrandissement/Rapetissement
 
-niveau 2 - transmutation
+niveau 2 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -32,7 +32,7 @@ Votre sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'
 
 # Amélioration de caractéristique
 
-niveau 2 - transmutation
+niveau 2 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -87,7 +87,7 @@ Vous ne pouvez avoir plus d'un destrier lié grâce à ce sort en même temps. P
 
 # Arme magique
 
-niveau 2 - transmutation
+niveau 2 - transmutation - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -119,7 +119,7 @@ L'arme peut prendre la forme de votre choix. Les clercs d'une divinité associé
 
 # Attraction terrestre
 
-niveau 2 - transmutation
+niveau 2 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -170,7 +170,7 @@ Lorsque vous lancez le sort, choisissez l'un ou les deux effets suivants. L'effe
 
 # Bouche magique
 
-niveau 2 - illusion (rituel)
+niveau 2 - illusion (rituel) - combinable
 
 **Temps d'incantation** : 1 minute
 
@@ -187,7 +187,7 @@ Les conditions de déclenchement peuvent être aussi génériques ou aussi préc
 
 # Bourrasque
 
-niveau 2 - évocation
+niveau 2 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -204,7 +204,7 @@ Lors d'une action bonus à chacun de vos tours avant que le sort prenne fin, vou
 
 # Cécité/Surdité
 
-niveau 2 - nécromancie
+niveau 2 - nécromancie - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -314,7 +314,7 @@ La transformation du sol est camouflée afin de paraître naturelle. Toute créa
 
 # Déblocage
 
-niveau 2 - transmutation
+niveau 2 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -392,7 +392,7 @@ Vous atteignez l'esprit d'une créature que vous pouvez voir à portée. La cibl
 
 # Espièglerie de Nathair
 
-niveau 2 - illusion
+niveau 2 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -476,7 +476,7 @@ Une flèche verte scintillante jaillit en direction d'une cible à portée et l'
 
 # Flou
 
-niveau 2 - illusion
+niveau 2 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -490,7 +490,7 @@ Votre corps devient flou, changeant et ondulant pour tous ceux qui peuvent vous 
 
 # Force fantasmagorique
 
-niveau 2 - illusion
+niveau 2 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -553,7 +553,7 @@ Un objet non magique qui n'est pas porté ou transporté subit aussi les dégât
 
 # Image miroir
 
-niveau 2 - illusion
+niveau 2 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -633,7 +633,7 @@ La lame enflammée émet une lumière vive dans un rayon de 3 mètres et une lum
 
 # Lévitation
 
-niveau 2 - transmutation
+niveau 2 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -739,7 +739,7 @@ Si une créature tient ou porte l'objet et en subit les dégâts de feu, la cré
 
 # Modification d'apparence
 
-niveau 2 - transmutation
+niveau 2 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1013,7 +1013,7 @@ Ce sort révèle simplement qu'un piège est présent. Vous n'apprenez pas l'emp
 
 # Silence
 
-niveau 2 - illusion (rituel)
+niveau 2 - illusion (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1060,7 +1060,7 @@ Lorsque vous déplacez la sphère, vous pouvez la diriger par-dessus des barriè
 
 # Suggestion
 
-niveau 2 - enchantement
+niveau 2 - enchantement - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1091,7 +1091,7 @@ Des ténèbres magiques s'étendent d'un point de votre choix dans la portée du
 Si le point choisi est un objet que vous portez ou qui n'est pas porté ou transporté, les ténèbres émanent de l'objet et elles se déplacent avec lui. Recouvrir complètement la source des ténèbres avec un objet opaque, comme un bol ou un casque, bloque les ténèbres.  
 Si n'importe quelle portion de ce sort chevauche une portion de lumière créée par un sort de niveau 2 ou moins, le sort de lumière est alors dissipé.  
 
-# Toile d'araignée
+# Toile d'araignée - combinable
 
 niveau 2 - invocation
 
@@ -1128,7 +1128,7 @@ Par une action bonus, vous pouvez déplacer le tourbillon de poussière jusqu'à
 
 # Vent protecteur
 
-niveau 2 - évocation
+niveau 2 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1148,7 +1148,7 @@ Le vent a les effets suivants :
 
 # Verrou magique
 
-niveau 2 - abjuration
+niveau 2 - abjuration - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1163,7 +1163,7 @@ L'objet affecté par le sort est plus difficile à briser ou forcer ; le DD pour
 
 # Vision dans le noir
 
-niveau 2 - transmutation
+niveau 2 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1177,7 +1177,7 @@ Vous touchez une créature consentante pour lui conférer la capacité de voir d
 
 # Voir l'invisible
 
-niveau 2 - divination
+niveau 2 - divination - combinable
 
 **Temps d'incantation** : 1 action
 

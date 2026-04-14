@@ -12,6 +12,7 @@ niveau 0 - enchantement
 
 Pour la durée du sort, vous avez un avantage à tous vos jets de Charisme effectués contre une créature de votre choix qui n'a pas une attitude hostile envers vous. Lorsque le sort prend fin, la créature réalise que vous avez utilisé la magie pour l'influencer et devient hostile à votre égard. Une créature plutôt violente risque de vous attaquer. D'autres créatures peuvent vous demander de l'argent ou un service (à la discrétion du MD), cela dépend de la nature de l'échange que vous avez eu avec la créature.
 
+
 # Aspersion d'acide
 
 niveau 0 - invocation
@@ -73,7 +74,7 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d
 
 # Contrôle des flammes
 
-niveau 0 - transmutation
+niveau 0 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -185,7 +186,7 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez les niveaux 5 (
 
 # Façonnage de l'eau
 
-niveau 0 - transmutation
+niveau 0 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -204,7 +205,7 @@ Si vous lancez ce sort plusieurs fois, vous ne pouvez avoir que deux de ces effe
 
 # Façonnage de la terre
 
-niveau 0 - transmutation
+niveau 0 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 

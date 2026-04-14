@@ -138,7 +138,7 @@ Vous bénissez jusqu'à trois créatures de votre choix, dans la portée du sort
 
 # Blessure
 
-niveau 1 - nécromancie
+niveau 1 - nécromancie - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -231,7 +231,7 @@ Vous pouvez tenter de charmer un humanoïde que vous pouvez voir à portée. Ce 
 
 # Châtiment calcinant
 
-niveau 1 - évocation
+niveau 1 - évocation - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -246,7 +246,7 @@ La prochaine fois que vous touchez une créature avec une attaque au corps à co
 
 # Châtiment courroucé
 
-niveau 1 - évocation
+niveau 1 - évocation - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -260,7 +260,7 @@ La prochaine fois que vous touchez une cible lors d'une attaque au corps à corp
 
 # Châtiment tonitruant
 
-niveau 1 - évocation
+niveau 1 - évocation - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -274,7 +274,7 @@ La première fois que vous touchez une cible lors une attaque au corps à corps 
 
 # Collet
 
-niveau 1 - abjuration
+niveau 1 - abjuration - combinable
 
 **Temps d'incantation** : 1 minute
 
@@ -352,7 +352,7 @@ Vous créez un éclat de glace et le lancez vers une créature dans la portée d
 
 # Création ou destruction d'eau
 
-niveau 1 - transmutation
+niveau 1 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -369,7 +369,7 @@ Soit vous créez, soit vous détruisez de l'eau.
 
 # Déguisement
 
-niveau 1 - illusion
+niveau 1 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -385,7 +385,7 @@ Pour détecter que vous êtes déguisé, une créature peut utiliser son action 
 
 # Détection de la magie
 
-niveau 1 - divination (rituel)
+niveau 1 - divination (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -400,7 +400,7 @@ Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm 
 
 # Détection du mal et du bien
 
-niveau 1 - divination
+niveau 1 - divination - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -415,7 +415,7 @@ Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm 
 
 # Détection du poison et des maladies
 
-niveau 1 - divination (rituel)
+niveau 1 - divination (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -430,7 +430,7 @@ Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm 
 
 # Disque flottant de Tenser
 
-niveau 1 - invocation (rituel)
+niveau 1 - invocation (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -536,7 +536,7 @@ Votre prière vous donne de la puissance dans un rayonnement divin. Jusqu'à ce 
 
 # Feuille morte
 
-niveau 1 - transmutation
+niveau 1 - transmutation - combinable
 
 **Temps d'incantation** : 1 réaction, que vous prenez lorsque vous ou une créature à 18 mètres ou moins de vous tombez.
 
@@ -565,7 +565,7 @@ Jusqu'à trois créatures de votre choix, que vous pouvez voir et qui sont à po
 
 # Fou rire de Tasha
 
-niveau 1 - enchantement
+niveau 1 - enchantement - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -580,7 +580,7 @@ Une créature de votre choix, que vous pouvez voir et à portée, a l'impression
 
 # Frappe du zéphyr
 
-niveau 1 - transmutation
+niveau 1 - transmutation - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -641,7 +641,7 @@ Lorsque la graisse apparaît, chaque créature se tenant debout dans la zone doi
 
 # Grande foulée
 
-niveau 1 - transmutation
+niveau 1 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -671,7 +671,7 @@ La prochaine fois que vous touchez une créature lors d'une attaque à distance 
 
 # Héroïsme
 
-niveau 1 - enchantement
+niveau 1 - enchantement - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -701,7 +701,7 @@ Si vous touchez une créature durant toute la durée du sort, au lieu d'un objet
 
 # Image silencieuse
 
-niveau 1 - illusion
+niveau 1 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -938,7 +938,7 @@ La protection confère un certain nombre de bénéfices. Les créatures de ces t
 
 # Purification de nourriture et d'eau
 
-niveau 1 - transmutation (rituel)
+niveau 1 - transmutation (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -967,7 +967,7 @@ Un rayon d'énergie verdâtre et contagieuse est envoyé en direction d'une cré
 
 # Repli expéditif
 
-niveau 1 - transmutation
+niveau 1 - transmutation - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -1011,7 +1011,7 @@ Si la créature protégée fait une attaque, lance un sort qui affecte une créa
 
 # Saut
 
-niveau 1 - transmutation
+niveau 1 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1025,7 +1025,7 @@ Vous touchez une créature. La distance de saut de la créature est triplée pou
 
 # Secousse sismique
 
-niveau 1 - évocation
+niveau 1 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1119,7 +1119,7 @@ Des sarments d'énergie noire jaillissent de vous et frappent toutes les créatu
 
 # Texte illusoire
 
-niveau 1 - illusion (rituel)
+niveau 1 - illusion (rituel) - combinable
 
 **Temps d'incantation** : 1 minute
 
@@ -1167,7 +1167,7 @@ En outre, les objets non fixés qui se trouvent entièrement dans la zone d'effe
 
 # Vents contraires
 
-niveau 1 - évocation
+niveau 1 - évocation - combinable
 
 **Temps d'incantation** : 1 réaction
 
