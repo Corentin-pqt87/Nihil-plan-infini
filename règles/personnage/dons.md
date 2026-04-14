@@ -1,0 +1,5 @@
+Un don représente un talent ou un domaine d'expertise qui confère des capacités spéciales à un personnage. Cela représente la formation, l'expérience et les capacités au-delà de ce qu'une classe de personnage offre.
+
+À certains niveaux, votre classe vous octroie la capacité Amélioration de caractéristiques. En utilisant la règle optionnelle des dons, vous pouvez renoncer à prendre cette capacité pour prendre un don de votre choix à la place. Vous ne pouvez prendre un même don qu'une seule fois, à moins que la description du don ne mentionne le contraire.
+
+Vous devez remplir tous les prérequis spécifiés par un don pour pouvoir le prendre. Si vous ne répondez plus aux prérequis d'un don, vous ne pouvez plus l'utiliser jusqu'à ce que vous remplissiez de nouveau toutes les prérequis. Par exemple, le don Lutteur demande d'avoir une Force de 13 ou plus. Si votre Force est réduite en dessous de 13 d'une manière ou d'une autre, de par une malédiction peut être, vous ne pouvez plus bénéficier du don Lutteur jusqu'à ce que votre Force soit rétablie.
