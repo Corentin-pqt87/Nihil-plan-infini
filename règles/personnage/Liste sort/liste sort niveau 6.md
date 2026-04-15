@@ -1,4 +1,4 @@
-# Allié planaire
+#### Allié planaire
 
 niveau 6 - invocation
 
@@ -17,7 +17,7 @@ Le tarif généralement pratiqué pour une tâche dont la durée est calculée e
 Après qu'une créature ait accompli la tâche que vous lui avez confiée, ou lorsque la durée de service convenue arrive à échéance, la créature retourne sur son plan après vous avoir fait un rapport, si cela est approprié à la tâche ou si elle le peut. Si vous n'êtes pas capable de vous entendre sur le paiement de la tâche, la créature retourne immédiatement dans son plan d'origine.  
 Une créature enrôlée dans votre groupe compte comme un membre à part entière, recevant son quota de points d'expérience comme tous les autres membres.  
 
-# Barrière de lames
+#### Barrière de lames
 
 niveau 6 - évocation
 
@@ -32,7 +32,7 @@ niveau 6 - évocation
 Vous créez un mur de lames acérées et tourbillonnantes faites d'énergie magique. Le mur apparait dans la portée du sort et il persiste pour sa durée. Vous pouvez modeler un mur rectiligne mesurant jusqu'à 30 mètres de long, 6 mètres de haut et 1,50 mètre d'épaisseur, ou un mur circulaire mesurant jusqu'à 18 mètres de diamètre, 6 mètres de haut et 1,50 mètre d'épaisseur. Le mur confère un abri important (3/4) aux créatures situées derrière, et l'espace occupé par le mur est un terrain difficile.  
 Lorsqu'une créature pénètre dans la zone du mur pour la première fois de son tour ou lorsqu'elle débute son tour dans la zone, la créature doit effectuer un jet de sauvegarde de Dextérité, subissant 6d10 dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 
-# Bosquet des druides
+#### Bosquet des druides
 
 niveau 6 - abjuration
 
@@ -54,7 +54,7 @@ Vous invoquez les esprits de la nature afin de protéger une zone extérieure ou
 • Un _mur de vent_ à deux endroits de votre choix  
 Pour une créature immunisée contre cet effet, les vents sont une brise douce et parfumée, et la zone de croissance des épines est inoffensive.  
 
-# Bouclier de platine de Fizban
+#### Bouclier de platine de Fizban
 
 niveau 6 - abjuration
 
@@ -72,7 +72,7 @@ Vous créez un halo de lumière argentée autour d'une créature de votre choix 
 **Évasion**. Si la créature est sujette à un effet qui permet un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, elle ne subit aucun dégât en cas de réussite et seulement la moitié des dégâts en cas d'échec.  
 Par une action bonus lors des tours suivants, vous pouvez déplacer le halo vers une autre créature à 18 mètres ou moins du halo.  
 
-# Cage des âmes
+#### Cage des âmes
 
 niveau 6 - nécromancie
 
@@ -91,7 +91,7 @@ Ce sort arrache l'âme d'un humanoïde lorsqu'il meurt et la piège dans une pet
 **Vision des morts**. Vous pouvez utiliser une action pour nommer un lieu que l'humanoïde a vu de son vivant, ce qui crée un capteur invisible à cet endroit, à condition qu'il se trouve dans le même plan d'existence que vous. Le capteur persiste tant que vous vous concentrez sur le sort, jusqu'à 10 minutes. Vous pouvez voir et entendre comme si vous étiez à la place du capteur.  
 Toute créature qui peut voir le capteur (comme avec _voir l'invisible_ ou Vision véritable) perçoit une image translucide de l'humanoïde tourmenté dont vous avez piégé l'âme.  
 
-# Cercle de mort
+#### Cercle de mort
 
 niveau 6 - nécromancie
 
@@ -106,7 +106,7 @@ niveau 6 - nécromancie
 Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir d'un point à portée. Chaque créature présente dans la zone doit effectuer un jet de sauvegarde de Constitution, subissant 8d6 dégâts nécrotiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts augmentent de 2d6 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Chaîne d'éclairs
+#### Chaîne d'éclairs
 
 niveau 6 - évocation
 
@@ -122,7 +122,7 @@ Vous créez un trait électrifié qui s'arque à partir d'une cible de votre cho
 Toute cible doit effectuer un jet de sauvegarde de Dextérité, subissant 10d8 dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 7 ou supérieur, un trait additionnel s'élance de la première cible vers une autre cible pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Contamination
+#### Contamination
 
 niveau 6 - nécromancie
 
@@ -136,7 +136,7 @@ niveau 6 - nécromancie
 
 Vous libérez une infection virulente sur une créature que vous voyez dans la portée du sort. La cible doit effectuer un jet de sauvegarde de Constitution, subissant 14d6 dégâts nécrotiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Les dégâts ne peuvent réduire les points de vie de la cible sous 1. Si la cible échoue le jet de sauvegarde, son maximum de points de vie est amputé pour 1 heure de la même quantité de dégâts nécrotiques subis. Tout effet qui enraye la maladie permet au maximum de points de vie de la créature de retrouver sa valeur normale avant la fin de l'effet du sort.  
 
-# Convocation de fiélon
+#### Convocation de fiélon
 
 niveau 6 - invocation
 
@@ -152,7 +152,7 @@ Vous appelez un esprit de fiélon. Il apparaît dans un espace inoccupé que vou
 La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
 
-# Convocations instantanées de Drawmij
+#### Convocations instantanées de Drawmij
 
 niveau 6 - invocation (rituel)
 
@@ -169,7 +169,7 @@ Par la suite, n'importe quand, vous pouvez utiliser votre action pour prononcer 
 Si une autre créature porte ou tient l'objet, briser le saphir ne téléporte pas l'objet jusqu'à vous mais vous informe de qui le possède actuellement et où cette créature se trouve en ce moment.  
 Le sort _[dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)_, ou un effet similaire, lancé avec succès sur le saphir met fin à l'effet du sort.  
 
-# Costume d'Outremonde de Tasha
+#### Costume d'Outremonde de Tasha
 
 niveau 6 - transmutation
 
@@ -189,7 +189,7 @@ Vous prononcez une incantation et soutirez de la magie des plans inférieurs ou 
 • Toutes vos attaques armées sont considérées comme magiques, et lorsque vous faites une attaque avec arme vous pouvez utiliser votre modificateur de caractéristique d'incantation à la place de la Force ou la Dextérité pour les jets d'attaque et de dégât.  
 • Vous pouvez attaquer deux fois au lieu d'une lorsque vous prenez l'action Attaquer lors de votre tour. Vous ignorez cet avantage si vous avez déjà une capacité similaire, comme Attaque supplémentaire, qui vous permet d'attaquer plusieurs fois lorsque vous prenez l'action Attaquer pendant votre tour.  
 
-# Création d'homoncule
+#### Création d'homoncule
 
 niveau 6 - transmutation
 
@@ -203,7 +203,7 @@ niveau 6 - transmutation
 
 En prononçant l'incantation du sort, vous vous entaillez avec une dague incrustée de pierres précieuses, subissant 2d4 dégât perforant qui ne peuvent être réduit d'aucune manière. Vous faites couler votre sang sur les autres composantes et les touchez, les transformant une petite créature appelée un [homoncule](https://www.aidedd.org/dnd/monstres.php?vf=homoncule). Il devient un compagnon fidèle et meurt si vous mourez. Lorsque vous terminez un repos long, vous pouvez dépenser jusqu'à la moitié de vos Dés de vie si l'homoncule se trouve sur le même plan d'existence que vous. Lancez alors ces dés et ajoutez votre modificateur de Constitution à chacun. Votre maximum de point de vie est réduit du total obtenu, et les points de vie ainsi que le maximum de points de vie de l'homoncule augmentent de ce même total. Ce processus ne peut réduire vos points de vie à moins de 1, et votre maximum de point de vie et celui de l'homoncule retournent à la normale lorsque vous terminez un repos long. La réduction de votre maximum de points de vie ne peut être restituée d'aucun moyen hormis la mort de l'Homoncule. Vous ne pouvez posséder qu'un seul homoncule à la fois. Si vous lancez ce sort alors que votre homoncule vit toujours, le sort échoue.  
 
-# Création de mort-vivant
+#### Création de mort-vivant
 
 niveau 6 - nécromancie
 
@@ -220,7 +220,7 @@ Par une action bonus, à chacun de vos tours, vous pouvez mentalement donner des
 La créature est sous votre contrôle pour 24 heures. Passé ce délai, elle cesse d'obéir aux ordres que vous lui avez donnés. Pour conserver votre contrôle sur la créature pour 24 heures supplémentaires, vous devez lancer ce sort sur la créature avant que la première période de 24 heures ne se termine. Cette utilisation de ce sort réaffirme votre contrôle sur trois créatures que vous avez déjà animées, plutôt que d'en animer de nouvelles.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7, vous pouvez animer ou réaffirmer votre contrôle sur quatre goules. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8, vous pouvez animer ou réaffirmer votre contrôle sur cinq goules ou deux [blêmes](https://www.aidedd.org/dnd/monstres.php?vf=bleme) ou deux nécrophages. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 9, vous pouvez animer ou réaffirmer votre contrôle sur six goules ou trois blêmes ou trois nécrophages ou deux [momies](https://www.aidedd.org/dnd/monstres.php?vf=momie).  
 
-# Danse irrésistible d'Otto
+#### Danse irrésistible d'Otto
 
 niveau 6 - enchantement
 
@@ -235,7 +235,7 @@ niveau 6 - enchantement
 Choisissez une créature visible et à portée. La cible entame une danse hilarante et maladroite, tapant des pieds et applaudissant pendant la durée du sort. Les créatures ne pouvant être charmées sont immunisées à ce sort.  
 La victime doit utiliser tout son mouvement pour danser tout en restant à la même place et à un désavantage à ses jets de sauvegarde de Dextérité et ses jets d'attaque. Les autres créatures ont un avantage à leur jet d'attaque contre la victime. Par une action, la victime peut tenter un jet de sauvegarde de Sagesse afin de regagner le contrôle d'elle-même. Sur un jet réussi, le sort prend fin.  
 
-# Désintégration
+#### Désintégration
 
 niveau 6 - transmutation
 
@@ -253,7 +253,7 @@ Une créature désintégrée et tout ce qu'elle porte et transporte, à l'except
 Le sort désintègre automatiquement un objet non magique de taille G ou plus petit, ou une création de force magique. Si la cible est un objet ou une création de force de taille TG ou supérieure, le sort désintègre une portion équivalente à un cube de 3 mètres d'arête. Un objet magique n'est pas affecté par ce sort.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts sont augmentés de 3d6 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Dispersion
+#### Dispersion
 
 niveau 6 - invocation - combinable
 
@@ -267,7 +267,7 @@ niveau 6 - invocation - combinable
 
 L'air frémit autour de 5 créatures de votre choix que vous pouvez voir à portée. Une créature non-consentante doit réussir un jet de sauvegarde de Sagesse pour résister au sort. Vous téléportez chaque cible dans un espace inoccupé que vous pouvez voir jusqu'à 36 mètres de vous. Cet espace doit se trouver au sol ou sur un plancher.  
 
-# Festin des héros
+#### Festin des héros
 
 niveau 6 - invocation
 
@@ -282,7 +282,7 @@ niveau 6 - invocation
 Vous produisez un grand festin, incluant des breuvages et des mets magnifiques. Le festin prend 1 heure pour être consommé et disparaît au bout de cette période. C'est à ce moment que les effets bénéfiques s'appliquent. Jusqu'à douze convives peuvent prendre part au festin.  
 Une créature qui partage le festin reçoit de nombreux bénéfices. La créature est guérie des maladies et des empoisonnements. Elle devient immunisée aux poisons, ne peut être effrayée et tous ses jets de sauvegarde de Sagesse ont un avantage. Son maximum de points de vie est aussi augmenté de 2d10 et elle gagne la même quantité de points de vie. Ces bénéfices persistent pendant 24 heures.  
 
-# Globe d'invulnérabilité
+#### Globe d'invulnérabilité
 
 niveau 6 - abjuration
 
@@ -298,7 +298,7 @@ Une barrière immobile et légèrement chatoyante prend la forme d'une sphère d
 Tout sort de niveau 5 ou moins incanté à l'extérieur de la barrière ne peut affecter les créatures et les objets qu'elle englobe, même si le sort utilise un emplacement de sort supérieur. Un tel sort peut cibler les créatures et les objets à l'intérieur de la barrière, mais ce sort n'a pas d'effet sur eux. De la même manière, la zone à l'intérieur de la sphère est exclue des zones affectées par de tels sorts.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, la barrière bloque les sorts d'un niveau supérieur pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Guérison
+#### Guérison
 
 niveau 6 - évocation
 
@@ -313,7 +313,7 @@ niveau 6 - évocation
 Choisissez une créature que vous voyez dans la portée du sort. Une décharge d'énergie positive engouffre la créature lui permettant de récupérer 70 points de vie. Ce sort met aussi un terme à un aveuglement, une surdité et toutes autres maladies accablant la cible. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, la quantité de points de vie récupérés est augmentée de 10 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Illusion programmée
+#### Illusion programmée
 
 niveau 6 - illusion - combinable
 
@@ -330,7 +330,7 @@ Lorsque les conditions que vous avez spécifiées sont remplies, l'illusion pren
 La condition de déclenchement peut être générale ou aussi détaillée que vous le souhaitez, elle doit cependant être basée sur un phénomène auditif ou visuel survenant à 9 mètres ou moins de la zone d'apparition de l'illusion. Par exemple, vous pourriez créer une illusion de vous-même qui apparaîtrait et mettrait en garde ceux qui tenteraient d'ouvrir une porte piégée, ou vous pourriez faire en sorte que l'illusion n'apparaisse que lorsqu'une créature prononce un mot ou une phrase spécifique.  
 Les interactions physiques avec l'image révèlent qu'il s'agit d'une illusion, car les choses passent au travers. Une créature qui utilise son action pour examiner l'image peut déterminer qu'il s'agit d'une illusion en réussissant un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si une créature découvre le caractère illusoire de l'image, cette créature peut voir au travers de l'image, et tout son produit par l'illusion lui semble faux et sonne creux.  
 
-# Interdiction
+#### Interdiction
 
 niveau 6 - abjuration (rituel)
 
@@ -347,7 +347,7 @@ De plus, le sort inflige des dégâts aux créatures des types que vous choisiss
 Lorsque vous lancez ce sort, vous pouvez désigner un mot de passe. Une créature qui prononce le mot de passe au moment où elle pénètre dans la zone ne subit pas les dégâts du sort.  
 La zone affectée par ce sort ne peut pas se superposer à une zone créée par un autre sort d'_interdiction_. Si vous lancez _interdiction_ chaque jour pendant 30 jours sur la même zone, le sort durera jusqu'à ce qu'il soit dissipé et les composantes matérielles seront consommées lors de la dernière incantation.  
 
-# Invocation de fée
+#### Invocation de fée
 
 niveau 6 - invocation
 
@@ -364,7 +364,7 @@ La fée a une attitude amicale envers vous et vos compagnons pour la durée du s
 Si votre concentration est interrompue, la fée ne disparaît pas. Au lieu de cela, vous perdez le contrôle de la créature, elle devient hostile envers vous et vos compagnons, et peut vous attaquer. Vous ne pouvez pas renvoyer une fée que vous ne contrôlez plus. Elle disparaît 1 heure après que vous l'ayez invoquée. Le MD possède les statistiques de la fée.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le FP augmente de 1 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Marche sur le vent
+#### Marche sur le vent
 
 niveau 6 - transmutation - combinable
 
@@ -379,7 +379,7 @@ niveau 6 - transmutation - combinable
 Vous et jusqu'à 10 créatures consentantes que vous pouvez voir et à portée, êtes transformés en vapeur pour la durée du sort, ressemblant à de petits nuages. Tant qu'elle est sous cette forme de nuage, une créature obtient une vitesse de vol de 90 mètres ainsi que la résistance aux dégâts des armes non magiques. Les seules actions que peut effectuer une créature sous cette forme sont l'action Foncer et le retour à sa forme normale. Revenir à sa forme normale prend 1 minute, durant laquelle la créature est incapable d'agir et ne peut pas se déplacer. Jusqu'à la fin du sort, une créature peut revenir en forme nuageuse, ce qui lui prendra également 1 minute de transformation.  
 Si une créature est sous forme nuageuse et en train de voler lorsque l'effet prend fin, la créature redescend à la vitesse de 18 mètres par round pendant 1 minute jusqu'à ce qu'elle touche terre, ce qu'elle fait sans encombre. Si elle ne touche pas le sol après 1 minute, la créature chute de la distance restante.  
 
-# Mauvais oeil
+#### Mauvais oeil
 
 niveau 6 - nécromancie
 
@@ -396,7 +396,7 @@ Pour la durée du sort, vos yeux prennent un couleur d'encre noire sont imprégn
 **Panique**. Vous effrayez la cible. À chacun de ses tours, la créature effrayée doit prendre l'action Foncer et s'éloigner de vous par le chemin le plus sûr et le plus court, à moins qu'elle n'ait nulle part où aller. Si la cible atteint une zone située à au moins 18 mètres de vous et d'où elle ne peut pas vous voir, l'effet prend fin.  
 **Fièvre**. La cible a un désavantage à ses jets d'attaque et à ses jets de caractéristique. À la fin de chacun de ses tours, elle peut effectuer un nouveau jet de sauvegarde de Sagesse. Si elle le réussit, l'effet prend fin.  
 
-# Mot de retour
+#### Mot de retour
 
 niveau 6 - invocation
 
@@ -411,7 +411,7 @@ niveau 6 - invocation
 Vous, et jusqu'à cinq créatures consentantes se trouvant à 1,50 mètre de vous, êtes instantanément téléportés dans un sanctuaire préalablement choisi. Vous, et toutes les créatures téléportées avec vous, apparaissez à l'endroit inoccupé le plus proche de lieu que vous avez choisi lorsque vous avez préparé votre sanctuaire (voir ci-dessous). Si vous lancez ce sort sans avoir au préalable préparer un sanctuaire, le sort n'a aucun effet.  
 Vous devez désigner un sanctuaire en lançant ce sort dans un lieu, comme un temple, dédié, ou puissamment connecté, à votre dieu. Si vous tentez de lancer ce sort de cette manière dans une zone qui n'est pas dédiée à votre dieu, le sort n'a aucun effet.  
 
-# Mur d'épines
+#### Mur d'épines
 
 niveau 6 - invocation
 
@@ -428,7 +428,7 @@ Lorsque le mur apparaît, chaque créature se trouvant dans la zone doit effectu
 Une créature peut se déplacer au travers du mur, quoique lentement et difficilement. Pour chaque mètre de progression la créature doit dépenser 4 mètres de déplacement. Par ailleurs, la première fois du tour qu'une créature entre dans le mur ou y termine son tour, elle doit effectuer un jet de sauvegarde de Dextérité, subissant 7d8 dégâts tranchants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les deux types de dégâts sont augmentés de 1d8 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Mur de glace
+#### Mur de glace
 
 niveau 6 - évocation
 
@@ -445,7 +445,7 @@ Si le mur traverse l'espace occupé par une créature lorsqu'il apparaît, la cr
 Le mur est un objet qui peut être endommagé, il est donc possible d'y créer une brèche. Il possède une CA de 12 et 30 points de vie par section de 3 mètres, et est vulnérable aux dégâts de feu. Réduire une section de 3 mètres à 0 point de vie la détruit et laisse place à un voile d'air glacial à l'endroit que le mur occupait. Une créature se déplaçant au travers de ce voile glacial pour la première fois de son tour doit effectuer un jet de sauvegarde de Constitution. La créature subit 5d6 dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts qu'inflige le mur lorsqu'il apparaît augmentent de 2d6, et les dégâts infligés aux créatures qui traversent le voile d'air glacial augmentent de 1d6, pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Ossements de la Terre
+#### Ossements de la Terre
 
 niveau 6 - transmutation
 
@@ -462,7 +462,7 @@ Si l'un des piliers est créé sous une créature, cette créature doit réussir
 Si l'un des piliers ne peut atteindre sa pleine hauteur en raison d'un plafond ou de tout autre obstacle, une créature sur le pilier subit 6d6 dégâts contondants et est entravée, coincée entre le pilier et l'obstacle. La créature entravée peut utiliser une action pour faire un jet de Force ou de Dextérité (au choix de la créature) contre le DD de sauvegarde du sort. En cas de réussite, la créature n'est plus entravée et doit soit descendre du pilier, soit en tomber.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, vous pouvez créer deux piliers supplémentaires pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Pétrification
+#### Pétrification
 
 niveau 6 - transmutation - combinable
 
@@ -479,7 +479,7 @@ Une créature entravée par ce sort doit effectuer un nouveau de jet de sauvegar
 Si la créature est physiquement brisée tandis qu'elle est pétrifiée, elle souffre de difformités similaires lorsqu'elle retourne à son état original.  
 Si vous maintenez votre concentration sur ce sort pendant sa durée maximale, la créature est changée en pierre jusqu'à ce que cet effet soit dissipé.  
 
-# Portail magique
+#### Portail magique
 
 niveau 6 - invocation
 
@@ -495,7 +495,7 @@ Vous créez des portails de téléportation reliés qui restent ouverts toute la
 Les portails sont des anneaux luisants en deux dimensions remplis de brumes qui lévitent à quelques centimètres au-dessus des points que vous avez choisis. Un anneau n'est visible que d'un côté (celui de votre choix), ce même côté qui fonctionne comme portail.  
 Toute créature ou objet entrant dans un portail ressort par l'autre portail comme s'ils étaient adjacents l'un de l'autre. Passer au travers d'un portail par le côté non fonctionnel n'a aucun effet. La brume qui remplit chaque portail est opaque et bloque la vision au travers. À votre tour, vous pouvez faire tourner les anneaux par une action bonus de sorte que la face active des portails soit orientée dans une autre direction.  
 
-# Prévoyance
+#### Prévoyance
 
 niveau 6 - évocation
 
@@ -511,7 +511,7 @@ Choisissez un sort de niveau 5 ou inférieur que vous pouvez lancer, qui a une d
 Le sort conditionné prend effet immédiatement après que les conditions de déclenchement ne soient remplies pour la première fois, que vous le vouliez ou non, ce qui met fin au sort _prévoyance_.  
 Le sort conditionné ne prend effet que sur vous, même s'il peut normalement cibler d'autres créatures. Vous ne pouvez utiliser qu'un seul sort de _prévoyance_ à la fois. Si vous lancez ce sort de nouveau, l'effet du sort _prévoyance_ déjà actif sur vous se termine. Le sort _prévoyance_ se termine également si vous ne portez plus sa composante matérielle sur vous.  
 
-# Prison mentale
+#### Prison mentale
 
 niveau 6 - illusion
 
@@ -525,7 +525,7 @@ niveau 6 - illusion
 
 Vous choisissez une créature que vous pouvez voir à portée et tentez de la piéger dans une prison illusoire que seule elle peut voir. La cible doit effectuer un jet de sauvegarde d'Intelligence. Elle réussit automatiquement si elle ne peut être charmée. En cas de réussite, la cible subit 5d10 dégâts psychiques, et le sort prend fin. En cas d'échec, la cible subit 5d10 dégâts psychiques et elle voit l'espace immédiat autour d'elle comme dangereux. Vous pouvez lui faire croire qu'elle est entourée de flammes, de lames flottantes ou de monstrueuses gueules remplies de dents acérées. Quelle que soit la forme que prend l'illusion, la cible ne peut ni voir ni entendre au-delà de celle-ci et se trouve entravée pour la durée du sort. Si la cible est déplacée hors de l'illusion qu'elle effectue une attaque au corps à corps à travers, ou qu'elle passe n'importe quelle partie de son corps à travers, elle subit 10d10 dégâts psychiques et le sort prend fin.  
 
-# Protection primordiale
+#### Protection primordiale
 
 niveau 6 - abjuration
 
@@ -540,7 +540,7 @@ niveau 6 - abjuration
 Vous obtenez la résistance aux dégâts d'acide, froid, feu, foudre et tonnerre pour la durée du sort.  
 Si vous subissez des dégâts d'un type pré-cité, vous pouvez utiliser votre réaction pour obtenir l'immunité à ces dégâts, y compris contre des dégâts qui ont déclenché le sort. Dans ce cas, vous perdez toutes vos résistances aux dégâts et gagnez l'immunité choisie jusqu'à la fin de votre prochain tour, au terme duquel le sort prend fin.  
 
-# Protections et sceaux
+#### Protections et sceaux
 
 niveau 6 - abjuration
 
@@ -567,7 +567,7 @@ Le sort _protections et sceaux_ applique les effets suivants dans la zone prot
 Toute la zone protégée irradie la magie. Un sort de _[dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)_ lancé sur un effet spécifique, s'il est couronné de succès, ne supprime que cet effet.  
 Vous pouvez faire en sorte que la structure que vous protégez le soit de manière permanente. Pour cela, lancez ce sort tous les jours pendant un an.  
 
-# Rayon de soleil
+#### Rayon de soleil
 
 niveau 6 - évocation
 
@@ -583,7 +583,17 @@ Un rayon de lumière intense est émis de votre main sur une ligne de 18 mètres
 Vous pouvez créer une nouvelle ligne de lumière par une action, à chacun de vos tours, jusqu'à ce que le sort prenne fin.  
 Pour toute la durée du sort, un point de lumière intense brille dans votre main. Il répand une lumière vive dans un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires. Cette lumière est équivalente à celle du soleil.  
 
-# Sacre de la glace
+#### Rupture psychique
+niveau 6
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: V, M (discarded gum wrapper, a crushed button worth at least 1cp)
+**Duration:**     :: -
+
+10d6 dégâts de force dans un cône, étourdit les cibles ratant un jet de CON.
+
+#### Sacre de la glace
 
 niveau 6 - transmutation
 
@@ -601,7 +611,7 @@ Jusqu'à la fin du sort, la glace givre votre corps et vous bénéficiez des ava
 • Le sol dans un rayon de 3 mètres autour de vous est verglacé et devient un terrain difficile pour toutes les créatures excepté pour vous. Cette zone bouge avec vous.  
 • Vous pouvez utiliser votre action pour créer un cône de 4,50 mètres s'étendant de vos mains tendues vers une direction choisie. Chaque créature dans le cône doit faire un jet de sauvegarde de Constitution, subissant 4d6 dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature qui rate son jet de sauvegarde contre cet effet voit son mouvement être divisé par deux jusqu'à la fin de votre prochain tour.  
 
-# Sacre de la pierre
+#### Sacre de la pierre
 
 niveau 6 - transmutation
 
@@ -618,7 +628,7 @@ Jusqu'à la fin du sort, votre corps se recouvre de pierre et vous bénéficiez 
 • Vous pouvez utiliser votre action pour créer un petit séisme dans un rayon de 4,50 mètres centré sur vous. Toutes les créatures évoluant sur ce sol doivent réussir un jet de sauvegarde de Dextérité ou être projetée à terre.  
 • Vous pouvez vous déplacer sur des terrains difficiles faits de terre et de roche sans être affecté. Vous pouvez traverser la terre et la roche comme si c'était de l'air et sans les déstabiliser, mais vous ne pouvez pas vous y arrêter. Si vous le faites, vous êtes éjecté vers l'espace inoccupé le plus proche, ce sort se termine et vous êtes étourdi jusqu'à la fin de votre prochain tour.  
 
-# Sacre des flammes
+#### Sacre des flammes
 
 niveau 6 - transmutation
 
@@ -635,7 +645,7 @@ Les flammes courent sur votre corps et répandent, pour la durée du sort, une l
 • Toute créature qui pour la première fois dans un tour bouge dans une zone de 1,50 mètre autour de vous, ou y finit son tour, prend 1d10 dégâts de feu.  
 • Vous pouvez utiliser votre action pour créer une ligne de feu de 4,50 mètres de long et 1,50 mètre de large s'étendant à partir de vous vers une direction de votre choix. Chaque créature dans la ligne de mire doit faire un jet de sauvegarde de Dextérité, subissant 4d8 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 
-# Sacre du vent
+#### Sacre du vent
 
 niveau 6 - transmutation
 
@@ -652,7 +662,7 @@ Jusqu'à la fin du sort le vent tourbillonne autour de vous et vous bénéficiez
 • Vous obtenez une vitesse de vol de 18 mètres. Si vous êtes en train de voler lorsque le sort cesse vous tombez, à moins que vous ne puissiez l'empêcher d'une façon ou d'une autre.  
 • Vous pouvez utiliser votre action pour créer un cube de 4,50 mètres d'arête de vent tourbillonnant ayant pour centre un point visible distant de 18 mètres maximum. Toute créature se trouvant dans cette zone doit faire un jet de sauvegarde de Constitution, subissant 2d10 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Si une créature de taille G ou inférieure rate son jet de sauvegarde, elle est également repoussée de jusqu'à 3 mètres du centre du cube.  
 
-# Sens de l'orientation
+#### Sens de l'orientation
 
 niveau 6 - divination
 
@@ -667,7 +677,7 @@ niveau 6 - divination
 Ce sort vous permet de déterminer le chemin physique le plus court et le plus direct pour atteindre une destination déterminée avec laquelle vous êtes familier et qui se trouve sur le même plan d'existence. Si vous nommez une destination située sur un autre plan d'existence ou une destination mouvante (comme une forteresse mobile) ou une destination vague (comme « l'antre du dragon vert »), le sort échoue.  
 Pour la durée du sort, aussi longtemps que vous êtes sur le même plan d'existence que la destination, vous en connaissez la distance et la direction. Lorsque vous vous y déplacez, chaque fois que vous êtes confronté à un choix d'itinéraire, vous déterminez automatiquement lequel présente la route la plus courte et la plus directe (mais pas nécessairement la plus sure) vers votre destination.  
 
-# Sphère glaciale d'Otiluke
+#### Sphère glaciale d'Otiluke
 
 niveau 6 - évocation
 
@@ -684,7 +694,7 @@ Si le globe percute une masse d'eau ou un liquide composé principalement d'eau 
 Si vous le souhaitez, vous pouvez vous abstenir de tirer le globe une fois que vous avez fini d'incanter le sort. Un petit globe de la taille d'une pierre à fronde, froid au toucher, apparaît alors dans votre main. À n'importe quel moment, vous, ou une autre créature à qui vous avez donné le globe, pouvez le lancer (avec une portée de 12 mètres) ou le projeter avec une fronde (la portée du globe devient celle de la fronde). Il se brise à l'impact, avec les mêmes effets que s'il avait été lancé directement suite à l'incantation du sort. Vous pouvez également poser le globe au sol sans le briser. Au bout d'une minute, si le globe n'est toujours pas brisé, il explose.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 6.  
 
-# Suggestion de groupe
+#### Suggestion de groupe
 
 niveau 6 - enchantement
 
@@ -702,7 +712,17 @@ Vous pouvez également spécifier des conditions qui déclencheront une activit�
 Si vous, ou un de vos compagnons, blessez une des créatures sous l'effet de ce sort, il prend fin pour cette créature.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7, la durée du sort augmente à 10 jours. Avec un emplacement de sort de niveau 8, la durée du sort augmente à 30 jours. Avec un emplacement de sort de niveau 9, la durée du sort augmente à une année plus un jour.  
 
-# Terraformage
+#### Suppression gravitationnelle
+niveau 6 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: 30m
+**Components:**   :: V
+**Duration:**     :: 1min
+
+Les ennemis dans une zone de 12m ne peuvent pas sauter, voler, escalader ou courir.
+
+#### Terraformage
 
 niveau 6 - transmutation - combinable
 
@@ -720,7 +740,7 @@ Puisque la transformation du relief s'effectue lentement, les créatures présen
 Ce sort ne peut manipuler la pierre naturelle et les constructions en pierre. La roche et les structures se déplacent pour s'accommoder au nouveau relief. Si votre terraformage place une structure en position précaire, elle pourrait s'écrouler.  
 De même, le sort n'affecte pas la croissance de la végétation. Les plantes sont transportées par le mouvement du sol.  
 
-# Transformation de Tenser
+#### Transformation de Tenser
 
 niveau 6 - transmutation
 
@@ -741,7 +761,7 @@ Vous vous dotez d'une endurance et de prouesses de guerres imprégnées de magie
 • Vous pouvez attaquer deux fois au lieu d'une lorsque vous utilisez une action pour attaquer lors de votre tour. Vous ignorez cet avantage si vous avez déjà une capacité similaire, comme Attaque supplémentaire.  
 Immédiatement après la fin du sort, vous devez réussir un jet de sauvegarde de Constitution de DD 15 ou subir un niveau d'épuisement.  
 
-# Urne magique
+#### Urne magique
 
 niveau 6 - nécromancie
 
@@ -761,7 +781,7 @@ Pendant que vous possédez un corps, vous pouvez utiliser votre action pour que 
 Si le récipient est détruit ou si le sort prend fin, votre âme retourne immédiatement dans votre corps. Si votre corps est à plus de 30 mètres de vous ou si votre corps est mort lorsque vous tentez d'y retourner, vous mourrez. Si l'âme d'une autre créature est dans le récipient au moment où il est détruit, l'âme de la créature retourne à son corps s'il est toujours vivant et à 30 mètres ou moins. Sinon, la créature meurt.  
 Lorsque le sort prend fin, le récipient se détruit.  
 
-# Vision suprême
+#### Vision suprême
 
 niveau 6 - divination - combinable
 
@@ -775,7 +795,7 @@ niveau 6 - divination - combinable
 
 Ce sort donne à la créature consentante que vous touchez la capacité de voir les choses telles qu'elles sont réellement. Pour la durée du sort, la créature est dotée d'une vision véritable, remarque les portes secrètes cachées par magie et peut voir dans le plan éthéré jusqu'à une portée de 36 mètres.  
 
-# Voie végétale
+#### Voie végétale
 
 niveau 6 - invocation
 

@@ -1,4 +1,4 @@
-# Arrêt du temps
+#### Arrêt du temps
 
 niveau 9 - transmutation - combinable
 
@@ -13,7 +13,7 @@ niveau 9 - transmutation - combinable
 Vous arrêtez brièvement l'écoulement du temps pour tout le monde, sauf pour vous-même. Le temps ne s'écoule pas pour les autres créatures, tandis que vous profitez de 1d4 + 1 tours au cours desquels vous pouvez utiliser à votre guise les actions et mouvements qui vous sont dus normalement.  
 Ce sort prend fin si l'une des actions que vous utilisez lors de cette période, ou l'un des effets que vous créez au cours de cette période, affecte une créature autre que vous ou un objet étant porté par quelqu'un d'autre que vous. De plus, le sort prend fin si vous vous déplacez à plus de 300 mètres d'où vous l'avez lancé.  
 
-# Changement de forme
+#### Changement de forme
 
 niveau 9 - transmutation - combinable
 
@@ -32,7 +32,7 @@ Vous conservez le bénéfice de toutes vos capacités de classe, de race, ou de 
 Lorsque vous vous transformez, vous choisissez si votre équipement tombe sur le sol, fusionne avec votre nouvelle forme ou est porté par votre nouvelle forme. L'équipement porté fonctionne correctement, mais le MD décide pour chaque pièce d'équipement s'il est possible pour votre nouvelle forme de la porter, en fonction de la morphologie et de la taille de la créature. Votre équipement ne change pas de taille ou de forme pour s'adapter à votre nouvelle forme, et tout l'équipement que la nouvelle forme ne peut pas porter tombe sur le sol ou fusionne avec vous. L'équipement qui fusionne avec la nouvelle forme n'a aucun effet tant que vous restez sous cette forme.  
 Pour toute la durée du sort, vous pouvez utiliser votre action pour changer de nouveau de forme avec les mêmes conditions et règles que pour la forme précédente, à une exception près : si votre nouvelle forme possède plus de points de vie que votre forme actuelle, votre nombre de points de vie reste le même.  
 
-# Emprisonnement
+#### Emprisonnement
 
 niveau 9 - abjuration - combinable
 
@@ -59,7 +59,7 @@ La composante spéciale pour cette version du sort se compose d'herbes soporifiq
 Un sort de _[dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)_ ne peut mettre un terme au sort que s'il est lancé avec un emplacement de sort de niveau 9, ciblant soit la prison, soit la composante spéciale utilisée pour la créer.  
 Vous ne pouvez utiliser une composante spéciale particulière que pour créer une seule prison à la fois. Si vous lancez le sort à nouveau en utilisant la même composante, la cible de la première incantation est immédiatement libérée de ses entraves.  
 
-# Ennemi subconscient
+#### Ennemi subconscient
 
 niveau 9 - illusion
 
@@ -73,7 +73,7 @@ niveau 9 - illusion
 
 Puisant dans les peurs les plus profondes d'un groupe de créatures, vous créez des créatures illusoires dans leur esprit, qu'elles sont les seules à voir. Chaque créature se trouvant dans une sphère de 9 mètres de rayon centrée sur un point de votre choix et à portée, doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, la créature devient effrayée pour toute la durée du sort. L'illusion fait appel aux peurs les plus profondes de la créature, donnant vie à ses pires cauchemars, telle une menace implacable. À la fin de chacun de ses tours, la créature affectée doit réussir un jet de sauvegarde de Sagesse ou subir 4d10 dégâts psychiques. En cas de réussite, le sort prend fin pour cette créature.  
 
-# Guérison de groupe
+#### Guérison de groupe
 
 niveau 9 - évocation
 
@@ -87,7 +87,7 @@ niveau 9 - évocation
 
 Un flot d'énergie curative émane de votre personne vers les créatures blessées qui vous entourent. Vous redonnez jusqu'à 700 points de vie, répartis à votre guise entre les créatures de votre choix qui sont visibles dans la portée du sort. Les créatures soignées par ce sort sont aussi guéries de toutes maladies et des effets qui les rendent sourds ou aveugles. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
 
-# Hurlement psychique
+#### Hurlement psychique
 
 niveau 9 - enchantement
 
@@ -102,7 +102,7 @@ niveau 9 - enchantement
 Vous déchaînez le pouvoir de votre esprit pour faire exploser le cerveau d'un maximum de dix créatures de votre choix que vous pouvez voir à portée. Une créature qui possède une Intelligence inférieure ou égal à 2 ne peut être affectée par ce sort. Chaque cible doit effectuer un jet de sauvegarde d'Intelligence. En cas d'échec, elle subit 14d6 dégâts psychiques et est étourdie. En cas de réussite, la cible ne subit que la moitié des dégâts et n'est pas étourdie. Si une cible est tuée par ces dégâts, sa tête explose, en supposant qu'elle en ait une.  
 Une créature étourdie réaliser faire un jet de sauvegarde d'Intelligence à la fin de chacun de ses tours. En cas de réussite, elle met fin à l'effet.  
 
-# Invulnérabilité
+#### Invulnérabilité
 
 niveau 9 - abjuration
 
@@ -116,7 +116,7 @@ niveau 9 - abjuration
 
 Vous êtes immunisé à tous les types de dégâts pour la durée du sort.  
 
-# Lame du désastre
+#### Lame du désastre
 
 niveau 9 - invocation
 
@@ -132,7 +132,7 @@ Vous créez une faille planaire en forme de lame d'environ 1 mètre de long dans
 Pas une action bonus, vous pouvez déplacer la lame jusqu'à 9 mètres dans un espace inoccupé que vous pouvez voir puis lui faire effectuer jusqu'à 2 attaques au corps à corps avec un sort à nouveau.  
 La lame peut traverser sans danger n'importe quel mur ou obstacle, y comprit un Mur de force.  
 
-# Métamorphose de groupe
+#### Métamorphose de groupe
 
 niveau 9 - transmutation - combinable
 
@@ -149,7 +149,7 @@ Chaque cible prend la forme d'une bête de votre choix, et la forme peut être l
 Chaque cible gagne un nombre de points de vie temporaires égal aux points de vie de sa nouvelle forme. Ces points de vie temporaires ne peuvent être remplacés par d'autres points de vie provenant d'une autre source. Une cible retourne à sa forme normale lorsqu'elle n'a plus de points de vie temporaires ou lorsqu'elle meurt. Si le sort prend fin avant, la créature perd ses points de vie temporaires et retourne à sa forme normale.  
 La créature est limitée dans les actions qu'elle peut entreprendre par la nature de sa nouvelle forme, et elle ne peut pas parler, ni lancer des sorts, ni effectuer la moindre action qui nécessite des mains ou la parole. L'équipement de la cible fusionne avec sa nouvelle forme. La créature ne peut pas activer, utiliser, manipuler ou recevoir le moindre avantage de son équipement.  
 
-# Métamorphose suprême
+#### Métamorphose suprême
 
 niveau 9 - transmutation - combinable
 
@@ -170,7 +170,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme. La créature ne peut 
 Si le sort devient permanent, vous ne pouvez plus contrôler la créature. Elle pourrait conserver son attitude amicale envers vous, en fonction de la manière dont vous l'avez traité.  
 **Créature en objet**. Si vous transformez une créature en objet, elle endosse sa nouvelle forme avec tout l'équipement qu'elle transporte ou tient, à condition que la taille de l'objet ne soit pas supérieure à celle de la créature. Les statistiques de la créature deviennent celles de l'objet, et la créature n'a aucun souvenir du temps passé sous cette forme une fois qu'elle retrouve sa forme normale.  
 
-# Mot de pouvoir guérisseur
+#### Mot de pouvoir guérisseur
 
 niveau 9 - évocation
 
@@ -184,7 +184,7 @@ niveau 9 - évocation
 
 Une vague d'énergie curative parcourt la créature que vous touchez. La cible récupère tous ses points de vie. Si la créature est charmée, effrayée, paralysée ou étourdie, cet état prend fin. Si la créature est à terre, elle peut utiliser sa réaction pour se mettre debout. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
 
-# Mot de pouvoir mortel
+#### Mot de pouvoir mortel
 
 niveau 9 - enchantement
 
@@ -198,7 +198,7 @@ niveau 9 - enchantement
 
 Vous prononcez un mot de pouvoir qui peut contraindre une créature que vous pouvez voir et à portée de sort à mourir instantanément. Si la créature possède 100 points de vie ou moins, elle meurt. Dans le cas contraire, le sort n'a aucun effet.  
 
-# Mur prismatique
+#### Mur prismatique
 
 niveau 9 - abjuration
 
@@ -223,7 +223,7 @@ Le mur peut être détruit, une couche à la fois dans l'ordre indiqué ci-desso
 Tant que cette couche est en place, les sorts ne peuvent être lancés au travers du mur. Cette couche est détruite par une importante source de lumière vive, comme celle émise par le sort _[lumière du jour](https://www.aidedd.org/dnd/sorts.php?vf=lumiere-du-jour)_, ou n'importe quel sort similaire d'un niveau égal ou supérieur.  
 **7. Violet**. En cas d'échec au jet de sauvegarde, la créature est aveuglée. Elle doit alors réussir un jet de sauvegarde de Sagesse au début de votre prochain tour. Si elle réussit ce nouveau jet de sauvegarde, elle n'est plus aveuglée. Si elle échoue ce nouveau jet de sauvegarde, la créature est transportée dans un autre plan d'existence que le MD choisit, et n'est plus aveuglée (typiquement, une créature qui ne se trouve pas dans son plan d'existence originel y est renvoyée, tandis que les autres créatures sont généralement envoyées dans le plan Astral ou le plan éthéré). Cette couche peut être détruite par un sort de _[dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)_ ou tout autre sort similaire d'un niveau supérieur ou égal qui peut mettre un terme aux sorts ou aux effets magiques.  
 
-# Nuée de météores
+#### Nuée de météores
 
 niveau 9 - évocation - combinable
 
@@ -238,7 +238,7 @@ niveau 9 - évocation - combinable
 Des orbes de feux ardents s'abattent sur le sol à quatre différents points visibles dans la portée du sort. Toute créature à l'intérieur d'une sphère de 12 mètres de rayon centrée sur chaque point doit effectuer un jet de sauvegarde de Dextérité, subissant 20d6 dégâts de feu et 20d6 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. L'effet de la sphère contourne les coins. Une créature prise dans plus d'une sphère n'est affectée qu'une seule fois.  
 Le sort endommage les objets dans la zone et enflamme les objets inflammables qui ne sont pas portés ou transportés.  
 
-# Portail
+#### Portail
 
 niveau 9 - invocation - combinable
 
@@ -255,7 +255,7 @@ Le portail possède un avant et un arrière sur chaque plan où il apparait. Le 
 Les divinités et autres dirigeants planaires peuvent empêcher l'ouverture d'un portail créé par ce sort lorsqu'elle se fait en leur présence ou à tout endroit sur leurs domaines.  
 Lorsque vous lancez ce sort, vous pouvez énoncer le nom d'une créature spécifique (un pseudonyme, un titre ou un surnom ne suffit pas). Si cette créature est sur un plan différent du vôtre, le portail s'ouvre à proximité de la créature nommée, laquelle est aussitôt aspirée par le portail pour apparaître dans un espace inoccupé de votre côté du portail. Vous ne bénéficiez d'aucun pouvoir spécial sur la créature et elle libre d'agir selon la volonté du MD. Elle peut partir, vous attaquer ou vous aider.  
 
-# Prémonition
+#### Prémonition
 
 niveau 9 - divination
 
@@ -270,7 +270,7 @@ niveau 9 - divination
 Vous touchez une créature consentante pour lui octroyer une faculté limitée de voir son futur immédiat. Pour la durée du sort, la cible ne peut être surprise et elle bénéficie d'un avantage aux jets d'attaque, de sauvegarde et de caractéristique. De plus, les jets d'attaque des autres créatures contre la cible ont un désavantage pour la durée du sort.  
 Le sort prend immédiatement fin si vous l'incantez à nouveau avant la fin de la durée.  
 
-# Projection astrale
+#### Projection astrale
 
 niveau 9 - nécromancie
 
@@ -289,7 +289,7 @@ Le sort prend fin pour vous et vos compagnons lorsque vous utilisez une action p
 Le sort peut aussi se terminer prématurément pour vous ou un de vos compagnons. Une _[dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)_ réussie sur un corps astral ou physique interrompt le sort pour cette créature. Si le corps d'origine ou sa forme astrale tombe à 0 point de vie, le sort s'interrompt pour cette créature. Si le sort se termine et que le cordon argenté est toujours intact, le cordon ramène la forme astrale de la créature à son corps, ce qui met un terme à l'état d'animation suspendue.  
 Si vous êtes retourné à votre corps prématurément, vos compagnons conservent leur forme astrale et ils doivent trouver eux-mêmes le chemin du retour, en tombant à 0 point de vie, habituellement.  
 
-# Résurrection suprême
+#### Résurrection suprême
 
 niveau 9 - nécromancie
 
@@ -305,7 +305,7 @@ Vous touchez une créature qui est morte depuis moins de 200 ans mais qui n'est 
 Ce sort referme toutes les blessures, neutralise tout poison, guérit toutes les maladies et lève toutes les malédictions affectant la créature lorsqu'elle est morte. Le sort remplace les organes endommagés ou les membres manquants. Si la créature était un mort-vivant, elle revient sous la forme qu'elle avait avant de devenir un mort-vivant.  
 Le sort peut même fournir un nouveau corps si l'original n'existe plus. Dans ce cas, vous devez prononcer le nom de la créature et la créature apparaît alors dans un espace inoccupé que vous choisissez à 3 mètres ou moins de vous.  
 
-# Souhait
+#### Souhait
 
 niveau 9 - invocation
 
@@ -327,7 +327,7 @@ L'utilisation la plus basique de ce sort est de dupliquer n'importe quel autre s
 Vous pouvez également réaliser d'autres choses que les exemples ci-dessus. Décrivez votre souhait à votre MD de la manière la plus précise possible. Le MD est libre de déterminer ce qui se produit dans ce cas ; plus le souhait est important, plus la probabilité est grande que quelque chose tourne mal. Ce sort pourrait simplement échouer, l'effet que vous souhaitez pourrait être seulement partiellement exécuté, ou vous pourriez subir d'imprévisibles conséquences en fonction de votre formulation du souhait. Par exemple, souhaiter qu'un ennemi soit mort pourrait vous propulser à une époque future où votre ennemi n'est plus vivant, vous éliminant ainsi efficacement du jeu. De la même manière, désirer un objet magique légendaire ou un artéfact pourrait vous transporter instantanément en présence de l'actuel possesseur de l'objet.  
 Le stress de lancer ce sort pour produire un effet autre que la reproduction d'un autre sort vous affaiblit. Après avoir subi cette tension, chaque fois que vous lancez un sort avant d'avoir terminé un repos long, vous subissez 1d10 dégâts nécrotiques par niveau de sort. Ces dégâts ne peuvent être réduits ou évités, d'une quelconque manière. De plus, votre Force tombe à 3, si elle n'est pas déjà inférieure à 3, pendant 2d4 jours. Pour chaque jour passé à vous reposer ou à pratiquer une activité mineure, votre temps de récupération diminue de 2 jours. Enfin, vous avez 33 % de chance de ne plus jamais être capable de lancer le sort _souhait_ si vous avez subi ce stress.  
 
-# Tempête vengeresse
+#### Tempête vengeresse
 
 niveau 9 - invocation
 

@@ -1492,6 +1492,8 @@ Quand un lanceur de sorts lance un sort à l'aide d'un emplacement de sort qui e
 
 Certains sorts, tels _[projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)_ et _[soins](https://www.aidedd.org/dnd/sorts.php?vf=soins)_, ont des effets plus puissants lorsque le sort est lancé à un niveau supérieur. Ceci est indiqué dans la description du sort.
 
+\page
+
 ### [Sorts mineurs](https://www.aidedd.org/regles/magie/#sort-mineur)
 
 Un sort mineur est un sort qui peut être lancé à volonté, sans utiliser d'emplacement de sort, et sans avoir à être préparé à l'avance. Une pratique répétée a permis la mémorisation du sort dans l'esprit du lanceur, et a imprégné celui-ci de la magie nécessaire pour produire l'effet maintes fois. Un sort mineur est un sort de niveau 0.
@@ -1529,6 +1531,8 @@ Les sorts qui créent des effets en cônes ou en lignes et qui ont pour origine 
 
 Une fois qu'un sort est jeté, ses effets ne se limitent pas à sa portée, à moins que la description du sort n'indique le contraire.
 
+\page
+
 ### [Composantes](https://www.aidedd.org/regles/magie/#composantes)
 
 Les composantes d'un sort sont les conditions physiques que vous devez respecter pour pouvoir le lancer. La description de chaque sort indique s'il nécessite des composantes verbales (V), somatiques (S) ou matérielles (M). Si vous ne pouvez pas fournir une ou plusieurs composantes d'un sort, vous êtes incapable de lancer le sort.
@@ -1564,6 +1568,8 @@ Certains sorts vous obligent à maintenir une concentration afin de maintenir le
 - **Être incapable d'agir ou mort**. Vous perdez automatiquement la concentration de votre sort si vous êtes incapable d'agir ou si vous êtes mort.
 
 Le MD peut également décider que certains phénomènes environnementaux, comme une vague s'écrasant sur vous pendant que vous êtes sur un navire ballotté par la tempête, impliquent de réussir un jet de sauvegarde de Constitution DD 10 pour réussir à maintenir la concentration du sort.
+
+\page
 
 ### [Cibles](https://www.aidedd.org/regles/magie/#cibles)
 
@@ -1608,6 +1614,8 @@ De nombreux sorts précisent que la cible peut faire un jet de sauvegarde pour �
 
 Le degré de difficultés pour résister à l'un de vos sorts est égal à 8 + le modificateur de votre caractéristique d'incantation + votre bonus de maîtrise + tout modificateur spécial.
 
+\page
+
 ### [Jets d'attaque](https://www.aidedd.org/regles/magie/#attaque)
 
 Certains sorts exigent que le lanceur lance un jet d'attaque afin de déterminer si la cible visée a été touchée par l'effet du sort. Votre bonus d'attaque pour un sort offensif est égal au modificateur de votre caractéristique d'incantation + votre bonus de maîtrise.
@@ -1620,52 +1628,726 @@ Les effets de différents sorts s'additionnent tant que leur durée se chevauche
 
 Par exemple, si deux clercs lancent [_bénédiction_](https://www.aidedd.org/dnd/sorts.php?vf=benediction) sur la même cible, le personnage a le bénéfice seulement d'un des deux sorts ; il ne peut pas lancer deux fois les dés de bonus.
 
+### combination de sort et combo
+Les sorts peuvent ce combiner, ce qui veut dire que dans une même tour un joueur peu lancer un sort normal et plusieurs autre sort en parallèle afin de combiner leurs effets .
+
+Les sorts compatibles avec la combination sont noté combinable dans leur description.
+Il existe plusieurs méthode pour combiner des sorts.
+
+#### Méthode du nombre
+Quand un joueur fait une combinaison de sort, il peut combinait autant de sort que son bonus de caractéristique de sort de sa classe lui permet.
+Exemple : Bob est un ensorceleur, sa caractéristique pour lancer un sort est le charisme. Bob a 17 de charisme, son modificateur est donc de +3. Bob peut donc faire un combo de 3 sorts en même temps.
+#### Méthode du coup
+Quand un joueur fait une combinaison de sort il fait l'addition des coups d'emplacement de sort. Le joueur est limité par sons bonus de maitrise.
+Exemple : Bob est un ensorceleur de niveau 9, il a donc +4 en bonus de maitrise. Sons coup max de combo est donc de 4.
+
 \page
 
-## Cantrips
+## niveau 0
 
-#### Poussée mineure
-*cantrips*
+#### Amis
+
+niveau 0 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : S, M (une petite quantité de maquillage appliquée sur le visage durant l'incantation)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Pour la durée du sort, vous avez un avantage à tous vos jets de Charisme effectués contre une créature de votre choix qui n'a pas une attitude hostile envers vous. Lorsque le sort prend fin, la créature réalise que vous avez utilisé la magie pour l'influencer et devient hostile à votre égard. Une créature plutôt violente risque de vous attaquer. D'autres créatures peuvent vous demander de l'argent ou un service (à la discrétion du MD), cela dépend de la nature de l'échange que vous avez eu avec la créature.
+
+
+#### Aspersion d'acide
+
+niveau 0 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous propulsez une bulle d'acide. Choisissez une ou deux créatures que vous pouvez voir, à 1,50 mètre ou moins l'une de l'autre, dans la portée du sort. La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts d'acide.  
+Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
+
+#### Assistance
+
+niveau 0 - divination - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat du dé à un jet de caractéristique de son choix. Elle peut lancer le dé avant ou après avoir effectué son jet de caractéristique. Le sort prend alors fin.  
+
+#### Bouffée de poison
+
+niveau 0 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 3 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous tendez votre paume vers une créature visible dans la portée du sort et vous projetez une bouffée de gaz nocif de votre main. La créature doit réussir un jet de sauvegarde de Constitution ou subir 1d12 dégâts de poison.  
+Les dégâts de ce sort augmentent de 1d12 lorsque vous atteignez le niveau 5 (2d12), le niveau 11 (3d12) et le niveau 17 (4d12).  
+
+#### Contact glacial
+
+niveau 0 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : 1 round
+
+Vous créez une main squelettique fantomatique dans l'espace d'une créature à portée. Faites une attaque à distance avec un sort contre la créature pour l'étreindre d'une froideur sépulcrale. Si le coup touche, la cible subit 1d8 dégâts nécrotiques, et elle ne peut récupérer ses points de vie avant le début de votre prochain tour. Jusque-là, la main fantomatique s'accroche à la cible. Si vous ciblez un mort-vivant, il aura également un désavantage à ses jets d'attaque contre vous jusqu'à la fin de votre prochain tour.  
+Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
+
+#### Contrôle des flammes
+
+niveau 0 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : S
+
+**Durée** : instantanée ou 1 heure (voir ci-dessous)
+
+Vous choisissez un feu non magique visible dans la portée du sort de 1,50 mètre d'arête maximum. Vous pouvez l'affecter de l'une des façons suivantes :  
+• Vous pouvez faire grossir instantanément le feu de 1,50 mètre dans une direction, à condition que du bois ou un autre combustible soit présent dans cette nouvelle zone.  
+• Vous pouvez éteindre instantanément les flammes à l'intérieur du cube.  
+• Vous pouvez doubler ou diminuer de moitié l'aire de lumière vive ou de lumière faible projetée par le feu et/ou en changer la couleur. La modification dure 1 heure.  
+• Vous pouvez faire apparaitre des formes simples (comme une vague silouette de créature, un objet inanimé ou une localisation) dans les flammes et les animer comme bon vous semble. Les silhouettes persistent pendant 1 heure.  
+Si vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à trois de ses effets non-instantanés actifs à la fois, et vous pouvez en dissiper un en une action.  
+
+\page
+
+#### Coup au but
+
+niveau 0 - divination
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : S
+
+**Durée** : concentration, jusqu'à 1 round
+
+Vous tendez votre main et pointez un doigt en direction d'une cible à portée. Votre magie vous aide à trouver une petite faille dans les défenses de votre cible. Lors de votre prochain tour, vous obtenez un avantage pour votre premier jet d'attaque contre la cible, à condition que le sort ne soit pas déjà terminé.  
+
+#### Coup de tonnerre
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 1,50 mètre
+
+**Composantes** : S
+
+**Durée** : instantanée
+
+Vous créez un bruit de tonnerre qui peut être entendu jusqu'à 30 mètres. Hormis vous-même, toute créature à portée doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de tonnerre.  
+Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
+
+#### Décharge occulte
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Un rayon d'énergie crépitante zigzague jusqu'à une créature à portée. Effectuez une attaque à distance avec un sort contre la cible. En cas de réussite, la cible subit 1d10 dégâts de force.  
+Ce sort crée plus d'un rayon lorsque vous montez en niveau : deux rayons au niveau 5, trois rayons au niveau 11, et quatre rayons au niveau 17. Vous pouvez diriger les rayons sur une cible unique et les répartir entre différentes créatures. Effectuez un jet d'attaque séparé pour chaque rayon.  
+
+#### Druidisme
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+En murmurant aux esprits de la nature, vous créez l'un des effets suivants, dans la portée du sort :  
+• Vous créez un minuscule et inoffensif effet sensoriel qui permet de prédire les conditions météorologiques pour les 24 prochaines heures, à l'endroit où vous êtes. L'effet pourrait se manifester comme un orbe doré pour indiquer un ciel dégagé, un nuage pour annoncer la pluie, un flocon de neige pour une chute de neige et ainsi de suite. L'effet persiste pour 1 round.  
+• Vous provoquez immédiatement la floraison d'une fleur, l'ouverture d'une gousse ou le débourrement d'un bourgeon de feuille.  
+• Vous créez un inoffensif effet sensoriel instantané comme une chute de feuilles, une légère brise, le son d'un petit animal ou une subtile odeur de putois. L'effet doit se limiter à un cube de 1,50 mètre d'arête.  
+• Vous éteignez ou allumez instantanément une bougie, une torche ou un petit feu de camp.  
+#### Éclat gravitationnel
+niveau 0
 
 **Casting Time:** :: 1 action
-**Range:**        :: 3m
-**Components:**   :: 
-**Duration:**     :: 1min
+**Range:**        :: m/t du joueur
+**Components:**   :: S
+**Duration:**     :: 1t
+
+Petite poussée qui fait reculer un ennemi de 1,5 m.
+**Niveau supèrieur** :: +0.5m/lv de joueur
+
+#### Embrasement
+
+niveau 0 - invocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous créez un feu de joie sur un sol visible dans la portée du sort. Jusqu'à ce que le sort finisse, le feu de joie magique occupe un cube de 1,50 mètre d'arête. Toute créature située à la place du feu de joie lorsque vous lancez le sort doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts de feu. Une créature doit aussi faire un jet de sauvegarde lorsqu'elle se déplace dans l'espace occupé par le feu de joie pour la première fois dans un tour ou si elle termine son tour dans cet espace.  
+Le feu de joie met le feu aux objets inflammables dans sa zone qui ne sont ni tenus ni portés.  
+Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
+
+#### Éruption de lames
+
+niveau 0 - invocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (rayon de 1,50 mètre)
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Vous créez temporairement un cercle de lames spectrales autour de vous. Toutes les autres créatures dans un rayon de 1,50 mètre autour de vous doivent réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts de force.  
+Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez les niveaux 5 (2d6), 11 (3d6) et 17 (4d6).  
+
+\page
+
+#### Façonnage de l'eau
+
+niveau 0 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : S
+
+**Durée** : instantanée ou 1 heure (voir ci-dessous)
+
+Choisissez un cube d'eau visible de 1,50 mètre d'arête dans la portée du sort. Vous pouvez alors le manipuler d'une des façons suivantes :  
+• Vous déplacez instantanément ou modifiez le sens du courant selon vos directives jusqu'à 1,50 mètre dans n'importe quelle direction. Ce mouvement n'a pas assez de force pour causer des dégâts.  
+• Vous pouvez faire apparaitre des formes simples dans l'eau et les animer selon vos instructions. Ce changement dure 1 heure.  
+• Vous modifiez la couleur ou l'opacité de l'eau. L'eau doit être transformée de façon homogène. Ce changement dure 1 heure.  
+• Vous gelez l'eau, à condition qu'elle ne contienne aucune créature. L'eau dégèle au bout de 1 heure.  
+Si vous lancez ce sort plusieurs fois, vous ne pouvez avoir que deux de ces effets non-instantanés actifs à la fois, et vous pouvez en dissiper un en une action.  
+
+#### Façonnage de la terre
+
+niveau 0 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : S
+
+**Durée** : instantanée ou 1 heure (voir ci-dessous)
+
+Vous choisissez une section de terre ou de pierre qui ne dépasse pas un cube de 1,50 mètre d'arête et visible dans la portée du sort. Vous pouvez alors la manipuler d'une des façons suivantes :  
+• Si vous ciblez une zone de terre meuble, vous pouvez instantanément la creuser, la déplacer sur le sol, et la déposer jusqu'à 1,50 mètre plus loin. Ce mouvement n'a pas assez de force pour causer des dégâts.  
+• Vous pouvez faire apparaitre des formes et/ou des couleurs sur la terre ou la pierre, représentant des mots, créant des images ou formant des motifs. La modification dure 1 heure.  
+• Si la terre ou la pierre est au sol, vous pouvez la transformer en terrain difficile. À l'inverse, vous pouvez rendre normal un sol considéré comme terrain difficile. Ce changement dure 1 heure.  
+Si vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à deux de ces effets non-instantanés actifs à la fois, et vous pouvez en dissiper un en une action.  
+
+\column
+
+#### Ferrage foudroyant
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (rayon de 4,50 mètres)
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Vous créez une décharge d'énergie foudroyante qui frappe une créature de votre choix que vous pouvez voir dans un rayon de 4,50 mètres autour de vous. La cible doit réussir un jet de sauvegarde de Force ou être attirée vers vous en ligne droite sur 3 mètres puis subir 1d8 dégâts de foudre si elle se retrouve à 1,50 mètre ou moins de vous.  
+Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).  
+
+#### Flamme sacrée
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Un rayonnement semblable à des flammes descend sur une créature que vous pouvez voir dans la portée du sort. La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'abri pour ce jet de sauvegarde.  
+Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8), et le niveau 17 (4d8).  
+
+#### Flammes
+
+niveau 0 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : 10 minutes
+
+Une flamme vacillante apparaît dans votre main. La flamme y reste pour la durée du sort et n'endommage pas votre équipement, ni ne vous blesse. La flamme diffuse une lumière vive dans un rayon de 3 mètres et une lumière faible dans un rayon supplémentaire de 3 mètres. Le sort prend fin si vous l'annulez par une action ou si vous le lancez de nouveau.  
+Vous pouvez également attaquer avec la flamme, mettant ainsi un terme au sort. Lorsque vous incantez ce sort, ou en utilisant une action lors d'un tour suivant, vous pouvez lancer la flamme sur une créature située à 9 mètres de vous maximum. Faites une attaque à distance avec un sort. En cas de réussite, la cible subit 1d8 dégâts de feu.  
+Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
+
+\page
+
+#### Fouet épineux
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (la tige d'une plante avec des épines)
+
+**Durée** : instantanée
+
+Vous créez une longue et épaisse liane ressemblant à de la vigne et recouverte d'épines qui, selon vos ordres, s'accroche à une créature à portée. Effectuez une attaque au corps à corps avec un sort contre la cible. Si l'attaque touche, la créature subit 1d6 dégâts perforants, et si la créature est de taille G ou inférieure, vous la tirez de jusqu'à 3 mètres vers vous.  
+Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
+
+#### Gelure
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous faîtes se former une couche de gel engourdissante sur une créature que vous voyez à portée. La cible doit réussir un jet de sauvegarde de Constitution, sans quoi elle subit 1d6 dégâts de froid et obtient un désavantage à son prochain jet d'attaque avec une arme réalisé avant la fin de son prochain tour.  
+Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
+
+#### Glas
+
+niveau 0 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous pointez une créature que vous pouvez voir à portée, et le son douloureux d'une cloche emplit l'air autour d'elle pendant un moment. La cible doit réussir un jet de sauvegarde de Sagesse ou subir 1d8 dégâts nécrotiques. Si la cible n'est pas à son maximum de points de vie, elle subit 1d12 de dégâts nécrotiques.  
+Les dégâts du sort augmentent de un dé lorsque vous atteignez le niveau 5 (2d8 ou 2d12), le niveau 11 (3d8 ou 3d12) et le niveau 17 (4d8 ou 4d12).  
+
+\column
+
+#### Gourdin magique
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : contact
+
+**Composantes** : V, S, M (du gui, une feuille de trèfle et un bâton ou un gourdin)
+
+**Durée** : 1 minute
+
+Le bois du bâton ou du gourdin que vous tenez est altéré par les pouvoirs de la nature. Pour la durée du sort, vous pouvez utiliser votre caractéristique d'incantation plutôt que votre Force pour les jets d'attaque au corps à corps et de dégâts avec cette arme, et les dégâts de l'arme deviennent des d8. De plus, l'arme devient une arme magique, si ce n'est pas déjà le cas. Ce sort se termine si vous le lancez de nouveau ou si vous lâchez l'arme enchantée.
+
+#### Illusion mineure
+
+niveau 0 - illusion
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : S, M (un peu de laine de mouton)
+
+**Durée** : 1 minute
+
+Le lanceur de sorts crée un son ou l'image d'un objet à portée pendant une minute. Cette illusion se termine également si elle est révoquée au prix d'une action ou si ce sort est lancé une nouvelle fois.  
+Si l'illusion est un son, le volume peut aller d'un simple chuchotement à un cri. Il peut s'agir de votre voix, de la voix de quelqu'un d'autre, du rugissement d'un lion, d'un roulement de tambours, ou tout autre son que vous choisissez. Le son peut autant ne pas diminuer en intensité pendant la durée du sort qu'être discret et produit à différents instants dans cet intervalle de temps.  
+Si l'illusion est une image ou un objet (comme une chaise, des traces de pas boueuses ou un petit coffre) elle ne peut pas être plus large qu'un cube de 1,50 mètre d'arête. Cette image ne peut produire de son, lumière, odeur ou tout autre effet sensoriel. Une interaction physique avec l'image révèle l'illusion, car elle peut être traversée par n'importe quoi.  
+Si une créature utilise une action pour examiner le son ou l'image, elle peut comprendre qu'il s'agit d'une illusion grâce à un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si une créature discerne l'illusion pour ce qu'elle est, l'illusion s'évanouit pour la créature.  
+
+\page
+
+#### Infestation
+
+niveau 0 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (une puce vivante)
+
+**Durée** : instantanée
+
+Vous faites apparaître momentanément sur une créature que vous pouvez voir à portée un nuage de mites, de puces ou d'autres parasites. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de poison et se déplacer de 1,50 mètre dans une direction aléatoire, si elle peut se déplacer et que sa vitesse est d'au moins 1,50 mètre. Jetez un d4 pour la direction: 1=nord; 2=sud; 3=est; 4=ouest. Ce mouvement ne provoque pas d'attaques d'opportunité, et si la direction indiquée est bloquée la cible ne bouge pas.  
+Les dégâts du sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
+
+#### Lame aux flammes vertes
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (rayon de 1,50 mètre)
+
+**Composantes** : S, M (une arme de corps à corps valant au moins 1 pa)
+
+**Durée** : instantanée
+
+Vous brandissez l'arme utilisée pour l'incantation du sort et effectuez une attaque au corps à corps avec cette arme contre une créature à 1,50 mètre ou moins de vous. Si vous touchez, la cible subit les effets normaux de l'attaque et une flamme verdâtre jaillit de cette cible pour aller frapper une autre créature de votre choix que vous pouvez voir et qui se trouve dans un rayon de 1,50 mètre autour de la première créature. Cette seconde créature subit des dégâts de feu d'un montant égal au modificateur de votre caractéristique d'incantation.  
+Les dégâts de ce sort augmentent suivant votre niveau. Au niveau 5, l'attaque de corps à corps inflige 1d8 dégâts de feu supplémentaires à la première cible, et les dégâts de feu subis par la seconde cible atteignent 1d8 + le modificateur de votre caractéristique d'incantation. Les deux jets de dégâts augmentent chacun de 1d8 supplémentaire aux niveaux 11 (2d8 et 2d8) et 17 (3d8 et 3d8).  
+
+\column
+
+#### Lame retentissante
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (rayon de 1,50 mètre)
+
+**Composantes** : V, M (une arme de corps à corps valant au moins 1 pa)
+
+**Durée** : 1 round
+
+Vous brandissez l'arme utilisée pour l'incantation du sort et effectuez une attaque au corps à corps avec cette arme contre une créature à 1,50 mètre ou moins de vous. Si vous touchez, la cible subit les effets normaux de l'attaque et elle est enveloppée d'une énergie explosive jusqu'au début de votre prochain tour. Si la cible se déplace volontairement de 1,50 mètre ou plus pendant ce laps de temps, elle subit 1d8 dégâts de tonnerre et le sort se termine.  
+Les dégâts de ce sort augmentent suivant votre niveau. Au niveau 5, l'attaque au corps à corps inflige 1d8 dégâts de tonnerre supplémentaires à la cible, et les dégâts que la cible subit si elle se déplace passent à 2d8. Les deux jets de dégâts augmentent ensuite de 1d8 aux niveaux 11 (2d8 et 3d8) et 17 (3d8 et 4d8).  
+
+#### Lumière
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, M (une luciole ou de la mousse phosphorescente)
+
+**Durée** : 1 heure
+
+Vous touchez un objet qui ne dépasse pas 3 mètres dans toutes les dimensions. Jusqu'à la fin du sort, l'objet émet une lumière vive dans un rayon de 6 mètres et une lumière faible sur 6 mètres supplémentaires. La lumière est de la couleur que vous voulez. Couvrir complètement l'objet avec quelque chose d'opaque bloque la lumière. Le sort se termine si vous le lancez de nouveau ou si vous le dissipez par une action.  
+Si vous ciblez un objet tenu ou porté par une créature hostile, cette créature doit réussir un jet de sauvegarde de Dextérité pour éviter le sort.  
+
+\page
+
+#### Lumières dansantes
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S, M (un peu de phosphore ou d'écorce d'orme blanc, ou bien un ver luisant)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Ce sort permet de créer jusqu'à quatre lumières, de la taille de torches, qui peuvent revêtir l'apparence de torches, de lanternes ou d'orbes brillantes qui flottent dans les airs. Il est possible de combiner les quatre lumières en une forme vaguement humanoïde brillante de taille M. Peu importe la forme choisie, chaque lumière produit une lumière faible qui éclaire dans un rayon de 3 mètres.  
+Au prix d'une action bonus lors de votre tour, il est possible de déplacer les lumières jusqu'à 18 mètres vers un nouvel emplacement à portée. Une lumière doit se situer à 6 mètres ou moins d'une autre lumière créée par ce sort, et une lumière s'éclipse si elle se trouve au-delà de la portée du sort.  
+
+#### Main de mage
+
+niveau 0 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : 1 minute
+
+Une main spectrale apparaît à un point précis choisi à portée. La main expire à la fin de la durée du sort ou si elle est révoquée au prix d'une action. La main disparaît si elle se retrouve à plus de 9 mètres du lanceur de sorts ou si ce sort est jeté une nouvelle fois.  
+Le lanceur de sorts peut utiliser son action pour contrôler la main. La main peut manipuler un objet, ouvrir une porte ou un contenant non verrouillé, ranger ou récupérer un objet d'un contenant ouvert, ou bien verser le contenu d'une fiole. La main peut être déplacée jusqu'à 9 mètres à chaque fois que vous l'utilisez.  
+La main ne peut attaquer, activer des objets magiques ou transporter plus de 5 kg.  
+
+#### Manipulation télékinétique
+
+niveau 0 - combinable
+
+**Casting Time:** : 1 action
+
+**Range:**        : 9m
+
+**Components:**   : S
+
+**Duration:**     : 1min
+
+Actionner un bouton, ouvrir une porte non verrouillée, ramasser un objet (5Kg et 9m)… comme _Main de mage_.
+Niveau supèrieur : +2Kg/lv de joueur et +5m/lv de sort
+
+\column
+
+#### Message
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S, M (un petit bout de fil de cuivre)
+
+**Durée** : 1 round
+
+Vous pointez votre doigt en direction d'une créature à portée et murmurez un message. La cible (et seulement la cible) entend le message et peut répondre en un murmure que vous seul pouvez entendre. Vous pouvez lancer ce sort à travers des objets solides si vous connaissez bien la cible et que vous savez qu'elle est derrière l'obstacle. Ce sort est arrêté par un silence magique, 30 cm de pierre, 2,50 cm de métal, une fine feuille de plomb ou 90 cm de bois. Ce sort ne doit pas forcément suivre une ligne droite et peut contourner les angles ou passer par de petites ouvertures.  
+
+#### Moquerie cruelle
+
+niveau 0 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Vous vomissez un flot d'insultes entremêlées de subtils enchantements sur une créature à portée et que vous pouvez voir. Si la cible peut vous entendre (il n'est pas nécessaire qu'elle comprenne mais juste qu'elle devine votre intention), elle doit réussir un jet de sauvegarde de Sagesse ou subir 1d4 dégâts psychiques et avoir un désavantage au prochain jet d'attaque qu'elle fera avant la fin de son prochain tour.  
+Les dégâts de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d4), le niveau 11 (3d4) et le niveau 17 (4d4).  
+
+#### Mot de radiance
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 1,50 mètre
+
+**Composantes** : V, M (un symbole sacré)
+
+**Durée** : instantanée
+
+Vous prononcez un mot divin et un éclat brûlant jaillit de vous. Toutes les créatures de votre choix à portée et que vous pouvez voir doivent réussir un jet de sauvegarde de Constitution ou bien prendre 1d6 dégâts radiants.  
+Les dégâts du sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
+
+\page
+
+#### Pierre magique
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : 1 minute
+
+Vous touchez un à trois cailloux et les imprégnez de magie. Vous ou quelqu'un d'autre peut faire une attaque à distance avec un sort avec un des ces cailloux en le jetant à la main ou en le lançant à l'aide d'une fronde. S'il est jeté, sa portée est de 18 mètres. Si quelqu'un d'autre attaque avec ces cailloux, il ajoute le modificateur de votre caractéristique d'incantation au jet d'attaque (et non pas la sienne). Si le coup touche, la cible prend 1d6 dégâts contondants + le modificateur de votre caractéristique d'incantation. Dans tous les cas, le caillou perd ses propriétés magiques.  
+Si vous lancez ce sort à nouveau, le sort s'arrête pour tous les cailloux encore sous effet magique du sort précédent.  
+
+#### Piqûre mentale
+
+niveau 0 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : 1 round
+
+Vous injectez une pointe d'énergie psychique désorientante dans l'esprit d'une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde d'Intelligence. En cas d'échec, elle subit 1d6 dégâts psychiques et la première fois qu'elle effectuera un jet de sauvegarde avant la fin de votre prochain tour, elle devra lancer un d4 et soustraire le nombre obtenu du résultat de sa sauvegarde.  
+Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez les niveaux 5 (2d6), 11 (3d6) et 17 (4d6).  
+
+#### Poigne électrique
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+La foudre jaillit de votre main pour délivrer un choc électrique à une créature que vous essayez de toucher. Effectuez une attaque au corps à corps avec un sort contre la cible. Vous avez un avantage au jet d'attaque si la cible porte une armure en métal. En cas de réussite, la cible prend 1d8 dégâts de foudre, et elle ne peut pas prendre de réaction jusqu'au début de son prochain tour.  
+Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
+
+\column
+
+#### Poussée mineure
+
+niveau 0 - combinable
+
+**Casting Time:** : 1 action
+
+**Range:**        : 3m
+
+**Components:**   :: S
+
+**Duration:**     : 1min
 
 Déplace un petit objet de 1 kg dans un rayon de 3 m.
 Peut aussi déséquilibrer légèrement une créature (−2 au prochain jet d’attaque). \
-**Niveau supèrieur** :: +1Kg/lv de joueur et +3m/lv de sort
+Niveau supèrieur : +1Kg/lv de joueur et +3m/lv de sort
 
-*Psyker*
+#### Prestidigitation
 
-#### Manipulation télékinétique
-*cantrips*
+niveau 0 - transmutation
 
-**Casting Time:** :: 1 action
-**Range:**        :: 9m
-**Components:**   :: S, M (a small doll)
-**Duration:**     :: 1min
+**Temps d'incantation** : 1 action
 
-Actionner un bouton, ouvrir une porte non verrouillée, ramasser un objet (5Kg et 9m)… comme _Main de mage_.
-**Niveau supèrieur** :: +2Kg/lv de joueur et +5m/lv de sort
+**Portée** : 3 mètres
 
-*Psyker*
+**Composantes** : V, S
 
-#### Vibration mentale
-*cantrips*
+**Durée** : jusqu'à 1 heure
 
-**Casting Time:** :: -
-**Range:**        :: 18m
-**Components:**   :: S, V
-**Duration:**     :: -
+Ce sort est un tour de magie mineur que les lanceurs de sorts novices emploient comme exercice. Ce sort permet de provoquer l'un des effets magiques suivants :  
+• Le sort crée instantanément un effet sensoriel inoffensif, comme une pluie d'étincelles, une bouffée d'air, de timides notes de musique, ou une étrange odeur.  
+• Le sort allume ou éteint instantanément une bougie, torche ou un petit feu de camp.  
+• Le sort nettoie ou souille instantanément un objet pas plus volumineux qu'un cube de 30 cm d'arête.  
+• Le sort réchauffe, refroidit ou assaisonne du matériel non vivant pouvant être contenu dans un cube de 30 cm d'arête pendant 1 heure.  
+• Le sort fait apparaître un symbole, une petite marque ou couleur sur un objet ou une surface pendant 1 heure.  
+• Le sort permet de créer une babiole non magique ou une image illusoire qui peut tenir dans votre main et qui dure jusqu'à la fin de votre prochain tour.  
+Si le sort est lancé plusieurs fois, il est possible de conserver actifs 3 de ces effets non instantanés simultanément, et il est possible de révoquer ces effets au prix d'une action.  
 
-Envoie une onde mentale qui inflige 1d6 dégâts psychiques.
-**Niveau supèrieur** :: +6m/lv de sort
+#### Protection contre les armes
 
-*Psyker*
+niveau 0 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : 1 round
+
+Vous tendez votre main et tracez un symbole de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez la résistance contre les dégâts contondants, tranchants et perforants infligés par des attaques avec arme. 
+
+\page
+
+#### Rayon de givre
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Un faisceau glacial de lumière bleuâtre se dirige vers une créature dans la portée du sort. Effectuez une attaque à distance avec un sort contre la cible. S'il touche, la cible subit 1d8 dégâts de froid et sa vitesse est réduite de 3 mètres jusqu'à début de votre prochain tour.  
+Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
+
+#### Réparation
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : contact
+
+**Composantes** : V, S, M (deux aimants)
+
+**Durée** : instantanée
+
+Ce sort répare une simple fissure, déchirure ou fêlure sur un objet que vous touchez, comme un maillon de chaîne cassé, une clé brisée en deux morceaux, un accroc sur un manteau ou une fuite sur une outre. Tant que la fissure ou l'accroc n'excède pas 30 cm dans toutes les dimensions, vous le réparez, ne laissant aucune trace de la détérioration passée. Ce sort peut réparer physiquement un objet magique ou un artificiel, mais ne peut pas rendre sa magie à un objet.  
+
+#### Résistance
+
+niveau 0 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une cape miniature)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat du dé à un jet de sauvegarde de son choix. Elle peut lancer le dé avant ou après avoir effectué son jet de sauvegarde. Le sort prend alors fin.  
+
+#### Saute de vent
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous saisissez l'air et l'obligez à créer un des effets suivants à un point que vous pouvez voir à portée :  
+• Une créature de taille M ou plus petite que vous choisissez doit réussir un jet de sauvegarde de Force ou être repoussée de 1,50 mètre de vous.  
+• Vous créez une petite explosion d'air capable de bouger un objet qui n'est pas tenu ni porté et qui ne pèse pas plus que 2,5 kg. L'objet est repoussé de 3 mètres. Il n'est pas poussé avec assez de force pour faire des dégâts.  
+• Vous créez un effet sensoriel inoffensif qui utilise l'air, comme provoquer le bruissement de feuilles, faire claquer des volets ou faire onduler des vêtements dans une brise.  
+
+#### Sauvagerie primitive
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : S
+
+**Durée** : instantanée
+
+Vous canalisez la magie primale pour qu'elle aiguise vos dents ou vos ongles, le rendant prêts à livrer une attaque corrosive. Effectuez une attaque au corps à corps avec un sort contre une créature située à 1,50 mètre ou moins de vous. En cas de réussite, la cible prend 1d10 dégâts d'acide. Après que vous ayez effectué votre attaque, vos dents ou vos ongles reprennent leur état normal.  
+Les dégâts du sort augmentent de 1d10 lorsque vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).  
 
 #### Saisie rapide
-*cantrips*
+
+niveau 0 - réaction
 
 **Casting Time:** :: -
 **Range:**        :: m/t du joueur
@@ -1676,80 +2358,294 @@ Intercepte ou attire un petit objet vers ta main (comme lancer un grappin invisi
 *(exe: flèche = 70m/s)*
 **Niveau supèrieur** :: +10m/s/lv de joueur
 
-*Psyker*
+#### Stabilisation
+
+niveau 0 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous touchez une créature vivante qui est à 0 point de vie. La créature devient stable. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
+
+\page
+
+#### Thaumaturgie
+
+niveau 0 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V
+
+**Durée** : jusqu'à 1 minute
+
+Vous simulez une chose extraordinaire, un signe de puissance surnaturelle. Vous créez un des effets magiques suivants dans la limite de portée du sort :  
+• Votre voix devient trois fois plus puissante que la normale pour 1 minute.  
+• Vous faîtes vaciller des flammes, augmentez ou diminuez leur intensité, ou bien encore vous changez leur couleur pendant 1 minute.  
+• Vous causez des tremblements inoffensifs dans le sol pendant 1 minute.  
+• Vous créez un son instantané qui provient d'un point de votre choix dans la limite de portée du sort, tel qu'un grondement de tonnerre, le cri d'un corbeau ou des chuchotements de mauvais augure.  
+• Vous provoquez instantanément l'ouverture ou le claquement brusque d'une porte ou d'une fenêtre non verrouillée.  
+• Vous altérez l'apparence de vos yeux pendant 1 minute.  
+Si vous lancez ce sort plusieurs fois, vous pouvez avoir activement jusqu'à trois de ses effets à la fois, et vous pouvez rompre un effet au prix d'une action.  
+
+#### Trait de feu
+
+niveau 0 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous lancez un trait de feu sur une créature ou un objet à portée. Faites une attaque à distance avec un sort contre la cible. En cas de réussite, la cible prend 1d10 dégâts de feu. Un objet inflammable touché par ce sort prend feu s'il n'est pas porté.  
+Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4d10).
+
+#### Vibration mentale
+niveau 0 - combinable
+
+**Casting Time:** : -
+
+**Range:**        : 18m
+
+**Components:**   : S, V
+
+**Duration:**     : -
+
+Envoie une onde mentale qui inflige 1d6 dégâts psychiques.
+Niveau supèrieur : +6m/lv de sort
 
 \column
-#### Éclat gravitationnel
-*cantrips*
 
-**Casting Time:** :: 1 action
-**Range:**        :: m/t du joueur
-**Components:**   :: S
-**Duration:**     :: 1t
+## niveau 1
 
-Petite poussée qui fait reculer un ennemi de 1,5 m.
-**Niveau supèrieur** :: +0.5m/lv de joueur
+#### Absorption des éléments
 
-*Psyker*
+niveau 1 - abjuration
 
+**Temps d'incantation** : 1 réaction, que vous prenez lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre
 
+**Portée** : personnelle
 
-#### Résistance
-*cantrips*
+**Composantes** : S
 
-**Casting Time:** :: -
-**Range:**        :: contact
-**Components:**   :: V, S
-**Duration:**     :: 1min
-Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat du dé à un jet de sauvegarde de son choix. Elle peut lancer le dé avant ou après avoir effectué son jet de sauvegarde. Le sort prend alors fin.
+**Durée** : 1 round
 
-*Psyker*
+Le sort capte une partie de l'énergie entrante, ce qui réduit son effet sur vous et la stocke pour votre prochaine attaque au corps à corps. Vous obtenez une résistance au type de dégâts qui a déclenché le sort jusqu'au début de votre prochain tour. De plus, la première fois que vous touchez avec une attaque au corps à corps lors de votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type qui a déclenché le sort, et le sort se termine.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
+#### Alarme
 
-#### Protection contre les armes
-*cantrips*
+niveau 1 - abjuration (rituel)
 
-**Casting Time:** :: 1 action
-**Range:**        :: personnelle
-**Components:**   :: V, S
-**Duration:**     :: 1t
+**Temps d'incantation** : 1 minute
 
-Vous tendez votre main et tracez un symbole de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez la résistance contre les dégâts contondants, tranchants et perforants infligés par des attaques avec arme.
+**Portée** : 9 mètres
 
-*Psyker*
+**Composantes** : V, S, M (une petite clochette et un morceau de fil d'argent fin)
 
-#### Piqûre mentale
-*cantrips*
+**Durée** : 8 heures
 
-**Casting Time:** :: 1 action
-**Range:**        :: 18m
-**Components:**   :: V
-**Duration:**     :: 1t
-
-Vous injectez une pointe d'énergie psychique désorientante dans l'esprit d'une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde d'Intelligence. En cas d'échec, elle subit 1d6 dégâts psychiques et la première fois qu'elle effectuera un jet de sauvegarde avant la fin de votre prochain tour, elle devra lancer un d4 et soustraire le nombre obtenu du résultat de sa sauvegarde.
-Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez les niveaux 5 (2d6), 11 (3d6) et 17 (4d6).
-
-*Psyker*
-{{pageNumber $[HB_pageNumber]}}
-{{footnote Les Sorts : cantrips}}
+Vous mettez en place une alarme contre les intrusions indésirables. Choisissez une porte, une fenêtre, ou une zone à portée qui ne dépasse pas un cube de 6 mètres d'arête. Jusqu'à la fin du sort, une alarme vous alerte lorsqu'une créature de taille TP ou supérieure touche ou pénètre la zone surveillée. Lorsque vous lancez ce sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez également choisir si l'alarme est audible ou juste mentale.  
+Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1,5 km maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi. Une alarme audible produit le son d'une clochette à main, pendant 10 secondes, pouvant être entendue à 18 mètres.  
 \page
-## Niveau 1
+#### Amitié avec les animaux
 
-#### **Projection**
-*niveau 1*
+niveau 1 - enchantement
 
-**Casting Time:** :: 1 action
-**Range:**        :: 18m
-**Components:**   :: S
-**Duration:**     :: -
+**Temps d'incantation** : 1 action
 
-Choisissez un objet pesant de 500 g à 2,5 kg à portée et qui n'est ni porté ni transporté. L'objet vole en ligne droite jusqu'à 27 mètres dans une direction que vous choisissez avant de tomber au sol, s'arrêtant plus tôt s'il rencontre une surface solide. Si l'objet va frapper une créature, cette créature doit faire un jet de sauvegarde de Dextérité. En cas d'échec à la sauvegarde, l'objet frappe la cible et arrête sa course. Lorsque l'objet heurte quelque chose, l'objet et ce qu'il frappe subissent chacun 3d8 dégâts contondants. \
-**Aux niveaux supérieur** ::. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le poids maximal de l'objet que vous pouvez cibler avec ce sort augmente de 2,5 kg et les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.
+**Portée** : 9 mètres
 
-*Psyker*
+**Composantes** : V, S, M (un morceau de nourriture)
+
+**Durée** : 24 heures
+
+Ce sort vous permet de persuader une bête que vous ne lui voulez aucun mal. Choisissez une bête que vous pouvez voir dans la portée du sort. Elle doit vous voir et vous entendre. Si l'Intelligence de la bête est de 4 ou plus, le sort échoue. Autrement, la bête doit réussir un jet de sauvegarde de Sagesse ou être charmée pour la durée du sort. Si vous, ou un de vos compagnons, blessez la cible, le sort prend fin.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez charmer une bête supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Appel de familier
+
+niveau 1 - invocation (rituel)
+
+**Temps d'incantation** : 1 heure
+
+**Portée** : 3 mètres
+
+**Composantes** : V, S, M (du charbon de bois, de l'encens, et des herbes pour une valeur de totale minimum de 10 po, le tout étant consumé par le feu dans un chaudron en laiton)
+
+**Durée** : instantanée
+
+Vous gagnez les services d'un familier, un esprit qui prend la forme d'un animal de votre choix : une [araignée](https://www.aidedd.org/dnd/monstres.php?vf=araignee), une [belette](https://www.aidedd.org/dnd/monstres.php?vf=belette), un [chat](https://www.aidedd.org/dnd/monstres.php?vf=chat), une [chauve-souris](https://www.aidedd.org/dnd/monstres.php?vf=chauve-souris), une [chouette](https://www.aidedd.org/dnd/monstres.php?vf=chouette), un [corbeau](https://www.aidedd.org/dnd/monstres.php?vf=corbeau), un [crabe](https://www.aidedd.org/dnd/monstres.php?vf=crabe), un [faucon](https://www.aidedd.org/dnd/monstres.php?vf=faucon), un [hippocampe](https://www.aidedd.org/dnd/monstres.php?vf=hippocampe), une [grenouille](https://www.aidedd.org/dnd/monstres.php?vf=grenouille) (crapaud), un [lézard](https://www.aidedd.org/dnd/monstres.php?vf=lezard), une [pieuvre](https://www.aidedd.org/dnd/monstres.php?vf=pieuvre), un [rat](https://www.aidedd.org/dnd/monstres.php?vf=rat), un poisson ([piranha](https://www.aidedd.org/dnd/monstres.php?vf=piranha)) ou un [serpent venimeux](https://www.aidedd.org/dnd/monstres.php?vf=serpent-venimeux). Apparaissant dans un espace inoccupé à portée, le familier a les statistiques de la forme choisie mais est du type céleste, fée ou fiélon (au choix), au lieu du type bête.  
+Votre familier agit de manière indépendante, mais obéit toujours à vos ordres. En combat, il lance sa propre initiative et agit au cours de ses propres tours de jeu. Un familier ne peut pas attaquer, mais il peut utiliser normalement les autres actions.  
+Lorsque le familier tombe à 0 point de vie, il disparaît, ne laissant aucune forme physique. Il réapparaît après que vous ayez à nouveau lancé ce sort. Par une action, vous pouvez temporairement renvoyer le familier dans une poche dimensionnelle. Vous pouvez aussi le renvoyer pour toujours. Au prix d'une action lorsqu'il est temporairement renvoyé, vous pouvez le faire réapparaître dans n'importe quel espace inoccupé dans un rayon de 9 mètres autour de vous. Chaque fois que le familier tombe à 0 point de vie ou disparaît dans la poche dimensionnelle, il laisse dans son espace tout ce qu'il portait.  
+Lorsque votre familier se trouve à 30 mètres de vous maximum, vous pouvez communiquer avec lui par télépathie. De plus, par une action, vous pouvez voir au travers des yeux du familier et entendre ce qu'il entend jusqu'au début de votre prochain tour, bénéficiant alors des sens spéciaux de votre familier, s'il en a. Au cours de cette période, vous êtes considéré comme étant sourd et aveugle (en ce qui concerne vos propres sens).  
+Vous ne pouvez pas avoir plus d'un familier à la fois. Si vous lancez ce sort alors que vous possédez déjà un familier, votre familier actuel prend une nouvelle forme. Choisissez cette nouvelle forme parmi celles présentées dans la liste ci-dessus. Votre familier prend alors la forme de la créature choisie.  
+Enfin, lorsque vous lancez un sort qui a une portée de contact, votre familier peut lancer le sort comme s'il était celui qui avait réalisé l'incantation. Votre familier doit se situer à 30 mètres de vous maximum, et doit utiliser sa réaction pour lancer le sort au moment où vous l'incantez. Si le sort requiert un jet d'attaque, vous utilisez votre modificateur à l'attaque pour ce jet.  
+
+#### Armure d'Agathys
+
+niveau 1 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une coupe d'eau)
+
+**Durée** : 1 heure
+
+Une force magique protectrice vous entoure, se manifestant sous la forme d'un givre spectral vous couvrant vous et votre équipement. Vous obtenez 5 points de vie temporaires pour la durée du sort. Si une créature vous touche avec une attaque au corps à corps alors que vous avez ces points de vie temporaires, la créature subit 5 dégâts de froid.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les points de vie temporaires et les dégâts de froid augmentent de 5 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Armure de mage
+
+niveau 1 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (un morceau de cuir tanné)
+
+**Durée** : 8 heures
+
+Vous touchez une créature consentante qui ne porte pas d'armure, et une force magique de protection l'englobe jusqu'à ce que le sort prenne fin. La CA de la cible passe à 13 + son modificateur de Dextérité. Le sort prend fin si la cible enfile une armure ou si vous prenez une action pour interrompre le sort.  
+\page
+#### Baies nourricières
+
+niveau 1 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une branche de gui)
+
+**Durée** : instantanée
+
+Jusqu'à dix baies imprégnées de magie apparaissent dans votre main pour la durée de leur potentiel (voir ci-dessous). Une créature peut utiliser son action pour manger une baie. Manger une baie rend 1 point de vie, et la baie est suffisamment nourrissante pour sustenter une créature pour une journée.  
+Les baies perdent leur potentiel si elles n'ont pas été consommées dans les 24 heures qui suivent le lancement du sort.  
+
+#### Barbes argentées
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 réaction, que vous prenez lorsqu'une créature que vous pouvez voir à 18 m ou moins de vous réussit un jet d'attaque, de caractéristique ou de sauvegarde
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Vous distrayez magiquement la créature qui a déclenché le sort et transformez son incertitude en encouragement pour une seconde créature. La créature qui a déclenché le sort doit relancer son d20 et prendre le jet le plus faible.  
+Vous choisissez ensuite une autre créature que vous pouvez voir à portée (vous pouvez vous choisir). La créature choisie obtient un avantage sur le prochain jet d'attaque, de caractéristique ou de sauvegarde qu'elle fera dans la minute. Les effets de ce sort ne peuvent se cumuler.  
+
+#### Bénédiction
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (une aspersion d'eau bénite)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous bénissez jusqu'à trois créatures de votre choix, dans la portée du sort. À chaque fois qu'une cible fait un jet d'attaque ou de sauvegarde avant la fin du sort, la cible peut lancer un d4 et ajouter le résultat au jet d'attaque ou de sauvegarde.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
+\column
+#### Blessure
+
+niveau 1 - nécromancie - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Effectuez une attaque au corps à corps avec un sort contre une créature que vous pouvez toucher. En cas de réussite, la cible prend 3d10 dégâts nécrotiques.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d10 chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Bouclier
+
+niveau 1 - abjuration
+
+**Temps d'incantation** : 1 réaction, que vous prenez lorsque vous êtes touché par une attaque ou ciblé par le sort _[projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)_
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : 1 round
+
+Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à votre CA, y compris contre l'attaque qui a déclenché le sort, et vous ne prenez aucun dégât par le sort _[projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique)_.  
+
+#### Bouclier de la foi
+
+niveau 1 - abjuration
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un bout de texte saint écrit sur un petit parchemin)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Un champ scintillant apparaît et entoure une créature de votre choix dans la portée du sort, lui accordant un bonus de +2 à la CA pour la durée du sort.  
+\page
+#### Catapulte
+
+niveau 1 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : S
+
+**Durée** : instantanée
+
+Choisissez un objet pesant de 500 g à 2,5 kg à portée et qui n'est ni porté ni transporté. L'objet vole en ligne droite jusqu'à 27 mètres dans une direction que vous choisissez avant de tomber au sol, s'arrêtant plus tôt s'il rencontre une surface solide. Si l'objet va frapper une créature, cette créature doit faire un jet de sauvegarde de Dextérité. En cas d'échec à la sauvegarde, l'objet frappe la cible et arrête sa course. Lorsque l'objet heurte quelque chose, l'objet et ce qu'il frappe subissent chacun 3d8 dégâts contondants.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le poids maximal de l'objet que vous pouvez cibler avec ce sort augmente de 2,5 kg et les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Cérémonie
+
+niveau 1 - abjuration (rituel)
+
+**Temps d'incantation** : 1 heure
+
+**Portée** : contact
+
+**Composantes** : V, S, M (25 po de poudre d'argent, que le sort consomme)
+
+**Durée** : instantanée
+
+Vous réalisez une cérémonie religieuse qui est imprégnée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, la cible devant se trouver à 3 mètres ou moins de vous durant tout le temps d'incantation.  
+**Expiation**. Vous touchez une créature consentante dont l'alignement a changé et faites un jet de Sagesse (Intuition) DD 20. En cas de réussite, vous restaurez l'alignement original de la cible.  
+**Eau bénite**. Vous touchez une fiole d'eau et celle-ci devient de l'eau bénite.  
+**Passage à l'âge adulte**. Vous touchez un humanoïde suffisamment âgé pour être un jeune adulte. Pendant les prochaines 24 heures, lorsque la cible effectue un jet de caractéristique, elle peut lancer un d4 et ajouter le résultat au jet de caractéristique. Une créature ne peut bénéficier de ce rite qu'une seule fois.  
+**Dévouement**. Vous touchez un humanoïde qui souhaite se mettre au service de votre dieu. Pendant les prochaines 24 heures, lorsque la cible effectue un jet de sauvegarde, elle peut lancer un d4 et ajouter le résultat au jet de sauvegarde. Une créature ne peut bénéficier de ce rite qu'une seule fois.  
+**Rite funéraire**. Vous touchez un cadavre et pendant les 7 prochains jours, la cible ne peut pas devenir un mort-vivant par aucun autre moyen que le sort _[souhait](https://www.aidedd.org/dnd/sorts.php?vf=souhait)_.  
+**Mariage**. Vous touchez des humanoïdes adultes prêts à s'unir par les liens du mariage. Pour les 7 prochains jours, chaque cible gagne un bonus de +2 à la CA tant qu'ils sont à 9 mètres ou moins l'un de l'autre. Une créature ne peut bénéficier de nouveau de ce rite que si elle est veuve.  
 
 #### Champ protecteur
-*niveau 1*
+niveau 1 - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: personnelle
@@ -1759,10 +2655,298 @@ Choisissez un objet pesant de 500 g à 2,5 kg à portée et qui n'est ni porté 
 Génère un bouclier invisible conférant +2 CA jusqu’au prochain tour.
 **Aux niveaux supérieur** ::+1 CA au lv (5;10;15;20) de joueur
 
-*Psyker*
+#### Charme-personne
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : 1 heure
+
+Vous pouvez tenter de charmer un humanoïde que vous pouvez voir à portée. Ce dernier doit effectuer un jet de sauvegarde de Sagesse, avec un avantage à son jet si vous ou vos compagnons le combattez. En cas d'échec, il est charmé jusqu'à la fin de la durée du sort ou jusqu'à ce que vous ou vos compagnons cherchiez à lui nuire. La créature charmée vous considère comme un bon ami. Quand le sort prend fin, la créature sait que vous l'avez charmée.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1. Les créatures doivent se trouver à 9 mètres maximum les unes des autres lorsque vous les ciblez.  
+\page
+#### Châtiment calcinant
+
+niveau 1 - évocation - combinable
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+La prochaine fois que vous touchez une créature avec une attaque au corps à corps avec une arme pendant la durée du sort, votre arme est chauffée à blanc, et votre attaque inflige 1d6 dégâts de feu supplémentaires à la cible et l'enflamme. Au début de chacun de ses tours jusqu'à la fin du sort, la cible doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, elle subit 1d6 dégâts de feu. En cas de réussite, le sort prend fin. Si la cible, ou une créature située à 1,50 mètre d'elle, utilise son action pour étouffer les flammes, ou si tout autre effet éteint les flammes (par exemple si la cible se plonge dans l'eau), le sort prend fin.  
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts supplémentaires initiaux infligés par l'attaque augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Châtiment courroucé
+
+niveau 1 - évocation - combinable
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+La prochaine fois que vous touchez une cible lors d'une attaque au corps à corps avec une arme pendant la durée du sort, votre attaque inflige 1d6 dégâts psychiques supplémentaires. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse ou être effrayée jusqu'à la fin du sort. Par une action, la créature peut effectuer un jet de Sagesse contre le DD de sauvegarde de votre sort pour mettre un terme à cet effet et au sort.  
+
+#### Châtiment tonitruant
+
+niveau 1 - évocation - combinable
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+La première fois que vous touchez une cible lors une attaque au corps à corps avec une arme pendant que le sort est actif, votre arme résonne tel un tonnerre audible à 90 mètres à la ronde, et l'attaque inflige 2d6 dégâts de tonnerre supplémentaires à la cible. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Force sous peine d'être repoussée de vous sur 3 mètres puis de tomber à terre.  
+\column
+#### Collet
+
+niveau 1 - abjuration - combinable
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : contact
+
+**Composantes** : S, M (7,50 mètres de corde, que le sort consomme)
+
+**Durée** : 8 heures
+
+Lorsque vous lancez ce sort, vous utilisez la corde pour créer un cercle de 1,50 mètre de rayon au sol. Une fois le sort lancé, la corde disparaît et le cercle devient un piège magique.  
+Le piège est presque invisible et demande un jet d'Intelligence (Investigation) réussi contre le DD de sauvegarde de votre sort pour être décelé.  
+Le piège se déclenche lorsqu'une créature de taille P, M ou G marche sur le sol dans le rayon du sort. Cette créature doit réussir un jet de sauvegarde de Dextérité ou bien être magiquement hissée dans les airs, pour se retrouver pendue la tête à l'envers à 90 cm au-dessus du sol. La créature est entravée jusqu'à ce que le sort se termine.  
+Une créature entravée peut effectuer un jet de sauvegarde de Dextérité à la fin de chacun de ses tours, mettant fin à l'effet sur elle-même en cas de réussite. La créature ou quelqu'un d'autre qui peut l'atteindre peut aussi utiliser son action pour effectuer un jet d'Intelligence (Arcanes) contre le DD de sauvegarde de votre sort. En cas de réussite, l'effet d'entrave prend fin.  
+Après le déclenchement du piège, le sort se termine lorsque le piège ne retient plus aucune créature.  
+
+#### Communication avec les animaux
+
+niveau 1 - divination (rituel)
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : 10 minutes
+
+Vous gagnez la capacité de comprendre et de communiquer verbalement (ou oralement) avec des bêtes pour la durée du sort. Les connaissances et la compréhension de nombreuses bêtes sont limitées par leur intelligence, mais au minimum, elles peuvent vous communiquer des informations sur les alentours et les bêtes à proximité, incluant tout ce qu'elles peuvent percevoir ou ont perçu au cours des derniers jours. Vous devriez être capable de convaincre une bête de vous rendre un petit service, à la discrétion du MD.  
+\page
+#### Compréhension des langues
+
+niveau 1 - divination (rituel)
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une pincée de suie et de sel)
+
+**Durée** : 1 heure
+
+Pendant la durée du sort, vous comprenez la signification littérale de toute langue parlée que vous pouvez entendre. Vous comprenez également tout langage écrit que vous pouvez voir, mais vous devez toucher la surface sur laquelle les mots sont inscrits. Il faut une minute pour lire une page de texte.  
+Ce sort ne décode pas les messages secrets dans un texte ou un glyphe, tel qu'un symbole magique, qui ne fait pas partie du langage écrit.  
+
+#### Couleurs dansantes
+
+niveau 1 - illusion
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (cône de 4,50 mètres)
+
+**Composantes** : V, S, M (une pincée de poudre ou de sable de couleur rouge, jaune et bleu)
+
+**Durée** : 1 round
+
+Un assortiment éblouissant de faisceaux lumineux et colorés fait éruption de votre main. Lancez 6d10. Cette valeur représente le nombre maximal de points de vie des créatures que vous pouvez affecter avec ce sort. Les créatures dans un cône de 4,50 mètres dont vous êtes l'origine sont affectées selon l'ordre croissant de leurs points de vie (en ignorant les créatures inconscientes et celles qui ne peuvent pas voir).  
+En partant de la créature avec le plus petit nombre de points de vie, chaque créature affectée par ce sort est aveuglée jusqu'à la fin de votre prochain tour. Retirez les points de vie de chaque créature avant de passer à la prochaine créature avec le plus petit nombre de points de vie. Les points de vie d'une créature doivent être égaux ou inférieurs au total pour que cette créature soit affectée.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, ajoutez 2d10 au lancer initial pour chaque niveau d'emplacement au-delà du niveau 1.  
+\column
+#### Couteau de glace
+
+niveau 1 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : S, M (une goutte d'eau ou un bout de glace)
+
+**Durée** : instantanée
+
+Vous créez un éclat de glace et le lancez vers une créature dans la portée du sort. Faites une attaque à distance avec un sort contre la cible. Si elle réussit, la cible subit 1d10 dégâts perforants. Que l'attaque touche ou pas, l'éclat de glace explose. La cible et toutes les créatures dans un rayon de 1,50 mètre autour d'elle doivent réussir un jet de sauvegarde de Dextérité ou subir 2d6 dégâts de froid.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts de froid infligés augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Création ou destruction d'eau
+
+niveau 1 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (une goutte d'eau pour la création d'eau ou quelques grains de sable pour la destruction d'eau)
+
+**Durée** : instantanée
+
+Soit vous créez, soit vous détruisez de l'eau.  
+**_Création d'eau_**. Vous créez jusqu'à 40 litres d'eau pure dans un contenant ouvert à portée. Vous pouvez sinon choisir de faire tomber l'eau sous forme de pluie dans un cube de 9 mètres d'arête à portée, éteignant ainsi les flammes non protégées de la zone.  
+**_Destruction d'eau_**. Vous détruisez jusqu'à 40 litres d'eau présente dans un contenant ouvert à portée. Sinon, vous pouvez choisir de supprimer le brouillard dans un cube de 9 mètres d'arête à portée.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous créez ou détruisez 40 litres d'eau supplémentaires, ou augmentez la taille du cube de 1,50 mètre d'arête, pour chaque niveau d'emplacement au-delà du niveau 1.  
+\page
+#### Déguisement
+
+niveau 1 - illusion - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : 1 heure
+
+Vous changez d'apparence jusqu'à ce que le sort prenne fin ou que vous utilisiez une action pour le dissiper. Le changement inclut vos vêtements, votre armure, vos armes et les autres objets que vous portez. Vous pouvez paraître 30 cm plus grand ou plus petit, mince, obèse, ou entre les deux. Vous ne pouvez pas modifier votre type morphologique. Vous devez donc prendre une forme qui présente un arrangement similaire des membres. Par ailleurs, l'ampleur de l'illusion ne tient qu'à vous.  
+Les modifications apportées par ce sort ne résistent pas à une inspection physique. Par exemple, si vous utilisez ce sort pour ajouter un chapeau à votre accoutrement, les objets passeront à travers le chapeau et si on y touche, on ne sentira pas sa présence ou on tâtera plutôt votre tête et votre chevelure. Si vous utilisez ce sort pour paraître plus mince, la main d'une personne qui veut vous toucher entrera en contact avec votre corps alors que sa main semble libre d'obstruction.  
+Pour détecter que vous êtes déguisé, une créature peut utiliser son action pour inspecter votre apparence et elle doit réussir un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort.  
+
+#### Détection de la magie
+
+niveau 1 - divination (rituel) - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Pour la durée du sort, vous percevez la présence de magie à 9 mètres ou moins de vous. Si vous percevez de la magie de cette manière, vous pouvez utiliser votre action pour discerner une faible aura enveloppant une créature ou un objet visible dans la zone qui présente de la magie. Vous déterminez aussi l'école de magie, le cas échéant.  
+Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm de pierre, 2,50 cm de métal ordinaire, une mince feuille de plomb ou 90 cm de bois ou de terre.  
+
+#### Détection du mal et du bien
+
+niveau 1 - divination - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Pour la durée du sort, vous savez si une aberration, un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant est présent dans un rayon de 9 mètres autour de vous. Vous pouvez aussi déterminer sa localisation. De la même manière, vous savez si un objet ou un lieu à 9 mètres ou moins de vous a été consacré ou profané.  
+Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm de pierre, 2,50 cm de métal ordinaire, une mince feuille de plomb ou 90 cm de bois ou de terre.  
+
+#### Détection du poison et des maladies
+
+niveau 1 - divination (rituel) - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une feuille d'if)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Pour la durée du sort, vous pouvez percevoir la présence et localiser les poisons, les créatures venimeuses, et les maladies dans un rayon de 9 mètres autour de vous. Vous identifiez également le type de poison, de créature venimeuse, ou de maladie.  
+Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 30 cm de pierre, 2,50 cm de métal ordinaire, une mince feuille de plomb ou 90 cm de bois ou de terre.  
+
+#### Disque flottant de Tenser
+
+niveau 1 - invocation (rituel) - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (une goutte de mercure)
+
+**Durée** : 1 heure
+
+Ce sort crée un plateau de force horizontal et circulaire, de 90 cm de diamètre et épais de 2,50 cm, qui flotte 90 cm au-dessus du sol dans un espace inoccupé de votre choix, à portée et que vous pouvez voir. Le disque reste en place pour la durée du sort et peut supporter 250 kg. Si plus de poids est placé sur le disque, le sort prend fin, et tout ce qui se trouve sur le disque tombe sur le sol.  
+Le disque est immobile tant que vous vous trouvez à 6 mètres de lui. Si vous vous déplacez à plus de 6 mètres, le disque vous suit jusqu'à se retrouver de nouveau à 6 mètres de vous. Il peut se déplacer au-dessus de n'importe quel type de terrain, monter et descendre les escaliers, les pentes et tout ce qui y ressemble, mais il ne peut effectuer un changement brutal d'altitude égal ou supérieur à 3 mètres. Par exemple, le disque ne peut pas se déplacer au-dessus d'un gouffre de 3 mètres de profondeur, ou il ne peut pas sortir d'un gouffre de 3 mètres de haut s'il a été invoqué au fond.  
+Si vous vous déplacez à plus de 30 mètres du disque (par exemple parce qu'il ne peut pas passer au-dessus d'un obstacle pour vous suivre), le sort prend fin.  
+\page
+#### Duel forcé
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 9 mètres
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous essayez de contraindre une créature d'engager un duel avec vous. Une créature à portée que vous pouvez voir doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, vous obnubilez la créature, contrainte par votre exigence divine. Pour toute la durée du sort, la créature a un désavantage aux jets d'attaque effectués contre d'autres créatures que vous, et doit effectuer un jet de sauvegarde de Sagesse à chaque fois qu'elle essaye de s'éloigner à plus de 9 mètres de vous ; si elle réussit son jet de sauvegarde, le sort ne restreint pas son mouvement pour ce tour.   
+Ce sort se termine si vous attaquez une autre créature, si vous lancez un sort qui cible une autre créature hostile que la cible, si une créature qui vous est alliée inflige des dégâts à la cible ou lance un sort sur la cible qui lui est nuisible, ou si vous terminez votre tour à plus de 9 mètres de la cible.  
+
+#### Éclair de chaos
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous projetez une masse d'énergie chaotique sifflante et ondulante vers une créature à portée. Effectuez un jet d'attaque à distance avec un sort contre la cible. En cas de réussite, la cible prend 2d8 + 1d6 points de dégâts. Choisissez l'un des d8. Le nombre tiré sur ce dé détermine le type de dégâts de l'attaque, comme indiqué ci-dessous.  
+  
+
+|d8|Type de dégâts|
+|---|---|
+|1|Acide|
+|2|Froid|
+|3|Feu|
+|4|Force|
+|5|Foudre|
+|6|Poison|
+|7|Psychique|
+|8|Tonnerre|
+
+  
+Si vous avez fait un double avec les d8, l'énergie chaotique rebondit depuis la cible vers une autre créature de votre choix dans un rayon de 9 mètres autour de la première. Effectuez un nouveau jet d'attaque contre cette nouvelle créature et effectuez un jet de dégâts le cas échéant. L'énergie chaotique peut continuer de rebondir, bien qu'une créature ne puisse être affectée qu'une seule fois par chaque sort lancé.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, chaque cible reçoit 1d6 dégâts supplémentaires du type déterminé pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Éclair traçant
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : 1 round
+
+Un éclair silencieux fonce sur une créature de votre choix dans la portée du sort. Faites une attaque à distance avec un sort contre la cible. Si elle réussit, la cible subit 4d6 dégâts radiants et le prochain jet d'attaque effectué contre cette cible avant la fin du votre prochain tour bénéficie d'un avantage grâce à la lumière faible mystique qui illumine alors la cible.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts infligés augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
 #### Élan télékinétique
-*niveau 1*
+niveau 1 - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 2 * m/t du joueur
@@ -1772,36 +2956,659 @@ Génère un bouclier invisible conférant +2 CA jusqu’au prochain tour.
 Déplace un allié volontaire de 3 m (sans provoquer d’attaque d’opportunité).
 **Aux niveaux supérieur** :: +1m/lv (2 ;4; 6; 8; 10; 12; 14; 16; 18; 20) de joueur
 
-*Psyker*
+#### Enchevêtrement
+
+niveau 1 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Herbes et lianes germent du sol dans un carré de 6 mètres d'arête ayant son origine sur un point dans la portée du sort. Pour la durée du sort, ces plantes rendent le terrain difficile.  
+Une créature prise dans la zone lorsque vous incantez le sort doit réussir un jet de sauvegarde de Force ou être entravée par l'enchevêtrement de plantes jusqu'à la fin du sort. Une créature entravée par les plantes peut utiliser une action pour faire un jet de sauvegarde de Force contre le DD de sauvegarde de votre sort. En cas de réussite, la créature se libère.  
+Lorsque le sort prend fin, les plantes invoquées se fanent.  
+\page
+#### Faveur divine
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Votre prière vous donne de la puissance dans un rayonnement divin. Jusqu'à ce que le sort se termine, vos attaques avec une arme infligent 1d4 dégâts radiants supplémentaires lorsqu'elles touchent.  
+
+#### Feuille morte
+
+niveau 1 - transmutation - combinable
+
+**Temps d'incantation** : 1 réaction, que vous prenez lorsque vous ou une créature à 18 mètres ou moins de vous tombez.
+
+**Portée** : 18 mètres
+
+**Composantes** : V, M (une petite plume ou un peu de duvet)
+
+**Durée** : 1 minute
+
+Choisissez jusqu'à cinq créatures en chute libre dans la portée du sort. Le taux de descente d'une créature en chute libre est ramené à 18 mètres par round jusqu'à la fin du sort. Si la créature atterrit avant la fin du sort, elle ne subit aucun dégât de chute et elle retombe sur ses pieds. Le sort prend alors fin pour cette créature.  
+
+#### Fléau
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (une goutte de sang)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Jusqu'à trois créatures de votre choix, que vous pouvez voir et qui sont à portée, doivent effectuer un jet de sauvegarde de Charisme. Quand une cible qui a raté son jet de sauvegarde fait un jet d'attaque ou un autre jet de sauvegarde avant la fin du sort, elle doit lancer un d4 et soustraire le résultat à son jet d'attaque ou de sauvegarde.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Fou rire de Tasha
+
+niveau 1 - enchantement - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (de minuscules tartes et une plume qui est agitée dans les airs)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Une créature de votre choix, que vous pouvez voir et à portée, a l'impression que tout ce qu'elle perçoit est hilarant et lui provoque une intense crise de fou rire. La cible doit réussir un jet de sauvegarde de Sagesse sous peine de tomber à terre, et être incapable d'agir et de se relever pour toute la durée du sort. Une créature ayant une Intelligence de 4 ou moins ne peut pas être affectée par ce sort.  
+À la fin de chacun de ses tours, et à chaque fois qu'elle subit des dégâts, la cible peut effectuer un nouveau jet de sauvegarde de Sagesse. La cible a un avantage à son jet de sauvegarde s'il est déclenché par des dégâts. En cas de réussite, le sort prend fin.  
+
+#### Frappe du zéphyr
+
+niveau 1 - transmutation - combinable
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous vous déplacez comme le vent. Tant que le sort n'est pas terminé, votre mouvement ne provoque pas d'attaques d'opportunité.  
+Une fois avant que le sort ne se termine, vous pouvez vous donner un avantage à un jet d'attaque avec une arme à votre tour. Cette attaque inflige 1d8 dégâts de force supplémentaires si elle touche. Que vous touchiez ou non, votre vitesse augmente de 9 mètres jusqu'à la fin de ce tour.  
+
+#### Frappe piégeuse
+
+niveau 1 - invocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+La prochaine fois que vous touchez une créature avec une attaque avec une arme avant que ce sort ne prenne fin, une masse tortueuse de lianes épineuses apparaît au point d'impact, et la cible doit réussir un jet de sauvegarde de Force sous peine d'être entravée par ces lianes magiques jusqu'à ce que le sort prenne fin. Une créature de taille G ou supérieure a un avantage à son jet de sauvegarde. Si la cible réussit son jet de sauvegarde, les lianes se flétrissent et tombent.  
+Tant qu'elle est entravée par ce sort, la cible subit 1d6 dégâts perforants au début de chacun de ses tours. Une créature entravée par ces lianes, ou une autre créature capable de la toucher, peut utiliser son action pour effectuer un jet de Force contre le DD de sauvegarde de votre sort. En cas de réussite, la cible est libérée.  
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
+\page
+#### Frayeur
+
+niveau 1 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous éveillez le sens de la mortalité chez une créature que vous pouvez voir à portée. Les morts-vivants et les artificiels sont immunisés contre cet effet. La cible doit réussir un jet de sauvegarde de Sagesse ou être effrayée jusqu'à ce que le sort se termine. La cible effrayée peut répéter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet sur elle-même en cas de réussite.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
+
+#### Graisse
+
+niveau 1 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (une noix de beurre ou un peu de couenne de porc)
+
+**Durée** : 1 minute
+
+Une graisse visqueuse recouvre le sol sur un carré de 3 mètres de côté centré sur un point à portée, transformant cette zone en terrain difficile.  
+Lorsque la graisse apparaît, chaque créature se tenant debout dans la zone doit réussir un jet de sauvegarde de Dextérité sous peine de tomber à terre. Une créature qui entre dans la zone ou y termine son tour doit également réussir un jet de sauvegarde de Dextérité si elle ne veut pas tomber à terre.  
+
+#### Grande foulée
+
+niveau 1 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une pincée de terre)
+
+**Durée** : 1 heure
+
+Vous touchez une créature. La vitesse de la cible augmente de 3 mètres jusqu'à la fin du sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
 \column
+#### Grêle d'épines
+
+niveau 1 - invocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+La prochaine fois que vous touchez une créature lors d'une attaque à distance avec une arme avant que le sort ne prenne fin, ce sort crée une pluie d'épines qui jaillissent de votre arme à distance ou de la munition. En plus de l'effet normal de l'attaque, la cible de l'attaque et toutes les créatures à 1,50 mètre ou moins d'elle doivent effectuer un jet de sauvegarde de Dextérité, subissant 1d10 dégâts perforants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 1 (jusqu'à un maximum de 6d10).  
+
+#### Héroïsme
+
+niveau 1 - enchantement - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Une créature consentante que vous touchez est submergée par le courage. Jusqu'à la fin du sort, la créature est immunisée contre l'état effrayé et gagne un nombre de points de vie temporaires égal au modificateur de votre caractéristique d'incantation, et ce au début de chacun de ses tours. Lorsque le sort prend fin, la cible perd tous les points de vie temporaires qu'il lui restait et qui lui avaient été conférés par ce sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1.  
+\page
+#### Identification
+
+niveau 1 - divination (rituel)
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une perle d'une valeur d'au moins 100 po et une plume de hibou)
+
+**Durée** : instantanée
+
+Vous choisissez un objet que vous devez toucher durant toute la durée du sort. Si l'objet est magique ou imprégné de magie, vous apprenez ses propriétés et comment les utiliser, s'il requiert un lien pour être utilisé et le nombre de charges qu'il contient, le cas échéant. Vous apprenez si des sorts affectent l'objet et quels sont ces sorts. Si l'objet a été créé par un ou plusieurs sorts, vous apprenez quels sorts ont permis de le créer.  
+Si vous touchez une créature durant toute la durée du sort, au lieu d'un objet, vous apprenez quels sorts l'affectent actuellement, le cas échéant.  
+
+#### Image silencieuse
+
+niveau 1 - illusion - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un peu de laine de mouton)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous créez l'image d'un objet, d'une créature ou d'un autre phénomène visible dont les dimensions n'excèdent pas un cube de 4,50 mètres d'arête. L'image apparaît à un endroit choisi à l'intérieur de la portée du sort et perdure pendant toute la durée du sort. L'image est purement visuelle ; ce qui implique qu'elle n'est pas accompagnée par un son, une odeur ou d'autres effets sensoriels.  
+Vous pouvez utiliser votre action pour déplacer l'image à n'importe quel endroit dans la portée du sort. Comme l'image change de lieu, vous pouvez modifier son apparence afin que ses mouvements apparaissent fluides et naturels dans l'image. Par exemple, si vous créez l'image d'une créature et vous la déplacez, vous pouvez modifier l'image de sorte que la créature semble réellement marcher.  
+Une interaction physique avec l'image révèle qu'il s'agit d'une illusion, parce que les choses peuvent passer au travers. Une créature qui utilise son action pour examiner l'image peut déterminer qu'il s'agit en fait d'une illusion en réussissant un jet d'Intelligence (Investigation) contre votre DD du jet de sauvegarde de ce sort. Si une créature voit l'illusion pour ce qu'elle est, la créature peut voir à travers l'image.  
+\column
+#### Injonction
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : 1 round
+
+Vous donnez un ordre d'un mot à une créature dans la portée du sort et que vous pouvez voir. La cible doit réussir un jet de sauvegarde de Sagesse ou suivre l'ordre lors de son prochain tour. Le sort n'a aucun effet si la cible est un mort-vivant, si elle ne comprend pas la langue, ou si votre ordre est directement nocif pour elle.  
+Des injonctions typiques et leurs effets suivent. Vous pouvez émettre un ordre autre que ceux décrits ici. Si vous le faites, le MD détermine comment la cible se comporte. Si la cible est empêchée de suivre votre ordre, le sort prend fin.  
+**_Approche_**. La cible se déplace vers vous par le chemin le plus court et le plus direct, terminant son tour si elle arrive à 1,50 mètre ou moins de vous.  
+**_Lâche_**. La cible lâche tout ce qu'elle tient et termine alors à son tour.  
+**_Fuis_**. La cible s'éloigne de vous le plus rapidement possible.  
+**_Tombe_**. La cible tombe au sol et termine alors à son tour.  
+**_Halte_**. La cible ne bouge plus et n'entreprend aucune action.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez affecter une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1. Les créatures que vous ciblez doivent toutes être dans un rayon de 9 mètres.  
+
+#### Lien avec une bête
+
+niveau 1 - divination
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (un morceau de fourrure enveloppé dans un linge)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous établissez un lien télépathique avec une bête que vous touchez, qui est amicale ou que vous avez charmée. Le sort échoue si l'Intelligence de la bête est de 4 ou plus. Jusqu'à la fin du sort, le lien est actif tant que vous et la bête êtes à portée de vue. Via le lien, la bête peut comprendre vos messages télépathiques, et elle peut communiquer par télépathie ses émotions et des concepts simples en retour. Tant que le lien est actif, la bête à un avantage à ses jets attaque contre toute créature à 1,50 mètre de vous et que vous pouvez voir.  
+\page
+#### Lueurs féeriques
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Tous les objets à l'intérieur d'un cube de 6 mètres d'arête dans la portée du sort se distinguent par un halo bleu, vert ou violet (à votre choix). Toutes les créatures présentes dans la zone lors de l'incantation du sort sont également enveloppées du halo si elles échouent à un jet de sauvegarde de Dextérité. Pour la durée du sort, les objets et les créatures affectées émettent une lumière faible dans un rayon de 3 mètres.  
+Les jets d'attaque contre des créatures affectées ou des objets bénéficient d'un avantage si l'attaquant peut les voir. Les créatures affectées ou les objets ne peuvent bénéficier de l'état invisible.  
+
+#### Mains brûlantes
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (cône de 4,50 mètres)
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+En tendant vos mains, les pouces en contact et les doigts écartés, un mince rideau de flammes gicle du bout de tous vos doigts tendus. Toute créature se trouvant dans le cône de 4,50 mètres doit effectuer un jet de sauvegarde de Dextérité. La créature subit 3d6 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le feu embrase tous les objets inflammables qui se trouvent dans la zone d'effet et qui ne sont pas tenus ou portés.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Maléfice
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (l'œil pétrifié d'un triton)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous placez une malédiction sur une créature à portée que vous pouvez voir. Jusqu'à la fin du sort vous infligez 1d6 dégâts nécrotiques supplémentaires à la cible à chaque fois que vous la touchez lors d'une attaque. De plus, choisissez une caractéristique lorsque vous lancez le sort. La cible obtient un désavantage aux jets de caractéristique effectués avec la caractéristique en question.  
+Si la cible tombe à 0 point de vie avant que le sort ne se termine, vous pouvez utiliser votre action bonus lors d'un tour suivant pour maudire une nouvelle créature.  
+Une _[délivrance des malédictions](https://www.aidedd.org/dnd/sorts.php?vf=delivrance-des-maledictions)_ lancée sur la cible met fin au sort prématurément.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, vous pouvez maintenir votre concentration sur ce sort pendant 8 heures. Si vous utilisez un emplacement de sort de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur ce sort pendant 24 heures.  
+
+#### Marque du chasseur
+
+niveau 1 - divination
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 27 mètres
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous choisissez une créature que vous pouvez voir et à portée, et la marquez magiquement comme étant votre cible. Jusqu'à ce que le sort prenne fin, vous infligez 1d6 dégâts supplémentaires à la cible lorsque vous la touchez lors d'une attaque avec une arme, et vous avez un avantage à tous vos jets de Sagesse (Perception) ou Sagesse (Survie) effectués pour la trouver. Si la cible tombe à 0 point de vie avant que le sort ne prenne fin, vous pouvez utiliser votre action bonus lors de l'un de vos tours suivants pour marquer une nouvelle créature.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, vous pouvez maintenir votre concentration sur ce sort pendant 8 heures maximum. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur ce sort pendant 24 heures maximum.  
+
+#### Mixture caustique de Tasha
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (ligne de 9 mètres)
+
+**Composantes** : V, S, M (un peu de nourriture pourrie)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Un flux d'acide formant une ligne d'une longueur de 9 mètres et d'une largeur de 1,50 mètre jaillit de vous dans la direction de votre choix. Chaque créature sur la ligne doit réussir un jet de sauvegarde de Dextérité ou se retrouver recouverte d'acide pour la durée du sort ou jusqu'à ce qu'une créature utilise son action pour essuyer l'acide sur elle-même ou sur une autre créature. La créature recouverte d'acide subit 2d4 dégâts acide au début de chacun de ses tours.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts infligés augmentent de 2d4 pour chaque niveau d'emplacement au-delà du niveau 1.  
+\page
+#### Mot de guérison
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Une créature visible de votre choix récupère des points de vie à hauteur de 1d4 + le modificateur de votre caractéristique d'incantation. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les points de vie récupérés augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Murmures dissonants
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Vous murmurez une mélodie discordante qui ne peut être entendue que par une créature de votre choix à portée, la tourmentant terriblement. La cible doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, elle subit 3d6 dégâts psychiques et doit immédiatement utiliser sa réaction, si elle est encore disponible, pour s'éloigner de vous aussi loin que sa vitesse le lui permet. La créature ne se déplace pas vers des sols manifestement dangereux, comme des flammes ou un gouffre. En cas de réussite, la cible subit la moitié de ces dégâts et n'est pas contrainte de se déplacer. Une créature assourdie réussit automatiquement son jet de sauvegarde.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Nappe de brouillard
+
+niveau 1 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un point dans la portée du sort. La sphère s'étend au-delà des coins et la visibilité dans la zone est nulle. Elle persiste pour la durée du sort ou jusqu'à ce qu'un vent de force modérée ou plus (au moins 15 km/h) la dissipe.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le rayon de la sphère augmente de 6 mètres pour chaque niveau d'emplacement au-delà du niveau 1.  
+\column
+#### Orbe chromatique
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (un diamant valant au moins 50 po)
+
+**Durée** : instantanée
+
+Vous projetez une sphère d'énergie de 10 cm de diamètre vers une créature que vous pouvez voir dans la portée du sort. Vous choisissez acide, foudre, feu, froid, poison ou tonnerre comme type d'orbe que vous créez. Vous faites ensuite une attaque à distance avec un sort contre la cible. Si l'attaque touche, la créature subit 3d8 dégâts du type préalablement déterminé.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
 #### Poigne mentale
-*niveau 1*
+niveau 1 - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 3 * m/t du joueur
 **Components:**   :: M 
 **Duration:**     :: 1min
 
-Maintient un objet ou une créature (taille P) immobile, comme un mini-_immobilisation_.
+Maintient un objet ou une créature (taille P) immobile, la créature doit réussir un jet de force pour ce libérer, comme un mini-_immobilisation_.
 **Aux niveaux supérieur** ::Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 (taille M), sort de niveau 6 (G), sort de niveau 8 (taille TG)
 
-*Psyker*
-
 #### Poussée coordonnée
-*niveau 1*
+niveau 1 - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 2 * m/t du joueur 
 **Components:**   :: S
 **Duration:**     :: -
 
-Tu aides un allié en lui donnant avantage sur un test de force/dex.
+Aides un allié en lui donnant avantage sur un test de force/dex.
+\page
+#### Projectile élémentaire
 
-*Psyker*
+niveau 1 - évocation
 
+**Temps d'incantation** : 1 action
 
+**Portée** : 27 m
+
+**Composantes** : V, S, M (une pierre précieuse d'une valeur d'au moins 50 po correspondant au type élémentaire du projectile que vous voulez lancer : un diamant pour l'air, un saphir pour l'eau, un rubis pour le feu, un jais pour la terre)
+
+**Durée** : instantanée
+
+Vous créez un projectile d'énergie magique élémentaire et le lancez vers une créature dans la portée du sort. Faites une attaque à distance avec un sort contre la cible.  
+**Air**. Le projectile est constitué d'électricité. Une créature touchée par ce missile subit 2d8 dégâts de foudre et doit réussir un jet de sauvegarde de Sagesse ou être aveuglée jusqu'à la fin de son prochain tour.  
+**Eau**. Le projectile est constitué de glace. Une créature touchée par ce missile subit 2d8 dégâts de froid et doit réussir un jet de sauvegarde de Constitution ou voir sa vitesse réduite de moitié et avoir un désavantage à ses attaques jusqu'à la fin de son prochain tour.  
+**Feu**. Le projectile est constitué de magma. Une créature touchée par ce missile subit 2d8 dégâts de feu et doit réussir un jet de sauvegarde de Dextérité ou prendre feu et subir 1d4 dégâts de feu au début de chacun de ses tours pendant un nombre de tours égal à votre bonus de caractéristique magique de lanceur de sorts. Une créature peut mettre fin à ces dégâts en utilisant son action pour éteindre les flammes.  
+**Terre**. Le projectile est constitué d'une substance verdâtre liquide et corrosive. Une créature touchée par ce missile subit 2d8 dégâts d'acide et toutes les autres créatures dans un rayon de 1,50 mètre autour de la cible doivent réussir un jet de sauvegarde de Dextérité ou subir la moitié de ces dégâts.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Projectile magique
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous créez trois fléchettes de force magique d'un bleu lumineux. Chaque fléchette atteint une créature de votre choix que vous pouvez voir et dans la limite de portée du sort. Chaque projectile inflige 1d4 + 1 dégâts de force à sa cible. Les fléchettes frappent simultanément, et peuvent frapper une ou plusieurs créatures.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, il crée une fléchette additionnelle pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Protection contre le mal et le bien
+
+niveau 1 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (de l'eau bénite ou de la poudre d'argent et de fer, que le sort consomme)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Jusqu'à ce que le sort prenne fin, une créature consentante que vous touchez est protégée contre certains types de créatures : les aberrations, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants.  
+La protection confère un certain nombre de bénéfices. Les créatures de ces types ont un désavantage à leurs jets d'attaque effectués contre la cible. De plus, elles ne peuvent ni effrayer, ni charmer, ni posséder la cible. Si la cible est déjà charmée, effrayée, ou possédée par une telle créature, la cible a un avantage à tout nouveau jet de sauvegarde qu'elle effectuerait contre l'effet en question.  
+
+#### Purification de nourriture et d'eau
+
+niveau 1 - transmutation (rituel) - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 3 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Toute la nourriture et toutes les boissons, non magiques, se trouvant dans une sphère de 1,50 mètre de rayon, et centrée sur un point de votre choix à portée, sont purifiées et débarrassées de tout poison et de toute maladie.  
+
+#### Rayon empoisonné
+
+niveau 1 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Un rayon d'énergie verdâtre et contagieuse est envoyé en direction d'une créature à portée. Effectuez une attaque à distance avec un sort contre la cible. Si le coup touche, la cible subit 2d8 dégâts de poison et doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, la cible est empoisonnée jusqu'à la fin de votre prochain tour.  
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
+\page
+#### Repli expéditif
+
+niveau 1 - transmutation - combinable
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Ce sort vous permet de vous déplacer à une vitesse incroyable. Lorsque vous lancez ce sort, puis par une action bonus à chacun de vos tours jusqu'à la fin du sort, vous pouvez effectuer l'action Foncer.  
+
+#### Représailles infernales
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 réaction, que vous prenez après avoir subi des dégâts par une créature située à 18 mètres maximum de vous et que vous pouvez voir.
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous pointez votre doigt, et la créature qui vous a infligé des dégâts est momentanément entourée de flammes infernales. La créature doit effectuer un jet de sauvegarde de Dextérité, subissant 2d10 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts sont augmentés de 1d10 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Sanctuaire
+
+niveau 1 - abjuration
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (un petit miroir en argent)
+
+**Durée** : 1 minute
+
+Vous protégez une créature dans la portée du sort contre les attaques. Jusqu'à ce que le sort se termine, toute créature qui cible la créature protégée avec une attaque ou un sort offensif doit d'abord effectuer un jet de sauvegarde de Sagesse. En cas d'échec, la créature doit choisir une nouvelle cible ou perdre son attaque ou son sort. Ce sort ne protège pas la créature protégée contre les sorts à zone d'effet, tel que l'explosion d'une boule de feu.  
+Si la créature protégée fait une attaque, lance un sort qui affecte une créature ennemie ou inflige des dégâts à une autre créature, ce sort se termine.  
+
+#### Saut
+
+niveau 1 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (la patte postérieure d'une sauterelle)
+
+**Durée** : 1 minute
+
+Vous touchez une créature. La distance de saut de la créature est triplée pour la durée du sort.  
+
+#### Secousse sismique
+
+niveau 1 - évocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 3 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous causez un tremblement dans le sol à portée. Chaque créature autre que vous-même dans cette zone doit faire un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit 1d6 dégâts contondants et se retrouve à terre. Si le sol dans cette zone est de la terre meuble ou de la pierre, il devient un terrain difficile jusqu'à qu'il soit déblayé, et chaque portion de la zone de 1,50 mètre de diamètre nécessite au moins 1 minute pour être nettoyée à la main.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Serviteur invisible
+
+niveau 1 - invocation (rituel)
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un morceau de ficelle et un bout de bois)
+
+**Durée** : 1 heure
+
+Ce sort crée une force invisible, sans volonté propre, informe mais de taille M, qui exécute les ordres simples que vous lui transmettez, jusqu'à la fin du sort. Le serviteur prend vie dans un espace inoccupé sur le sol et à portée. Il possède les caractéristiques suivantes : CA 10 ; 1 point de vie ; Force 2 ; ne peut pas attaquer. Le sort se termine si le serviteur tombe à 0 point de vie.  
+Une fois par tour, par une action bonus, vous pouvez mentalement ordonner au serviteur de se déplacer de 4,50 mètres et d'interagir avec un objet. Le serviteur peut exécuter des tâches simples comme un serviteur humain le ferait, comme rapporter quelque chose, nettoyer, raccommoder, plier des vêtements, entretenir un feu, servir à manger, et verser du vin. Une fois votre ordre donné, le serviteur cherche à l'exécuter du mieux qu'il peut jusqu'à ce que la tâche soit accomplie, puis il attend votre ordre suivant.  
+Si vous demandez à votre serviteur d'effectuer une tâche qui devrait l'envoyer à plus de 18 mètres de vous, le sort prend fin.  
+\page
+#### Simulacre de vie
+
+niveau 1 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une petite quantité d'alcool ou de spiritueux)
+
+**Durée** : 1 heure
+
+Vous vous protégez avec un semblant nécromantique de vie. Vous gagnez 1d4 + 4 points de vie temporaires pour la durée du sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous gagnez 5 points de vie temporaires supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Soins
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Une créature que vous touchez récupère un nombre de points de vie égal à 1d8 + le modificateur de votre caractéristique d'incantation. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, la quantité de points de vie récupérés est augmentée de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Sommeil
+
+niveau 1 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (une pincée de sable fin, de pétales de rose ou un grillon)
+
+**Durée** : 1 minute
+
+Ce sort expédie les créatures dans un sommeil magique. Lancez 5d8 ; le total est le nombre de points de vie des créatures que ce sort peut affecter. Les créatures à 6 mètres ou moins du point que vous choisissez dans la portée du sort sont affectées par ordre croissant de leurs points de vie actuels (en ignorant les créatures inconscientes).  
+En commençant par la créature qui a le plus faible nombre de points de vie actuel, chaque créature affectée par ce sort tombe inconsciente jusqu'à ce que le sort se termine, que la créature endormie prenne des dégâts ou que quelqu'un utilise une action pour secouer ou frapper la créature endormie pour la réveiller. Soustrayez les points de vie de chaque créature du total permis par le sort avant de passer à la prochaine créature avec le plus faible nombre de points de vie. Le nombre de points de vie actuels d'une créature doit être égal ou inférieur au total restant permis par le sort pour que cette créature soit affectée.  
+Les morts-vivants et les créatures immunisées contre les effets de charme ne sont pas affectés par ce sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, lancez 2d8 supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Tentacules de Hadar
+
+niveau 1 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (rayon de 3 mètres)
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous invoquez le pouvoir de Hadar, la Sombre Famine.   
+Des sarments d'énergie noire jaillissent de vous et frappent toutes les créatures se trouvant à 3 mètres ou moins de vous. Toute créature dans cette zone doit effectuer un jet de sauvegarde de Force. En cas d'échec, la cible subit 2d6 dégâts nécrotiques et ne peut pas utiliser de réaction jusqu'à son prochain tour. En cas de réussite, la cible subit la moitié de ces dégâts et ne souffre pas d'effets supplémentaires.   
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Texte illusoire
+
+niveau 1 - illusion (rituel) - combinable
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : contact
+
+**Composantes** : S, M (une encre à base de plomb d'une valeur d'au moins 10 po, que le sort consomme)
+
+**Durée** : 10 jours
+
+Vous écrivez sur un parchemin, du papier, ou tout autre matériau adapté à l'écriture, et l'imprégnez d'une puissante illusion qui reste en place pour toute la durée du sort.  
+Pour vous et pour toute créature que vous avez désignée lorsque vous avez lancé ce sort, l'écriture apparaît normalement, tracée de votre main, et transmet ce que vous souhaitiez communiquer lorsque vous avez lancé ce sort. Pour toutes les autres créatures, les écritures semblent être rédigées dans un dialecte inconnu ou magique, ce qui les rend inintelligibles. Vous pouvez sinon faire en sorte que les écritures transmettent un tout autre message, écrit d'une autre main et dans un autre langage, à condition que ce soit un langage que vous connaissiez.  
+Dans le cas où le sort serait dissipé, le texte original et l'illusion disparaissent tous les deux.  
+Une créature qui possède la vision véritable peut lire le message caché.  
+\page
 #### Tir Réfléchi
-*niveau 1*
+niveau 1
 
 **Casting Time:** :: 1 action
 **Range:**        :: 6m
@@ -1810,33 +3617,712 @@ Tu aides un allié en lui donnant avantage sur un test de force/dex.
 
 Tu utilises ton pouvoir pour dévier un projectile (balle, flèche, objet lancé).
 Fais un jet de réaction télékinétique (d20 + mod. CHA). Si ton résultat dépasse l’attaque de ton adversaire, tu dévies le projectile.
-
 Sur un succès supérieur de 5 ou plus, tu peux renvoyer la balle vers une cible à 6 m (attaque de sort, 1d8 dégâts de force).
 
-*Psyker*
+#### Trait ensorcelé
 
-{{pageNumber $[HB_pageNumber]}}
+niveau 1 - évocation
 
-{{footnote Les Sorts : niveau 1 }}
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (la branche d'un arbre qui a été frappé par la foudre)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Un rayon d'énergie bleu crépitante est projeté sur une créature à portée, formant un arc électrique continu entre la cible et vous. Effectuez une attaque à distance avec un sort contre la créature. Si vous touchez, la cible subit 1d12 dégâts de foudre, et à chacun de vos tours, pour la durée du sort, vous pouvez utiliser votre action pour infliger automatiquement 1d12 dégâts de foudre à la cible. Le sort se termine si vous utilisez votre action pour faire autre chose qu'infliger ces dégâts de foudre, si la cible se retrouve hors de la portée du sort, ou si elle obtient un abri total contre vous.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts initiaux sont augmentés de 1d12 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Vague tonnante
+
+niveau 1 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (cube de 4,50 mètres d'arête)
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Une vague de force de tonnerre émane de vous. Toute créature se trouvant dans un cube de 4,50 mètres d'arête prenant origine à partir de vous-même doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, la créature subit 2d8 dégâts de tonnerre et est repoussée de 3 mètres de vous. En cas de réussite, elle subit la moitié de ces dégâts et n'est pas repoussée.  
+En outre, les objets non fixés qui se trouvent entièrement dans la zone d'effet sont automatiquement repoussés de 3 mètres par l'effet du sort, et le sort émet un coup de tonnerre audible jusqu'à 90 mètres.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+#### Vents contraires
+
+niveau 1 - évocation - combinable
+
+**Temps d'incantation** : 1 réaction
+
+**Portée** : 1,50 m
+
+**Composantes** : V, S
+
+**Durée** : instantané
+
+En réaction à une créature qui entre dans la portée du sort et avant que celle-ci n'attaque, vous pouvez la forcer à faire un jet de sauvegarde de Force. En cas d'échec, une puissante rafale de vent s'échappant de votre main la fait reculer de 1,50 mètre et la cible tombe à terre. Le recul ne provoque aucune attaque d'opportunité. Les créatures de taille G ont un avantage au jet de sauvegarde et les créatures de taille TG ou supérieure réussissent automatiquement ce jet. La créature peut se relever (cela coûte la moitié de sa vitesse), continuer à se déplacer et agir normalement après avoir été repoussée.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, la créature est repoussée de 1,50 mètre supplémentaire chaque niveau d'emplacement au-delà du niveau 1.
+
 \page
-## Niveau 2
 
+## niveau 2
 
+#### Agrandissement/Rapetissement
 
-{{pageNumber $[HB_pageNumber]}}
+niveau 2 - transmutation - combinable
 
-{{footnote Les Sorts : niveau 2}}
+**Temps d'incantation** : 1 action
 
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (une pincée de poudre de fer)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous agrandissez ou réduisez en taille une créature ou un objet que vous pouvez voir et qui est à portée pour la durée du sort. Choisissez une créature ou un objet qui n'est pas porté ou transporté. Si la cible n'est pas consentante, elle peut effectuer un jet de sauvegarde de Constitution. En cas de réussite, le sort n'a aucun effet.  
+Si la cible est une créature, toutes les choses qu'elle porte et transporte changent de taille avec elle. Tout objet lâché par la créature affectée reprend sa taille normale.  
+**Agrandissement**. La cible double dans toutes les dimensions, et son poids est multiplié par huit. Cela augmente sa taille d'une catégorie, de M à G par exemple. S'il n'y a pas assez de place dans la pièce pour que la cible double de taille, la créature ou l'objet atteint la taille maximale possible dans l'espace disponible. Jusqu'à la fin du sort, la cible a aussi un avantage à ses jets de Force et ses jets de sauvegarde de Force. Les armes de la cible grandissent également. Tant que ces armes sont agrandies, les attaques de la cible occasionnent 1d4 dégâts supplémentaires.  
+**Rapetissement**. La taille de la cible est diminuée de moitié dans toutes les dimensions, et son poids est divisé par huit. Cette réduction diminue sa taille d'une catégorie, de M à P par exemple. Jusqu'à la fin du sort, la cible a un désavantage à ses jets de Force et à ses jets de sauvegarde de Force. Les armes de la cible rapetissent aussi. Tant que ces armes sont réduites, les attaques de la cible occasionnent 1d4 dégâts en moins (minimum 1 point de dégâts).  
+
+#### Aide
+
+niveau 2 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (un petit bout de vêtement blanc)
+
+**Durée** : 8 heures
+
+Votre sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie et les points de vie actuels de chaque cible augmentent de 5 pour la durée du sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les points de vie de chaque cible augmentent de 5 pour chaque niveau d'emplacement au-delà du niveau 2.  
+\column
+#### Amélioration de caractéristique
+
+niveau 2 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (le poil ou la plume d'une bête)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous touchez une créature et lui accordez une amélioration magique. Choisissez l'un des effets suivants ; la cible gagne cet effet jusqu'à ce que le sort prenne fin.  
+**Force du taureau**. La cible a un avantage à ses jets de Force, et sa capacité de charge double.  
+**Grâce féline**. La cible a un avantage à ses jets de Dextérité. De plus, elle ne subit aucun dégât lorsqu'elle chute de 6 mètres ou moins et qu'elle n'est pas incapable d'agir.  
+**Endurance de l'ours**. La cible a un avantage à ses jets de Constitution. Elle gagne également 2d6 points de vie temporaires, qui sont perdus lorsque le sort prend fin.  
+**Ruse du renard**. La cible a un avantage à ses jets d'Intelligence.  
+**Sagesse du hibou**. La cible a un avantage à ses jets de Sagesse.  
+**Splendeur de l'aigle**. La cible a un avantage à ses jets de Charisme.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Apaisement des émotions
+
+niveau 2 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous tentez de supprimer les émotions fortes dans un groupe de personnes. Chaque humanoïde dans une sphère de 6 mètres de rayon centrée sur un point choisi dans la portée du sort doit effectuer un jet de sauvegarde de Charisme. Une créature peut choisir de rater volontairement son jet de sauvegarde. En cas d'échec au jet de sauvegarde, choisissez l'un des deux effets suivants.  
+Vous pouvez supprimer tous les effets qui font qu'une cible est charmée ou effrayée. Lorsque ce sort prend fin, les effets supprimés reviennent, en présumant que leur durée n'a pas expiré entre temps.  
+Ou vous pouvez rendre une cible indifférente à des créatures envers qui elle montre des signes d'hostilité. Cette indifférence prend fin lorsque la cible est attaquée ou blessée par un sort ou lorsqu'elle est témoin d'une attaque envers un de ses alliés. Lorsque le sort prend fin, la créature redevient hostile, à moins que le MD en décide autrement.  
+\page
+#### Appel de destrier
+
+niveau 2 - invocation
+
+**Temps d'incantation** : 10 minutes
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous invoquez un esprit qui se matérialise sous la forme d'un destrier loyal, fort et remarquablement intelligent, créant un lien durable avec lui. Apparaissant dans un espace inoccupé à portée, le destrier prend la forme que vous voulez : un [cheval de guerre](https://www.aidedd.org/dnd/monstres.php?vf=cheval-de-guerre), un [poney](https://www.aidedd.org/dnd/monstres.php?vf=poney), un [chameau](https://www.aidedd.org/dnd/monstres.php?vf=chameau), un [élan](https://www.aidedd.org/dnd/monstres.php?vf=elan) ou un [molosse](https://www.aidedd.org/dnd/monstres.php?vf=molosse) (votre MD peut autoriser l'invocation d'autres bêtes en tant que destriers). Le destrier a les statistiques de la forme choisie, mais son type est soit céleste, soit fée, soit fiélon (au choix) à la place de son type normal. De plus, si votre destrier a une Intelligence de 5 ou moins, son Intelligence passe à 6 et il gagne la capacité de comprendre l'une des langues que vous parlez (au choix).  
+Votre destrier vous sert de monture, en combat ou non, et le lien qui vous unit vous permet de combattre comme un seul homme. Lorsque vous montez votre destrier et que vous lancez un sort qui vous cible, vous pouvez faire en sorte qu'il cible également votre destrier.  
+Lorsque votre destrier tombe à 0 point de vie, il disparaît, ne laissant aucune forme physique. Vous pouvez également choisir de renvoyer votre destrier à tout moment en utilisant votre action. Il disparaît alors. Dans tous les cas, lancer de nouveau ce sort invoque le même destrier avec son maximum de points de vie.  
+Tant que votre destrier se trouve à 1,5 km ou moins de vous, vous pouvez communiquer entre vous par télépathie.  
+Vous ne pouvez avoir plus d'un destrier lié grâce à ce sort en même temps. Par une action, vous pouvez libérer votre destrier du lien qui vous unit, et ce à n'importe quel moment. Le destrier disparaît alors.  
+
+#### Arme magique
+
+niveau 2 - transmutation - combinable
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous touchez une arme non magique. Jusqu'à la fin du sort, l'arme est considérée comme étant une arme magique avec un bonus de +1 aux jets d'attaque et aux dégâts.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le bonus augmente à +2. Lorsque vous utilisez un emplacement de sort de niveau 6 ou supérieur, le bonus augmente à +3.  
+\column
+#### Arme spirituelle
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : 1 minute
+
+Vous créez une arme spectrale qui flotte dans l'air, dans la portée et pour la durée du sort ou jusqu'à ce que vous incantiez ce sort à nouveau. Lorsque vous lancez ce sort, vous pouvez effectuer une attaque au corps à corps avec un sort contre une créature à 1,50 mètre ou moins de l'arme. Une attaque réussie inflige des dégâts de force équivalents à 1d8 + le modificateur de votre caractéristique d'incantation.  
+En tant qu'action bonus lors de votre tour, vous pouvez déplacer l'arme jusqu'à 6 mètres et réitérer l'attaque contre une créature à 1,50 mètre ou moins de l'arme.  
+L'arme peut prendre la forme de votre choix. Les clercs d'une divinité associée à une arme particulière (tel que Saint-Cuthbert connu pour sa masse d'armes ou Thor pour son marteau) peuvent faire en sorte que l'effet du sort prenne la forme de l'arme en question.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts infligés augmentent de 1d8 pour chaque niveau d'emplacement pair supérieur au niveau 2.  
+
+#### Attraction terrestre
+
+niveau 2 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 90 mètres
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Choisissez une créature que vous pouvez voir dans la portée. Des bandes jaunes d'énergie magique entourent la créature. La cible doit réussir un jet de sauvegarde de Force sous peine de voir sa vitesse de vol (le cas échéant) réduite à 0 mètre pour la durée du sort. Une créature volante affectée par ce sort descend à la vitesse de 18 mètres par round jusqu'à ce qu'elle atteigne le sol ou que le sort se termine.  
+\page
+#### Augure
+
+niveau 2 - divination (rituel)
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (jeu de bâtonnets ou d'osselets spécialement inscrits valant au moins 25 po)
+
+**Durée** : instantanée
+
+Que ce soit en jetant des bâtonnets incrustés de gemmes ou des osselets de dragon, en retournant des cartes ornées ou en usant d'autres outils divinatoires, vous recevez un présage de la part d'une entité surnaturelle à propos du résultat des actions que vous planifiez d'entreprendre au cours des 30 prochaines minutes. Le MD choisit de répondre à l'aide des présages suivants :  
+• Fortune : l'action a de bonnes chances d'être bénéfique.  
+• Péril : l'action aura des répercussions néfastes.  
+• Péril et fortune : les deux sont possibles.  
+• Rien : dans le cas où l'action ne devrait pas avoir de conséquences favorables ou néfastes.  
+Le sort ne considère pas les circonstances qui pourraient changer l'issue de la divination, comme l'incantation additionnelle de sorts ou la perte ou le gain d'un nouveau compagnon.  
+Si vous incantez le sort plus d'une fois avant la fin de votre prochain repos long, il y a une probabilité cumulative de 25 % de recevoir une réponse aléatoire, et ce, à chaque incantation après la première. Le MD fait ce jet en secret.  
+
+#### Aura magique de Nystul
+
+niveau 2 - illusion
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (un petit carré de soie)
+
+**Durée** : 24 heures
+
+Vous placez une illusion sur une créature ou un objet que vous touchez pour que les sorts de divination révèlent de fausses informations les concernant. La cible peut être une créature consentante ou un objet qui n'est pas tenu ou équipé par une autre créature.  
+Lorsque vous lancez le sort, choisissez l'un ou les deux effets suivants. L'effet reste en place pour la durée du sort. Si vous lancez ce sort sur la même créature ou le même objet tous les jours pendant 30 jours, en choisissant à chaque fois le même effet, l'illusion reste active jusqu'à ce que le sort soit dissipé.  
+**Fausse aura**. Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques, comme le sort _[détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)_, qui détectent les auras magiques. Vous pouvez faire en sorte qu'un objet non magique semble magique, et vice versa, ou modifier l'aura magique d'un objet pour qu'elle semble appartenir à une autre école de magie de votre choix. Lorsque vous utilisez cet effet sur un objet, vous pouvez faire en sorte que cette fausse aura soit visible pour toute créature qui tient l'objet en main.  
+**Masque**. Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques qui détectent le type d'une créature, comme le Sens divin du paladin ou le déclencheur du sort _[symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole)_. Vous choisissez un type de créature, les autres sorts et effets magiques traitent la cible comme si elle était de ce type ou de cet alignement.  
+
+#### Bouche magique
+
+niveau 2 - illusion (rituel) - combinable
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (un rayon de miel et de la poussière de jade valant au moins 10 po, que le sort consomme)
+
+**Durée** : jusqu'à dissipation
+
+Vous implantez un message dans un objet dans la portée du sort. Le message est verbalisé lorsque les conditions de déclenchement sont remplies. Choisissez un objet que vous voyez et qui n'est pas porté ou transporté par une autre créature. Ensuite, prononcez le message, qui ne doit pas dépasser 25 mots mais dont l'écoute peut prendre jusqu'à 10 minutes. Finalement, établissez les circonstances qui déclencheront le sort pour livrer votre message.  
+Lorsque ces circonstances sont réunies, une bouche magique apparaît sur l'objet et elle articule le message en imitant votre voix, sur le même ton employé lors de l'implantation du message. Si l'objet choisi possède une bouche ou quelque chose qui s'en approche, comme la bouche d'une statue, la bouche magique s'animera à cet endroit, donnant l'illusion que les mots proviennent de la bouche de l'objet.  
+Lorsque vous lancez ce sort, vous pouvez décider que le sort prend fin une fois que le message est livré ou qu'il peut persister et répéter son message à chaque fois que les circonstances se produisent.  
+Les conditions de déclenchement peuvent être aussi génériques ou aussi précises que vous le souhaitez. Cependant, elles doivent être basées sur des critères visuels ou audibles perceptibles à 9 mètres ou moins de l'objet. Par exemple, vous pouvez commander à la bouche de parler lorsqu'une créature quelconque s'approche à 9 mètres ou moins de l'objet, ou lorsqu'on sonne une clochette d'argent à 9 mètres ou moins.  
+\page
+#### Bourrasque
+
+niveau 2 - évocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (ligne de 18 mètres)
+
+**Composantes** : V, S, M (une semence de légume)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Un corridor de vent fort long de 18 mètres et large de 3 mètres souffle de votre position vers une direction de votre choix, pour la durée du sort. Chaque créature qui débute son tour dans le corridor doit réussir un jet de sauvegarde de Force, sans quoi elle est poussée de 4,50 mètres dans l'axe du corridor.  
+Toute créature dans le corridor doit consommer 2 mètres de mouvement pour chaque mètre parcouru lorsqu'elle se rapproche de vous.  
+La bourrasque disperse les gaz et la vapeur, et elle éteint les bougies, les torches et les autres flammes exposées dans la zone. Elle fait vaciller les flammes protégées, comme celle d'une lanterne, qui ont alors 50 % de chance de s'éteindre.  
+Lors d'une action bonus à chacun de vos tours avant que le sort prenne fin, vous pouvez changer la direction du corridor de vent.  
+
+#### Cécité/Surdité
+
+niveau 2 - nécromancie - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V
+
+**Durée** : 1 minute
+
+Vous pouvez aveugler ou assourdir un ennemi. Choisissez une créature que vous pouvez voir dans la portée du sort. Celle-ci doit réussir un jet de sauvegarde de Constitution sans quoi elle est soit aveuglée, soit assourdie (selon votre choix) pour la durée du sort. À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution. En cas de réussite, le sort prend fin.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Champ de déviation
+*niveau 2* - combinable - réaction
+
+**Casting Time:** :: -
+**Range:**        :: 3m
+**Components:**   :: M 
+**Duration:**     :: -
+
+Dévies les projectiles et les attaques à distance, réduisant les dégâts de 2d8.
+\column
+#### Châtiment révélateur
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+La prochaine fois que vous touchez une créature lors d'une attaque avec une arme avant que le sort ne prenne fin, votre arme rayonne d'une lueur astrale au moment de l'impact. L'attaque inflige 2d6 dégâts radiants supplémentaires à la cible, qui devient visible si elle était invisible, et la cible émet une lumière faible dans un rayon de 1,50 mètre et ne peut devenir invisible tant que le sort persiste.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Convocation de bête
+
+niveau 2 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (une plume, une touffe de fourrure et une queue de poisson dans un gland doré d'une valeur d'au moins 200 po)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous appelez un esprit de bête. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Sa forme physique utilise les statistiques d'un [esprit de bête](https://www.aidedd.org/dnd/monstres.php?vf=esprit-de-bete). Lorsque vous lancez le sort, choisissez un environnement : air, terre ou eau. La créature ressemble à un animal de votre choix qui est natif de cet environnement, ce qui détermine certains traits de son bloc de statistique. La créature disparaît lorsque ses points de vie tombent à 0 ou lorsque le sort se termine.  
+La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
+\page
+#### Corde enchantée
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (de l'extrait de poudre de maïs et un bout de parchemin torsadé)
+
+**Durée** : 1 heure
+
+Vous touchez une longueur de corde de 18 mètres maximum. Une extrémité de la corde se dresse alors et monte dans les airs de sorte que toute la longueur de la corde soit verticale par rapport au sol. À l'extrémité supérieure de la corde, une entrée invisible vers un espace extradimensionnel s'ouvre et reste en place pour toute la durée du sort.  
+L'espace extradimensionnel peut être atteint en grimpant tout en haut de la corde. L'espace peut contenir jusqu'à huit créatures de taille M ou inférieure. La corde peut être tirée dans l'espace extradimensionnel, elle disparaît alors de la vue de ceux qui se trouvent à l'extérieur de l'espace extradimensionnel.  
+Les attaques et les sorts ne peuvent pas traverser l'entrée de l'espace extradimensionnel, qu'ils viennent de l'intérieur ou de l'extérieur, mais ceux qui se trouvent dans l'espace extradimensionnel peuvent voir à l'extérieur comme s'il y avait une fenêtre de 90 cm x 1,50 m centrée sur la corde.  
+Tout ce qui se trouve dans l'espace extradimensionnel en tombe lorsque le sort prend fin.  
+
+#### Cordon de flèches
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 1,50 mètre
+
+**Composantes** : V, S, M (quatre ou plus flèches ou carreaux)
+
+**Durée** : 8 heures
+
+Vous plantez quatre pièces de munition non magiques (flèches ou carreaux d'arbalète) dans le sol à portée et y apposez votre magie pour qu'elles protègent la zone. Jusqu'à la fin du sort, à chaque fois qu'une autre créature que vous arrive à 9 mètres ou moins des munitions, pour la première fois du tour, ou termine son tour dans ces 9 mètres, une pièce de munition s'envole pour la frapper. La créature doit réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts perforants. La pièce de munition est ensuite détruite. La sort se termine lorsqu'il ne reste plus de munition.  
+Lorsque vous lancez ce sort, vous pouvez désigner toutes les créatures que vous souhaitez pour que le sort les ignore.  
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, le nombre de munitions qui peuvent être affectées augmente de deux pour chaque niveau d'emplacement au-delà du niveau 2.  
+\column
+#### Couronne du dément
+
+niveau 2 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Un humanoïde de votre choix, que vous pouvez voir et à portée, doit réussir un jet de sauvegarde de Sagesse ou être charmé pour la durée du sort. Tant que vous charmez la cible par ce sort, une couronne entortillée de morceaux de fer déchiquetés apparaît sur sa tête, et la folie envahit son regard.  
+La cible charmée doit utiliser son action avant de se déplacer, à chacun de ses tours, pour effectuer une attaque au corps à corps contre une créature autre qu'elle-même et que vous avez mentalement choisie. La cible peut agir normalement au cours de son tour si vous ne choisissez aucune créature ou s'il n'y en a aucune à portée.  
+Lors de vos tours suivants, vous devez utiliser votre action pour maintenir le contrôle sur votre cible, sans quoi le sort prend fin. La cible peut également effectuer un jet de sauvegarde de Sagesse à la fin de chacun de ses tours. Si elle le réussit, le sort prend fin.  
+
+#### Croissance d'épines
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 45 mètres
+
+**Composantes** : V, S, M (sept épines pointues ou sept brindilles taillées en pointe)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Le sol, sur un rayon de 6 mètres centré sur un point dans la portée du sort, se retourne et fait germer des épines rigides et des ronces. La zone devient un terrain difficile pour la durée du sort. Lorsqu'une créature entre ou se déplace dans la zone, elle subit 2d4 dégâts perforants pour chaque 1,50 mètre de déplacement.  
+La transformation du sol est camouflée afin de paraître naturelle. Toute créature qui ne voit pas la zone lorsque le sort est incanté doit réussir un jet de Sagesse (Perception) contre le DD de sauvegarde de votre sort, sans quoi elle ne reconnait pas la nature dangereuse du terrain avant d'y pénétrer.  
+\page
+#### Déblocage
+
+niveau 2 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Choisissez un objet que vous pouvez voir dans la portée du sort. L'objet peut être une porte, une boîte, un coffre, des menottes, un cadenas, ou un autre objet qui contient des dispositifs conventionnels ou magiques qui empêchent l'accès.  
+Un objet cible qui est maintenu fermé par un verrou normal, ou qui est bloqué ou barré, devient déverrouillé ou débloqué. Si l'objet possède plusieurs verrous, seulement l'un d'entre eux est déverrouillé.  
+Si vous choisissez un objet cible qui est tenu fermé par un sort _[verrou magique](https://www.aidedd.org/dnd/sorts.php?vf=verrou-magique)_, ce sort est supprimé pendant 10 minutes, au cours desquelles l'objet cible peut être ouvert et fermé normalement. Quand vous lancez le sort, un coup fort et audible jusqu'à 90 mètres émane de l'objet cible.  
+
+#### Détection des pensées
+
+niveau 2 - divination
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une pièce de cuivre)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Pour la durée du sort, vous pouvez lire les pensées de certaines créatures. Lorsque vous incantez le sort et lors de votre action à chaque tour jusqu'à la fin du sort, vous pouvez concentrer votre esprit sur une créature que vous pouvez voir à 9 mètres ou moins de vous. Si la créature choisie possède une Intelligence de 3 ou moins, ou si elle ne parle aucun langage, la créature n'est pas affectée.  
+Vous lisez d'abord les pensées superficielles de la créature, ce qui occupe son esprit à cet instant. Lors d'une action, vous pouvez diriger votre attention sur les pensées d'une autre créature ou tenter d'approfondir votre lecture des pensées de la même créature. Si vous approfondissez votre lecture, la cible doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, vous obtenez l'accès à son raisonnement (le cas échéant), à son état émotif et à une pensée qui préoccupe son esprit sur un spectre plus large tel un souci, un amour ou une haine. En cas de réussite, le sort prend fin. Dans tous les cas, la cible est consciente que son esprit est sous votre regard. À moins que vous ne dirigiez votre attention sur les pensées d'une autre créature, la cible peut utiliser son action à son tour pour faire un jet d'Intelligence contre votre jet d'Intelligence. Si elle gagne l'opposition, le sort prend fin.  
+Les questions dirigées verbalement vers la cible orientent le fil de ses pensées. Ce sort est donc particulièrement efficace lors d'un interrogatoire.  
+Vous pouvez aussi employer ce sort pour détecter la présence de créatures pensantes qui vous sont invisibles. Lorsque vous lancez ce sort ou lors d'une action pendant la durée du sort, vous pouvez chercher des pensées à 9 mètres ou moins de vous. Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 60 cm de pierre, 5 cm de métal ordinaire, ou une mince feuille de plomb. Vous ne pouvez pas détecter une créature possédant une Intelligence de 3 ou moins ou ne parlant aucun langage.  
+Après avoir détecté la présence d'une créature de cette manière, vous pouvez lire ses pensées pour le reste de la durée du sort tel que décrit ci-dessus, même si vous ne pouvez plus la voir, mais à condition qu'elle reste dans la portée du sort.  
+
+#### Discours captivant
+
+niveau 2 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : 1 minute
+
+Vous entrelacez des phrases distrayantes, ce qui force les créatures de votre choix, que vous pouvez voir et qui peuvent vous entendre, à effectuer un jet de sauvegarde de Sagesse. Toute créature qui ne peut pas être charmée réussit automatiquement son jet de sauvegarde, et si vous ou vos compagnons combattez une créature, celle-ci a un avantage à son jet de sauvegarde. Si une cible échoue son jet de sauvegarde, elle se voit affligée d'un désavantage à ses jets de Sagesse (Perception) effectués pour repérer une autre créature que vous, et ce jusqu'à ce que le sort prenne fin ou jusqu'à ce qu'elle ne puisse plus vous entendre. Ce sort prend fin si vous êtes incapable d'agir ou ne pouvez plus parler.  
+
+#### Entraves de givre
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (cône de 9 mètres)
+
+**Composantes** : S, M (une fiole d'eau de fonte)
+
+**Durée** : instantanée
+
+Un éclat d'énergie givrée émane de vous dans un cône de 9 mètres. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, la créature subit 3d8 dégâts de froid et se retrouve entravée par une couche de glace durant 1 minute ou jusqu'à ce qu'elle ou une créature à portée utilise son action pour briser la glace. Une créature entravée par la glace voit sa vitesse réduite à 0. En cas de réussite, une créature ne subit que la moitié des dégâts et n'est pas entravée par la glace.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts infligés augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
+\page
+#### Épine mentale
+
+niveau 2 - divination
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous atteignez l'esprit d'une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Sagesse, subissant 3d8 dégâts psychiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite. En cas d'échec à la sauvegarde, vous connaissez toujours l'emplacement de la cible jusqu'à la fin du sort, mais seulement si vous êtes tous les deux sur le même plan d'existence. Tant que vous avez cette connaissance, la cible ne peut pas vous être cachée, et si elle est invisible, elle ne tire aucun avantage de cet état contre vous.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 [E] pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Espièglerie de Nathair
+
+niveau 2 - illusion - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : S, M (un morceau de croûte de tarte aux pommes)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous remplissez un cube de 6 mètres de côté à portée avec une magie féerique ou draconique. Lancez un d4 sur la table ci-dessous pour déterminer l'effet magique produit, et relancez le d4 au début de chacun de vos tours jusqu'à ce que le sort prenne fin. Vous pouvez déplacer le cube jusqu'à 3 mètres avant de faire le jet.  
+
+|d4|Effet|
+|---|---|
+|1|Une odeur de tarte aux pommes remplit l'air, et chaque créature dans le cube doit réussir un jet de sauvegarde de Sagesse ou se retrouver charmée par vous jusqu'au début de votre prochain tour.|
+|2|Des bouquets de fleurs apparaissent dans la zone et aspergent d'eau le visage des créatures présentes dans le cube. Chaque créature doit réussir un jet de sauvegarde de Dextérité ou être aveuglée jusqu'au début de votre prochain tour.|
+|3|Chaque créature dans le cube doit réussir un jet de sauvegarde de Sagesse ou commencer à ricaner de manière incontrôlable jusqu'au début de votre prochain tour. Une créature sous l'effet de ce rire est incapable d'agir et utilise tout son mouvement pour se déplacer dans une direction aléatoire.|
+|4|Des gouttes de mélasse apparaissent et recouvrent le sol dans le cube, le rendant un terrain difficile jusqu'au début de votre prochain tour.|
+
+\column
+
+#### Esprit guérisseur
+
+niveau 2 - invocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous appelez un esprit de la nature pour apaiser les blessés. L'esprit immatériel apparaît dans un espace qui est un cube de 1,50 mètre d'arête que vous pouvez voir à portée. L'esprit ressemble à une bête ou à une fée transparente (selon votre choix).  
+Jusqu'à la fin du sort, chaque fois que vous ou une créature que vous pouvez voir vous déplacez dans l'espace de l'esprit pour la première fois pendant un tour, ou si l'un ou l'autre commence leur tour dans cet espace, vous pouvez amener l'esprit à restaurer 1d6 points de vie à cette créature (aucune action n'est requise). L'esprit ne peut pas guérir les morts-vivants ou les artificiels. L'esprit peut soigner un nombre de fois égal à 1 + le modificateur de votre caractéristique d'incantation (minimum 2). Une fois la limite atteinte, l'esprit disparait [E].  
+Par une action bonus à votre tour, vous pouvez déplacer l'esprit jusqu'à 9 mètres vers un espace que vous pouvez voir.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les soins augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Flambée d'Aganazzar
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (une écaille de dragon rouge)
+
+**Durée** : instantanée
+
+Une ligne de flammes rugissantes de 9 mètres de long et 1,50 mètre de large émane de vous dans une direction que vous choisissez. Chaque créature dans la trajectoire doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
+\page
+#### Flamme éternelle
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (de la poussière de rubis valant 50 po, que le sort consomme)
+
+**Durée** : jusqu'à dissipation
+
+Une flamme, d'une luminosité équivalente à celle d'une torche, fait éruption depuis un objet que vous touchez. L'effet ressemble à une flamme régulière, mais il ne produit aucune chaleur et ne nécessite pas d'oxygène. Une flamme éternelle peut être recouverte ou dissimulée, mais elle ne peut pas être étouffée ou éteinte.  
+
+#### Flèche acide de Melf
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (une feuille de rhubarbe en poudre et un estomac de vipère)
+
+**Durée** : instantanée
+
+Une flèche verte scintillante jaillit en direction d'une cible à portée et l'asperge d'acide. Effectuez une attaque à distance avec un sort contre la cible. Si l'attaque touche, la cible subit 4d4 dégâts d'acide immédiatement et 2d4 dégâts d'acide à la fin de son prochain tour. En cas d'échec, la flèche asperge la cible avec de l'acide, ne lui infligeant que la moitié des dégâts initiaux et aucun dégât à la fin de son prochain tour.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts (initiaux et à retardement) sont augmentés de 1d4 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Flou
+
+niveau 2 - illusion - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Votre corps devient flou, changeant et ondulant pour tous ceux qui peuvent vous voir. Tant que le sort dure, toutes les créatures ont un désavantage au jet d'attaque dirigé contre vous. Un attaquant est immunisé contre cet effet s'il n'utilise pas la vue, comme avec le combat aveugle, ou s'il peut voir à travers les illusions, comme avec une vision véritable.  
+
+#### Force fantasmagorique
+
+niveau 2 - illusion - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un morceau de toison)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous façonnez une illusion qui s'enracine dans l'esprit d'une créature que vous pouvez voir dans la portée du sort. La cible doit réussir un jet de sauvegarde d'Intelligence sans quoi elle percevra comme réel un objet, une créature ou tout autre phénomène visible de votre conception, pas plus grand qu'un cube de 3 mètres d'arête, et ce pour la durée du sort. Le sort n'a pas d'effet sur les morts-vivants et les artificiels.  
+Le fantasme inclut les sons, la température et d'autres stimuli qui ne sont évidents que pour la créature.  
+La cible peut utiliser son action pour examiner le fantasme avec un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. En cas de réussite, la cible comprend que le fantasme n'est qu'une illusion et le sort prend fin.  
+Tant que la cible est sous l'effet du sort, elle considère le fantasme comme réel. La cible rationalise toute conséquence insensée lorsqu'elle interagit avec le fantasme. Par exemple, une cible qui tente de traverser un pont fantasmatique qui enjambe un gouffre tombe après avoir fait un pas sur le pont. Si la cible survit à la chute, elle croit toujours que le pont existe bien et trouve une explication logique à sa chute (on l'a poussé, elle a glissé, une rafale l'a fait basculer).  
+Une cible affectée est tellement persuadée de la réalité du fantasme que l'illusion peut même lui faire subir des dégâts. Un fantasme façonné à l'image d'une créature peut attaquer la cible. De la même manière, un fantasme apparaissant comme du feu, un bassin d'acide ou du magma peut brûler la cible. À chaque round, lors de votre tour, le fantasme peut infliger 1d6 dégâts psychiques à la cible si elle se trouve dans l'espace du fantasme ou à 1,50 mètre ou moins du fantasme, dans le cas où l'illusion est celle d'une créature ou un danger qui pourrait logiquement infliger des dégâts, comme une attaque. La cible perçoit les dégâts comme étant du type approprié à l'illusion.  
+
+#### Fouet mental de Tasha
+
+niveau 2 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V
+
+**Durée** : 1 round
+
+Vous fouettez psychiquement l'esprit d'une créature que vous pouvez voir à portée du sort. La cible doit effectuer un jet de sauvegarde d'Intelligence. En cas d'échec, elle subit 3d6 dégâts psychiques et elle ne peut utiliser sa réaction avant la fin de son prochain tour. De plus, lors de son prochain tour, elle devra choisir si elle effectue un mouvement, une action ou une action bonus ; elle ne pourra effectuer que l'un des trois. En cas réussite, la cible ne subit que la moitié de ces dégâts et n'est affectée par aucun des autres effets du sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement supérieur au niveau 2. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
+\page
+#### Foulée brumeuse
+
+niveau 2 - invocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Une brume argentée vous enveloppe puis vous vous téléportez jusqu'à 9 mètres dans un espace inoccupé que vous pouvez voir.  
+
+#### Fracassement
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un éclat de mica)
+
+**Durée** : instantanée
+
+Un fort bruit résonnant, douloureusement intense, retentit d'un point de votre choix dans la portée du sort. Chaque créature présente dans une sphère d'un rayon de 3 mètres centrée sur ce point doit effectuer un jet de sauvegarde de Constitution, subissant 3d8 dégâts de tonnerre en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature constituée de matériau inorganique, comme la pierre, le cristal ou le métal, fait son jet de sauvegarde avec un désavantage.  
+Un objet non magique qui n'est pas porté ou transporté subit aussi les dégâts s'il est dans la zone du sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts du sort augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Image miroir
+
+niveau 2 - illusion - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : 1 minute
+
+Trois duplicatas illusoires de votre personne apparaissent dans votre espace. Jusqu'à la fin du sort, les duplicatas se déplacent avec vous et ils imitent vos actions, permutant leur position de sorte qu'il soit impossible de déterminer laquelle des images est réelle. Vous pouvez utiliser votre action pour dissiper les duplicatas illusoires.  
+À chaque fois qu'une créature vous prend pour cible avec une attaque pendant la durée du sort, lancez 1d20 pour déterminer si l'attaque ne cible pas plutôt un de vos duplicatas.  
+Si vous avez trois duplicatas, vous devez obtenir 6 ou plus sur votre lancer pour diriger la cible de l'attaque vers un duplicata. Avec deux duplicatas, vous devez obtenir 8 ou plus. Avec un seul duplicata, vous devez obtenir 11 ou plus.  
+La CA d'un duplicata est égale à 10 + votre modificateur de Dextérité. Si une attaque touche un duplicata, il est détruit. Un duplicata peut être détruit seulement par une attaque qui le touche. Il ignore les autres dégâts et effets. Le sort prend fin si les trois duplicatas sont détruits.  
+Une créature n'est pas affectée par ce sort si elle ne peut pas voir, si elle se fie sur un autre sens que la vision, comme la vision aveugle, ou si elle peut percevoir les illusions comme étant fausses, comme avec vision suprême.  
+
+#### Immobilisation de personne
+
+niveau 2 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un petit morceau de fer droit)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Choisissez un humanoïde visible dans la portée du sort. La cible doit réussir un jet de sauvegarde de Sagesse ou être paralysée pour la durée du sort. À la fin de chacun de ses tours, la cible peut faire un autre jet de sauvegarde de Sagesse. Si elle réussit, le sort prend fin.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler un humanoïde supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2. Les humanoïdes doivent être situés à 9 mètres ou moins les uns des autres.  
+
+#### Invisibilité
+
+niveau 2 - illusion
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (un cil enfoncé dans de la gomme arabique)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Une créature que vous touchez devient invisible jusqu'à la fin du sort. Tout ce que la cible porte est invisible tant que la cible le porte. Le sort se termine si la cible attaque ou lance un sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
+\page
+#### Lame d'ombres
+
+niveau 2 - illusion
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous tissez ensemble des fils d'ombre pour créer une épée de ténèbres solidifiées dans votre main. Cette épée magique dure jusqu'à la fin du sort. Elle compte comme une arme courante de corps à corps que vous maîtrisez. Elle inflige 2d8 dégâts psychiques si vous touchez et possède les propriétés finesse, légère et lancer (portée 6/18). De plus, lorsque vous utilisez l'épée pour attaquer une cible qui se trouve dans une lumière faible ou dans les ténèbres, vous effectuez l'attaque avec un avantage. Si vous laissez tomber l'arme ou la lancez, elle se dissipe à la fin du tour. Par la suite, tant que le sort est actif, vous pouvez utiliser une action bonus pour faire réapparaître l'épée dans votre main.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, les dégâts passent à 3d8. Lorsque vous le lancez en utilisant un emplacement de sort de niveau 5 ou 6, les dégâts passent à 4d8. Lorsque vous le lancez en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts passent à 5d8.  
+
+#### Lame de feu
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une feuille de sumac)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous créez une lame ardente dans votre main libre. La lame est similaire en taille et en forme à un cimeterre, et reste jusqu'à ce que le sort prenne fin. Si vous lâchez la lame, elle disparaît, mais vous pouvez la réinvoquer par une action bonus.  
+Vous pouvez utiliser votre action pour effectuer une attaque au corps à corps avec un sort avec la lame ardente. Si le coup touche, la cible subit 3d6 dégâts de feu.  
+La lame enflammée émet une lumière vive dans un rayon de 3 mètres et une lumière faible sur 3 mètres supplémentaires.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 tous les 2 niveaux d'emplacement au-dessus du niveau 2.  
+\column
 #### Lancer violent
-*niveau 2*
+niveau 2 - combinable
 
 **Casting Time:** :: -
 **Range:**        :: 30m
 **Components:**   :: V, S, M (a small doll, discarded gum wrapper)
 **Duration:**     :: -
 
-Attrape un objet/ennemi léger et le projette (2d6 dégâts de force + chute). Faite un jet de sauvegarde de sort pour déterminer la hauteur que la cible va atindre.
-###### distance 
+Attrape un objet/ennemi léger et le projette (2d6 dégâts de force + chute). Faite un jet de sauvegarde de sort pour déterminer la hauteur que la cible va atteindre.
+Distance 
+
 | jet de sauvegarde de sort | Hauteur | Longeur |
 | :------------------------------: | :------------: | :---: |
 | 1                              | 0                | 0     |
@@ -1851,35 +4337,64 @@ Attrape un objet/ennemi léger et le projette (2d6 dégâts de force + chute). F
 | 18-19                          | 8                | 24    |
 | 20-21                          | 9                | 27    |
 | 20 naturel                     | 9 + modificateur de force          | 27 + modificateur de force|
-###### Dégat de chute
-| Hauteur           | Dégat |
-|:-----------------:|:-----:|
-| 3m-5m             | 2d6   |
-| 6m-9m             | 4d6   |
-| 10m-12m           | 8d6   |
-| 13m-15m           | 16d6  |
-| 16m-18m           | 32d6  |
-| 19m-21m           | 64d6  |
-| 22m+              | 128d6 |
+Dégat de chute
 
-*Psyker*
+| Hauteur | Dégat |
+| :-----: | :---: |
+|  3m-5m  |  2d6  |
+|  6m-9m  |  4d6  |
+| 10m-12m |  8d6  |
+| 13m-15m | 16d6  |
+| 16m-18m | 32d6  |
+| 19m-21m | 64d6  |
+|  22m+   | 128d6 |
+\page
+#### Lévitation
 
-#### Champ de déviation
-*niveau 2*
+niveau 2 - transmutation - combinable
 
-**Casting Time:** :: -
-**Range:**        :: 3m
-**Components:**   :: M 
-**Duration:**     :: -
+**Temps d'incantation** : 1 action
 
-Tu dévies projectiles et attaques à distance, réduisant les dégâts de 2d10.
+**Portée** : 18 mètres
 
-*Psyker*
+**Composantes** : V, S, M (une boucle de cuir ou un fil d'or plié en forme de tasse dont une extrémité s'étire)
 
-\column
+**Durée** : concentration, jusqu'à 10 minutes
+
+Une créature ou un objet non tenu de votre choix, visible et à portée du sort, s'élève jusqu'à une hauteur de 6 mètres et reste suspendu pour la durée du sort. Le sort peut faire léviter une cible pesant jusqu'à 250 kg. Une créature récalcitrante qui réussit un jet de sauvegarde de Constitution n'est pas affectée.  
+La cible peut se déplacer seulement si elle se propulse ou se tire à l'aide d'un objet ou d'une surface à sa portée (comme un mur ou un plafond). Elle peut ainsi se déplacer comme si elle grimpait. Vous pouvez changer l'altitude jusqu'à 6 mètres dans une direction ou une autre à votre tour. Si vous êtes la cible, vous pouvez vous déplacer vers le haut ou vers le bas lors de votre mouvement. Autrement, vous pouvez utiliser votre action pour déplacer la cible, qui doit demeurer dans la portée du sort. Lorsque le sort prend fin, la cible rejoint doucement le sol si elle est toujours en suspension.  
+
+#### Libellé aérien
+
+niveau 2 - transmutation (rituel)
+
+**Temps d'incantation** : 1 action
+
+**Portée** : champ de vision
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous faites apparaitre jusqu'à dix mots dans une partie du ciel que vous pouvez voir. Les mots semblent être faits de nuage et restent en place pour la durée du sort. Les mots se dissipent quand le sort se termine. Un vent fort peut disperser les nuages et mettre fin au sort prématurément.  
+
+#### Lien de protection
+
+niveau 2 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une paire d'anneaux de platine d'une valeur d'au moins 50 po chacun, que vous et la cible devez porter durant la durée du sort)
+
+**Durée** : 1 heure
+
+Ce sort protège une créature consentante que vous touchez et crée une connexion mystique entre vous et la cible jusqu'à ce que le sort se termine. Aussi longtemps que la cible n'est pas éloignée de plus de 18 mètres de vous, elle gagne un bonus de +1 à la CA, +1 aux jets de sauvegarde et obtient une résistance à tous les dégâts. De plus, chaque fois qu'elle subit des dégâts, vous recevez la même quantité de dégâts.  
+Le sort se termine si vous tombez à 0 point de vie ou si vous et la cible êtes séparés de plus de 18 mètres de distance. Le sort prend également fin s'il est lancé à nouveau sur l'une des créatures connectées. Vous pouvez également rompre le sort au prix d'une action.  
 
 #### Lien mental
-*niveau 2*
+niveau 2
 
 **Casting Time:** :: 1 action
 **Range:**        :: 36m
@@ -1888,10 +4403,300 @@ Tu dévies projectiles et attaques à distance, réduisant les dégâts de 2d10.
 
 Connecte ton esprit à celui d’un allié pour lui faire parvenir un souvenir ou un entrevue de ce que vous percevait (image et son).
 
-*Psyker*
+#### Localisation d'animaux ou de plantes
+
+niveau 2 - divination (rituel)
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une touffe de fourrure de limier)
+
+**Durée** : instantanée
+
+Décrivez ou nommez une espèce spécifique de bête ou de plante. En vous concentrant sur les murmures de la Nature qui vous environne, vous apprenez la direction et la distance de la créature, ou plante de cette espèce, la plus proche dans les 7,5 km à la ronde, à condition qu'il y en ait.  
+
+#### Localisation d'objet
+
+niveau 2 - divination
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une petite brindille en forme de baguette de sourcier)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Décrivez ou nommez un objet qui vous est familier. Vous ressentez la direction de la position de l'objet, tant que cet objet se trouve à 300 mètres de vous maximum. Si l'objet est en déplacement, vous apprenez la direction de son mouvement.  
+Ce sort peut localiser un objet spécifique que vous connaissez, à condition que vous l'ayez déjà vu de près (à 9 mètres ou moins de vous) au moins une fois. Vous pouvez sinon faire en sorte que le sort localise l'objet le plus proche d'un type particulier, comme un type spécifique de vêtement, de bijoux, de meuble, d'objet ou d'arme.  
+Ce sort ne peut pas localiser un objet si une épaisseur de plomb, même une mince feuille, s'interpose sur la ligne de mire qui vous sépare vous et l'objet.  
+\page
+#### Messager animal
+
+niveau 2 - enchantement (rituel)
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (un morceau de nourriture)
+
+**Durée** : 24 heures
+
+Grâce à ce sort, vous employez un animal pour livrer un message. Choisissez une bête visible de taille TP, comme un écureuil, un geai bleu ou une chauve-souris. Vous précisez une destination, que vous avez préalablement visitée, et un destinataire qui correspond à une description sommaire, comme « un homme ou une femme vêtu d'un uniforme de la garde civile » ou « un nain roux portant un chapeau pointu ». Vous énoncez aussi un message de 25 mots ou moins. La bête ciblée se déplace pour la durée du sort vers la destination déterminée, au rythme de 75 km par 24 heures pour un messager ailé ou 37,5 km pour les autres animaux.  
+Lorsque le messager arrive, il livre son message à la créature que vous avez décrit en imitant le son de votre voix. Le messager parlera uniquement à la créature correspondant à la description que vous avez fournie. Si le messager ne parvient pas à sa destination avant la fin du sort, le message est perdu et la bête revient à l'endroit où le sort a été incanté.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, la durée du sort augmente de 48 heures pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Métal brûlant
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un morceau de fer et une flamme)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Choisissez un objet métallique manufacturé, comme une arme en métal ou une armure métallique intermédiaire ou lourde, à portée et que vous pouvez voir. Vous rendez l'objet rougeoyant d'une intense chaleur. Toutes les créatures étant en contact physique avec l'objet subissent 2d8 dégâts de feu au moment où vous lancez le sort. Jusqu'à la fin du sort, vous pouvez utiliser votre action bonus à chacun des tours suivants pour infliger de nouveau ces dégâts de feu.  
+Si une créature tient ou porte l'objet et en subit les dégâts de feu, la créature doit réussir un jet de sauvegarde de Constitution sous peine de lâcher l'objet si elle le peut. Si elle ne peut pas se séparer de l'objet, elle obtient un désavantage à ses jets d'attaque et à ses jets de caractéristique jusqu'au début de votre prochain tour.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts sont augmentés de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Modification d'apparence
+
+niveau 2 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous endossez une nouvelle forme. Lorsque vous lancez ce sort, choisissez l'une des options suivantes, dont les effets s'appliqueront jusqu'à ce que le sort prenne fin. Tant que le sort est actif, vous pouvez mettre un terme à une option, en dépensant une action, pour gagner les bénéfices d'une option différente.  
+**_Adaptation aquatique_**. Vous adaptez votre corps à un environnement aquatique, en vous faisant pousser des branchies et des expansions palmaires entre les doigts. Vous pouvez respirer sous l'eau et obtenez une vitesse de nage égale à votre vitesse de marche.  
+**_Changement d'apparence_**. Vous transformez votre apparence. Vous décidez à quoi vous ressemblez, que ce soit votre taille, votre poids, les traits de votre visage, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et vos signes distinctifs, le cas échéant. Vous pouvez prendre l'apparence d'un membre d'une autre race, sans répercussions sur vos caractéristiques ou autres traits raciaux. Vous ne pouvez pas prendre l'apparence d'une créature d'une catégorie de taille différente de la vôtre, et votre forme de base doit rester la même ; si vous êtes un bipède, vous ne pouvez pas utiliser ce sort pour devenir quadrupède par exemple. À tout moment pendant la durée du sort, vous pouvez utiliser votre action pour modifier de nouveau votre apparence.  
+**_Armes naturelles_**. Vous vous dotez de griffes, crocs, épines, cornes ou d'une autre arme naturelle de votre choix. Votre attaque à mains nues inflige 1d6 dégâts contondants, perforants ou tranchants, suivant ce qui est le plus approprié à l'arme naturelle que vous avez choisie, et vous obtenez la maîtrise de votre attaque à mains nues. Enfin, votre arme naturelle est une arme magique et a un bonus de +1 aux jets d'attaque et de dégâts.  
+\page
+#### Nuée de boules de neige de Snilloc
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (un morceau de glace ou un petit morceau de roche blanc)
+
+**Durée** : instantanée
+
+Une rafale de boules de neige magiques apparait à un point que vous choisissez à portée. Chaque créature dans une sphère de 1,50 mètre de rayon centré sur ce point doit faire faire un jet de sauvegarde de Dextérité. Une créature subit 3d6 dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Nuée de dagues
+
+niveau 2 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un tesson de verre)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous emplissez l'espace de dagues tournoyantes dans un cube de 1,50 mètre d'arête, centré sur un point dans la portée du sort. Une créature subit 4d4 dégâts tranchants lorsqu'elle pénètre dans la zone du sort pour la première fois ou si elle y débute son tour.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 2d4 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Passage sans trace
+
+niveau 2 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (les cendres de la combustion d'une feuille de gui et d'une brindille d'épinette)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Un voile d'ombres et de silence émane de vous, vous protégeant, ainsi que vos compagnons, de la détection. Pour la durée du sort, chaque créature que vous choisissez et se trouvant à 9 mètres de vous (vous y compris) a un bonus de +10 aux jets de Dextérité (Discrétion) et ne peut pas être pistée, sauf par des moyens magiques. Une créature qui reçoit ce bonus ne laisse ni piste ni trace de son passage.  
+\column
+#### Pattes d'araignée
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une goutte de bitume et une araignée)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Jusqu'à ce que le sort se termine, une créature consentante que vous touchez gagne la capacité de se déplacer vers le haut, le bas, et le long de surfaces verticales ou encore à l'envers aux plafonds, tout en laissant ses mains libres. La cible gagne également une vitesse d'escalade égale à sa vitesse de marche.  
+
+#### Peau d'écorce
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une poignée d'écorce de chêne)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous touchez une créature consentante. Jusqu'à la fin du sort, la peau de la cible prend une texture rugueuse telle l'écorce d'un arbre et la CA de la cible ne peut être inférieure à 16, peu importe le type d'armure qu'elle porte.  
+
+#### Poigne terreuse de Maximilien
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (une main miniature sculptée à partir d'argile)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous choisissez un espace inoccupé de 1,50 mètre de côté sur le sol et que vous pouvez voir dans la portée du sort. Une main de taille M fabriquée à partir de terre compactée y émerge et se précipite sur une créature que vous pouvez voir dans un rayon de 1,50 mètre autour d'elle. La cible doit réaliser un jet de sauvegarde de Force. En cas d'échec, la cible subit 2d6 dégâts contondants et est entravée pour la durée du sort.  
+Au prix d'une action, vous pouvez utiliser la main pour écraser la cible retenue, qui doit effectuer un jet de sauvegarde de Force. La cible subit 2d6 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+Pour se libérer, la cible entravée peut utiliser son action pour faire un jet de Force contre le DD de sauvegarde de votre sort. En cas de réussite, la cible s'échappe et n'est plus entravée par la main.  
+Au prix d'une action, vous pouvez atteindre une créature différente avec la main ou la déplacer dans un espace inoccupé différent à portée. La main libère une cible entravée si vous le faites.  
+\page
+#### Préservation des morts
+
+niveau 2 - nécromancie (rituel)
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une pincée de sel, et une pièce de cuivre pour chaque œil du corps à préserver. Les pièces doivent rester en place pour la durée du sort)
+
+**Durée** : 10 jours
+
+Vous touchez un corps ou ce qu'il en reste. Pour la durée du sort, la cible est protégée du pourrissement et ne peut pas devenir un mort-vivant.  
+Le sort augmente également la durée limite au-delà de laquelle il n'est plus possible de ramener un corps à la vie. Les jours passés sous l'influence de ce sort ne comptent pas dans le total de jours passés à l'état de cadavre pour des sorts comme _[rappel à la vie](https://www.aidedd.org/dnd/sorts.php?vf=rappel-a-la-vie)_.  
+
+#### Prière de guérison
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 10 minutes
+
+**Portée** : 9 mètres
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Jusqu'à six créatures de votre choix visibles dans la portée du sort récupèrent chacune des points de vie équivalant à 2d8 + le modificateur de votre caractéristique d'incantation. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les points de vie récupérés augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Protection contre le poison
+
+niveau 2 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : 1 heure
+
+Vous touchez une créature. Si elle est empoisonnée, vous neutralisez le poison. Si plus d'un poison affecte la cible, vous neutralisez un des poisons dont vous êtes conscient de la présence, sinon vous neutralisez l'un des poisons au hasard.  
+Pour toute la durée du sort, la cible a un avantage à ses jets de sauvegarde effectués pour éviter d'être empoisonnée, et a une résistance aux dégâts de poison.  
+\column
+#### Pyrotechnie
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Visez une zone de flammes non magiques qui rentre dans un cube de 1,50 mètre d'arête et que vous pouvez voir. Vous pouvez au choix éteindre le feu ou créer des feux d'artifice ou de la fumée dans ce cas.  
+**Feux d'artifice**. La cible explose dans un chatoiement de couleurs. Chaque créature à 3 mètres ou moins de la cible doit réussir un jet de sauvegarde de Constitution ou être aveuglée jusqu'à la fin de votre prochain tour.  
+**Fumée**. Une épaisse fumée s'échappe de la cible dans un rayon de 7,50 mètres, remplissant chaque recoin de la zone. La visibilité dans la zone enfumée est nulle. La fumée dure une minute ou jusqu'à ce qu'un fort vent la dissipe.  
+
+#### Rayon affaiblissant
+
+niveau 2 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Un rayon noir d'énergie négative s'échappe de votre doigt en direction d'une créature à portée. Effectuez une attaque à distance avec un sort contre la cible. Si le coup touche, la cible n'inflige plus que la moitié de ses dégâts lorsqu'elle attaque avec une arme utilisant la Force, et ce jusqu'à la fin du sort.  
+À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution contre le sort. En cas de réussite, le sort prend fin.  
+
+#### Rayon ardent
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous générez trois rayons de feu et vous les projetez vers des cibles dans la portée du sort. Vous pouvez les projeter sur une ou plusieurs cibles.  
+Effectuez une attaque à distance avec un sort pour chaque rayon. Si elle touche, la cible subit 2d6 dégâts de feu.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous générez un rayon supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
+\page
+#### Rayon de lune
+
+niveau 2 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S, M (plusieurs graines de pavot et un morceau de feldspath opalescent)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Un rayon argenté de lumière pâle brille dans un cylindre de 12 mètres de haut et 1,50 mètre de rayon, centré sur un point à portée. Jusqu'à ce que le sort prenne fin, une lumière faible remplit le cylindre.  
+Lorsqu'une créature pénètre la zone d'effet du sort pour la première fois dans un tour, ou qu'elle y débute son tour, elle est enveloppée de flammes fantomatiques qui lui provoquent d'intenses douleurs, l'obligeant à effectuer un jet de sauvegarde de Constitution. Elle subit 2d10 dégâts radiants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+Un métamorphe effectue son jet de sauvegarde avec un désavantage. S'il échoue, il est également forcé de retrouver sa forme originelle et ne peut pas prendre une forme différente tant qu'il n'a pas échappé à la lueur produite par le sort.  
+À chacun de vos tours après que vous ayez lancé ce sort, vous pouvez utiliser votre action pour déplacer le rayon jusqu'à 18 mètres dans n'importe quelle direction.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Restauration partielle
+
+niveau 2 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous touchez une créature et vous pouvez mettre fin à une maladie ou à un état l'affligeant. L'état peut être aveuglé, assourdi, paralysé ou empoisonné.  
 
 #### Saisie multiple
-*niveau 2*
+*niveau 2* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: m/t du joueur
@@ -1900,11 +4705,117 @@ Connecte ton esprit à celui d’un allié pour lui faire parvenir un souvenir o
 
 Tu manipules jusqu’à 2 objets à distance.
 **Aux niveaux supérieur** ::+2 objet/lv de sort
+\column
+#### Sens animal
 
-*Psyker*
+niveau 2 - divination (rituel)
 
-#### Sur-poids
-*niveau 2*
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous touchez une bête consentante. Pour la durée du sort, vous pouvez utiliser votre action pour voir à travers les yeux de la bête et entendre ce qu'elle entend. Vous pouvez continuer jusqu'à ce que vous utilisiez une action pour retrouver vos propres sens. Lorsque vous percevez par l'intermédiaire des sens de la bête, vous bénéficiez des sens spéciaux que possède la créature. Cependant, vous perdez l'usage de vos propres sens.  
+
+#### Sens de la distorsion
+
+niveau 2 - divination
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une feuille de razorvine)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Pour la durée du sort, vous sentez la présence des portails, même ceux qui sont inactifs, dans un rayon de 9 mètres autour de vous. Si vous détectez un portail de cette façon, vous pouvez utiliser votre action pour l'étudier. Effectuez un jet de caractéristique DD 15 en utilisant votre caractéristique d'incantation. En cas de réussite, vous apprenez le plan de destination du portail ainsi que la clef nécessaire pour l'ouvrir le cas échéant, puis le sort se termine. En cas d'échec, vous n'apprenez rien et ne pouvez pas étudier à nouveau le portail à moins de relancer le sort à nouveau.  
+Le sort peut outrepasser la plupart des obstacles, mais il est bloqué par 30 cm de pierre, 2,50 cm de métal ordinaire, une mince feuille de plomb ou 90 cm de bois ou de terre.  
+
+#### Sens des pièges
+
+niveau 2 - divination
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous ressentez la présence de tout piège se trouvant à portée et dans votre champ de vision. Un piège, dans la définition de ce sort, comprend tout ce qui pourrait infliger un effet soudain ou inattendu, effet que vous considérez comme nuisible ou indésirable, et qui a spécifiquement été conçu dans cette optique par son créateur. Par conséquent, le sort devrait sentir une zone soumise au sort _[alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme)_, un _glyphe de protection_ ou un piège mécanique de type fosse, mais il ne pourrait pas révéler une fragilité dans le sol, un plafond instable, ou un gouffre caché.  
+Ce sort révèle simplement qu'un piège est présent. Vous n'apprenez pas l'emplacement de chaque piège, mais vous apprenez la nature générale du danger que représente le piège que vous avez détecté.  
+\page
+#### Silence
+
+niveau 2 - illusion (rituel) - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Pour la durée du sort, aucun son ne peut être créé au sein (ou passer à travers) d'une sphère de 6 mètres de rayon centrée sur le point que vous choisissez dans la portée du sort. Toute créature ou objet se trouvant entièrement à l'intérieur de la sphère est immunisé contre les dégâts de tonnerre et les créatures sont en plus assourdies.  
+Lancer un sort qui comprend une composante verbale à l'intérieur de la sphère est impossible.  
+
+#### Souffle du dragon
+
+niveau 2 - transmutation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : contact
+
+**Composantes** : V, S, M (un piment)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous touchez une créature consentante et lui donnez le pouvoir de cracher de l'énergie magique de sa bouche, à condition qu'elle en ait une. Choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre ou poison. Jusqu'à la fin du sort, la créature peut utiliser une action pour expirer l'énergie du type choisi dans un cône de 4,50 mètres. Toutes les créatures dans cette zone doivent effectuer un jet de sauvegarde de Dextérité, subissant 3d6 dégâts du type choisi en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Sphère de feu
+
+niveau 2 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un peu de suif, une pincée de soufre et de la poussière de poudre de fer)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Une sphère de feu d'un diamètre de 1,50 mètre apparait dans un espace inoccupé de votre choix dans la portée et pour la durée du sort. Toute créature qui termine son tour à 1,50 mètre ou moins de la sphère doit effectuer un jet de sauvegarde de Dextérité, subissant 2d6 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+Avec une action bonus, vous pouvez déplacer la sphère jusqu'à 9 mètres. Si la sphère entre en collision avec une créature, celle-ci doit faire un jet de sauvegarde contre les dégâts de la sphère et elle arrête son mouvement pour ce tour.  
+Lorsque vous déplacez la sphère, vous pouvez la diriger par-dessus des barrières de 1,50 mètre ou moins et la propulser au-dessus d'un gouffre large de 3 mètres ou moins. La sphère enflamme les objets inflammables qui ne sont pas portés ou transportés, et émet une lumière vive dans un rayon de 6 mètres et une lumière faible sur 6 mètres supplémentaires.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Suggestion
+
+niveau 2 - enchantement - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, M (une langue de serpent et un rayon de miel ou une goutte d'huile douce)
+
+**Durée** : concentration, jusqu'à 8 heures
+
+Vous proposez un plan d'activité (limitée à une phrase ou deux) et influencez magiquement une créature que vous pouvez voir dans la portée du sort et qui peut vous entendre et vous comprendre. Les créatures qui ne peuvent pas être charmées sont à l'abri de cet effet. La suggestion doit être formulée de manière que la réalisation de l'action semble raisonnable. Demander à la créature de se poignarder, de s'empaler sur une lance, de s'immoler ou tout autre acte qui lui serait dommageable met un terme au sort.  
+La cible doit faire un jet de sauvegarde de Sagesse. En cas d'échec, elle poursuit le cours de l'action que vous avez décrit au mieux de ses possibilités. Le plan d'action proposé peut se poursuivre pendant toute la durée du sort. Si l'activité qui est suggérée peut être réalisée en un temps plus court, le sort prend fin lorsque le sujet termine ce qu'il lui a été demandé de faire.  
+Vous pouvez également spécifier des conditions qui déclencheront une activité spéciale pendant la durée du sort. Par exemple, vous pourriez suggérer à un chevalier de donner son cheval de bataille au premier mendiant qu'il rencontre. Si la condition n'est pas remplie avant que le sort expire, l'activité n'est pas effectuée.  
+Si vous, ou un de vos compagnons, blessez la cible, le sort se termine.  
+
+#### Surpoids
+niveau 2
 
 **Casting Time:** :: 1 action
 **Range:**        :: 12m
@@ -1915,43 +4826,189 @@ Tu augmentes localement la gravité sur une cible.
 Elle subit un *désavantage aux jets de DEX* et voit sa vitesse réduite de moitié.
 
 À la fin de son tour, elle subit **2d6 dégâts de force** si elle rate un *jet de CON* contre ton DD de sort.
-
-*Psyker*
-
-
-## Niveau 3
-
-#### Étranglement psychique
-*niveau 3*
-
-**Casting Time:** :: 1 action
-**Range:**        :: 2 * m/t du joueur
-**Components:**   :: S, M 
-**Duration:**     :: 1 round
-
-Maintient un ennemi en l’air, inflige 8d6 dégâts de force et l’empêche de respirer (concentration +1d4/t).
-
-*Psyker*
-{{pageNumber $[HB_pageNumber]}}
-
-{{footnote Les Sorts : niveau 2 - 3}}
 \page
-#### Onde télékinétique
-*niveau 3*
+#### Ténèbres
 
-**Casting Time:** :: 1 action
-**Range:**        :: personnelle
-**Components:**   :: M, S, V 
-**Duration:**     :: 1 round
+niveau 2 - évocation
 
-Repousse toutes les créatures dans un rayon de 6 m et inflige 3d6 dégâts de force + dégât de chut.
-**Aux niveaux supérieur** ::+1m/lv de joueur
+**Temps d'incantation** : 1 action
 
-*Psyker*
+**Portée** : 18 mètres
 
+**Composantes** : V, M (des poils de chauve-souris et une goutte de goudron ou un morceau de charbon)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Des ténèbres magiques s'étendent d'un point de votre choix dans la portée du sort pour remplir une sphère de 4,50 mètres de rayon pour la durée du sort. Ces ténèbres contournent les coins. Une créature avec la vision dans le noir ne peut percer ces ténèbres et une lumière non magique ne peut y éclairer.  
+Si le point choisi est un objet que vous portez ou qui n'est pas porté ou transporté, les ténèbres émanent de l'objet et elles se déplacent avec lui. Recouvrir complètement la source des ténèbres avec un objet opaque, comme un bol ou un casque, bloque les ténèbres.  
+Si n'importe quelle portion de ce sort chevauche une portion de lumière créée par un sort de niveau 2 ou moins, le sort de lumière est alors dissipé.  
+
+#### Toile d'araignée - combinable
+
+niveau 2 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (un peu de toile d'araignée)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous invoquez une masse de toiles d'araignées épaisse et collante à un point de votre choix dans la portée du sort. Les toiles remplissent un cube de 6 mètres d'arête à cet endroit pendant la durée du sort. Les toiles sont considérées comme un terrain difficile et la visibilité y est réduite.  
+Si les toiles ne sont pas ancrées entre deux masses solides (comme des murs ou des arbres) ou superposées à partir du sol, d'un mur ou du plafond, la masse de toiles invoquée s'effondre sur elle-même et le sort se termine au début de votre prochain tour. Les toiles superposées sur une surface plane ont une épaisseur de 1,50 mètre.  
+Chaque créature qui commence son tour dans les toiles ou qui y entre au cours de son tour doit faire un jet de sauvegarde de Dextérité. En cas d'échec, la créature est entravée aussi longtemps qu'elle demeure dans les toiles ou jusqu'à ce qu'elle se libère.  
+Une créature entravée par les toiles peut utiliser son action pour faire un jet de Force contre le DD de sauvegarde de votre sort. Si elle réussit, elle n'est plus entravée.  
+Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu se consume en un round, causant 2d4 dégâts de feu à toute créature commençant son tour dans les toiles enflammées.  
+\column
+#### Tourbillon de poussière
+
+niveau 2 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (une pincée de poussière)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Choisissez un cube d'air visible et inoccupé de 1,50 mètre d'arête dans la portée du sort. Une force élémentaire ressemblant à un tourbillon de poussière apparait dans la zone cubique et demeure jusqu'à la fin du sort.  
+Toute créature finissant son tour à 1,50 mètre ou moins du tourbillon de poussière doit faire un jet de sauvegarde de Force. En cas d'échec, la créature prend 1d8 dégâts contondants et est repoussée de 3 mètres du tourbillon. En cas de réussite, la créature subit la moitié de ces dégâts et n'est pas repoussée.  
+Par une action bonus, vous pouvez déplacer le tourbillon de poussière jusqu'à 9 mètres dans n'importe quelle direction. Si le tourbillon de poussière se déplace sur du sable, de la poussière, de la terre meuble ou du petit gravier, il aspire ces matériaux et forme un nuage de débris de 3 mètres de rayon tout autour de lui jusqu' au début de votre prochain tour. Ce nuage rend la visibilité nulle dans la zone qu'il occupe.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
+
+#### Vent protecteur
+
+niveau 2 - évocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Un vent fort (30 km/h) souffle autour de vous dans un rayon de 3 mètre et se déplace avec vous, restant centré sur vous. Le vent perdure pour la durée du sort.  
+Le vent a les effets suivants :  
+• Il vous rend sourd, ainsi que les autres créatures dans sa zone.  
+• Il éteint les flammes non protégées dans sa zone qui sont de la taille d'une torche ou plus petite.  
+• Il dissipe la vapeur, le gaz et le brouillard s'ils peuvent être dispersés par un vent fort.  
+• La zone est un terrain difficile pour les créatures autres que vous.  
+• Les attaques à distance avec une arme ont un désavantage si elles rentrent ou sortent de la zone de vent.  
+\page
+
+#### Verrou magique
+
+niveau 2 - abjuration - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (de la poudre d'or d'une valeur d'au moins de 25 po, que le sort consomme)
+
+**Durée** : jusqu'à dissipation
+
+Vous touchez un objet fermé comme une porte, une fenêtre, un portail ou un coffre, et celui-ci se retrouve verrouillé pour la durée du sort. Vous et les créatures que vous désignez lors du lancement du sort pouvez ouvrir l'objet normalement. Vous pouvez aussi créer un mot de passe qui, quand il est prononcé à 1,50 mètre ou moins de l'objet, supprime l'effet du sort pendant 1 minute. Autrement, il est impossible d'ouvrir l'objet, sauf s'il est brisé ou si le sort est dissipé ou prend fin. Lancer le sort _[déblocage](https://www.aidedd.org/dnd/sorts.php?vf=deblocage)_ supprime _verrou magique_ pendant 10 minutes.  
+L'objet affecté par le sort est plus difficile à briser ou forcer ; le DD pour le briser ou tenter de le crocheter augmente de 10.  
+
+#### Vision dans le noir
+
+niveau 2 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (soit une pincée de carotte séchée, soit une agate)
+
+**Durée** : 8 heures
+
+Vous touchez une créature consentante pour lui conférer la capacité de voir dans le noir. Pour la durée du sort, cette créature obtient la vision dans le noir (portée 18 mètres).  
+
+#### Voir l'invisible
+
+niveau 2 - divination - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (une pincée de talc et une petite quantité de poudre d'argent)
+
+**Durée** : 1 heure
+
+Pour la durée du sort, vous percevez les créatures et objets invisibles comme s'ils étaient visibles, et vous pouvez voir dans le plan éthéré. Les objets et créatures éthérées apparaissent fantomatiques et translucides.  
+
+#### Zone de vérité
+
+niveau 2 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : 10 minutes
+
+Vous créez une zone magique qui protège de la tromperie dans une sphère de 4,50 mètres de rayon centrée sur un point de votre choix à portée. Jusqu'à la dissipation du sort, une créature qui pénètre dans la zone du sort pour la première fois lors d'un tour ou qui y débute son tour, doit effectuer un jet de sauvegarde de Charisme. En cas d'échec, une créature ne peut pas délibérément dire un mensonge tant qu'elle se trouve dans la zone. Vous savez par ailleurs si une créature a réussi ou non son jet de sauvegarde.  
+Une créature affectée est consciente du sort et peut ainsi éviter de répondre à des questions auxquelles elle aurait normalement répondu par un mensonge. Une telle créature peut rester évasive dans ses réponses tant qu'elles restent dans les limites de la vérité.
+
+## niveau 3
+
+#### Animation des morts
+
+niveau 3 - nécromancie
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : 3 mètres
+
+**Composantes** : V, S, M (une goutte de sang, un morceau de chair et une pincée de poussière d'os)
+
+**Durée** : instantanée
+
+Ce sort crée un serviteur mort-vivant. Choisissez un tas d'ossements ou le cadavre d'un humanoïde de taille M ou P dans la portée du sort. Votre sort insuffle un semblant de vie à la cible pour la relever en tant que créature morte-vivante. La cible devient un [squelette](https://www.aidedd.org/dnd/monstres.php?vf=squelette) si vous avez choisi des ossements, ou un [zombi](https://www.aidedd.org/dnd/monstres.php?vf=zombi) si vous avez choisi un cadavre.  
+À chacun de vos tours, vous pouvez utiliser une action bonus pour commander mentalement les créatures que vous avez animées avec ce sort si elles sont à 18 mètres ou moins de vous. Si vous contrôlez plusieurs créatures, vous commandez simultanément autant de créatures que vous le souhaitez en donnant le même ordre à chacune d'elles. Vous décidez de l'action prise par la créature et du mouvement qu'elle fait. Vous pouvez aussi émettre une consigne générale, comme monter la garde devant une pièce ou dans un couloir. Si vous ne donnez aucun ordre, la créature ne fait que se défendre contre les créatures qui lui sont hostiles. Une fois qu'un ordre est donné, la créature s'exécute jusqu'à ce que la tâche soit complétée.  
+La créature est sous votre contrôle pour une période de 24 heures, à la fin de quoi elle cesse d'obéir à votre commandement. Pour maintenir le contrôle de la créature pour 24 heures supplémentaires, vous devez incanter ce sort sur la créature avant la fin de la période actuelle de 24 heures. L'usage de ce sort réaffirme votre contrôle sur 4 créatures ou moins animées par ce sort, plutôt que d'en animer une nouvelle.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous animez ou réaffirmez votre contrôle sur deux créatures mortes-vivantes additionnelles pour chaque niveau d'emplacement au-delà du niveau 3. Chaque créature doit provenir d'un cadavre ou d'un tas d'ossements différent.  
+\page
+#### Antidétection
+
+niveau 3 - abjuration - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une pincée de poudre de diamant d'une valeur de 25 po saupoudrée sur la cible, que le sort consomme)
+
+**Durée** : 8 heures
+
+Pour la durée du sort, vous cachez une cible que vous touchez de la divination magique. La cible peut être une créature consentante, un endroit ou un objet ne faisant pas plus de 3 mètres dans toutes les dimensions. La cible ne peut pas être ciblée par quelque divination magique que ce soit ou perçue grâce à des objets de détection magique.  
+
+#### Appel de la foudre
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Un nuage d'orage prend la forme d'un cylindre de 3 mètres de hauteur et d'un rayon de 18 mètres centré sur un point visible à portée au-dessus de vous. Le sort échoue si vous ne pouvez voir un point en l'air là où le nuage devrait apparaître (par exemple, si vous vous trouvez dans une pièce trop petite pour accueillir le nuage).  
+Lorsque vous incantez le sort, choisissez un point visible sous le nuage. Un éclair jaillit du nuage jusqu'au point choisi. Chaque créature à 1,50 mètre ou moins de ce point doit effectuer un jet de sauvegarde de Dextérité, subissant 3d10 dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite. À chacun de vos tours, jusqu'à la fin du sort, vous pouvez utiliser votre action pour appeler la foudre de cette manière, en ciblant le même point ou un nouveau.  
+Si vous êtes en extérieur et dans des conditions orageuses lors de l'incantation de ce sort, le sort vous permet de contrôler l'orage plutôt que d'en créer un nouveau. Dans ces conditions, les dégâts du sort augmentent de 1d10.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
 #### Armes dansantes
-*niveau 3*
+niveau 3
 
 **Casting Time:** :: 1 action
 **Range:**        :: Touch
@@ -1959,24 +5016,24 @@ Repousse toutes les créatures dans un rayon de 6 m et inflige 3d6 dégâts de f
 **Duration:**     :: 5t
 
 Tu manipules 2 armes à distance qui attaquent comme si tu les brandissais (arme de corp a corp) 5 tours.
+\column
+#### Arme élémentaire
 
-*Psyker*
+niveau 3 - transmutation - combinable
 
+**Temps d'incantation** : 1 action
 
-#### Barrière invisible
-*niveau 3*
+**Portée** : contact
 
-**Casting Time:** :: 1 action
-**Range:**        :: 18m
-**Components:**   :: V, S, M
-**Duration:**     :: 30min
+**Composantes** : V, S
 
-Vous créez un mur sur le sol, à un point que vous pouvez voir à portée. Vous pouvez créer un mur mesurant jusqu'à 9 mètres de long, 3 mètres de haut et 30 cm d'épaisseur, ou vous pouvez faire un mur circulaire mesurant jusqu'à 6 mètres de diamètre, 6 mètres de haut et 30 cm d'épaisseur. Le mur disparaît quand le sort se termine. L'espace occupé par le mur est un terrain difficile. Toute attaque à distance avec une arme qui entre dans l'espace du mur à un désavantage au jet d'attaque, et tous les dégâts de feu sont réduits de moitié si l'effet de feu traverse le mur pour atteindre son objectif. Les sorts infligeant des dégâts de froid qui traversent la paroi transforment en onde de choque sur la zone du mur impactée (au minimum un carré de 1,50 mètre est gelé). Chaque section gelée de 1,50 mètre de côté a 15 pv et une CA de 5. Réduire les points de vie d'une section gelée à 0 la détruit. Lorsqu'une section est détruite, un troue le remplace.
+**Durée** : concentration, jusqu'à 1 heure
 
-*Psyker*
+Une arme non magique que vous touchez devient une arme magique. Choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre ou tonnerre. Pour la durée du sort, l'arme obtient un bonus de +1 aux jets d'attaque et inflige 1d4 dégâts supplémentaires, du type que vous avez choisi, lorsqu'elle touche.  
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou 6, le bonus aux jets d'attaque monte à +2 et les dégâts supplémentaires montent à 2d4. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le bonus monte à +3 et les dégâts supplémentaires à 3d4.  
 
 #### Ascension forcée
-*niveau 3*
+niveau 3 - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 18m
@@ -1986,7 +5043,1037 @@ Vous créez un mur sur le sol, à un point que vous pouvez voir à portée. Vous
 Soulève un ennemi de taille (M ou moins) de 6 m de haut.
 **Aux niveaux supérieur** ::+2m/lv de sort
 
-*Psyker*
+#### Aura de vitalité
+
+niveau 3 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (rayon de 9 mètres)
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Une énergie régénératrice irradie de vous en une aura de 9 mètres de rayon. Jusqu'à la fin du sort, l'aura, centrée sur vous, se déplace en même temps que vous. Vous pouvez utiliser une action bonus pour qu'une créature présente dans l'aura (vous y compris) récupère 2d6 points de vie.  
+
+#### Aura du croisé
+
+niveau 3 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Un pouvoir sacré irradie de vous sous la forme d'une aura de 9 mètres de rayon, réveillant la hardiesse des créatures amicales. Jusqu'à la fin du sort, l'aura se déplace en même temps que vous, centrée sur vous. Toute créature dans l'aura qui ne vous est pas hostile (y compris vous-même) inflige 1d4 dégâts radiants supplémentaires lorsqu'elle touche avec une attaque avec une arme.  
+\page
+#### Boule de feu
+
+niveau 3 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 45 mètres
+
+**Composantes** : V, S, M (une toute petite boule de guano de chauve-souris et du souffre)
+
+**Durée** : instantanée
+
+Une éclatante traînée lumineuse est émise de la pointe de votre doigt vers un point de votre choix dans la portée du sort, puis s'amplifie dans un rugissement grave jusqu'à éclater en flammes. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur le point doit effectuer un jet de sauvegarde de Dextérité, subissant 8d6 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+Le feu contourne les coins. Il enflamme les objets inflammables qui ne sont pas portés ou transportés.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Cercle magique
+
+niveau 3 - abjuration - combinable
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : 3 mètres
+
+**Composantes** : V, S, M (de l'eau bénite ou de la poudre d'argent et de fer d'une valeur d'au moins 100 po, que le sort consomme).
+
+**Durée** : 1 heure
+
+Vous créez un cylindre d'énergie magique haut de 6 mètres et d'un rayon de 3 mètres, centré sur un point du sol que vous pouvez voir et à portée. Des runes rayonnantes apparaissent aux endroits où le cylindre s'intersecte avec le sol, ou toute autre surface.  
+Choisissez un ou plusieurs types de créatures parmi les suivants : céleste, élémentaire, fée, fiélon ou mort-vivant. Le cercle affecte une créature d'un type choisi des manières suivantes :  
+• La créature ne peut volontairement pénétrer dans le cylindre par des moyens non magiques. Si la créature tente d'utiliser la téléportation ou le voyage extraplanaire pour y parvenir, elle doit d'abords réussir un jet de sauvegarde de Charisme.  
+• La créature a un désavantage à ses jets d'attaque effectués contre des cibles situées à l'intérieur du cylindre.  
+• Des cibles se trouvant à l'intérieur du cylindre ne peuvent pas être charmées, effrayées, ou possédées par la créature.  
+Lorsque vous lancez ce sort, vous pouvez décider que la magie fonctionne en sens inverse, empêchant alors les créatures du type spécifié de quitter le cylindre et protégeant les cibles se trouvant au dehors.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort niveau 4 ou supérieur, la durée augmente de 1 heure pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Châtiment aveuglant
+
+niveau 3 - évocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 minute
+
+La prochaine fois que vous touchez une créature avec une attaque au corps à corps avec une arme durant la durée du sort, votre arme rayonne d'une vive lumière, et l'attaque inflige à la cible 3d8 dégâts radiants supplémentaires. De plus, la cible doit réussir un jet de sauvegarde de Constitution sous peine d'être aveuglée jusqu'à la fin du sort.  
+Une créature aveuglée par ce sort effectue un nouveau jet de sauvegarde de Constitution à la fin de chacun de ses tours. Sur un jet de sauvegarde réussi, elle n'est plus aveuglée.  
+
+#### Clairvoyance
+
+niveau 3 - divination - combinable
+
+**Temps d'incantation** : 10 minutes
+
+**Portée** : 1,5 km
+
+**Composantes** : V, S, M (un focaliseur d'une valeur d'au moins 100 po, soit une corne pour entendre enchâssée de gemme, soit un œil de verre pour voir)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous créez un détecteur invisible, à portée, dans une zone qui vous est familière (un endroit que vous avez visité ou déjà vu) ou dans une zone évidente qui ne vous est pas familière (comme l'autre côté d'une porte, derrière un angle ou dans un bosquet). Le détecteur reste en place pour la durée du sort, il ne peut pas être attaqué ou être en interaction avec quoi que ce soit.  
+Lorsque vous lancez le sort, vous choisissez de voir ou d'entendre. Vous pouvez utiliser le sens choisi au travers du détecteur comme si vous étiez à sa place. En utilisant votre action, vous pouvez alterner entre la vue et l'audition via le détecteur.  
+Une créature qui peut voir le détecteur (comme une créature bénéficiant du sort _[voir l'invisible](https://www.aidedd.org/dnd/sorts.php?vf=voir-l-invisible)_ ou de vision véritable) voit un orbe lumineux et intangible de la taille de votre poing.  
+\page
+#### Clignotement
+
+niveau 3 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : 1 minute
+
+Lancez un d20 à la fin de chacun de vos tours pour toute la durée du sort. Si le résultat du jet est 11 ou plus, vous disparaissez du plan d'existence actuel et apparaissez dans le plan éthéré (le sort échoue mais l'emplacement de sort est dépensé si vous vous trouvez déjà dans le plan éthéré). Au début de votre prochain tour, ou lorsque le sort prend fin si vous êtes dans le plan éthéré, vous retournez dans un espace inoccupé de votre choix que vous pouvez voir et situé à 3 mètres maximum de l'endroit où vous avez disparu. S'il n'y a aucun espace inoccupé de disponible à portée, vous apparaissez dans l'espace inoccupé le plus proche (choisi aléatoirement si plus d'un espace inoccupé remplissant les conditions est disponible). Vous pouvez annuler ce sort par une action.  
+Lorsque vous êtes dans le plan éthéré, vous pouvez voir et entendre le plan dont vous êtes originaire, qui apparaît en nuances de gris, mais vous ne pouvez voir à plus de 18 mètres. Vous ne pouvez affecter et être affecté que par d'autres créatures du plan éthéré. Les créatures qui n'y sont pas ne peuvent ni vous percevoir ni interagir avec vous, à moins qu'une capacité le leur permette.  
+
+#### Communication à distance
+
+niveau 3 - évocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : illimitée
+
+**Composantes** : V, S, M (un petit morceau de fil de cuivre)
+
+**Durée** : 1 round
+
+Vous faites parvenir un court message de 25 mots ou moins à une créature avec laquelle vous êtes familier. La créature entend le message dans son esprit. Elle vous reconnaît en tant qu'émetteur si elle vous connaît. Et elle peut répondre immédiatement, de la même manière. Le sort permet aux créatures ayant au moins 1 en Intelligence de comprendre le sens du message.  
+Vous pouvez envoyer le message sans égard à la distance, voire sur d'autres plans d'existence. Si la cible est sur un plan différent du vôtre, le message a 5 % de chance de ne pas arriver au destinataire.  
+\column
+#### Communication avec les morts
+
+niveau 3 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 3 mètres
+
+**Composantes** : V, S, M (de l'encens qui brûle)
+
+**Durée** : 10 minutes
+
+Vous accordez un semblant de vie et d'intelligence à un cadavre de votre choix dans la portée du sort, ce qui lui permet de répondre aux questions que vous lui posez. Le cadavre doit encore avoir une bouche et ne peut pas être un mort-vivant. Le sort échoue si le cadavre a été la cible de ce sort durant les 10 derniers jours.  
+Jusqu'à ce que le sort se termine, vous pouvez poser cinq questions au cadavre. Le cadavre ne connaît que ce qu'il savait durant son vivant, y compris les langues. Les réponses sont généralement brèves, énigmatiques ou répétitives, et le cadavre n'est pas obligé de donner une réponse honnête si vous lui êtes hostile ou s'il vous reconnaît comme étant un ennemi. Ce sort ne permet pas le retour de l'âme de la créature à son corps ; il ne fait qu'animer son esprit. Ainsi, le défunt ne peut pas apprendre de nouvelles informations, ne comprend pas tout ce qui s'est passé depuis son trépas et ne peut pas spéculer sur les événements futurs.  
+\page
+#### Communication avec les plantes
+
+niveau 3 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (rayon de 9 mètres)
+
+**Composantes** : V, S
+
+**Durée** : 10 minutes
+
+Vous procurez aux plantes dans un rayon de 9 mètres autour de vous une sensibilité et une animation limitée, leur donnant la capacité de communiquer avec vous et suivre vos ordres simples. Vous pouvez interroger les plantes sur des événements récents qui se sont déroulés dans la zone du sort et récupérer ainsi des informations concernant les créatures qui sont passées par là, les conditions météorologiques ou d'autres situations.  
+Vous pouvez également transformer un terrain difficile, causé par la croissance des plantes (comme des taillis ou des sous-bois), en un terrain ordinaire pour la durée du sort. Ou vous pouvez transformer un terrain ordinaire où des plantes sont présentes, en terrain difficile pour la durée du sort, créant des plantes rampantes ou des branches afin d'entraver des poursuivants, par exemple.  
+Les plantes devraient pouvoir réaliser d'autres tâches pour vous, à la discrétion du MD. Le sort ne permet pas aux plantes de se déraciner pour se déplacer, mais elles peuvent bouger librement leurs branches, vrilles et tiges.  
+Si une créature végétale se situe dans la zone, vous pouvez communiquer avec elle, comme si vous parliez un langage commun, mais vous ne gagnez aucune capacité magique pour l'influencer.  
+Ce sort peut obliger les plantes créées par le sort _[enchevêtrement](https://www.aidedd.org/dnd/sorts.php?vf=enchevetrement)_ à relâcher une créature entravée.  
+
+#### Contresort
+
+niveau 3 - abjuration
+
+**Temps d'incantation** : 1 réaction, que vous prenez lorsque vous voyez une créature à 18 mètres ou moins qui incante un sort.
+
+**Portée** : 18 mètres
+
+**Composantes** : S
+
+**Durée** : instantanée
+
+Vous tentez d'interrompre une créature au moment où elle incante un sort. Si la créature incante un sort de niveau 3 ou inférieur, son sort échoue et il n'a aucun effet. Si elle incante un sort de niveau 4 ou supérieur, effectuez un jet de caractéristique selon celle qui sert à lancer vos sorts. Le DD est de 10 + le niveau du sort. En cas de réussite, le sort de la créature échoue et il n'a aucun effet.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le sort interrompu n'a aucun effet si son niveau est inférieur ou égal à celui du niveau de l'emplacement de sort utilisé.  
+\column
+#### Convocation de démons mineurs
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (une fiole de sang d'humanoïde tué au cours des dernières 24 heures)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous prononcez des mots vulgaires, invoquant des démons du chaos des Abysses. Jetez un dé sur la table suivante pour déterminer ce qui apparaît.  
+
+|d6|Démons invoqués|
+|---|---|
+|1-2|Deux démons de FP 1 ou moins|
+|3-4|Quatre démons de FP 1/2 ou moins|
+|5-6|Huit démons de FP 1/4 ou moins|
+
+  
+Le MD choisit les démons, comme les [mânes](https://www.aidedd.org/dnd/monstres.php?vf=mane) ou les [dretchs](https://www.aidedd.org/dnd/monstres.php?vf=dretch), et vous choisissez les espaces inoccupés que vous pouvez voir à portée où ils apparaissent. Un démon invoqué disparaît lorsqu'il tombe à 0 point de vie ou lorsque le sort se termine.  
+Les démons sont hostiles à toutes les créatures, vous y compris. Lancez l'initiative pour le groupe de démons invoqués ; il a ses propres tours de jeu. Les démons poursuivent et attaquent les non-démons les plus proches au mieux de leurs capacités. Dans le cadre de l'action Lancer un sort, vous pouvez tracer un cercle au sol avec le sang utilisé comme composante matérielle. Le cercle doit être suffisamment grand pour englober votre espace. Tant que le sort dure, les démons invoqués ne peuvent pas traverser le cercle, ni le détruire, ni cibler quelqu'un à l'intérieur du cercle. Utiliser la composante matérielle de cette manière la consomme à la fin du sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou 7, vous invoquez deux fois plus de démons. Si vous le lancez en utilisant un emplacement de sort de niveau 8 ou 9, vous invoquez trois fois plus de démons.  
+\page
+#### Convocation de fée
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (une fleur dorée d'une valeur d'au moins 300 po)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous appelez un esprit de fée. Il apparaît dans un espace inoccupé que vous pouvez voir à portée. Sa forme physique utilise les statistiques d'un [esprit de fée](https://www.aidedd.org/dnd/monstres.php?vf=esprit-de-fee). Lorsque vous lancez le sort, choisissez une humeur : furieuse, joyeuse ou rusée. La créature ressemble à une fée de votre choix correspondant à cette humeur, ce qui détermine certains traits de son bloc de statistique. La créature disparaît lorsque ses points de vie tombent à 0 ou lorsque le sort se termine.  
+La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
+
+#### Convocation de mort-vivant
+
+niveau 3 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (un crâne doré d'une valeur d'au moins 300 po)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous appelez un esprit de mort-vivant. Il apparaît dans un espace inoccupé que vous pouvez voir à portée. Sa forme physique utilise les statistiques d'un [esprit de mort-vivant](https://www.aidedd.org/dnd/monstres.php?vf=esprit-de-mort-vivant). Lorsque vous lancez le sort, choisissez un type : fantôme, putréfié ou squelette. La créature ressemble à un mort-vivant de votre choix correspondant à ce type, ce qui détermine certains traits de son bloc de statistique. La créature disparaît lorsque ses points de vie tombent à 0 ou lorsque le sort se termine.  
+La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
+\column
+#### Convocation de rejeton d'ombre
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (des larmes à l'intérieur d'une gemme d'une valuer d'au moins 300 po)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous appelez un esprit d'ombre. Il apparaît dans un espace inoccupé que vous pouvez voir à portée. Sa forme physique utilise les statistiques d'un [esprit d'ombre](https://www.aidedd.org/dnd/monstres.php?vf=esprit-d-ombre). Lorsque vous lancez le sort, choisissez un type : fureur, désespoir ou peur. La créature ressemble à un rejeton d'ombre de votre choix correspondant à ce type, ce qui détermine certains traits de son bloc de statistique. La créature disparaît lorsque ses points de vie tombent à 0 ou lorsque le sort se termine.  
+La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
+
+#### Création de nourriture et d'eau
+
+niveau 3 - invocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous créez 22,5 kg de nourriture et 120 litres d'eau sur le sol ou dans des contenants, à portée, ce qui est assez pour subvenir aux besoins de quinze humanoïdes ou de cinq montures pour 24 heures. La nourriture est fade mais nourrissante, et se gâte si elle n'est pas mangée au-delà de 24 heures. L'eau est claire et ne croupit pas.  
+\page
+#### Croissance végétale
+
+niveau 3 - transmutation - combinable
+
+**Temps d'incantation** : 1 action ou 8 heures
+
+**Portée** : 45 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Ce sort canalise une force vitale vers les plantes présentes dans une zone spécifique. Il y a deux usages possibles du sort. L'un procure des bénéfices immédiats alors que l'autre s'étale sur un plus long terme.  
+Si vous lancez ce sort en utilisant 1 action, choisissez un point dans la portée du sort. Toutes plantes normales présentes dans un rayon de 30 mètres autour de ce point croissent avec vigueur. Une créature se déplaçant à travers la zone doit consommer 4 mètres de mouvement pour parcourir 1 mètre.  
+Vous pouvez désigner une ou plusieurs zones de dimension variable comme étant exclues de la zone d'effet du sort.  
+Si vous lancez ce sort sur une période de 8 heures, vous enrichissez le sol. Toutes les plantes présentes dans une surface de 400 mètres de rayon centrée sur point dans la portée du sort sont enrichies pour 1 année. Les plantes produisent deux fois plus de nourriture lors de la récolte.  
+
+#### Délivrance des malédictions
+
+niveau 3 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Au contact, toutes les malédictions affligeant une créature ou un objet prennent fin. Si l'objet est un objet magique maudit, la malédiction persiste, mais le sort met un terme au lien entre le propriétaire et l'objet de sorte qu'il peut être retiré ou qu'il peut s'en débarrasser.  
+
+#### Dissipation de la magie
+
+niveau 3 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Choisissez une créature, un objet ou un effet magique dans la portée du sort. Tous les sorts actifs de niveau 3 ou moins sur la cible prennent fin. Pour chaque sort actif de niveau 4 ou plus sur la cible, effectuez un jet de votre caractéristique d'incantation. Le DD est de 10 + le niveau du sort. Si le jet est réussi, le sort prend fin.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les effets d'un sort actif sur la cible prennent automatiquement fin si le niveau du sort est égal ou inférieur au niveau de l'emplacement de sort utilisé.  
+\column
+#### Don des langues
+
+niveau 3 - divination - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, M (une petite pyramide à degrés en argile)
+
+**Durée** : 1 heure
+
+Ce sort confère à la créature que vous touchez la capacité de comprendre toutes les langues parlées qu'elle entend. De plus, lorsque la cible parle, toutes les créatures qui connaissent au moins un langage, et peuvent l'entendre, comprennent ce qu'elle dit.  
+
+#### Éclair
+
+niveau 3 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (ligne de 30 mètres)
+
+**Composantes** : V, S, M (un morceau de fourrure et un bâtonnet d'ambre, de cristal ou de verre)
+
+**Durée** : instantanée
+
+Un rayon de foudre formant une ligne d'une longueur de 30 mètres et d'une largeur de 1,50 mètre jaillit de vous dans la direction de votre choix. Toute créature sur la ligne doit effectuer un jet de sauvegarde de Dextérité, subissant 8d6 dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+L'éclair enflamme les objets inflammables qui ne sont pas portés ou transportés.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Ennemis à foison
+
+niveau 3 - enchantement
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous atteignez l'esprit d'une créature que vous pouvez voir et la forcez à effectuer un jet de sauvegarde d'Intelligence. Une créature réussit automatiquement si elle est immunisée contre l'état effrayé. En cas d'échec à la sauvegarde, la cible perd la capacité de distinguer un ami d'un ennemi, considérant toutes les créatures qu'elle peut voir comme des ennemis jusqu'à la fin du sort. Chaque fois que la cible subit des dégâts, elle peut répéter le jet de sauvegarde, mettant fin à l'effet sur elle-même en cas de réussite.  
+À chaque fois que la créature affectée choisit une autre créature comme cible, elle doit choisir la cible au hasard parmi les créatures qu'elle peut voir à portée de l'attaque, du sort ou de toute autre capacité qu'elle utilise. Si un ennemi provoque une attaque d'opportunité de la part de la créature affectée, la créature doit effectuer cette attaque si elle en est capable.  
+\page
+#### Éruption de terre
+
+niveau 3 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S, M (un morceau d'obsidienne)
+
+**Durée** : instantanée
+
+Choisissez un point au sol que vous pouvez voir dans la portée du sort. Une éruption de roche et de terre éclate dans un cube de 6 mètres d'arête centré sur ce point. Chaque créature dans cette zone effectuer un jet de sauvegarde de Dextérité. Une créature subit 3d12 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. En outre, le terrain dans cette zone devient un terrain difficile jusqu'à qu'il soit déblayé. Chaque case de 1,50 mètre de la zone nécessite au moins 1 minute pour être déblayé à la main.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d12 pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Esprits gardiens
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (rayon de 4,50 mètres)
+
+**Composantes** : V, S, M (un symbole sacré)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous appelez des esprits pour vous protéger. Ils volent dans un rayon de 4,50 mètres autour de vous pendant pour la durée du sort. Si vous êtes bon ou neutre, leur forme spectrale semble angélique ou féerique (à votre choix). Si vous êtes mauvais, ils apparaissent diaboliques ou démoniaques.  
+Lorsque vous lancez ce sort, vous pouvez désigner des créatures que vous pouvez voir pour qu'elles ne soient pas affectées. La vitesse d'une créature affectée est réduite de moitié dans la zone d'effet, et quand la créature entre dans la zone pour la première fois pendant un tour ou commence son tour dans celle-ci, elle doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, la créature prend 3d8 dégâts radiants (si vous êtes bon ou neutre) ou 3d8 dégâts nécrotiques (si vous êtes mauvais). En cas de réussite, la créature prend la moitié de ces dégâts.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
+\column
+#### Étranglement psychique
+niveau 3
+
+**Casting Time:** :: 1 action
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: S, M 
+**Duration:**     :: 1 round
+
+Maintient un ennemi en l’air, inflige 8d6 dégâts de force et l’empêche de respirer (concentration +1d4/t).
+
+#### Flèche de foudre
+
+niveau 3 - transmutation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+La prochaine fois que vous effectuez une attaque à distance avec une arme pendant la durée de ce sort, la munition, ou l'arme elle même si c'est une arme de lancer, se transforme en un éclair de foudre. Effectuez le jet d'attaque normalement. La cible subit, au lieu des dégâts normaux de l'arme, 4d8 dégâts de foudre si le coup touche, ou la moitié de ces dégâts en cas d'échec.  
+Que vous touchiez ou non, chaque créature se trouvant dans un rayon de 3 mètres autour de la cible doit effectuer un jet de sauvegarde de Dextérité. Chacune de ces créatures subit 2d8 dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+La munition, ou l'arme, retrouve ensuite sa forme habituelle.  
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts de chaque effet du sort augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Flèches enflammées
+
+niveau 3 - transmutation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous touchez un carquois contenant des flèches ou des carreaux. Quand une cible est touchée par une attaque à distance avec une arme qui utilise une des munitions provenant du carquois, la cible reçoit 1d6 dégâts de feu supplémentaires. La magie du sort se termine pour une munition donnée lorsque celle-ci touche ou rate, et le sort cesse complètement lorsque douze munitions ont été tirées du carquois.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le nombre de munitions qui peut affecter ce sort augmente de deux pour chaque emplacement supérieur au niveau 3.  
+\page
+#### Forme gazeuse
+
+niveau 3 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (un morceau de gaze et une volute de fumée)
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous transformez une créature consentante que vous touchez, ainsi que tout ce qu'elle porte et transporte, en un nuage brumeux pour la durée du sort. Le sort prend fin si la créature atteint 0 point de vie. Une créature immatérielle n'est pas affectée.  
+Alors qu'elle est dans cet état, la cible ne peut se déplacer que par le vol, à la vitesse de 3 mètres. La cible peut pénétrer et occuper l'espace d'une autre créature. La cible possède une résistance aux dégâts non magiques, et elle a un avantage à ses jets de sauvegarde de Force, Dextérité et Constitution. La cible peut passer par de petits trous, des ouvertures étroites et même par des fissures. Cependant, elle considère les liquides comme des surfaces dures. La cible ne peut chuter et elle se maintient dans les airs même lorsqu'elle est étourdie ou autrement indisposée.  
+Alors qu'elle est dans l'état d'un nuage brumeux, la cible ne peut parler ou manipuler des objets. Les objets qu'elle transportait ou tenait ne peuvent être lâchés ou utilisés de quelconque façon. La cible ne peut attaquer ou lancer des sorts.  
+
+#### Forteresse d'intellect
+
+niveau 3 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Pour la durée du sort, vous ou une créature consentante que vous pouvez voir à portée avez la résistance aux dégâts psychiques, ainsi qu'un avantage aux jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement supérieur au niveau 3. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
+\column
+#### Foulée d'Ashardalon
+
+niveau 3 - transmutation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Des flammes tourbillonnantes jaillissent sous vos pieds tel un souffle de dragon, vous accordant une vitesse explosive. Pour la durée du sort, votre vitesse augmente de 6 mètres et vos déplacements ne provoquent pas d'attaque d'opportunité.  
+Lorsque vous vous déplacez à 1,50 mètre ou moins d'une créature ou d'un objet qui n'est pas porté, celui-ci subit 1d6 dégâts de feu dus à la traînée enflammée que vous laissez sur votre passage. Une créature ou un objet ne peut subir ces dégâts qu'une seule fois par tour.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, votre vitesse augmente de 1,50 mètre et les dégâts infligés augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Foulée tonitruante
+
+niveau 3 - invocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+Vous vous téléportez dans un espace inoccupé que vous pouvez voir à portée. Immédiatement après votre disparition, un boom tonitruant retentit et chaque créature à 3 mètres ou moins de l'espace que vous avez laissé doit effectuer un jet de sauvegarde de Constitution, subissant 3d10 dégâts de tonnerre en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le tonnerre peut être entendu jusqu'à 90 mètres de distance. Vous pouvez emporter des objets tant que leur poids ne dépasse pas ce que vous pouvez transporter. Vous pouvez également téléporter une créature volontaire de votre taille ou plus petite avec du matériel, tant que celui-ci ne dépasse pas sa capacité de charge. La créature doit être à 1,50 mètre ou moins de vous lorsque vous lancez ce sort, et il doit y avoir un espace inoccupé dans un rayon de 1,50 mètre autour de votre espace de destination pour que la créature apparaisse, sinon la créature reste à sa place.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.  
+\page
+#### Fusion dans la pierre
+
+niveau 3 - transmutation (rituel) - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : 8 heures
+
+Vous pénétrez dans un objet en pierre ou une surface suffisamment large pour contenir totalement votre corps, vous fusionnant ainsi que tout l'équipement que vous portez avec la pierre pour la durée du sort. En utilisant votre mouvement, vous pénétrez dans la pierre à l'endroit que vous pouvez toucher. Votre présence n'est en aucun cas visible ou détectable par des sens non magiques.  
+Tant que vous êtes fusionné avec la pierre, vous ne pouvez pas voir ce qui se passe au dehors et avez un désavantage à tous les jets de Sagesse (Perception) que vous effectuez pour entendre des sons produits à l'extérieur. Vous êtes conscient de l'écoulement du temps et pouvez lancer des sorts sur vous-même alors que vous êtes fusionné dans la pierre. Vous pouvez utiliser votre mouvement pour quitter la pierre par l'endroit où vous y êtes entré, ce qui met un terme au sort. Vous ne pouvez pas vous déplacer autrement.  
+De petits dégâts physiques sur la pierre ne vous affectent pas, mais sa destruction partielle ou un changement de sa forme (à condition que vous ne puissiez plus être contenu dedans) vous expulse de la pierre et vous inflige 6d6 dégâts contondants. La destruction complète de la pierre (ou sa transmutation en une autre matière) vous expulse et vous inflige 50 dégâts contondants. Si vous êtes expulsé, vous tombez à terre dans l'espace inoccupé le plus proche de votre point de fusion dans la pierre.  
+
+#### Glyphe de protection
+
+niveau 3 - abjuration
+
+**Temps d'incantation** : 1 heure
+
+**Portée** : contact
+
+**Composantes** : V, S, M (de l'encens et un diamant en poudre valant au moins 200 po, que le sort consomme)
+
+**Durée** : jusqu'à dissipation ou déclenchement
+
+Lorsque vous lancez ce sort, vous inscrivez un glyphe qui peut blesser d'autres créatures, sur une surface (comme une table ou une portion de plancher ou de mur) ou à l'intérieur d'un objet qui peut être fermé (comme un livre, un parchemin ou un coffret) pour dissimuler le glyphe. Le glyphe peut couvrir un espace d'au plus 3 mètres de diamètre. Si la surface ou l'objet est déplacé de plus de 3 mètres d'où vous avez lancé ce sort, le glyphe est cassé et le sort se termine sans avoir été activé.  
+Le glyphe est pratiquement invisible et un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort est requis pour le découvrir.  
+Vous déterminez le déclencheur du glyphe lors de l'incantation du sort. Pour les glyphes inscrits sur une surface, les déclencheurs sont typiquement toucher ou se tenir sur un glyphe, retirer un objet posé sur le glyphe, s'approcher à une certaine distance du glyphe ou manipuler un objet sur lequel est inscrit le glyphe. Pour les glyphes inscrits dans un objet, les déclencheurs sont typiquement ouvrir l'objet, s'approcher à une certaine distance de l'objet, apercevoir ou lire le glyphe. Une fois que le glyphe est déclenché, le sort prend fin.  
+Vous pouvez raffiner les conditions de déclenchement de sorte que le sort s'active uniquement selon certaines circonstances ou selon des attributs physiques (hauteur ou poids), le type de créature (par exemple, seuls les aberrations ou les elfes noirs déclenchent le glyphe) ou l'alignement. Vous pouvez aussi déterminer les conditions pour que certaines créatures ne déclenchent pas le glyphe, en utilisant un mot de passe, par exemple.  
+Lorsque vous inscrivez le glyphe, faites un choix entre les _runes explosives_ ou le _sort glyphique_.  
+**Runes explosives**. Lors de son déclenchement, une énergie magique jaillit du glyphe dans une sphère de 6 mètres de rayon centrée sur le glyphe. La sphère contourne les coins. Chaque créature prise dans la zone doit effectuer un jet de sauvegarde de Dextérité, subissant 5d8 dégâts d'acide, de foudre, de feu, de froid ou de tonnerre (à déterminer lors de la création du glyphe) en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+**Sort glyphique**. Vous pouvez emmagasiner un sort préparé de niveau 3 ou moins dans le glyphe en l'incantant lors de la création du glyphe. Le sort doit cibler une seule créature ou une zone. Le sort emmagasiné n'a pas d'effet immédiat lorsqu'il est incanté de cette façon. Lorsque le glyphe est déclenché, le sort emmagasiné est incanté. Si le sort vise une cible, il visera la créature qui a déclenché le glyphe. Si le sort affecte une zone, la zone est centrée sur cette créature. Si le sort invoque des créatures hostiles ou s'il crée des objets blessants ou des pièges, ils apparaissent aussi près que possible de l'intrus et l'attaquent. Si le sort demande de la concentration, il persiste pour la durée complète du sort.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts des runes explosives augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3. Si vous créez un _sort glyphique_, vous pouvez emmagasiner un sort dont le niveau est équivalent ou moindre à l'emplacement de sort utilisé pour le _glyphe de protection_.  
+\page
+#### Hâte
+
+niveau 3 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (un copeau de racine de réglisse)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Choisissez une créature consentante visible dans la portée du sort. Jusqu'à la fin de la durée du sort, la vitesse de la cible est doublée, elle bénéficie d'un bonus de +2 à la CA, elle a un avantage à ses jets de sauvegarde de Dextérité, et elle obtient une action supplémentaire à chacun de ses tours. Cette action peut être utilisée pour Attaquer (une seule attaque avec une arme), Foncer, Se désengager, Se cacher ou Utiliser un objet.  
+Lorsque le sort prend fin, la cible ne peut plus bouger ou agir jusqu'à la fin de son prochain tour, car une vague de léthargie la submerge.  
+
+#### Image majeure
+
+niveau 3 - illusion - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S, M (un morceau de toison)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous créez l'image d'un objet, d'une créature ou d'un quelconque phénomène visible qui ne déborde pas d'un cube de 6 mètres d'arête. L'image apparait à un endroit visible dans la portée et pour la durée du sort. Elle parait bel et bien réelle, incluant les sons, les odeurs et la température appropriés à la chose montrée. Vous ne pouvez pas créer une chaleur ou un froid suffisamment intense pour infliger des dégâts, un son si fort qu'il inflige des dégâts de tonnerre ou qu'il assourdisse une créature ou bien une odeur qui pourrait rendre une créature malade (comme la puanteur d'un troglodyte).  
+Tant que vous êtes dans la portée de l'illusion, vous pouvez utiliser votre action pour déplacer l'image à un autre endroit dans la portée du sort. Au moment où l'image change d'endroit, vous pouvez modifier son apparence de sorte que le mouvement de l'image semble naturel. Par exemple, en supposant que vous créez l'image d'une créature et que vous la déplacez, vous pouvez changer l'image de telle sorte que la créature semble marcher. De la même manière, vous pouvez faire en sorte que l'illusion génère divers sons à des moments différents. Vous pouvez même simuler une conversation, par exemple.  
+Une interaction physique avec l'image révèle sa nature illusoire puisqu'on peut passer au travers. Une créature qui utilise son action pour examiner l'image peut conclure que c'est une image en réussissant un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si une créature discerne l'illusion pour ce qu'elle est, la créature peut voir à travers l'image et les autres qualités sensorielles de l'image s'évanouissent aux yeux de la créature.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, le sort persiste jusqu'au moment de sa dissipation, sans requérir de concentration.  
+
+#### Invocation d'animaux
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Vous invoquez les esprits des fées qui prennent la forme de bêtes et apparaissent dans des espaces inoccupés à portée que vous pouvez voir. Choisissez ce qui apparaîtra via l'une des options suivantes :  
+• Une bête de FP 2 ou inférieur  
+• Deux bêtes de FP 1 ou inférieur  
+• Quatre bêtes de FP 1/2 ou inférieur  
+• Huit bêtes de FP 1/4 ou inférieur  
+Chaque bête est également considérée comme une fée, et elle disparaît lorsqu'elle tombe à 0 point de vie ou lorsque le sort prend fin. Les créatures invoquées sont amicales envers vous et vos compagnons. Lancez l'initiative pour le groupe de créatures invoquées ; il a ses propres tours de jeu. Elles obéissent aux ordres verbaux que vous leur donnez (aucune action n'est requise de votre part). Si vous ne leur donnez aucun ordre, elles ne font que se défendre contre les créatures qui leur sont hostiles. Le MD possède les statistiques des créatures.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant certains niveaux d'emplacement de sort, vous choisissez l'option d'invocation ci-dessus, et plus de créatures apparaissent : deux fois plus de créatures invoquées avec un emplacement de sort de niveau 5, trois fois plus avec un emplacement de sort de niveau 7, et quatre fois plus avec un emplacement de sort de niveau 9.  
+
+#### Invocation de projectiles
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (cône de 18 mètres)
+
+**Composantes** : V, S, M (une pièce de munition ou une arme de lancer)
+
+**Durée** : instantanée
+
+Vous lancez une arme non magique ou tirez une munition non magique en l'air pour créer un cône d'armes identiques propulsées vers l'avant, qui disparaissent une fois l'autre course terminée. Chaque créature dans un cône de 18 mètres doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le type de dégâts est le même que celui de l'arme ou de la munition utilisée comme composante.  
+\page
+#### Lenteur
+
+niveau 3 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S, M (une goutte de mélasse)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous altérez le temps pour un maximum de six créatures de votre choix dans un cube de 12 mètres d'arête à portée. Chaque cible doit réussir un jet de sauvegarde de Sagesse ou être affectée par le sort pendant sa durée.  
+Une créature affectée voit sa vitesse divisée par deux, subit un malus de -2 à sa CA et à ses jets de sauvegarde de Dextérité et ne peut utiliser de réactions. À son tour, elle ne peut utiliser qu'une action ou une action bonus, pas les deux. Peu importe ses capacités ou objets magiques, la créature ne peut effectuer plus d'une attaque au corps à corps ou à distance pendant son tour.  
+Si la créature tente de lancer un sort qui a un temps d'incantation d'une action, lancer un d20. Sur un résultat supérieur ou égal à 11, le sort ne pourra pas prendre effet avant la fin de son prochain tour et la créature devra utiliser l'action de ce tour pour compléter le sort. Sinon, le sort est perdu.  
+Une créature affectée par ce sort effectue un jet de sauvegarde de Sagesse à la fin de chacun de ses tours. En cas de réussite, les effets du sort prennent fin.  
+
+#### Lueur d'espoir
+
+niveau 3 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Ce sort confère espoir et vitalité. Choisissez des créatures dans la portée du sort. Pour la durée du sort, chaque cible bénéficie d'un avantage à ses jets de sauvegarde de Sagesse et à ses jets de sauvegarde contre la mort. Elle récupère aussi le maximum de points de vie lors d'une guérison.  
+
+#### Lumière du jour
+
+niveau 3 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S
+
+**Durée** : 1 heure
+
+Une sphère de lumière de 18 mètres de rayon jaillit d'un point choisi dans la portée du sort. La sphère est composée de lumière vive et elle émet une lumière faible sur 18 mètres supplémentaires.  
+Si vous choisissez un point sur un objet que vous tenez ou sur un objet qui n'est pas porté ou transporté, la lumière émane de cet objet et se déplace avec lui. En recouvrant complètement l'objet affecté avec un objet opaque, comme un bol ou un casque, la lumière est bloquée.  
+Si une portion de la zone du sort chevauche une zone de ténèbres créée par un sort de niveau 3 ou moindre, le sort qui génère les ténèbres est dissipé.  
+
+#### Malédiction
+
+niveau 3 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous touchez une créature, elle doit alors réussir un jet de sauvegarde de Sagesse sous peine d'être affligée d'une malédiction pour toute la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options qui suivent :  
+• Choisissez une valeur de caractéristique. Tant qu'elle est maudite, la cible a un désavantage à ses jets de caractéristique et de sauvegarde effectués avec la caractéristique en question.  
+• Tant qu'elle est maudite, la cible a un désavantage aux jets d'attaque qu'elle effectue contre vous.  
+• Tant qu'elle est maudite, la cible doit effectuer un jet de sauvegarde de Sagesse au début de chacun de ses tours. En cas d'échec, elle gaspille l'action de son tour à ne rien faire.  
+• Tant que la cible est maudite, vos attaques et sorts lui infligent 1d8 dégâts nécrotiques supplémentaires.  
+Un sort de _[délivrance des malédictions](https://www.aidedd.org/dnd/sorts.php?vf=delivrance-des-maledictions)_ met fin à cet effet. À la discrétion du MD, vous pouvez choisir une autre option de malédiction que celles présentées, mais elle ne devrait pas être plus puissante que celles-ci-dessus. Le MD a le dernier mot concernant l'effet de la malédiction.  
+**_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, la durée de concentration maximale monte à 10 minutes. Si vous utilisez un emplacement de sort de niveau 5 ou supérieur, le sort dure 8 heures. Si vous utilisez un emplacement de sort de niveau 7 ou supérieur, le sort dure 24 heures. Si vous utilisez un emplacement de sort de niveau 9, le sort dure jusqu'à ce qu'il soit dissipé. Utiliser un emplacement de sort de niveau 5 ou supérieur permet de s'affranchir de la concentration en ce qui concerne la durée du sort.  
+\page
+#### Marche sur l'eau
+
+niveau 3 - transmutation (rituel) - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (un morceau de liège)
+
+**Durée** : 1 heure
+
+Le sort attribue la capacité de se déplacer sur toute surface liquide (eau, acide, boue, neige, sables mouvants, lave, etc.) comme si c'était un sol dur. Les créatures qui traversent de la lave en fusion subissent tout de même les dégâts dus à la chaleur. Jusqu'à dix créatures consentantes et que vous pouvez voir dans la portée du sort obtiennent cette capacité pour la durée du sort.  
+Si vous ciblez une créature submergée dans un liquide, le sort déplace la cible vers la surface du liquide à une vitesse de 18 mètres par round.  
+
+#### Minuscules météores de Melf
+
+niveau 3 - évocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S, M (du salpêtre, du soufre et du goudron de pin sous forme de bille)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous créez six météores minuscules dans votre espace. Ils flottent dans l'air et orbitent autour de vous pour la durée du sort. Quand vous lancez le sort (et au prix d'une action bonus à chacun de vos tours par la suite) vous pouvez utiliser un ou deux des météores et les envoyer vers un point ou des points que vous choisissez dans un rayon de 36 mètres autour de vous. Lorsque qu'un météore a atteint sa destination ou percute une surface solide, il explose. Chaque créature dans un rayon de 1,50 mètre autour du point d'impact du météore doit faire un jet de sauvegarde de Dextérité, subissant 2d6 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le nombre de météores créés augmente de deux pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Monture fantôme
+
+niveau 3 - illusion (rituel)
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : 1 heure
+
+Une créature semi-réelle de taille G ressemblant à un cheval apparaît, à portée, sur le sol dans un espace inoccupé de votre choix. Vous décidez de l'apparence de la créature, elle est cependant équipée d'une selle, de mors et d'une bride. Tout l'équipement créé grâce à ce sort disparaît dans un nuage de fumée s'il est éloigné à plus de 3 mètres de la monture.  
+Pour toute la durée du sort, vous, ou une créature de votre choix, pouvez chevaucher la monture. La créature utilise les statistiques d'un [cheval de selle](https://www.aidedd.org/dnd/monstres.php?vf=cheval-de-selle), à l'exception de sa vitesse de déplacement qui est de 30 mètres, il peut également parcourir 15 km en une heure, ou 20 km s'il voyage à un rythme rapide. Lorsque le sort prend fin, la monture disparaît progressivement, donnant 1 minute à son cavalier pour mettre pied à terre. Le sort se termine si vous utilisez votre action pour le dissiper ou si la monture subit des dégâts.  
+
+#### Mort simulée
+
+niveau 3 - nécromancie (rituel)
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une pincée de terre prélevée sur une tombe)
+
+**Durée** : 1 heure
+
+Vous touchez une créature consentante et la plongez dans un état cataleptique impossible à différencier de la mort.  
+Pour toute la durée du sort, ou jusqu'à ce que vous utilisiez une action pour toucher la cible et annuler le sort, la cible passe pour morte auprès de toute personne ne faisant pas une inspection approfondie ou face à des sorts censés donner l'état de santé de la cible. La cible est incapable d'agir et aveuglée, sa vitesse de déplacement tombe à 0. La cible obtient la résistance à tous les types de dégâts, à l'exception des dégâts psychiques. Si la cible est malade ou empoisonnée lorsque vous lancez ce sort, ou tombe malade ou empoisonnée alors qu'elle est déjà soumise à ce sort, la maladie ou le poison n'ont aucun effet jusqu'à ce que ce sort prenne fin.  
+
+#### Mot de guérison de groupe
+
+niveau 3 - évocation
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : 18 mètres
+
+**Composantes** : V
+
+**Durée** : instantanée
+
+À mesure que vous évoquez des paroles de rétablissement, jusqu'à six créatures visibles de votre choix récupèrent un nombre de points de vie égal à 1d4 + le modificateur de votre caractéristique d'incantation. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les points de vie récupérés augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 3.  
+\page
+#### Motif hypnotique
+
+niveau 3 - illusion
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une substance phosphorescente)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous créez des lueurs de couleurs changeantes qui emplissent les airs dans un cube de 9 mètres d'arête à portée. Les lueurs apparaissent pendant un moment et disparaissent. Chaque créature dans la zone d'effet qui voit les lueurs doit faire un jet de sauvegarde de Sagesse. Si elle échoue, la créature est charmée pour la durée du sort. Tant qu'elle est charmée par ce sort, la créature est incapable d'agir et a une vitesse égale à 0. Le sort prend fin pour une créature charmée si elle subit des dégâts ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.  
+
+#### Mur d'eau
+
+niveau 3 - évocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 18 mètres
+
+**Composantes** : V, S, M (une goutte d'eau)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous créez un mur d'eau sur le sol, à un point que vous pouvez voir à portée. Vous pouvez créer un mur mesurant jusqu'à 9 mètres de long, 3 mètres de haut et 30 cm d'épaisseur, ou vous pouvez faire un mur circulaire mesurant jusqu'à 6 mètres de diamètre, 6 mètres de haut et 30 cm d'épaisseur. Le mur disparaît quand le sort se termine. L'espace occupé par le mur est un terrain difficile.  
+Toute attaque à distance avec une arme qui entre dans l'espace du mur à un désavantage au jet d'attaque, et tous les dégâts de feu sont réduits de moitié si l'effet de feu traverse le mur pour atteindre son objectif. Les sorts infligeant des dégâts de froid qui traversent la paroi transforment en glace solide la zone du mur impactée (au minimum un carré de 1,50 mètre est gelé). Chaque section gelée de 1,50 mètre de côté a 15 pv et une CA de 5. Réduire les points de vie d'une section gelée à 0 la détruit. Lorsqu'une section est détruite, l'eau du mur ne le remplit pas.  
+
+#### Mur de sable
+
+niveau 3 - évocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (une poignée de sable)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous créez un mur de sable tourbillonnant sur le sol à un point que vous pouvez voir à portée. Vous pouvez créer un mur mesurant jusqu'à 9 mètres de long, 3 mètres de haut et 3 mètres d'épaisseur, qui disparaîtra à la fin du sort. Il bloque la ligne de vue, mais pas le déplacement. Une créature est aveuglée tant qu'elle se trouve dans l'espace occupé par le mur et doit dépenser 3 mètres de mouvement pour 1 mètre parcouru dans celui-ci.  
+
+#### Mur de vent
+
+niveau 3 - évocation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S, M (un minuscule éventail et une plume d'oiseau exotique)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Un mur de puissants vents s'élève du sol à un endroit de votre choix. Vous pouvez créer un mur pouvant faire, au mieux, 15 mètres de long, 4,50 mètres de haut et 30 cm d'épaisseur. Vous pouvez donner au mur la forme que vous souhaitez, à condition qu'il soit continuellement en contact avec le sol. Le mur reste en place pour toute la durée du sort.  
+Lorsque le mur apparaît, chaque créature se trouvant dans la zone doit effectuer un jet de sauvegarde de Force. Une créature subit 3d8 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
+Le vent violent garde les brumes, brouillards, et autres gaz éloignés. Les objets et créatures volants de taille P ou inférieure ne peuvent pas passer au travers du mur. S'ils ne sont pas tenus ou fixés, les objets légers amenés dans le mur s'envolent. Les flèches, carreaux et autres projectiles ordinaires tirés en direction de cibles situées de l'autre côté du mur sont détournés et automatiquement perdus (les rochers projetés par des géants ou des engins de siège, ou tout autre projectile similaire, ne sont pas affectés). Les créatures sous forme gazeuse ne peuvent pas traverser le mur de vent.  
+
+#### Nuage nauséabond
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 27 mètres
+
+**Composantes** : V, S, M (un œuf pourri ou plusieurs feuilles de chou puant)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous créez une sphère de gaz jaune nauséabond de 6 mètres de rayon, centrée sur un point à portée. Le nuage se propage dans tous les coins et la visibilité de la zone est fortement réduite. Le nuage persiste dans l'air pour la durée du sort.  
+Chaque créature totalement dans le nuage au début de son tour doit effectuer un jet de sauvegarde de Constitution contre le poison. En cas d'échec, la créature est prise de nausées et chancelle, perdant ainsi son action. Les créatures qui n'ont pas besoin de respirer ou qui sont immunisées contre le poison réussissent automatiquement leur jet de sauvegarde.  
+Un vent modéré (d'au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (d'au moins 30 km/h) le disperse après 1 round.  
+\page
+#### Onde télékinétique
+niveau 3 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: M, S, V 
+**Duration:**     :: 1 round
+
+Repousse toutes les créatures dans un rayon de 6 m et inflige 3d6 dégâts de force + dégât de chut.
+**Aux niveaux supérieur** ::+1m/lv de joueur
+
+#### Petite hutte de Léomund
+
+niveau 3 - évocation (rituel)
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : personnelle (hémisphère de 3 mètres de rayon)
+
+**Composantes** : V, S, M (une petite perle de cristal)
+
+**Durée** : 8 heures
+
+Un dôme immobile de 3 mètres de rayon apparaît autour et au-dessus de vous et reste à cet endroit, immobile, jusqu'à la fin du sort. Le sort prend fin si vous quittez cette zone.  
+Neuf créatures de taille M ou inférieure peuvent tenir sous le dôme avec vous. Le sort échoue si la zone contient une créature plus grande ou plus de neuf créatures. Les créatures et objets qui se trouvent sous le dôme lorsque vous lancez ce sort peuvent en sortir et y rentrer librement. Toutes les autres créatures et objets sont bloqués et ne peuvent le traverser. Les sorts et effets magiques, lancés de l'intérieur ou de l'extérieur du dôme, ne peuvent pas non plus passer au travers. L'atmosphère dans la zone est confortable et sec, quel que soit le climat extérieur.  
+Jusqu'à ce que le sort prenne fin, vous pouvez faire en sorte que l'intérieur du dôme soit faiblement éclairé voire plongé dans les ténèbres. Le dôme est opaque depuis l'extérieur, de la couleur de votre choix, mais il est transparent depuis l'intérieur.  
+
+#### Peur
+
+niveau 3 - illusion
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle (cône de 9 mètres)
+
+**Composantes** : V, S, M (une plume blanche ou le cœur d'une poule)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous projetez une image fantasmatique des pires craintes d'une créature. Chaque créature dans un cône de 9 mètres doit réussir un jet de sauvegarde de Sagesse sous peine de lâcher ce qu'elle tient et être effrayée pour la durée du sort. Tant qu'elle est effrayée par ce sort, la créature doit utiliser l'action Foncer et s'éloigner de vous par le chemin disponible le plus sûr, et ce à chacun de ses tours, à moins qu'elle n'ait nulle part où aller. Si la créature termine son tour à un endroit où il n'y a aucune ligne de mire entre elle et vous, la créature peut effectuer un jet de sauvegarde de Sagesse. En cas de réussite, le sort prend fin pour cette créature.  
+
+#### Protection contre une énergie
+
+niveau 3 - abjuration
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 heure
+
+Pour la durée du sort, une créature consentante que vous touchez bénéficie d'une résistance à un type de dégâts de votre choix : acide, froid, feu, foudre ou tonnerre.  
+
+#### Raz-de-marée
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 36 mètres
+
+**Composantes** : V, S, M (une goutte d'eau)
+
+**Durée** : instantanée
+
+Vous conjurez une vague d'eau qui s'écrase sur une zone à portée. La zone peut mesurer jusqu'à 9 mètres de long, 3 mètres de large et 3 mètres de haut. Chaque créature dans la portée du sort doit faire un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit 4d8 dégâts contondants et tombe à terre. En cas de réussite, la créature subit la moitié de ces dégâts et ne tombe pas à terre. L'eau se propage ensuite à travers le sol dans toutes les directions, éteignant toute flamme non protégée dans sa zone et dans les 9 mètres autour, puis disparait.  
+
+#### Respiration aquatique
+
+niveau 3 - transmutation (rituel) - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S, M (un court roseau ou un morceau de paille)
+
+**Durée** : 24 heures
+
+Ce sort procure à un maximum de dix créatures consentantes, à portée et que vous pouvez voir, la capacité de respirer sous l'eau jusqu'à la fin de sa durée. Les créatures affectées conservent également leur mode de respiration normal.  
+
+#### Retour à la vie
+
+niveau 3 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (des diamants valant au moins 300 po, que le sort consomme)
+
+**Durée** : instantanée
+
+Vous touchez une créature morte depuis au plus une minute. Cette créature revient à la vie avec 1 point de vie. Ce sort ne peut ni ramener à la vie une créature morte de vieillesse ni restaurer des parties perdues du corps.  
+\page
+#### Serviteur miniature
+
+niveau 3 - transmutation
+
+**Temps d'incantation** : 1 minute
+
+**Portée** : contact
+
+**Composantes** : V, S
+
+**Durée** : 8 heures
+
+Vous touchez un objet non-magique de taille et qui n'est pas attaché à un autre objet ou à une surface et n'est pas porté ou transporté par une autre créature. La cible s'anime, des jambes et des bras tout petits poussent de chaque côté de celle-ci, et elle devient une créature sous votre contrôle jusqu'à ce que le sort se termine ou que les points de vie de la créature tombent à 0. La créature utilise les statistiques du [serviteur miniature](https://www.aidedd.org/dnd/monstres.php?vf=serviteur-miniature).  
+Par une action bonus, vous pouvez mentalement donner un ordre à la créature si elle se trouve dans un rayon de 36 mètres (si vous contrôlez plusieurs créatures avec ce sort, vous pouvez donner un ordre individuel ou à l'ensemble des créatures). Vous décidez de l'action de la créature et de son déplacement durant son prochain tour, ou vous pouvez lancer un ordre général, comme d'aller chercher une clé, de tenir la garde ou de ranger des livres. Si vous ne lui donnez pas d'ordre, le serviteur reste inactif et se défend uniquement contre les créatures qui lui sont hostiles. Le serviteur suit votre ordre jusqu'à son accomplissement.  
+Lorsqu'il tombe à 0 point de vie, il retourne à sa forme d'origine en conservant les dégâts physiques qu'il a pu subir.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous pouvez animer jusqu'à deux cadavres supplémentaires pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Sieste
+
+niveau 3 - enchantement - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : S, M (une pincée de sable)
+
+**Durée** : 10 minute
+
+Vous faites un geste apaisant et jusqu'à trois créatures volontaires de votre choix que vous pouvez voir à portée tombent inconscientes pour la durée du sort. Le sort se termine de manière anticipée pur un cible si elle subit des dégâts ou si quelqu'un utilise une action pour la secouer ou la réveiller. Si une cible reste inconsciente pendant toute la durée du sort, elle bénéficie des effets d'un repos court. Elle ne peut plus être affectée par ce sort tant qu'elle n'a pas terminé un repos long.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous pouvez cibler une créature volontaire supplémentaire pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Tempête de neige
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 45 mètres
+
+**Composantes** : V, S, M (une pincée de poussière et quelques gouttes d'eau)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Tant que le sort persiste, une pluie glacée et de la neige tombent dans un cylindre de 6 mètres de hauteur avec un rayon de 12 mètres, centré sur un point déterminé dans la portée du sort. La visibilité dans la zone est nulle et les flammes nues dans la zone sont éteintes.  
+Le sol dans la zone est couvert de glace glissante, rendant le terrain difficile. Lorsqu'une créature pénètre dans la zone du sort pour la première fois d'un tour ou lorsqu'elle y débute son tour, elle doit réussir un jet de sauvegarde de Dextérité ou tomber à terre.  
+Si une créature commence son tour dans la zone d'effet du sort tout en étant concentrée sur un sort, elle doit réussir un jet de sauvegarde de Constitution contre le DD de sauvegarde de votre sort, sans quoi elle perd sa concentration.  
+
+#### Toucher du vampire
+
+niveau 3 - nécromancie
+
+**Temps d'incantation** : 1 action
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Le contact de votre main nimbée d'ombres peut aspirer la force vitale des autres et soigner vos plaies. Effectuez une attaque au corps à corps avec un sort contre une créature à votre portée. Si vous touchez, la cible subit 3d6 dégâts nécrotiques, et vous récupérez un nombre de points de vie égal à la moitié des dégâts nécrotiques infligés. Jusqu'à la fin du sort, vous pouvez attaquer de nouveau à chacun de vos tours en utilisant une action.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
+\page
+#### Transfert de vie
+
+niveau 3 - nécromancie - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 9 mètres
+
+**Composantes** : V, S
+
+**Durée** : instantanée
+
+Vous sacrifiez une partie de votre santé pour soigner les blessures d'une autre créature. Vous subissez 4d8 dégâts nécrotiques, qui ne peuvent être diminués d'aucune manière [E], et une créature de votre choix que vous pouvez voir à portée récupère un nombre de points de vie égal à deux fois les dégâts nécrotiques que vous avez perdus.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Voile spirituel
+
+niveau 3 - nécromancie
+
+**Temps d'incantation** : 1 action bonus
+
+**Portée** : personnelle
+
+**Composantes** : V, S
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous appelez des esprits de la mort qui flottent autour de vous pour la durée du sort. Les esprits sont intangibles et invulnérables. Jusqu'à la fin du sort, chaque attaque que faites cause 1d8 dégâts supplémentaires lorsque vous touchez une créature à 3 mètres ou moins de vous. Les dégâts peuvent être de type radiant, nécrotique ou froid (vous choisissez lors de l'incantation de ce sort). Chaque créature qui subit des dégâts de cette façon ne peut récupérer de point de vie jusqu'à la fin de votre prochain tour.  
+De plus, chaque créature de votre choix que vous pouvez voir et qui commence son tour dans un rayon de 3 mètres autour de vous voit sa vitesse réduite à 3 mètres jusqu'à la fin de votre prochain tour.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts infligés augmentent de 1d8 pour chaque niveau au-delà du niveau 3.  
+
+#### Vol
+
+niveau 3 - transmutation - combinable
+
+**Temps d'incantation** : 1 action
+
+**Portée** : contact
+
+**Composantes** : V, S, M (une plume d'aile d'oiseau)
+
+**Durée** : concentration, jusqu'à 10 minutes
+
+Vous touchez une créature consentante. La cible obtient une vitesse de vol de 18 mètres pour la durée du sort. Lorsque le sort prend fin, la cible tombe si elle est toujours dans les airs, sauf si elle peut empêcher la chute.  
+**_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous pouvez cibler une créature additionnelle pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+#### Voracité de Hadar
+
+niveau 3 - invocation
+
+**Temps d'incantation** : 1 action
+
+**Portée** : 45 mètres
+
+**Composantes** : V, S, M (un tentacule de pieuvre mariné)
+
+**Durée** : concentration, jusqu'à 1 minute
+
+Vous ouvrez une passerelle dans l'obscurité qui règne entre les étoiles, vers une région infestée d'horreurs inconnues. Une sphère de ténèbres et de froid mordant de 6 mètres de rayon apparaît, centrée sur un point à portée et reste en place pour toute la durée du sort. Ce néant est empli d'une cacophonie de faibles murmures et de bruits d'aspiration qui peut être entendue à 9 mètres à la ronde. Aucune lumière, magique comme naturelle, ne peut illuminer la zone, et les créatures qui se trouvent complètement dans la zone sont aveuglées.  
+Le néant altère et déforme la trame de l'espace, la zone est alors considérée comme un terrain difficile. Toute créature qui commence son tour dans la zone subit 2d6 dégâts de froid. Toute créature qui termine son tour dans la zone doit effectuer un jet de sauvegarde de Dextérité, subissant 2d6 dégâts d'acide du fait des tentacules laiteuses venant de l'autre monde qui se frottent contre elle en cas d'échec.
+
+{{pageNumber $[HB_pageNumber]}}
+
+{{footnote Les Sorts : niveau 2 - 3}}
+\page
 
 ## Niveau 4
 

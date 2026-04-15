@@ -484,7 +484,7 @@ Inverse la gravité dans une zone de 20m de diamètre, le joueur est impacté ou
 **Components:**   :: V, M, S 
 **Duration:**     :: -
 
-Tu matérialises une masse d’énergie pure qui frappe un point précis.
+Matérialises une masse d’énergie pure qui frappe un point précis.
 Toutes les créatures dans un rayon de 3 m subissent 6d10 dégâts de force (jet de DEX pour moitié).
 
 Les objets non ancrés sont projetés à 6 m.

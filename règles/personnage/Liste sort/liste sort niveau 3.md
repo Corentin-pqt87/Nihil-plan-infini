@@ -1,4 +1,6 @@
-# Animation des morts
+## niveau 3
+
+#### Animation des morts
 
 niveau 3 - nécromancie
 
@@ -15,7 +17,7 @@ Ce sort crée un serviteur mort-vivant. Choisissez un tas d'ossements ou le cada
 La créature est sous votre contrôle pour une période de 24 heures, à la fin de quoi elle cesse d'obéir à votre commandement. Pour maintenir le contrôle de la créature pour 24 heures supplémentaires, vous devez incanter ce sort sur la créature avant la fin de la période actuelle de 24 heures. L'usage de ce sort réaffirme votre contrôle sur 4 créatures ou moins animées par ce sort, plutôt que d'en animer une nouvelle.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous animez ou réaffirmez votre contrôle sur deux créatures mortes-vivantes additionnelles pour chaque niveau d'emplacement au-delà du niveau 3. Chaque créature doit provenir d'un cadavre ou d'un tas d'ossements différent.  
 
-# Antidétection
+#### Antidétection
 
 niveau 3 - abjuration - combinable
 
@@ -29,7 +31,7 @@ niveau 3 - abjuration - combinable
 
 Pour la durée du sort, vous cachez une cible que vous touchez de la divination magique. La cible peut être une créature consentante, un endroit ou un objet ne faisant pas plus de 3 mètres dans toutes les dimensions. La cible ne peut pas être ciblée par quelque divination magique que ce soit ou perçue grâce à des objets de détection magique.  
 
-# Appel de la foudre
+#### Appel de la foudre
 
 niveau 3 - invocation
 
@@ -46,7 +48,7 @@ Lorsque vous incantez le sort, choisissez un point visible sous le nuage. Un éc
 Si vous êtes en extérieur et dans des conditions orageuses lors de l'incantation de ce sort, le sort vous permet de contrôler l'orage plutôt que d'en créer un nouveau. Dans ces conditions, les dégâts du sort augmentent de 1d10.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Armes dansantes
+#### Armes dansantes
 niveau 3
 
 **Casting Time:** :: 1 action
@@ -56,7 +58,7 @@ niveau 3
 
 Tu manipules 2 armes à distance qui attaquent comme si tu les brandissais (arme de corp a corp) 5 tours.
 
-# Arme élémentaire
+#### Arme élémentaire
 
 niveau 3 - transmutation - combinable
 
@@ -71,7 +73,7 @@ niveau 3 - transmutation - combinable
 Une arme non magique que vous touchez devient une arme magique. Choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre ou tonnerre. Pour la durée du sort, l'arme obtient un bonus de +1 aux jets d'attaque et inflige 1d4 dégâts supplémentaires, du type que vous avez choisi, lorsqu'elle touche.  
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou 6, le bonus aux jets d'attaque monte à +2 et les dégâts supplémentaires montent à 2d4. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le bonus monte à +3 et les dégâts supplémentaires à 3d4.  
 
-# Ascension forcée
+#### Ascension forcée
 niveau 3 - combinable
 
 **Casting Time:** :: 1 action
@@ -82,7 +84,7 @@ niveau 3 - combinable
 Soulève un ennemi de taille (M ou moins) de 6 m de haut.
 **Aux niveaux supérieur** ::+2m/lv de sort
 
-# Aura de vitalité
+#### Aura de vitalité
 
 niveau 3 - évocation
 
@@ -96,7 +98,7 @@ niveau 3 - évocation
 
 Une énergie régénératrice irradie de vous en une aura de 9 mètres de rayon. Jusqu'à la fin du sort, l'aura, centrée sur vous, se déplace en même temps que vous. Vous pouvez utiliser une action bonus pour qu'une créature présente dans l'aura (vous y compris) récupère 2d6 points de vie.  
 
-# Aura du croisé
+#### Aura du croisé
 
 niveau 3 - évocation
 
@@ -110,7 +112,7 @@ niveau 3 - évocation
 
 Un pouvoir sacré irradie de vous sous la forme d'une aura de 9 mètres de rayon, réveillant la hardiesse des créatures amicales. Jusqu'à la fin du sort, l'aura se déplace en même temps que vous, centrée sur vous. Toute créature dans l'aura qui ne vous est pas hostile (y compris vous-même) inflige 1d4 dégâts radiants supplémentaires lorsqu'elle touche avec une attaque avec une arme.  
 
-# Boule de feu
+#### Boule de feu
 
 niveau 3 - évocation
 
@@ -126,7 +128,7 @@ Une éclatante traînée lumineuse est émise de la pointe de votre doigt vers u
 Le feu contourne les coins. Il enflamme les objets inflammables qui ne sont pas portés ou transportés.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Cercle magique
+#### Cercle magique
 
 niveau 3 - abjuration - combinable
 
@@ -146,7 +148,7 @@ Choisissez un ou plusieurs types de créatures parmi les suivants : céleste, é
 Lorsque vous lancez ce sort, vous pouvez décider que la magie fonctionne en sens inverse, empêchant alors les créatures du type spécifié de quitter le cylindre et protégeant les cibles se trouvant au dehors.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort niveau 4 ou supérieur, la durée augmente de 1 heure pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Châtiment aveuglant
+#### Châtiment aveuglant
 
 niveau 3 - évocation
 
@@ -161,7 +163,7 @@ niveau 3 - évocation
 La prochaine fois que vous touchez une créature avec une attaque au corps à corps avec une arme durant la durée du sort, votre arme rayonne d'une vive lumière, et l'attaque inflige à la cible 3d8 dégâts radiants supplémentaires. De plus, la cible doit réussir un jet de sauvegarde de Constitution sous peine d'être aveuglée jusqu'à la fin du sort.  
 Une créature aveuglée par ce sort effectue un nouveau jet de sauvegarde de Constitution à la fin de chacun de ses tours. Sur un jet de sauvegarde réussi, elle n'est plus aveuglée.  
 
-# Clairvoyance
+#### Clairvoyance
 
 niveau 3 - divination - combinable
 
@@ -177,7 +179,7 @@ Vous créez un détecteur invisible, à portée, dans une zone qui vous est fami
 Lorsque vous lancez le sort, vous choisissez de voir ou d'entendre. Vous pouvez utiliser le sens choisi au travers du détecteur comme si vous étiez à sa place. En utilisant votre action, vous pouvez alterner entre la vue et l'audition via le détecteur.  
 Une créature qui peut voir le détecteur (comme une créature bénéficiant du sort _[voir l'invisible](https://www.aidedd.org/dnd/sorts.php?vf=voir-l-invisible)_ ou de vision véritable) voit un orbe lumineux et intangible de la taille de votre poing.  
 
-# Clignotement
+#### Clignotement
 
 niveau 3 - transmutation
 
@@ -192,7 +194,7 @@ niveau 3 - transmutation
 Lancez un d20 à la fin de chacun de vos tours pour toute la durée du sort. Si le résultat du jet est 11 ou plus, vous disparaissez du plan d'existence actuel et apparaissez dans le plan éthéré (le sort échoue mais l'emplacement de sort est dépensé si vous vous trouvez déjà dans le plan éthéré). Au début de votre prochain tour, ou lorsque le sort prend fin si vous êtes dans le plan éthéré, vous retournez dans un espace inoccupé de votre choix que vous pouvez voir et situé à 3 mètres maximum de l'endroit où vous avez disparu. S'il n'y a aucun espace inoccupé de disponible à portée, vous apparaissez dans l'espace inoccupé le plus proche (choisi aléatoirement si plus d'un espace inoccupé remplissant les conditions est disponible). Vous pouvez annuler ce sort par une action.  
 Lorsque vous êtes dans le plan éthéré, vous pouvez voir et entendre le plan dont vous êtes originaire, qui apparaît en nuances de gris, mais vous ne pouvez voir à plus de 18 mètres. Vous ne pouvez affecter et être affecté que par d'autres créatures du plan éthéré. Les créatures qui n'y sont pas ne peuvent ni vous percevoir ni interagir avec vous, à moins qu'une capacité le leur permette.  
 
-# Communication à distance
+#### Communication à distance
 
 niveau 3 - évocation - combinable
 
@@ -207,7 +209,7 @@ niveau 3 - évocation - combinable
 Vous faites parvenir un court message de 25 mots ou moins à une créature avec laquelle vous êtes familier. La créature entend le message dans son esprit. Elle vous reconnaît en tant qu'émetteur si elle vous connaît. Et elle peut répondre immédiatement, de la même manière. Le sort permet aux créatures ayant au moins 1 en Intelligence de comprendre le sens du message.  
 Vous pouvez envoyer le message sans égard à la distance, voire sur d'autres plans d'existence. Si la cible est sur un plan différent du vôtre, le message a 5 % de chance de ne pas arriver au destinataire.  
 
-# Communication avec les morts
+#### Communication avec les morts
 
 niveau 3 - nécromancie
 
@@ -222,7 +224,7 @@ niveau 3 - nécromancie
 Vous accordez un semblant de vie et d'intelligence à un cadavre de votre choix dans la portée du sort, ce qui lui permet de répondre aux questions que vous lui posez. Le cadavre doit encore avoir une bouche et ne peut pas être un mort-vivant. Le sort échoue si le cadavre a été la cible de ce sort durant les 10 derniers jours.  
 Jusqu'à ce que le sort se termine, vous pouvez poser cinq questions au cadavre. Le cadavre ne connaît que ce qu'il savait durant son vivant, y compris les langues. Les réponses sont généralement brèves, énigmatiques ou répétitives, et le cadavre n'est pas obligé de donner une réponse honnête si vous lui êtes hostile ou s'il vous reconnaît comme étant un ennemi. Ce sort ne permet pas le retour de l'âme de la créature à son corps ; il ne fait qu'animer son esprit. Ainsi, le défunt ne peut pas apprendre de nouvelles informations, ne comprend pas tout ce qui s'est passé depuis son trépas et ne peut pas spéculer sur les événements futurs.  
 
-# Communication avec les plantes
+#### Communication avec les plantes
 
 niveau 3 - transmutation
 
@@ -240,7 +242,7 @@ Les plantes devraient pouvoir réaliser d'autres tâches pour vous, à la discr�
 Si une créature végétale se situe dans la zone, vous pouvez communiquer avec elle, comme si vous parliez un langage commun, mais vous ne gagnez aucune capacité magique pour l'influencer.  
 Ce sort peut obliger les plantes créées par le sort _[enchevêtrement](https://www.aidedd.org/dnd/sorts.php?vf=enchevetrement)_ à relâcher une créature entravée.  
 
-# Contresort
+#### Contresort
 
 niveau 3 - abjuration
 
@@ -255,7 +257,7 @@ niveau 3 - abjuration
 Vous tentez d'interrompre une créature au moment où elle incante un sort. Si la créature incante un sort de niveau 3 ou inférieur, son sort échoue et il n'a aucun effet. Si elle incante un sort de niveau 4 ou supérieur, effectuez un jet de caractéristique selon celle qui sert à lancer vos sorts. Le DD est de 10 + le niveau du sort. En cas de réussite, le sort de la créature échoue et il n'a aucun effet.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le sort interrompu n'a aucun effet si son niveau est inférieur ou égal à celui du niveau de l'emplacement de sort utilisé.  
 
-# Convocation de démons mineurs
+#### Convocation de démons mineurs
 
 niveau 3 - invocation
 
@@ -280,7 +282,7 @@ Le MD choisit les démons, comme les [mânes](https://www.aidedd.org/dnd/monstr
 Les démons sont hostiles à toutes les créatures, vous y compris. Lancez l'initiative pour le groupe de démons invoqués ; il a ses propres tours de jeu. Les démons poursuivent et attaquent les non-démons les plus proches au mieux de leurs capacités. Dans le cadre de l'action Lancer un sort, vous pouvez tracer un cercle au sol avec le sang utilisé comme composante matérielle. Le cercle doit être suffisamment grand pour englober votre espace. Tant que le sort dure, les démons invoqués ne peuvent pas traverser le cercle, ni le détruire, ni cibler quelqu'un à l'intérieur du cercle. Utiliser la composante matérielle de cette manière la consomme à la fin du sort.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou 7, vous invoquez deux fois plus de démons. Si vous le lancez en utilisant un emplacement de sort de niveau 8 ou 9, vous invoquez trois fois plus de démons.  
 
-# Convocation de fée
+#### Convocation de fée
 
 niveau 3 - invocation
 
@@ -296,7 +298,7 @@ Vous appelez un esprit de fée. Il apparaît dans un espace inoccupé que vous p
 La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
 
-# Convocation de mort-vivant
+#### Convocation de mort-vivant
 
 niveau 3 - nécromancie
 
@@ -312,7 +314,7 @@ Vous appelez un esprit de mort-vivant. Il apparaît dans un espace inoccupé que
 La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
 
-# Convocation de rejeton d'ombre
+#### Convocation de rejeton d'ombre
 
 niveau 3 - invocation
 
@@ -328,7 +330,7 @@ Vous appelez un esprit d'ombre. Il apparaît dans un espace inoccupé que vous p
 La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
 
-# Création de nourriture et d'eau
+#### Création de nourriture et d'eau
 
 niveau 3 - invocation - combinable
 
@@ -342,7 +344,7 @@ niveau 3 - invocation - combinable
 
 Vous créez 22,5 kg de nourriture et 120 litres d'eau sur le sol ou dans des contenants, à portée, ce qui est assez pour subvenir aux besoins de quinze humanoïdes ou de cinq montures pour 24 heures. La nourriture est fade mais nourrissante, et se gâte si elle n'est pas mangée au-delà de 24 heures. L'eau est claire et ne croupit pas.  
 
-# Croissance végétale
+#### Croissance végétale
 
 niveau 3 - transmutation - combinable
 
@@ -359,7 +361,7 @@ Si vous lancez ce sort en utilisant 1 action, choisissez un point dans la porté
 Vous pouvez désigner une ou plusieurs zones de dimension variable comme étant exclues de la zone d'effet du sort.  
 Si vous lancez ce sort sur une période de 8 heures, vous enrichissez le sol. Toutes les plantes présentes dans une surface de 400 mètres de rayon centrée sur point dans la portée du sort sont enrichies pour 1 année. Les plantes produisent deux fois plus de nourriture lors de la récolte.  
 
-# Délivrance des malédictions
+#### Délivrance des malédictions
 
 niveau 3 - abjuration
 
@@ -373,7 +375,7 @@ niveau 3 - abjuration
 
 Au contact, toutes les malédictions affligeant une créature ou un objet prennent fin. Si l'objet est un objet magique maudit, la malédiction persiste, mais le sort met un terme au lien entre le propriétaire et l'objet de sorte qu'il peut être retiré ou qu'il peut s'en débarrasser.  
 
-# Dissipation de la magie
+#### Dissipation de la magie
 
 niveau 3 - abjuration
 
@@ -388,7 +390,7 @@ niveau 3 - abjuration
 Choisissez une créature, un objet ou un effet magique dans la portée du sort. Tous les sorts actifs de niveau 3 ou moins sur la cible prennent fin. Pour chaque sort actif de niveau 4 ou plus sur la cible, effectuez un jet de votre caractéristique d'incantation. Le DD est de 10 + le niveau du sort. Si le jet est réussi, le sort prend fin.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les effets d'un sort actif sur la cible prennent automatiquement fin si le niveau du sort est égal ou inférieur au niveau de l'emplacement de sort utilisé.  
 
-# Don des langues
+#### Don des langues
 
 niveau 3 - divination - combinable
 
@@ -402,7 +404,7 @@ niveau 3 - divination - combinable
 
 Ce sort confère à la créature que vous touchez la capacité de comprendre toutes les langues parlées qu'elle entend. De plus, lorsque la cible parle, toutes les créatures qui connaissent au moins un langage, et peuvent l'entendre, comprennent ce qu'elle dit.  
 
-# Éclair
+#### Éclair
 
 niveau 3 - évocation
 
@@ -418,7 +420,7 @@ Un rayon de foudre formant une ligne d'une longueur de 30 mètres et d'une large
 L'éclair enflamme les objets inflammables qui ne sont pas portés ou transportés.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Ennemis à foison
+#### Ennemis à foison
 
 niveau 3 - enchantement
 
@@ -433,7 +435,7 @@ niveau 3 - enchantement
 Vous atteignez l'esprit d'une créature que vous pouvez voir et la forcez à effectuer un jet de sauvegarde d'Intelligence. Une créature réussit automatiquement si elle est immunisée contre l'état effrayé. En cas d'échec à la sauvegarde, la cible perd la capacité de distinguer un ami d'un ennemi, considérant toutes les créatures qu'elle peut voir comme des ennemis jusqu'à la fin du sort. Chaque fois que la cible subit des dégâts, elle peut répéter le jet de sauvegarde, mettant fin à l'effet sur elle-même en cas de réussite.  
 À chaque fois que la créature affectée choisit une autre créature comme cible, elle doit choisir la cible au hasard parmi les créatures qu'elle peut voir à portée de l'attaque, du sort ou de toute autre capacité qu'elle utilise. Si un ennemi provoque une attaque d'opportunité de la part de la créature affectée, la créature doit effectuer cette attaque si elle en est capable.  
 
-# Éruption de terre
+#### Éruption de terre
 
 niveau 3 - transmutation - combinable
 
@@ -448,7 +450,7 @@ niveau 3 - transmutation - combinable
 Choisissez un point au sol que vous pouvez voir dans la portée du sort. Une éruption de roche et de terre éclate dans un cube de 6 mètres d'arête centré sur ce point. Chaque créature dans cette zone effectuer un jet de sauvegarde de Dextérité. Une créature subit 3d12 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. En outre, le terrain dans cette zone devient un terrain difficile jusqu'à qu'il soit déblayé. Chaque case de 1,50 mètre de la zone nécessite au moins 1 minute pour être déblayé à la main.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d12 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Esprits gardiens
+#### Esprits gardiens
 
 niveau 3 - invocation
 
@@ -464,7 +466,7 @@ Vous appelez des esprits pour vous protéger. Ils volent dans un rayon de 4,50 m
 Lorsque vous lancez ce sort, vous pouvez désigner des créatures que vous pouvez voir pour qu'elles ne soient pas affectées. La vitesse d'une créature affectée est réduite de moitié dans la zone d'effet, et quand la créature entre dans la zone pour la première fois pendant un tour ou commence son tour dans celle-ci, elle doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, la créature prend 3d8 dégâts radiants (si vous êtes bon ou neutre) ou 3d8 dégâts nécrotiques (si vous êtes mauvais). En cas de réussite, la créature prend la moitié de ces dégâts.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Étranglement psychique
+#### Étranglement psychique
 niveau 3
 
 **Casting Time:** :: 1 action
@@ -474,7 +476,7 @@ niveau 3
 
 Maintient un ennemi en l’air, inflige 8d6 dégâts de force et l’empêche de respirer (concentration +1d4/t).
 
-# Flèche de foudre
+#### Flèche de foudre
 
 niveau 3 - transmutation
 
@@ -491,7 +493,7 @@ Que vous touchiez ou non, chaque créature se trouvant dans un rayon de 3 mètre
 La munition, ou l'arme, retrouve ensuite sa forme habituelle.  
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts de chaque effet du sort augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Flèches enflammées
+#### Flèches enflammées
 
 niveau 3 - transmutation
 
@@ -506,7 +508,7 @@ niveau 3 - transmutation
 Vous touchez un carquois contenant des flèches ou des carreaux. Quand une cible est touchée par une attaque à distance avec une arme qui utilise une des munitions provenant du carquois, la cible reçoit 1d6 dégâts de feu supplémentaires. La magie du sort se termine pour une munition donnée lorsque celle-ci touche ou rate, et le sort cesse complètement lorsque douze munitions ont été tirées du carquois.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le nombre de munitions qui peut affecter ce sort augmente de deux pour chaque emplacement supérieur au niveau 3.  
 
-# Forme gazeuse
+#### Forme gazeuse
 
 niveau 3 - transmutation - combinable
 
@@ -522,7 +524,7 @@ Vous transformez une créature consentante que vous touchez, ainsi que tout ce q
 Alors qu'elle est dans cet état, la cible ne peut se déplacer que par le vol, à la vitesse de 3 mètres. La cible peut pénétrer et occuper l'espace d'une autre créature. La cible possède une résistance aux dégâts non magiques, et elle a un avantage à ses jets de sauvegarde de Force, Dextérité et Constitution. La cible peut passer par de petits trous, des ouvertures étroites et même par des fissures. Cependant, elle considère les liquides comme des surfaces dures. La cible ne peut chuter et elle se maintient dans les airs même lorsqu'elle est étourdie ou autrement indisposée.  
 Alors qu'elle est dans l'état d'un nuage brumeux, la cible ne peut parler ou manipuler des objets. Les objets qu'elle transportait ou tenait ne peuvent être lâchés ou utilisés de quelconque façon. La cible ne peut attaquer ou lancer des sorts.  
 
-# Forteresse d'intellect
+#### Forteresse d'intellect
 
 niveau 3 - abjuration
 
@@ -537,7 +539,7 @@ niveau 3 - abjuration
 Pour la durée du sort, vous ou une créature consentante que vous pouvez voir à portée avez la résistance aux dégâts psychiques, ainsi qu'un avantage aux jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement supérieur au niveau 3. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
 
-# Foulée d'Ashardalon
+#### Foulée d'Ashardalon
 
 niveau 3 - transmutation
 
@@ -553,7 +555,7 @@ Des flammes tourbillonnantes jaillissent sous vos pieds tel un souffle de dragon
 Lorsque vous vous déplacez à 1,50 mètre ou moins d'une créature ou d'un objet qui n'est pas porté, celui-ci subit 1d6 dégâts de feu dus à la traînée enflammée que vous laissez sur votre passage. Une créature ou un objet ne peut subir ces dégâts qu'une seule fois par tour.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, votre vitesse augmente de 1,50 mètre et les dégâts infligés augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Foulée tonitruante
+#### Foulée tonitruante
 
 niveau 3 - invocation - combinable
 
@@ -568,7 +570,7 @@ niveau 3 - invocation - combinable
 Vous vous téléportez dans un espace inoccupé que vous pouvez voir à portée. Immédiatement après votre disparition, un boom tonitruant retentit et chaque créature à 3 mètres ou moins de l'espace que vous avez laissé doit effectuer un jet de sauvegarde de Constitution, subissant 3d10 dégâts de tonnerre en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le tonnerre peut être entendu jusqu'à 90 mètres de distance. Vous pouvez emporter des objets tant que leur poids ne dépasse pas ce que vous pouvez transporter. Vous pouvez également téléporter une créature volontaire de votre taille ou plus petite avec du matériel, tant que celui-ci ne dépasse pas sa capacité de charge. La créature doit être à 1,50 mètre ou moins de vous lorsque vous lancez ce sort, et il doit y avoir un espace inoccupé dans un rayon de 1,50 mètre autour de votre espace de destination pour que la créature apparaisse, sinon la créature reste à sa place.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Fusion dans la pierre
+#### Fusion dans la pierre
 
 niveau 3 - transmutation (rituel) - combinable
 
@@ -584,7 +586,7 @@ Vous pénétrez dans un objet en pierre ou une surface suffisamment large pour c
 Tant que vous êtes fusionné avec la pierre, vous ne pouvez pas voir ce qui se passe au dehors et avez un désavantage à tous les jets de Sagesse (Perception) que vous effectuez pour entendre des sons produits à l'extérieur. Vous êtes conscient de l'écoulement du temps et pouvez lancer des sorts sur vous-même alors que vous êtes fusionné dans la pierre. Vous pouvez utiliser votre mouvement pour quitter la pierre par l'endroit où vous y êtes entré, ce qui met un terme au sort. Vous ne pouvez pas vous déplacer autrement.  
 De petits dégâts physiques sur la pierre ne vous affectent pas, mais sa destruction partielle ou un changement de sa forme (à condition que vous ne puissiez plus être contenu dedans) vous expulse de la pierre et vous inflige 6d6 dégâts contondants. La destruction complète de la pierre (ou sa transmutation en une autre matière) vous expulse et vous inflige 50 dégâts contondants. Si vous êtes expulsé, vous tombez à terre dans l'espace inoccupé le plus proche de votre point de fusion dans la pierre.  
 
-# Glyphe de protection
+#### Glyphe de protection
 
 niveau 3 - abjuration
 
@@ -605,7 +607,7 @@ Lorsque vous inscrivez le glyphe, faites un choix entre les _runes explosives_�
 **Sort glyphique**. Vous pouvez emmagasiner un sort préparé de niveau 3 ou moins dans le glyphe en l'incantant lors de la création du glyphe. Le sort doit cibler une seule créature ou une zone. Le sort emmagasiné n'a pas d'effet immédiat lorsqu'il est incanté de cette façon. Lorsque le glyphe est déclenché, le sort emmagasiné est incanté. Si le sort vise une cible, il visera la créature qui a déclenché le glyphe. Si le sort affecte une zone, la zone est centrée sur cette créature. Si le sort invoque des créatures hostiles ou s'il crée des objets blessants ou des pièges, ils apparaissent aussi près que possible de l'intrus et l'attaquent. Si le sort demande de la concentration, il persiste pour la durée complète du sort.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts des runes explosives augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3. Si vous créez un _sort glyphique_, vous pouvez emmagasiner un sort dont le niveau est équivalent ou moindre à l'emplacement de sort utilisé pour le _glyphe de protection_.  
 
-# Hâte
+#### Hâte
 
 niveau 3 - transmutation - combinable
 
@@ -620,7 +622,7 @@ niveau 3 - transmutation - combinable
 Choisissez une créature consentante visible dans la portée du sort. Jusqu'à la fin de la durée du sort, la vitesse de la cible est doublée, elle bénéficie d'un bonus de +2 à la CA, elle a un avantage à ses jets de sauvegarde de Dextérité, et elle obtient une action supplémentaire à chacun de ses tours. Cette action peut être utilisée pour Attaquer (une seule attaque avec une arme), Foncer, Se désengager, Se cacher ou Utiliser un objet.  
 Lorsque le sort prend fin, la cible ne peut plus bouger ou agir jusqu'à la fin de son prochain tour, car une vague de léthargie la submerge.  
 
-# Image majeure
+#### Image majeure
 
 niveau 3 - illusion - combinable
 
@@ -637,7 +639,7 @@ Tant que vous êtes dans la portée de l'illusion, vous pouvez utiliser votre ac
 Une interaction physique avec l'image révèle sa nature illusoire puisqu'on peut passer au travers. Une créature qui utilise son action pour examiner l'image peut conclure que c'est une image en réussissant un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si une créature discerne l'illusion pour ce qu'elle est, la créature peut voir à travers l'image et les autres qualités sensorielles de l'image s'évanouissent aux yeux de la créature.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, le sort persiste jusqu'au moment de sa dissipation, sans requérir de concentration.  
 
-# Invocation d'animaux
+#### Invocation d'animaux
 
 niveau 3 - invocation
 
@@ -657,7 +659,7 @@ Vous invoquez les esprits des fées qui prennent la forme de bêtes et apparaiss
 Chaque bête est également considérée comme une fée, et elle disparaît lorsqu'elle tombe à 0 point de vie ou lorsque le sort prend fin. Les créatures invoquées sont amicales envers vous et vos compagnons. Lancez l'initiative pour le groupe de créatures invoquées ; il a ses propres tours de jeu. Elles obéissent aux ordres verbaux que vous leur donnez (aucune action n'est requise de votre part). Si vous ne leur donnez aucun ordre, elles ne font que se défendre contre les créatures qui leur sont hostiles. Le MD possède les statistiques des créatures.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant certains niveaux d'emplacement de sort, vous choisissez l'option d'invocation ci-dessus, et plus de créatures apparaissent : deux fois plus de créatures invoquées avec un emplacement de sort de niveau 5, trois fois plus avec un emplacement de sort de niveau 7, et quatre fois plus avec un emplacement de sort de niveau 9.  
 
-# Invocation de projectiles
+#### Invocation de projectiles
 
 niveau 3 - invocation
 
@@ -671,7 +673,7 @@ niveau 3 - invocation
 
 Vous lancez une arme non magique ou tirez une munition non magique en l'air pour créer un cône d'armes identiques propulsées vers l'avant, qui disparaissent une fois l'autre course terminée. Chaque créature dans un cône de 18 mètres doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le type de dégâts est le même que celui de l'arme ou de la munition utilisée comme composante.  
 
-# Lenteur
+#### Lenteur
 
 niveau 3 - transmutation - combinable
 
@@ -688,7 +690,7 @@ Une créature affectée voit sa vitesse divisée par deux, subit un malus de -2 
 Si la créature tente de lancer un sort qui a un temps d'incantation d'une action, lancer un d20. Sur un résultat supérieur ou égal à 11, le sort ne pourra pas prendre effet avant la fin de son prochain tour et la créature devra utiliser l'action de ce tour pour compléter le sort. Sinon, le sort est perdu.  
 Une créature affectée par ce sort effectue un jet de sauvegarde de Sagesse à la fin de chacun de ses tours. En cas de réussite, les effets du sort prennent fin.  
 
-# Lueur d'espoir
+#### Lueur d'espoir
 
 niveau 3 - abjuration
 
@@ -702,7 +704,7 @@ niveau 3 - abjuration
 
 Ce sort confère espoir et vitalité. Choisissez des créatures dans la portée du sort. Pour la durée du sort, chaque cible bénéficie d'un avantage à ses jets de sauvegarde de Sagesse et à ses jets de sauvegarde contre la mort. Elle récupère aussi le maximum de points de vie lors d'une guérison.  
 
-# Lumière du jour
+#### Lumière du jour
 
 niveau 3 - évocation
 
@@ -718,7 +720,7 @@ Une sphère de lumière de 18 mètres de rayon jaillit d'un point choisi dans la
 Si vous choisissez un point sur un objet que vous tenez ou sur un objet qui n'est pas porté ou transporté, la lumière émane de cet objet et se déplace avec lui. En recouvrant complètement l'objet affecté avec un objet opaque, comme un bol ou un casque, la lumière est bloquée.  
 Si une portion de la zone du sort chevauche une zone de ténèbres créée par un sort de niveau 3 ou moindre, le sort qui génère les ténèbres est dissipé.  
 
-# Malédiction
+#### Malédiction
 
 niveau 3 - nécromancie
 
@@ -738,7 +740,7 @@ Vous touchez une créature, elle doit alors réussir un jet de sauvegarde de Sag
 Un sort de _[délivrance des malédictions](https://www.aidedd.org/dnd/sorts.php?vf=delivrance-des-maledictions)_ met fin à cet effet. À la discrétion du MD, vous pouvez choisir une autre option de malédiction que celles présentées, mais elle ne devrait pas être plus puissante que celles-ci-dessus. Le MD a le dernier mot concernant l'effet de la malédiction.  
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, la durée de concentration maximale monte à 10 minutes. Si vous utilisez un emplacement de sort de niveau 5 ou supérieur, le sort dure 8 heures. Si vous utilisez un emplacement de sort de niveau 7 ou supérieur, le sort dure 24 heures. Si vous utilisez un emplacement de sort de niveau 9, le sort dure jusqu'à ce qu'il soit dissipé. Utiliser un emplacement de sort de niveau 5 ou supérieur permet de s'affranchir de la concentration en ce qui concerne la durée du sort.  
 
-# Marche sur l'eau
+#### Marche sur l'eau
 
 niveau 3 - transmutation (rituel) - combinable
 
@@ -753,7 +755,7 @@ niveau 3 - transmutation (rituel) - combinable
 Le sort attribue la capacité de se déplacer sur toute surface liquide (eau, acide, boue, neige, sables mouvants, lave, etc.) comme si c'était un sol dur. Les créatures qui traversent de la lave en fusion subissent tout de même les dégâts dus à la chaleur. Jusqu'à dix créatures consentantes et que vous pouvez voir dans la portée du sort obtiennent cette capacité pour la durée du sort.  
 Si vous ciblez une créature submergée dans un liquide, le sort déplace la cible vers la surface du liquide à une vitesse de 18 mètres par round.  
 
-# Minuscules météores de Melf
+#### Minuscules météores de Melf
 
 niveau 3 - évocation
 
@@ -768,7 +770,7 @@ niveau 3 - évocation
 Vous créez six météores minuscules dans votre espace. Ils flottent dans l'air et orbitent autour de vous pour la durée du sort. Quand vous lancez le sort (et au prix d'une action bonus à chacun de vos tours par la suite) vous pouvez utiliser un ou deux des météores et les envoyer vers un point ou des points que vous choisissez dans un rayon de 36 mètres autour de vous. Lorsque qu'un météore a atteint sa destination ou percute une surface solide, il explose. Chaque créature dans un rayon de 1,50 mètre autour du point d'impact du météore doit faire un jet de sauvegarde de Dextérité, subissant 2d6 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le nombre de météores créés augmente de deux pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Monture fantôme
+#### Monture fantôme
 
 niveau 3 - illusion (rituel)
 
@@ -783,7 +785,7 @@ niveau 3 - illusion (rituel)
 Une créature semi-réelle de taille G ressemblant à un cheval apparaît, à portée, sur le sol dans un espace inoccupé de votre choix. Vous décidez de l'apparence de la créature, elle est cependant équipée d'une selle, de mors et d'une bride. Tout l'équipement créé grâce à ce sort disparaît dans un nuage de fumée s'il est éloigné à plus de 3 mètres de la monture.  
 Pour toute la durée du sort, vous, ou une créature de votre choix, pouvez chevaucher la monture. La créature utilise les statistiques d'un [cheval de selle](https://www.aidedd.org/dnd/monstres.php?vf=cheval-de-selle), à l'exception de sa vitesse de déplacement qui est de 30 mètres, il peut également parcourir 15 km en une heure, ou 20 km s'il voyage à un rythme rapide. Lorsque le sort prend fin, la monture disparaît progressivement, donnant 1 minute à son cavalier pour mettre pied à terre. Le sort se termine si vous utilisez votre action pour le dissiper ou si la monture subit des dégâts.  
 
-# Mort simulée
+#### Mort simulée
 
 niveau 3 - nécromancie (rituel)
 
@@ -798,7 +800,7 @@ niveau 3 - nécromancie (rituel)
 Vous touchez une créature consentante et la plongez dans un état cataleptique impossible à différencier de la mort.  
 Pour toute la durée du sort, ou jusqu'à ce que vous utilisiez une action pour toucher la cible et annuler le sort, la cible passe pour morte auprès de toute personne ne faisant pas une inspection approfondie ou face à des sorts censés donner l'état de santé de la cible. La cible est incapable d'agir et aveuglée, sa vitesse de déplacement tombe à 0. La cible obtient la résistance à tous les types de dégâts, à l'exception des dégâts psychiques. Si la cible est malade ou empoisonnée lorsque vous lancez ce sort, ou tombe malade ou empoisonnée alors qu'elle est déjà soumise à ce sort, la maladie ou le poison n'ont aucun effet jusqu'à ce que ce sort prenne fin.  
 
-# Mot de guérison de groupe
+#### Mot de guérison de groupe
 
 niveau 3 - évocation
 
@@ -813,7 +815,7 @@ niveau 3 - évocation
 À mesure que vous évoquez des paroles de rétablissement, jusqu'à six créatures visibles de votre choix récupèrent un nombre de points de vie égal à 1d4 + le modificateur de votre caractéristique d'incantation. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les points de vie récupérés augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Motif hypnotique
+#### Motif hypnotique
 
 niveau 3 - illusion
 
@@ -827,7 +829,7 @@ niveau 3 - illusion
 
 Vous créez des lueurs de couleurs changeantes qui emplissent les airs dans un cube de 9 mètres d'arête à portée. Les lueurs apparaissent pendant un moment et disparaissent. Chaque créature dans la zone d'effet qui voit les lueurs doit faire un jet de sauvegarde de Sagesse. Si elle échoue, la créature est charmée pour la durée du sort. Tant qu'elle est charmée par ce sort, la créature est incapable d'agir et a une vitesse égale à 0. Le sort prend fin pour une créature charmée si elle subit des dégâts ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.  
 
-# Mur d'eau
+#### Mur d'eau
 
 niveau 3 - évocation - combinable
 
@@ -842,7 +844,7 @@ niveau 3 - évocation - combinable
 Vous créez un mur d'eau sur le sol, à un point que vous pouvez voir à portée. Vous pouvez créer un mur mesurant jusqu'à 9 mètres de long, 3 mètres de haut et 30 cm d'épaisseur, ou vous pouvez faire un mur circulaire mesurant jusqu'à 6 mètres de diamètre, 6 mètres de haut et 30 cm d'épaisseur. Le mur disparaît quand le sort se termine. L'espace occupé par le mur est un terrain difficile.  
 Toute attaque à distance avec une arme qui entre dans l'espace du mur à un désavantage au jet d'attaque, et tous les dégâts de feu sont réduits de moitié si l'effet de feu traverse le mur pour atteindre son objectif. Les sorts infligeant des dégâts de froid qui traversent la paroi transforment en glace solide la zone du mur impactée (au minimum un carré de 1,50 mètre est gelé). Chaque section gelée de 1,50 mètre de côté a 15 pv et une CA de 5. Réduire les points de vie d'une section gelée à 0 la détruit. Lorsqu'une section est détruite, l'eau du mur ne le remplit pas.  
 
-# Mur de sable
+#### Mur de sable
 
 niveau 3 - évocation - combinable
 
@@ -856,7 +858,7 @@ niveau 3 - évocation - combinable
 
 Vous créez un mur de sable tourbillonnant sur le sol à un point que vous pouvez voir à portée. Vous pouvez créer un mur mesurant jusqu'à 9 mètres de long, 3 mètres de haut et 3 mètres d'épaisseur, qui disparaîtra à la fin du sort. Il bloque la ligne de vue, mais pas le déplacement. Une créature est aveuglée tant qu'elle se trouve dans l'espace occupé par le mur et doit dépenser 3 mètres de mouvement pour 1 mètre parcouru dans celui-ci.  
 
-# Mur de vent
+#### Mur de vent
 
 niveau 3 - évocation - combinable
 
@@ -872,7 +874,7 @@ Un mur de puissants vents s'élève du sol à un endroit de votre choix. Vous po
 Lorsque le mur apparaît, chaque créature se trouvant dans la zone doit effectuer un jet de sauvegarde de Force. Une créature subit 3d8 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 Le vent violent garde les brumes, brouillards, et autres gaz éloignés. Les objets et créatures volants de taille P ou inférieure ne peuvent pas passer au travers du mur. S'ils ne sont pas tenus ou fixés, les objets légers amenés dans le mur s'envolent. Les flèches, carreaux et autres projectiles ordinaires tirés en direction de cibles situées de l'autre côté du mur sont détournés et automatiquement perdus (les rochers projetés par des géants ou des engins de siège, ou tout autre projectile similaire, ne sont pas affectés). Les créatures sous forme gazeuse ne peuvent pas traverser le mur de vent.  
 
-# Nuage nauséabond
+#### Nuage nauséabond
 
 niveau 3 - invocation
 
@@ -888,7 +890,7 @@ Vous créez une sphère de gaz jaune nauséabond de 6 mètres de rayon, centrée
 Chaque créature totalement dans le nuage au début de son tour doit effectuer un jet de sauvegarde de Constitution contre le poison. En cas d'échec, la créature est prise de nausées et chancelle, perdant ainsi son action. Les créatures qui n'ont pas besoin de respirer ou qui sont immunisées contre le poison réussissent automatiquement leur jet de sauvegarde.  
 Un vent modéré (d'au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (d'au moins 30 km/h) le disperse après 1 round.  
 
-# Onde télékinétique
+#### Onde télékinétique
 niveau 3 - combinable
 
 **Casting Time:** :: 1 action
@@ -899,7 +901,7 @@ niveau 3 - combinable
 Repousse toutes les créatures dans un rayon de 6 m et inflige 3d6 dégâts de force + dégât de chut.
 **Aux niveaux supérieur** ::+1m/lv de joueur
 
-# Petite hutte de Léomund
+#### Petite hutte de Léomund
 
 niveau 3 - évocation (rituel)
 
@@ -915,7 +917,7 @@ Un dôme immobile de 3 mètres de rayon apparaît autour et au-dessus de vous et
 Neuf créatures de taille M ou inférieure peuvent tenir sous le dôme avec vous. Le sort échoue si la zone contient une créature plus grande ou plus de neuf créatures. Les créatures et objets qui se trouvent sous le dôme lorsque vous lancez ce sort peuvent en sortir et y rentrer librement. Toutes les autres créatures et objets sont bloqués et ne peuvent le traverser. Les sorts et effets magiques, lancés de l'intérieur ou de l'extérieur du dôme, ne peuvent pas non plus passer au travers. L'atmosphère dans la zone est confortable et sec, quel que soit le climat extérieur.  
 Jusqu'à ce que le sort prenne fin, vous pouvez faire en sorte que l'intérieur du dôme soit faiblement éclairé voire plongé dans les ténèbres. Le dôme est opaque depuis l'extérieur, de la couleur de votre choix, mais il est transparent depuis l'intérieur.  
 
-# Peur
+#### Peur
 
 niveau 3 - illusion
 
@@ -929,7 +931,7 @@ niveau 3 - illusion
 
 Vous projetez une image fantasmatique des pires craintes d'une créature. Chaque créature dans un cône de 9 mètres doit réussir un jet de sauvegarde de Sagesse sous peine de lâcher ce qu'elle tient et être effrayée pour la durée du sort. Tant qu'elle est effrayée par ce sort, la créature doit utiliser l'action Foncer et s'éloigner de vous par le chemin disponible le plus sûr, et ce à chacun de ses tours, à moins qu'elle n'ait nulle part où aller. Si la créature termine son tour à un endroit où il n'y a aucune ligne de mire entre elle et vous, la créature peut effectuer un jet de sauvegarde de Sagesse. En cas de réussite, le sort prend fin pour cette créature.  
 
-# Protection contre une énergie
+#### Protection contre une énergie
 
 niveau 3 - abjuration
 
@@ -943,7 +945,7 @@ niveau 3 - abjuration
 
 Pour la durée du sort, une créature consentante que vous touchez bénéficie d'une résistance à un type de dégâts de votre choix : acide, froid, feu, foudre ou tonnerre.  
 
-# Raz-de-marée
+#### Raz-de-marée
 
 niveau 3 - invocation
 
@@ -957,7 +959,7 @@ niveau 3 - invocation
 
 Vous conjurez une vague d'eau qui s'écrase sur une zone à portée. La zone peut mesurer jusqu'à 9 mètres de long, 3 mètres de large et 3 mètres de haut. Chaque créature dans la portée du sort doit faire un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit 4d8 dégâts contondants et tombe à terre. En cas de réussite, la créature subit la moitié de ces dégâts et ne tombe pas à terre. L'eau se propage ensuite à travers le sol dans toutes les directions, éteignant toute flamme non protégée dans sa zone et dans les 9 mètres autour, puis disparait.  
 
-# Respiration aquatique
+#### Respiration aquatique
 
 niveau 3 - transmutation (rituel) - combinable
 
@@ -971,7 +973,7 @@ niveau 3 - transmutation (rituel) - combinable
 
 Ce sort procure à un maximum de dix créatures consentantes, à portée et que vous pouvez voir, la capacité de respirer sous l'eau jusqu'à la fin de sa durée. Les créatures affectées conservent également leur mode de respiration normal.  
 
-# Retour à la vie
+#### Retour à la vie
 
 niveau 3 - nécromancie
 
@@ -985,7 +987,7 @@ niveau 3 - nécromancie
 
 Vous touchez une créature morte depuis au plus une minute. Cette créature revient à la vie avec 1 point de vie. Ce sort ne peut ni ramener à la vie une créature morte de vieillesse ni restaurer des parties perdues du corps.  
 
-# Serviteur miniature
+#### Serviteur miniature
 
 niveau 3 - transmutation
 
@@ -1002,7 +1004,7 @@ Par une action bonus, vous pouvez mentalement donner un ordre à la créature si
 Lorsqu'il tombe à 0 point de vie, il retourne à sa forme d'origine en conservant les dégâts physiques qu'il a pu subir.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous pouvez animer jusqu'à deux cadavres supplémentaires pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Sieste
+#### Sieste
 
 niveau 3 - enchantement - combinable
 
@@ -1017,7 +1019,7 @@ niveau 3 - enchantement - combinable
 Vous faites un geste apaisant et jusqu'à trois créatures volontaires de votre choix que vous pouvez voir à portée tombent inconscientes pour la durée du sort. Le sort se termine de manière anticipée pur un cible si elle subit des dégâts ou si quelqu'un utilise une action pour la secouer ou la réveiller. Si une cible reste inconsciente pendant toute la durée du sort, elle bénéficie des effets d'un repos court. Elle ne peut plus être affectée par ce sort tant qu'elle n'a pas terminé un repos long.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous pouvez cibler une créature volontaire supplémentaire pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Tempête de neige
+#### Tempête de neige
 
 niveau 3 - invocation
 
@@ -1033,7 +1035,7 @@ Tant que le sort persiste, une pluie glacée et de la neige tombent dans un cyli
 Le sol dans la zone est couvert de glace glissante, rendant le terrain difficile. Lorsqu'une créature pénètre dans la zone du sort pour la première fois d'un tour ou lorsqu'elle y débute son tour, elle doit réussir un jet de sauvegarde de Dextérité ou tomber à terre.  
 Si une créature commence son tour dans la zone d'effet du sort tout en étant concentrée sur un sort, elle doit réussir un jet de sauvegarde de Constitution contre le DD de sauvegarde de votre sort, sans quoi elle perd sa concentration.  
 
-# Toucher du vampire
+#### Toucher du vampire
 
 niveau 3 - nécromancie
 
@@ -1048,7 +1050,7 @@ niveau 3 - nécromancie
 Le contact de votre main nimbée d'ombres peut aspirer la force vitale des autres et soigner vos plaies. Effectuez une attaque au corps à corps avec un sort contre une créature à votre portée. Si vous touchez, la cible subit 3d6 dégâts nécrotiques, et vous récupérez un nombre de points de vie égal à la moitié des dégâts nécrotiques infligés. Jusqu'à la fin du sort, vous pouvez attaquer de nouveau à chacun de vos tours en utilisant une action.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Transfert de vie
+#### Transfert de vie
 
 niveau 3 - nécromancie - combinable
 
@@ -1063,7 +1065,7 @@ niveau 3 - nécromancie - combinable
 Vous sacrifiez une partie de votre santé pour soigner les blessures d'une autre créature. Vous subissez 4d8 dégâts nécrotiques, qui ne peuvent être diminués d'aucune manière [E], et une créature de votre choix que vous pouvez voir à portée récupère un nombre de points de vie égal à deux fois les dégâts nécrotiques que vous avez perdus.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Voile spirituel
+#### Voile spirituel
 
 niveau 3 - nécromancie
 
@@ -1079,7 +1081,7 @@ Vous appelez des esprits de la mort qui flottent autour de vous pour la durée d
 De plus, chaque créature de votre choix que vous pouvez voir et qui commence son tour dans un rayon de 3 mètres autour de vous voit sa vitesse réduite à 3 mètres jusqu'à la fin de votre prochain tour.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts infligés augmentent de 1d8 pour chaque niveau au-delà du niveau 3.  
 
-# Vol
+#### Vol
 
 niveau 3 - transmutation - combinable
 
@@ -1094,7 +1096,7 @@ niveau 3 - transmutation - combinable
 Vous touchez une créature consentante. La cible obtient une vitesse de vol de 18 mètres pour la durée du sort. Lorsque le sort prend fin, la cible tombe si elle est toujours dans les airs, sauf si elle peut empêcher la chute.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, vous pouvez cibler une créature additionnelle pour chaque niveau d'emplacement au-delà du niveau 3.  
 
-# Voracité de Hadar
+#### Voracité de Hadar
 
 niveau 3 - invocation
 

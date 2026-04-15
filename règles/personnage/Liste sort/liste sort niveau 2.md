@@ -1,4 +1,6 @@
-# Agrandissement/Rapetissement
+## niveau 2
+
+#### Agrandissement/Rapetissement
 
 niveau 2 - transmutation - combinable
 
@@ -15,7 +17,7 @@ Si la cible est une créature, toutes les choses qu'elle porte et transporte cha
 **Agrandissement**. La cible double dans toutes les dimensions, et son poids est multiplié par huit. Cela augmente sa taille d'une catégorie, de M à G par exemple. S'il n'y a pas assez de place dans la pièce pour que la cible double de taille, la créature ou l'objet atteint la taille maximale possible dans l'espace disponible. Jusqu'à la fin du sort, la cible a aussi un avantage à ses jets de Force et ses jets de sauvegarde de Force. Les armes de la cible grandissent également. Tant que ces armes sont agrandies, les attaques de la cible occasionnent 1d4 dégâts supplémentaires.  
 **Rapetissement**. La taille de la cible est diminuée de moitié dans toutes les dimensions, et son poids est divisé par huit. Cette réduction diminue sa taille d'une catégorie, de M à P par exemple. Jusqu'à la fin du sort, la cible a un désavantage à ses jets de Force et à ses jets de sauvegarde de Force. Les armes de la cible rapetissent aussi. Tant que ces armes sont réduites, les attaques de la cible occasionnent 1d4 dégâts en moins (minimum 1 point de dégâts).  
 
-# Aide
+#### Aide
 
 niveau 2 - abjuration
 
@@ -30,7 +32,7 @@ niveau 2 - abjuration
 Votre sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie et les points de vie actuels de chaque cible augmentent de 5 pour la durée du sort.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les points de vie de chaque cible augmentent de 5 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Amélioration de caractéristique
+#### Amélioration de caractéristique
 
 niveau 2 - transmutation - combinable
 
@@ -51,7 +53,7 @@ Vous touchez une créature et lui accordez une amélioration magique. Choisissez
 **Splendeur de l'aigle**. La cible a un avantage à ses jets de Charisme.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Apaisement des émotions
+#### Apaisement des émotions
 
 niveau 2 - enchantement
 
@@ -67,7 +69,7 @@ Vous tentez de supprimer les émotions fortes dans un groupe de personnes. Chaqu
 Vous pouvez supprimer tous les effets qui font qu'une cible est charmée ou effrayée. Lorsque ce sort prend fin, les effets supprimés reviennent, en présumant que leur durée n'a pas expiré entre temps.  
 Ou vous pouvez rendre une cible indifférente à des créatures envers qui elle montre des signes d'hostilité. Cette indifférence prend fin lorsque la cible est attaquée ou blessée par un sort ou lorsqu'elle est témoin d'une attaque envers un de ses alliés. Lorsque le sort prend fin, la créature redevient hostile, à moins que le MD en décide autrement.  
 
-# Appel de destrier
+#### Appel de destrier
 
 niveau 2 - invocation
 
@@ -85,7 +87,7 @@ Lorsque votre destrier tombe à 0 point de vie, il disparaît, ne laissant aucun
 Tant que votre destrier se trouve à 1,5 km ou moins de vous, vous pouvez communiquer entre vous par télépathie.  
 Vous ne pouvez avoir plus d'un destrier lié grâce à ce sort en même temps. Par une action, vous pouvez libérer votre destrier du lien qui vous unit, et ce à n'importe quel moment. Le destrier disparaît alors.  
 
-# Arme magique
+#### Arme magique
 
 niveau 2 - transmutation - combinable
 
@@ -100,7 +102,7 @@ niveau 2 - transmutation - combinable
 Vous touchez une arme non magique. Jusqu'à la fin du sort, l'arme est considérée comme étant une arme magique avec un bonus de +1 aux jets d'attaque et aux dégâts.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, le bonus augmente à +2. Lorsque vous utilisez un emplacement de sort de niveau 6 ou supérieur, le bonus augmente à +3.  
 
-# Arme spirituelle
+#### Arme spirituelle
 
 niveau 2 - évocation
 
@@ -117,7 +119,7 @@ En tant qu'action bonus lors de votre tour, vous pouvez déplacer l'arme jusqu'�
 L'arme peut prendre la forme de votre choix. Les clercs d'une divinité associée à une arme particulière (tel que Saint-Cuthbert connu pour sa masse d'armes ou Thor pour son marteau) peuvent faire en sorte que l'effet du sort prenne la forme de l'arme en question.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts infligés augmentent de 1d8 pour chaque niveau d'emplacement pair supérieur au niveau 2.  
 
-# Attraction terrestre
+#### Attraction terrestre
 
 niveau 2 - transmutation - combinable
 
@@ -131,7 +133,7 @@ niveau 2 - transmutation - combinable
 
 Choisissez une créature que vous pouvez voir dans la portée. Des bandes jaunes d'énergie magique entourent la créature. La cible doit réussir un jet de sauvegarde de Force sous peine de voir sa vitesse de vol (le cas échéant) réduite à 0 mètre pour la durée du sort. Une créature volante affectée par ce sort descend à la vitesse de 18 mètres par round jusqu'à ce qu'elle atteigne le sol ou que le sort se termine.  
 
-# Augure
+#### Augure
 
 niveau 2 - divination (rituel)
 
@@ -151,7 +153,7 @@ Que ce soit en jetant des bâtonnets incrustés de gemmes ou des osselets de dra
 Le sort ne considère pas les circonstances qui pourraient changer l'issue de la divination, comme l'incantation additionnelle de sorts ou la perte ou le gain d'un nouveau compagnon.  
 Si vous incantez le sort plus d'une fois avant la fin de votre prochain repos long, il y a une probabilité cumulative de 25 % de recevoir une réponse aléatoire, et ce, à chaque incantation après la première. Le MD fait ce jet en secret.  
 
-# Aura magique de Nystul
+#### Aura magique de Nystul
 
 niveau 2 - illusion
 
@@ -168,7 +170,7 @@ Lorsque vous lancez le sort, choisissez l'un ou les deux effets suivants. L'effe
 **Fausse aura**. Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques, comme le sort _[détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie)_, qui détectent les auras magiques. Vous pouvez faire en sorte qu'un objet non magique semble magique, et vice versa, ou modifier l'aura magique d'un objet pour qu'elle semble appartenir à une autre école de magie de votre choix. Lorsque vous utilisez cet effet sur un objet, vous pouvez faire en sorte que cette fausse aura soit visible pour toute créature qui tient l'objet en main.  
 **Masque**. Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques qui détectent le type d'une créature, comme le Sens divin du paladin ou le déclencheur du sort _[symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole)_. Vous choisissez un type de créature, les autres sorts et effets magiques traitent la cible comme si elle était de ce type ou de cet alignement.  
 
-# Bouche magique
+#### Bouche magique
 
 niveau 2 - illusion (rituel) - combinable
 
@@ -185,7 +187,7 @@ Lorsque ces circonstances sont réunies, une bouche magique apparaît sur l'obje
 Lorsque vous lancez ce sort, vous pouvez décider que le sort prend fin une fois que le message est livré ou qu'il peut persister et répéter son message à chaque fois que les circonstances se produisent.  
 Les conditions de déclenchement peuvent être aussi génériques ou aussi précises que vous le souhaitez. Cependant, elles doivent être basées sur des critères visuels ou audibles perceptibles à 9 mètres ou moins de l'objet. Par exemple, vous pouvez commander à la bouche de parler lorsqu'une créature quelconque s'approche à 9 mètres ou moins de l'objet, ou lorsqu'on sonne une clochette d'argent à 9 mètres ou moins.  
 
-# Bourrasque
+#### Bourrasque
 
 niveau 2 - évocation - combinable
 
@@ -202,7 +204,7 @@ Toute créature dans le corridor doit consommer 2 mètres de mouvement pour chaq
 La bourrasque disperse les gaz et la vapeur, et elle éteint les bougies, les torches et les autres flammes exposées dans la zone. Elle fait vaciller les flammes protégées, comme celle d'une lanterne, qui ont alors 50 % de chance de s'éteindre.  
 Lors d'une action bonus à chacun de vos tours avant que le sort prenne fin, vous pouvez changer la direction du corridor de vent.  
 
-# Cécité/Surdité
+#### Cécité/Surdité
 
 niveau 2 - nécromancie - combinable
 
@@ -217,7 +219,7 @@ niveau 2 - nécromancie - combinable
 Vous pouvez aveugler ou assourdir un ennemi. Choisissez une créature que vous pouvez voir dans la portée du sort. Celle-ci doit réussir un jet de sauvegarde de Constitution sans quoi elle est soit aveuglée, soit assourdie (selon votre choix) pour la durée du sort. À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution. En cas de réussite, le sort prend fin.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Champ de déviation
+#### Champ de déviation
 *niveau 2* - combinable - réaction
 
 **Casting Time:** :: -
@@ -227,7 +229,7 @@ Vous pouvez aveugler ou assourdir un ennemi. Choisissez une créature que vous p
 
 Dévies les projectiles et les attaques à distance, réduisant les dégâts de 2d8.
 
-# Châtiment révélateur
+#### Châtiment révélateur
 
 niveau 2 - évocation
 
@@ -242,7 +244,7 @@ niveau 2 - évocation
 La prochaine fois que vous touchez une créature lors d'une attaque avec une arme avant que le sort ne prenne fin, votre arme rayonne d'une lueur astrale au moment de l'impact. L'attaque inflige 2d6 dégâts radiants supplémentaires à la cible, qui devient visible si elle était invisible, et la cible émet une lumière faible dans un rayon de 1,50 mètre et ne peut devenir invisible tant que le sort persiste.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Convocation de bête
+#### Convocation de bête
 
 niveau 2 - invocation
 
@@ -258,7 +260,7 @@ Vous appelez un esprit de bête. Il se manifeste dans un espace inoccupé que vo
 La créature est votre allié et celui de vos compagnons. En combat, elle partage votre initiative et joue immédiatement après vous. Elle obéit à vos ordres (pas d'action requise). Si vous ne lui donnez aucun ordre, elle prend l'action Esquive et utilise son déplacement pour éviter le danger.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, utilisez ce même niveau de sort lorsqu'il est mentionné dans le bloc de statistique de la créature.  
 
-# Corde enchantée
+#### Corde enchantée
 
 niveau 2 - transmutation
 
@@ -275,7 +277,7 @@ L'espace extradimensionnel peut être atteint en grimpant tout en haut de la cor
 Les attaques et les sorts ne peuvent pas traverser l'entrée de l'espace extradimensionnel, qu'ils viennent de l'intérieur ou de l'extérieur, mais ceux qui se trouvent dans l'espace extradimensionnel peuvent voir à l'extérieur comme s'il y avait une fenêtre de 90 cm x 1,50 m centrée sur la corde.  
 Tout ce qui se trouve dans l'espace extradimensionnel en tombe lorsque le sort prend fin.  
 
-# Cordon de flèches
+#### Cordon de flèches
 
 niveau 2 - transmutation
 
@@ -291,7 +293,7 @@ Vous plantez quatre pièces de munition non magiques (flèches ou carreaux d'arb
 Lorsque vous lancez ce sort, vous pouvez désigner toutes les créatures que vous souhaitez pour que le sort les ignore.  
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, le nombre de munitions qui peuvent être affectées augmente de deux pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Couronne du dément
+#### Couronne du dément
 
 niveau 2 - enchantement
 
@@ -307,7 +309,7 @@ Un humanoïde de votre choix, que vous pouvez voir et à portée, doit réussir 
 La cible charmée doit utiliser son action avant de se déplacer, à chacun de ses tours, pour effectuer une attaque au corps à corps contre une créature autre qu'elle-même et que vous avez mentalement choisie. La cible peut agir normalement au cours de son tour si vous ne choisissez aucune créature ou s'il n'y en a aucune à portée.  
 Lors de vos tours suivants, vous devez utiliser votre action pour maintenir le contrôle sur votre cible, sans quoi le sort prend fin. La cible peut également effectuer un jet de sauvegarde de Sagesse à la fin de chacun de ses tours. Si elle le réussit, le sort prend fin.  
 
-# Croissance d'épines
+#### Croissance d'épines
 
 niveau 2 - transmutation
 
@@ -322,7 +324,7 @@ niveau 2 - transmutation
 Le sol, sur un rayon de 6 mètres centré sur un point dans la portée du sort, se retourne et fait germer des épines rigides et des ronces. La zone devient un terrain difficile pour la durée du sort. Lorsqu'une créature entre ou se déplace dans la zone, elle subit 2d4 dégâts perforants pour chaque 1,50 mètre de déplacement.  
 La transformation du sol est camouflée afin de paraître naturelle. Toute créature qui ne voit pas la zone lorsque le sort est incanté doit réussir un jet de Sagesse (Perception) contre le DD de sauvegarde de votre sort, sans quoi elle ne reconnait pas la nature dangereuse du terrain avant d'y pénétrer.  
 
-# Déblocage
+#### Déblocage
 
 niveau 2 - transmutation - combinable
 
@@ -338,7 +340,7 @@ Choisissez un objet que vous pouvez voir dans la portée du sort. L'objet peut �
 Un objet cible qui est maintenu fermé par un verrou normal, ou qui est bloqué ou barré, devient déverrouillé ou débloqué. Si l'objet possède plusieurs verrous, seulement l'un d'entre eux est déverrouillé.  
 Si vous choisissez un objet cible qui est tenu fermé par un sort _[verrou magique](https://www.aidedd.org/dnd/sorts.php?vf=verrou-magique)_, ce sort est supprimé pendant 10 minutes, au cours desquelles l'objet cible peut être ouvert et fermé normalement. Quand vous lancez le sort, un coup fort et audible jusqu'à 90 mètres émane de l'objet cible.  
 
-# Détection des pensées
+#### Détection des pensées
 
 niveau 2 - divination
 
@@ -356,7 +358,7 @@ Les questions dirigées verbalement vers la cible orientent le fil de ses pensé
 Vous pouvez aussi employer ce sort pour détecter la présence de créatures pensantes qui vous sont invisibles. Lorsque vous lancez ce sort ou lors d'une action pendant la durée du sort, vous pouvez chercher des pensées à 9 mètres ou moins de vous. Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 60 cm de pierre, 5 cm de métal ordinaire, ou une mince feuille de plomb. Vous ne pouvez pas détecter une créature possédant une Intelligence de 3 ou moins ou ne parlant aucun langage.  
 Après avoir détecté la présence d'une créature de cette manière, vous pouvez lire ses pensées pour le reste de la durée du sort tel que décrit ci-dessus, même si vous ne pouvez plus la voir, mais à condition qu'elle reste dans la portée du sort.  
 
-# Discours captivant
+#### Discours captivant
 
 niveau 2 - enchantement
 
@@ -370,7 +372,7 @@ niveau 2 - enchantement
 
 Vous entrelacez des phrases distrayantes, ce qui force les créatures de votre choix, que vous pouvez voir et qui peuvent vous entendre, à effectuer un jet de sauvegarde de Sagesse. Toute créature qui ne peut pas être charmée réussit automatiquement son jet de sauvegarde, et si vous ou vos compagnons combattez une créature, celle-ci a un avantage à son jet de sauvegarde. Si une cible échoue son jet de sauvegarde, elle se voit affligée d'un désavantage à ses jets de Sagesse (Perception) effectués pour repérer une autre créature que vous, et ce jusqu'à ce que le sort prenne fin ou jusqu'à ce qu'elle ne puisse plus vous entendre. Ce sort prend fin si vous êtes incapable d'agir ou ne pouvez plus parler.  
 
-# Entraves de givre
+#### Entraves de givre
 
 niveau 2 - évocation
 
@@ -385,7 +387,7 @@ niveau 2 - évocation
 Un éclat d'énergie givrée émane de vous dans un cône de 9 mètres. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, la créature subit 3d8 dégâts de froid et se retrouve entravée par une couche de glace durant 1 minute ou jusqu'à ce qu'elle ou une créature à portée utilise son action pour briser la glace. Une créature entravée par la glace voit sa vitesse réduite à 0. En cas de réussite, une créature ne subit que la moitié des dégâts et n'est pas entravée par la glace.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts infligés augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Épine mentale
+#### Épine mentale
 
 niveau 2 - divination
 
@@ -400,7 +402,7 @@ niveau 2 - divination
 Vous atteignez l'esprit d'une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Sagesse, subissant 3d8 dégâts psychiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite. En cas d'échec à la sauvegarde, vous connaissez toujours l'emplacement de la cible jusqu'à la fin du sort, mais seulement si vous êtes tous les deux sur le même plan d'existence. Tant que vous avez cette connaissance, la cible ne peut pas vous être cachée, et si elle est invisible, elle ne tire aucun avantage de cet état contre vous.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 [E] pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Espièglerie de Nathair
+#### Espièglerie de Nathair
 
 niveau 2 - illusion - combinable
 
@@ -423,7 +425,7 @@ Vous remplissez un cube de 6 mètres de côté à portée avec une magie féeriq
 
   
 
-# Esprit guérisseur
+#### Esprit guérisseur
 
 niveau 2 - invocation
 
@@ -440,7 +442,7 @@ Jusqu'à la fin du sort, chaque fois que vous ou une créature que vous pouvez v
 Par une action bonus à votre tour, vous pouvez déplacer l'esprit jusqu'à 9 mètres vers un espace que vous pouvez voir.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les soins augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Flambée d'Aganazzar
+#### Flambée d'Aganazzar
 
 niveau 2 - évocation
 
@@ -455,7 +457,7 @@ niveau 2 - évocation
 Une ligne de flammes rugissantes de 9 mètres de long et 1,50 mètre de large émane de vous dans une direction que vous choisissez. Chaque créature dans la trajectoire doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Flamme éternelle
+#### Flamme éternelle
 
 niveau 2 - évocation
 
@@ -469,7 +471,7 @@ niveau 2 - évocation
 
 Une flamme, d'une luminosité équivalente à celle d'une torche, fait éruption depuis un objet que vous touchez. L'effet ressemble à une flamme régulière, mais il ne produit aucune chaleur et ne nécessite pas d'oxygène. Une flamme éternelle peut être recouverte ou dissimulée, mais elle ne peut pas être étouffée ou éteinte.  
 
-# Flèche acide de Melf
+#### Flèche acide de Melf
 
 niveau 2 - évocation
 
@@ -484,7 +486,7 @@ niveau 2 - évocation
 Une flèche verte scintillante jaillit en direction d'une cible à portée et l'asperge d'acide. Effectuez une attaque à distance avec un sort contre la cible. Si l'attaque touche, la cible subit 4d4 dégâts d'acide immédiatement et 2d4 dégâts d'acide à la fin de son prochain tour. En cas d'échec, la flèche asperge la cible avec de l'acide, ne lui infligeant que la moitié des dégâts initiaux et aucun dégât à la fin de son prochain tour.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts (initiaux et à retardement) sont augmentés de 1d4 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Flou
+#### Flou
 
 niveau 2 - illusion - combinable
 
@@ -498,7 +500,7 @@ niveau 2 - illusion - combinable
 
 Votre corps devient flou, changeant et ondulant pour tous ceux qui peuvent vous voir. Tant que le sort dure, toutes les créatures ont un désavantage au jet d'attaque dirigé contre vous. Un attaquant est immunisé contre cet effet s'il n'utilise pas la vue, comme avec le combat aveugle, ou s'il peut voir à travers les illusions, comme avec une vision véritable.  
 
-# Force fantasmagorique
+#### Force fantasmagorique
 
 niveau 2 - illusion - combinable
 
@@ -516,7 +518,7 @@ La cible peut utiliser son action pour examiner le fantasme avec un jet d'Intell
 Tant que la cible est sous l'effet du sort, elle considère le fantasme comme réel. La cible rationalise toute conséquence insensée lorsqu'elle interagit avec le fantasme. Par exemple, une cible qui tente de traverser un pont fantasmatique qui enjambe un gouffre tombe après avoir fait un pas sur le pont. Si la cible survit à la chute, elle croit toujours que le pont existe bien et trouve une explication logique à sa chute (on l'a poussé, elle a glissé, une rafale l'a fait basculer).  
 Une cible affectée est tellement persuadée de la réalité du fantasme que l'illusion peut même lui faire subir des dégâts. Un fantasme façonné à l'image d'une créature peut attaquer la cible. De la même manière, un fantasme apparaissant comme du feu, un bassin d'acide ou du magma peut brûler la cible. À chaque round, lors de votre tour, le fantasme peut infliger 1d6 dégâts psychiques à la cible si elle se trouve dans l'espace du fantasme ou à 1,50 mètre ou moins du fantasme, dans le cas où l'illusion est celle d'une créature ou un danger qui pourrait logiquement infliger des dégâts, comme une attaque. La cible perçoit les dégâts comme étant du type approprié à l'illusion.  
 
-# Fouet mental de Tasha
+#### Fouet mental de Tasha
 
 niveau 2 - enchantement
 
@@ -531,7 +533,7 @@ niveau 2 - enchantement
 Vous fouettez psychiquement l'esprit d'une créature que vous pouvez voir à portée du sort. La cible doit effectuer un jet de sauvegarde d'Intelligence. En cas d'échec, elle subit 3d6 dégâts psychiques et elle ne peut utiliser sa réaction avant la fin de son prochain tour. De plus, lors de son prochain tour, elle devra choisir si elle effectue un mouvement, une action ou une action bonus ; elle ne pourra effectuer que l'un des trois. En cas réussite, la cible ne subit que la moitié de ces dégâts et n'est affectée par aucun des autres effets du sort.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement supérieur au niveau 2. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
 
-# Foulée brumeuse
+#### Foulée brumeuse
 
 niveau 2 - invocation
 
@@ -545,7 +547,7 @@ niveau 2 - invocation
 
 Une brume argentée vous enveloppe puis vous vous téléportez jusqu'à 9 mètres dans un espace inoccupé que vous pouvez voir.  
 
-# Fracassement
+#### Fracassement
 
 niveau 2 - évocation
 
@@ -561,7 +563,7 @@ Un fort bruit résonnant, douloureusement intense, retentit d'un point de votre 
 Un objet non magique qui n'est pas porté ou transporté subit aussi les dégâts s'il est dans la zone du sort.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts du sort augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Image miroir
+#### Image miroir
 
 niveau 2 - illusion - combinable
 
@@ -579,7 +581,7 @@ Si vous avez trois duplicatas, vous devez obtenir 6 ou plus sur votre lancer pou
 La CA d'un duplicata est égale à 10 + votre modificateur de Dextérité. Si une attaque touche un duplicata, il est détruit. Un duplicata peut être détruit seulement par une attaque qui le touche. Il ignore les autres dégâts et effets. Le sort prend fin si les trois duplicatas sont détruits.  
 Une créature n'est pas affectée par ce sort si elle ne peut pas voir, si elle se fie sur un autre sens que la vision, comme la vision aveugle, ou si elle peut percevoir les illusions comme étant fausses, comme avec vision suprême.  
 
-# Immobilisation de personne
+#### Immobilisation de personne
 
 niveau 2 - enchantement
 
@@ -594,7 +596,7 @@ niveau 2 - enchantement
 Choisissez un humanoïde visible dans la portée du sort. La cible doit réussir un jet de sauvegarde de Sagesse ou être paralysée pour la durée du sort. À la fin de chacun de ses tours, la cible peut faire un autre jet de sauvegarde de Sagesse. Si elle réussit, le sort prend fin.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler un humanoïde supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2. Les humanoïdes doivent être situés à 9 mètres ou moins les uns des autres.  
 
-# Invisibilité
+#### Invisibilité
 
 niveau 2 - illusion
 
@@ -609,7 +611,7 @@ niveau 2 - illusion
 Une créature que vous touchez devient invisible jusqu'à la fin du sort. Tout ce que la cible porte est invisible tant que la cible le porte. Le sort se termine si la cible attaque ou lance un sort.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Lame d'ombres
+#### Lame d'ombres
 
 niveau 2 - illusion
 
@@ -624,7 +626,7 @@ niveau 2 - illusion
 Vous tissez ensemble des fils d'ombre pour créer une épée de ténèbres solidifiées dans votre main. Cette épée magique dure jusqu'à la fin du sort. Elle compte comme une arme courante de corps à corps que vous maîtrisez. Elle inflige 2d8 dégâts psychiques si vous touchez et possède les propriétés finesse, légère et lancer (portée 6/18). De plus, lorsque vous utilisez l'épée pour attaquer une cible qui se trouve dans une lumière faible ou dans les ténèbres, vous effectuez l'attaque avec un avantage. Si vous laissez tomber l'arme ou la lancez, elle se dissipe à la fin du tour. Par la suite, tant que le sort est actif, vous pouvez utiliser une action bonus pour faire réapparaître l'épée dans votre main.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, les dégâts passent à 3d8. Lorsque vous le lancez en utilisant un emplacement de sort de niveau 5 ou 6, les dégâts passent à 4d8. Lorsque vous le lancez en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts passent à 5d8.  
 
-# Lame de feu
+#### Lame de feu
 
 niveau 2 - évocation
 
@@ -641,7 +643,7 @@ Vous pouvez utiliser votre action pour effectuer une attaque au corps à corps a
 La lame enflammée émet une lumière vive dans un rayon de 3 mètres et une lumière faible sur 3 mètres supplémentaires.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 tous les 2 niveaux d'emplacement au-dessus du niveau 2.  
 
-# Lancer violent
+#### Lancer violent
 niveau 2 - combinable
 
 **Casting Time:** :: -
@@ -678,7 +680,7 @@ Dégat de chute
 | 19m-21m | 64d6  |
 |  22m+   | 128d6 |
 
-# Lévitation
+#### Lévitation
 
 niveau 2 - transmutation - combinable
 
@@ -693,7 +695,7 @@ niveau 2 - transmutation - combinable
 Une créature ou un objet non tenu de votre choix, visible et à portée du sort, s'élève jusqu'à une hauteur de 6 mètres et reste suspendu pour la durée du sort. Le sort peut faire léviter une cible pesant jusqu'à 250 kg. Une créature récalcitrante qui réussit un jet de sauvegarde de Constitution n'est pas affectée.  
 La cible peut se déplacer seulement si elle se propulse ou se tire à l'aide d'un objet ou d'une surface à sa portée (comme un mur ou un plafond). Elle peut ainsi se déplacer comme si elle grimpait. Vous pouvez changer l'altitude jusqu'à 6 mètres dans une direction ou une autre à votre tour. Si vous êtes la cible, vous pouvez vous déplacer vers le haut ou vers le bas lors de votre mouvement. Autrement, vous pouvez utiliser votre action pour déplacer la cible, qui doit demeurer dans la portée du sort. Lorsque le sort prend fin, la cible rejoint doucement le sol si elle est toujours en suspension.  
 
-# Libellé aérien
+#### Libellé aérien
 
 niveau 2 - transmutation (rituel)
 
@@ -707,7 +709,7 @@ niveau 2 - transmutation (rituel)
 
 Vous faites apparaitre jusqu'à dix mots dans une partie du ciel que vous pouvez voir. Les mots semblent être faits de nuage et restent en place pour la durée du sort. Les mots se dissipent quand le sort se termine. Un vent fort peut disperser les nuages et mettre fin au sort prématurément.  
 
-# Lien de protection
+#### Lien de protection
 
 niveau 2 - abjuration
 
@@ -722,7 +724,7 @@ niveau 2 - abjuration
 Ce sort protège une créature consentante que vous touchez et crée une connexion mystique entre vous et la cible jusqu'à ce que le sort se termine. Aussi longtemps que la cible n'est pas éloignée de plus de 18 mètres de vous, elle gagne un bonus de +1 à la CA, +1 aux jets de sauvegarde et obtient une résistance à tous les dégâts. De plus, chaque fois qu'elle subit des dégâts, vous recevez la même quantité de dégâts.  
 Le sort se termine si vous tombez à 0 point de vie ou si vous et la cible êtes séparés de plus de 18 mètres de distance. Le sort prend également fin s'il est lancé à nouveau sur l'une des créatures connectées. Vous pouvez également rompre le sort au prix d'une action.  
 
-# Lien mental
+#### Lien mental
 niveau 2
 
 **Casting Time:** :: 1 action
@@ -732,7 +734,7 @@ niveau 2
 
 Connecte ton esprit à celui d’un allié pour lui faire parvenir un souvenir ou un entrevue de ce que vous percevait (image et son).
 
-# Localisation d'animaux ou de plantes
+#### Localisation d'animaux ou de plantes
 
 niveau 2 - divination (rituel)
 
@@ -746,7 +748,7 @@ niveau 2 - divination (rituel)
 
 Décrivez ou nommez une espèce spécifique de bête ou de plante. En vous concentrant sur les murmures de la Nature qui vous environne, vous apprenez la direction et la distance de la créature, ou plante de cette espèce, la plus proche dans les 7,5 km à la ronde, à condition qu'il y en ait.  
 
-# Localisation d'objet
+#### Localisation d'objet
 
 niveau 2 - divination
 
@@ -762,7 +764,7 @@ Décrivez ou nommez un objet qui vous est familier. Vous ressentez la direction 
 Ce sort peut localiser un objet spécifique que vous connaissez, à condition que vous l'ayez déjà vu de près (à 9 mètres ou moins de vous) au moins une fois. Vous pouvez sinon faire en sorte que le sort localise l'objet le plus proche d'un type particulier, comme un type spécifique de vêtement, de bijoux, de meuble, d'objet ou d'arme.  
 Ce sort ne peut pas localiser un objet si une épaisseur de plomb, même une mince feuille, s'interpose sur la ligne de mire qui vous sépare vous et l'objet.  
 
-# Messager animal
+#### Messager animal
 
 niveau 2 - enchantement (rituel)
 
@@ -778,7 +780,7 @@ Grâce à ce sort, vous employez un animal pour livrer un message. Choisissez un
 Lorsque le messager arrive, il livre son message à la créature que vous avez décrit en imitant le son de votre voix. Le messager parlera uniquement à la créature correspondant à la description que vous avez fournie. Si le messager ne parvient pas à sa destination avant la fin du sort, le message est perdu et la bête revient à l'endroit où le sort a été incanté.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, la durée du sort augmente de 48 heures pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Métal brûlant
+#### Métal brûlant
 
 niveau 2 - transmutation
 
@@ -794,7 +796,7 @@ Choisissez un objet métallique manufacturé, comme une arme en métal ou une ar
 Si une créature tient ou porte l'objet et en subit les dégâts de feu, la créature doit réussir un jet de sauvegarde de Constitution sous peine de lâcher l'objet si elle le peut. Si elle ne peut pas se séparer de l'objet, elle obtient un désavantage à ses jets d'attaque et à ses jets de caractéristique jusqu'au début de votre prochain tour.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts sont augmentés de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Modification d'apparence
+#### Modification d'apparence
 
 niveau 2 - transmutation - combinable
 
@@ -811,7 +813,7 @@ Vous endossez une nouvelle forme. Lorsque vous lancez ce sort, choisissez l'une 
 **_Changement d'apparence_**. Vous transformez votre apparence. Vous décidez à quoi vous ressemblez, que ce soit votre taille, votre poids, les traits de votre visage, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et vos signes distinctifs, le cas échéant. Vous pouvez prendre l'apparence d'un membre d'une autre race, sans répercussions sur vos caractéristiques ou autres traits raciaux. Vous ne pouvez pas prendre l'apparence d'une créature d'une catégorie de taille différente de la vôtre, et votre forme de base doit rester la même ; si vous êtes un bipède, vous ne pouvez pas utiliser ce sort pour devenir quadrupède par exemple. À tout moment pendant la durée du sort, vous pouvez utiliser votre action pour modifier de nouveau votre apparence.  
 **_Armes naturelles_**. Vous vous dotez de griffes, crocs, épines, cornes ou d'une autre arme naturelle de votre choix. Votre attaque à mains nues inflige 1d6 dégâts contondants, perforants ou tranchants, suivant ce qui est le plus approprié à l'arme naturelle que vous avez choisie, et vous obtenez la maîtrise de votre attaque à mains nues. Enfin, votre arme naturelle est une arme magique et a un bonus de +1 aux jets d'attaque et de dégâts.  
 
-# Nuée de boules de neige de Snilloc
+#### Nuée de boules de neige de Snilloc
 
 niveau 2 - évocation
 
@@ -826,7 +828,7 @@ niveau 2 - évocation
 Une rafale de boules de neige magiques apparait à un point que vous choisissez à portée. Chaque créature dans une sphère de 1,50 mètre de rayon centré sur ce point doit faire faire un jet de sauvegarde de Dextérité. Une créature subit 3d6 dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Nuée de dagues
+#### Nuée de dagues
 
 niveau 2 - invocation
 
@@ -841,7 +843,7 @@ niveau 2 - invocation
 Vous emplissez l'espace de dagues tournoyantes dans un cube de 1,50 mètre d'arête, centré sur un point dans la portée du sort. Une créature subit 4d4 dégâts tranchants lorsqu'elle pénètre dans la zone du sort pour la première fois ou si elle y débute son tour.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 2d4 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Passage sans trace
+#### Passage sans trace
 
 niveau 2 - abjuration
 
@@ -855,7 +857,7 @@ niveau 2 - abjuration
 
 Un voile d'ombres et de silence émane de vous, vous protégeant, ainsi que vos compagnons, de la détection. Pour la durée du sort, chaque créature que vous choisissez et se trouvant à 9 mètres de vous (vous y compris) a un bonus de +10 aux jets de Dextérité (Discrétion) et ne peut pas être pistée, sauf par des moyens magiques. Une créature qui reçoit ce bonus ne laisse ni piste ni trace de son passage.  
 
-# Pattes d'araignée
+#### Pattes d'araignée
 
 niveau 2 - transmutation
 
@@ -869,7 +871,7 @@ niveau 2 - transmutation
 
 Jusqu'à ce que le sort se termine, une créature consentante que vous touchez gagne la capacité de se déplacer vers le haut, le bas, et le long de surfaces verticales ou encore à l'envers aux plafonds, tout en laissant ses mains libres. La cible gagne également une vitesse d'escalade égale à sa vitesse de marche.  
 
-# Peau d'écorce
+#### Peau d'écorce
 
 niveau 2 - transmutation
 
@@ -883,7 +885,7 @@ niveau 2 - transmutation
 
 Vous touchez une créature consentante. Jusqu'à la fin du sort, la peau de la cible prend une texture rugueuse telle l'écorce d'un arbre et la CA de la cible ne peut être inférieure à 16, peu importe le type d'armure qu'elle porte.  
 
-# Poigne terreuse de Maximilien
+#### Poigne terreuse de Maximilien
 
 niveau 2 - transmutation
 
@@ -900,7 +902,7 @@ Au prix d'une action, vous pouvez utiliser la main pour écraser la cible retenu
 Pour se libérer, la cible entravée peut utiliser son action pour faire un jet de Force contre le DD de sauvegarde de votre sort. En cas de réussite, la cible s'échappe et n'est plus entravée par la main.  
 Au prix d'une action, vous pouvez atteindre une créature différente avec la main ou la déplacer dans un espace inoccupé différent à portée. La main libère une cible entravée si vous le faites.  
 
-# Préservation des morts
+#### Préservation des morts
 
 niveau 2 - nécromancie (rituel)
 
@@ -915,7 +917,7 @@ niveau 2 - nécromancie (rituel)
 Vous touchez un corps ou ce qu'il en reste. Pour la durée du sort, la cible est protégée du pourrissement et ne peut pas devenir un mort-vivant.  
 Le sort augmente également la durée limite au-delà de laquelle il n'est plus possible de ramener un corps à la vie. Les jours passés sous l'influence de ce sort ne comptent pas dans le total de jours passés à l'état de cadavre pour des sorts comme _[rappel à la vie](https://www.aidedd.org/dnd/sorts.php?vf=rappel-a-la-vie)_.  
 
-# Prière de guérison
+#### Prière de guérison
 
 niveau 2 - évocation
 
@@ -930,7 +932,7 @@ niveau 2 - évocation
 Jusqu'à six créatures de votre choix visibles dans la portée du sort récupèrent chacune des points de vie équivalant à 2d8 + le modificateur de votre caractéristique d'incantation. Ce sort n'a pas d'effet sur les morts-vivants et les artificiels.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les points de vie récupérés augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Protection contre le poison
+#### Protection contre le poison
 
 niveau 2 - abjuration
 
@@ -945,7 +947,7 @@ niveau 2 - abjuration
 Vous touchez une créature. Si elle est empoisonnée, vous neutralisez le poison. Si plus d'un poison affecte la cible, vous neutralisez un des poisons dont vous êtes conscient de la présence, sinon vous neutralisez l'un des poisons au hasard.  
 Pour toute la durée du sort, la cible a un avantage à ses jets de sauvegarde effectués pour éviter d'être empoisonnée, et a une résistance aux dégâts de poison.  
 
-# Pyrotechnie
+#### Pyrotechnie
 
 niveau 2 - transmutation
 
@@ -961,7 +963,7 @@ Visez une zone de flammes non magiques qui rentre dans un cube de 1,50 mètre d'
 **Feux d'artifice**. La cible explose dans un chatoiement de couleurs. Chaque créature à 3 mètres ou moins de la cible doit réussir un jet de sauvegarde de Constitution ou être aveuglée jusqu'à la fin de votre prochain tour.  
 **Fumée**. Une épaisse fumée s'échappe de la cible dans un rayon de 7,50 mètres, remplissant chaque recoin de la zone. La visibilité dans la zone enfumée est nulle. La fumée dure une minute ou jusqu'à ce qu'un fort vent la dissipe.  
 
-# Rayon affaiblissant
+#### Rayon affaiblissant
 
 niveau 2 - nécromancie
 
@@ -976,7 +978,7 @@ niveau 2 - nécromancie
 Un rayon noir d'énergie négative s'échappe de votre doigt en direction d'une créature à portée. Effectuez une attaque à distance avec un sort contre la cible. Si le coup touche, la cible n'inflige plus que la moitié de ses dégâts lorsqu'elle attaque avec une arme utilisant la Force, et ce jusqu'à la fin du sort.  
 À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution contre le sort. En cas de réussite, le sort prend fin.  
 
-# Rayon ardent
+#### Rayon ardent
 
 niveau 2 - évocation
 
@@ -992,7 +994,7 @@ Vous générez trois rayons de feu et vous les projetez vers des cibles dans la 
 Effectuez une attaque à distance avec un sort pour chaque rayon. Si elle touche, la cible subit 2d6 dégâts de feu.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous générez un rayon supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Rayon de lune
+#### Rayon de lune
 
 niveau 2 - évocation
 
@@ -1010,7 +1012,7 @@ Un métamorphe effectue son jet de sauvegarde avec un désavantage. S'il échoue
 À chacun de vos tours après que vous ayez lancé ce sort, vous pouvez utiliser votre action pour déplacer le rayon jusqu'à 18 mètres dans n'importe quelle direction.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Restauration partielle
+#### Restauration partielle
 
 niveau 2 - abjuration
 
@@ -1024,7 +1026,7 @@ niveau 2 - abjuration
 
 Vous touchez une créature et vous pouvez mettre fin à une maladie ou à un état l'affligeant. L'état peut être aveuglé, assourdi, paralysé ou empoisonné.  
 
-# Saisie multiple
+#### Saisie multiple
 *niveau 2* - combinable
 
 **Casting Time:** :: 1 action
@@ -1035,7 +1037,7 @@ Vous touchez une créature et vous pouvez mettre fin à une maladie ou à un ét
 Tu manipules jusqu’à 2 objets à distance.
 **Aux niveaux supérieur** ::+2 objet/lv de sort
 
-# Sens animal
+#### Sens animal
 
 niveau 2 - divination (rituel)
 
@@ -1049,7 +1051,7 @@ niveau 2 - divination (rituel)
 
 Vous touchez une bête consentante. Pour la durée du sort, vous pouvez utiliser votre action pour voir à travers les yeux de la bête et entendre ce qu'elle entend. Vous pouvez continuer jusqu'à ce que vous utilisiez une action pour retrouver vos propres sens. Lorsque vous percevez par l'intermédiaire des sens de la bête, vous bénéficiez des sens spéciaux que possède la créature. Cependant, vous perdez l'usage de vos propres sens.  
 
-# Sens de la distorsion
+#### Sens de la distorsion
 
 niveau 2 - divination
 
@@ -1064,7 +1066,7 @@ niveau 2 - divination
 Pour la durée du sort, vous sentez la présence des portails, même ceux qui sont inactifs, dans un rayon de 9 mètres autour de vous. Si vous détectez un portail de cette façon, vous pouvez utiliser votre action pour l'étudier. Effectuez un jet de caractéristique DD 15 en utilisant votre caractéristique d'incantation. En cas de réussite, vous apprenez le plan de destination du portail ainsi que la clef nécessaire pour l'ouvrir le cas échéant, puis le sort se termine. En cas d'échec, vous n'apprenez rien et ne pouvez pas étudier à nouveau le portail à moins de relancer le sort à nouveau.  
 Le sort peut outrepasser la plupart des obstacles, mais il est bloqué par 30 cm de pierre, 2,50 cm de métal ordinaire, une mince feuille de plomb ou 90 cm de bois ou de terre.  
 
-# Sens des pièges
+#### Sens des pièges
 
 niveau 2 - divination
 
@@ -1079,7 +1081,7 @@ niveau 2 - divination
 Vous ressentez la présence de tout piège se trouvant à portée et dans votre champ de vision. Un piège, dans la définition de ce sort, comprend tout ce qui pourrait infliger un effet soudain ou inattendu, effet que vous considérez comme nuisible ou indésirable, et qui a spécifiquement été conçu dans cette optique par son créateur. Par conséquent, le sort devrait sentir une zone soumise au sort _[alarme](https://www.aidedd.org/dnd/sorts.php?vf=alarme)_, un _glyphe de protection_ ou un piège mécanique de type fosse, mais il ne pourrait pas révéler une fragilité dans le sol, un plafond instable, ou un gouffre caché.  
 Ce sort révèle simplement qu'un piège est présent. Vous n'apprenez pas l'emplacement de chaque piège, mais vous apprenez la nature générale du danger que représente le piège que vous avez détecté.  
 
-# Silence
+#### Silence
 
 niveau 2 - illusion (rituel) - combinable
 
@@ -1094,7 +1096,7 @@ niveau 2 - illusion (rituel) - combinable
 Pour la durée du sort, aucun son ne peut être créé au sein (ou passer à travers) d'une sphère de 6 mètres de rayon centrée sur le point que vous choisissez dans la portée du sort. Toute créature ou objet se trouvant entièrement à l'intérieur de la sphère est immunisé contre les dégâts de tonnerre et les créatures sont en plus assourdies.  
 Lancer un sort qui comprend une composante verbale à l'intérieur de la sphère est impossible.  
 
-# Souffle du dragon
+#### Souffle du dragon
 
 niveau 2 - transmutation
 
@@ -1109,7 +1111,7 @@ niveau 2 - transmutation
 Vous touchez une créature consentante et lui donnez le pouvoir de cracher de l'énergie magique de sa bouche, à condition qu'elle en ait une. Choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre ou poison. Jusqu'à la fin du sort, la créature peut utiliser une action pour expirer l'énergie du type choisi dans un cône de 4,50 mètres. Toutes les créatures dans cette zone doivent effectuer un jet de sauvegarde de Dextérité, subissant 3d6 dégâts du type choisi en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Sphère de feu
+#### Sphère de feu
 
 niveau 2 - invocation
 
@@ -1126,7 +1128,7 @@ Avec une action bonus, vous pouvez déplacer la sphère jusqu'à 9 mètres. Si l
 Lorsque vous déplacez la sphère, vous pouvez la diriger par-dessus des barrières de 1,50 mètre ou moins et la propulser au-dessus d'un gouffre large de 3 mètres ou moins. La sphère enflamme les objets inflammables qui ne sont pas portés ou transportés, et émet une lumière vive dans un rayon de 6 mètres et une lumière faible sur 6 mètres supplémentaires.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Suggestion
+#### Suggestion
 
 niveau 2 - enchantement - combinable
 
@@ -1143,7 +1145,7 @@ La cible doit faire un jet de sauvegarde de Sagesse. En cas d'échec, elle pours
 Vous pouvez également spécifier des conditions qui déclencheront une activité spéciale pendant la durée du sort. Par exemple, vous pourriez suggérer à un chevalier de donner son cheval de bataille au premier mendiant qu'il rencontre. Si la condition n'est pas remplie avant que le sort expire, l'activité n'est pas effectuée.  
 Si vous, ou un de vos compagnons, blessez la cible, le sort se termine.  
 
-# Surpoids
+#### Surpoids
 niveau 2
 
 **Casting Time:** :: 1 action
@@ -1156,7 +1158,7 @@ Elle subit un *désavantage aux jets de DEX* et voit sa vitesse réduite de moit
 
 À la fin de son tour, elle subit **2d6 dégâts de force** si elle rate un *jet de CON* contre ton DD de sort.
 
-# Ténèbres
+#### Ténèbres
 
 niveau 2 - évocation
 
@@ -1172,7 +1174,7 @@ Des ténèbres magiques s'étendent d'un point de votre choix dans la portée du
 Si le point choisi est un objet que vous portez ou qui n'est pas porté ou transporté, les ténèbres émanent de l'objet et elles se déplacent avec lui. Recouvrir complètement la source des ténèbres avec un objet opaque, comme un bol ou un casque, bloque les ténèbres.  
 Si n'importe quelle portion de ce sort chevauche une portion de lumière créée par un sort de niveau 2 ou moins, le sort de lumière est alors dissipé.  
 
-# Toile d'araignée - combinable
+#### Toile d'araignée - combinable
 
 niveau 2 - invocation
 
@@ -1190,7 +1192,7 @@ Chaque créature qui commence son tour dans les toiles ou qui y entre au cours d
 Une créature entravée par les toiles peut utiliser son action pour faire un jet de Force contre le DD de sauvegarde de votre sort. Si elle réussit, elle n'est plus entravée.  
 Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé au feu se consume en un round, causant 2d4 dégâts de feu à toute créature commençant son tour dans les toiles enflammées.  
 
-# Tourbillon de poussière
+#### Tourbillon de poussière
 
 niveau 2 - invocation
 
@@ -1207,7 +1209,7 @@ Toute créature finissant son tour à 1,50 mètre ou moins du tourbillon de pous
 Par une action bonus, vous pouvez déplacer le tourbillon de poussière jusqu'à 9 mètres dans n'importe quelle direction. Si le tourbillon de poussière se déplace sur du sable, de la poussière, de la terre meuble ou du petit gravier, il aspire ces matériaux et forme un nuage de débris de 3 mètres de rayon tout autour de lui jusqu' au début de votre prochain tour. Ce nuage rend la visibilité nulle dans la zone qu'il occupe.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 2.  
 
-# Vent protecteur
+#### Vent protecteur
 
 niveau 2 - évocation - combinable
 
@@ -1227,7 +1229,7 @@ Le vent a les effets suivants :
 • La zone est un terrain difficile pour les créatures autres que vous.  
 • Les attaques à distance avec une arme ont un désavantage si elles rentrent ou sortent de la zone de vent.  
 
-# Verrou magique
+#### Verrou magique
 
 niveau 2 - abjuration - combinable
 
@@ -1242,7 +1244,7 @@ niveau 2 - abjuration - combinable
 Vous touchez un objet fermé comme une porte, une fenêtre, un portail ou un coffre, et celui-ci se retrouve verrouillé pour la durée du sort. Vous et les créatures que vous désignez lors du lancement du sort pouvez ouvrir l'objet normalement. Vous pouvez aussi créer un mot de passe qui, quand il est prononcé à 1,50 mètre ou moins de l'objet, supprime l'effet du sort pendant 1 minute. Autrement, il est impossible d'ouvrir l'objet, sauf s'il est brisé ou si le sort est dissipé ou prend fin. Lancer le sort _[déblocage](https://www.aidedd.org/dnd/sorts.php?vf=deblocage)_ supprime _verrou magique_ pendant 10 minutes.  
 L'objet affecté par le sort est plus difficile à briser ou forcer ; le DD pour le briser ou tenter de le crocheter augmente de 10.  
 
-# Vision dans le noir
+#### Vision dans le noir
 
 niveau 2 - transmutation - combinable
 
@@ -1256,7 +1258,7 @@ niveau 2 - transmutation - combinable
 
 Vous touchez une créature consentante pour lui conférer la capacité de voir dans le noir. Pour la durée du sort, cette créature obtient la vision dans le noir (portée 18 mètres).  
 
-# Voir l'invisible
+#### Voir l'invisible
 
 niveau 2 - divination - combinable
 
@@ -1270,7 +1272,7 @@ niveau 2 - divination - combinable
 
 Pour la durée du sort, vous percevez les créatures et objets invisibles comme s'ils étaient visibles, et vous pouvez voir dans le plan éthéré. Les objets et créatures éthérées apparaissent fantomatiques et translucides.  
 
-# Zone de vérité
+#### Zone de vérité
 
 niveau 2 - enchantement
 

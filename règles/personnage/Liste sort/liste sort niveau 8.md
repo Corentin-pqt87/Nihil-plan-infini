@@ -1,4 +1,4 @@
-# Aura sacrée
+#### Aura sacrée
 
 niveau 8 - abjuration - combinable
 
@@ -12,7 +12,7 @@ niveau 8 - abjuration - combinable
 
 Une lumière divine émane de vous pour former une douce radiation dans un rayon de 9 mètres autour de vous. Les créatures de votre choix dans ce rayon au moment d'incanter émettent une lumière faible sur un rayon de 1,50 mètre et bénéficient d'un avantage à tous les jets de sauvegarde. Les autres créatures ont un désavantage aux jets d'attaque contre les créatures touchées par le sort. De plus, lorsqu'un fiélon ou un mort-vivant frappent une créature touchée par le sort avec une attaque au corps à corps, l'aura s'illumine d'une lumière vive. L'attaquant doit réussir un jet de sauvegarde de Constitution, sans quoi il est aveuglé jusqu'à la fin du sort.  
 
-# Aversion/Attirance
+#### Aversion/Attirance
 
 niveau 8 - enchantement - combinable
 
@@ -32,7 +32,7 @@ Si la cible inflige des dégâts ou quelque autre tort à une créature affecté
 **Mettre un terme à l'effet**. Si une créature affectée termine son tour en étant à plus de 18 mètres de la cible et sans être capable de la voir, la créature effectue un jet de sauvegarde de Sagesse. En cas de réussite, la créature n'est plus affectée par la cible et se rend compte que son sentiment d'aversion ou d'attirance lui avait été magiquement inspiré. De plus, une créature affectée par le sort est autorisée à effectuer un autre de jet de sauvegarde de Sagesse toutes les 24 heures tant que le sort persiste.  
 Une créature qui réussit son jet de sauvegarde contre cet effet y est immunisée pour 1 minute, après quoi elle peut de nouveau être affectée.  
 
-# Bagou
+#### Bagou
 
 niveau 8 - transmutation
 
@@ -46,7 +46,7 @@ niveau 8 - transmutation
 
 Jusqu'à ce que le sort se termine, lorsque vous effectuez un jet de Charisme, vous pouvez remplacer le résultat du dé par un 15. De plus, peu importe vos propos, les magies qui permettent de savoir si vous dites la vérité ou non indiquent que ce que vous dites est vrai.  
 
-# Champ antimagie
+#### Champ antimagie
 
 niveau 8 - abjuration
 
@@ -69,7 +69,7 @@ Les propriétés et les pouvoirs d'une arme magique sont réprimés s'ils sont u
 **_Créatures et objets_**. Une créature ou un objet convoqué ou créé par magie disparait temporairement de la sphère. Une telle créature réapparait instantanément lorsque l'espace occupé par la créature n'est plus dans la sphère.  
 **_Dissipation de la magie_**. Les sorts et les effets magiques tel que _[dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)_ n'ont aucun effet sur la sphère. De même, les sphères créées par des sorts de _champ antimagie_ ne s'annulent pas l'une l'autre.  
 
-# Clone
+#### Clone
 
 niveau 8 - nécromancie - combinable
 
@@ -84,7 +84,7 @@ niveau 8 - nécromancie - combinable
 Ce sort crée le double inerte d'une créature vivante, servant de protection contre la mort. Ce clone se forme à l'intérieur du récipient utilisé par le sort et atteint sa taille maximale et sa maturité au bout de 120 jours ; vous pouvez également choisir d'avoir un clone d'une version plus jeune de la même créature. Ce clone reste inerte et persiste indéfiniment, tant que son contenant n'est pas dérangé.  
 À n'importe quel moment, une fois le clone mature, si la créature originale meurt, son âme est transférée dans le clone, à condition que l'âme soit libre et qu'elle soit consentante à son retour à la vie. Le clone est physiquement identique à l'original et a la même personnalité, les mêmes souvenirs, et les mêmes caractéristiques, mais pas l'équipement d'origine. Le corps original de la créature reste où il est, s'il existe encore, il devient inerte et ne peut revenir à la vie tant que son âme est ailleurs.  
 
-# Contrôle du climat
+#### Contrôle du climat
 
 niveau 8 - transmutation
 
@@ -134,7 +134,7 @@ Lorsque vous lancez ce sort, vous modifiez les conditions climatiques actuelles,
 
   
 
-# Dédale
+#### Dédale
 
 niveau 8 - invocation
 
@@ -150,7 +150,7 @@ Vous bannissez une créature visible dans la portée du sort vers un labyrinthe 
 La cible peut utiliser son action pour tenter de s'évader. Dans ce cas, elle effectue un jet d'Intelligence DD 20. Si elle réussit, elle s'évade et le sort prend fin (un minotaure ou un démon goristro réussissent automatiquement).  
 Lorsque le sort prend fin, la cible réapparait dans l'espace qu'elle avait quitté. Si celui-ci est occupé, elle apparait dans l'espace inoccupé le plus proche.  
 
-# Demi-plan
+#### Demi-plan
 
 niveau 8 - invocation - combinable
 
@@ -165,7 +165,7 @@ niveau 8 - invocation - combinable
 Vous créez une porte d'ombres sur une surface plate et solide, que vous pouvez voir et à portée. La porte est suffisamment large pour permettre à des créatures de taille M de l'emprunter sans difficulté. Lorsqu'elle est ouverte, la porte conduit à un demi-plan qui semble être une salle vide de 9 mètres (en longueur, largeur et hauteur), faite de bois ou de pierres. Lorsque le sort se termine, la porte disparaît, et toute créature ou objet encore à l'intérieur du demi-plan y reste piégé, étant donné que la porte disparaît également de l'autre côté.  
 Chaque fois que vous lancez ce sort, vous pouvez créer un nouveau demi-plan, ou faire en sorte que la porte d'ombre que vous faites apparaître soit connectée avec un demi-plan que vous avez précédemment créé grâce à ce sort. De plus, si vous connaissez la nature et le contenu d'un demi-plan créé, via ce sort, par une autre créature, vous pouvez plutôt faire en sorte que votre porte d'ombre soit connectée à ce demi-plan.  
 
-# Domination de monstre
+#### Domination de monstre
 
 niveau 8 - enchantement
 
@@ -183,7 +183,7 @@ Vous pouvez utiliser une action pour obtenir le contrôle total et précis de la
 Chaque fois que la cible subit des dégâts, elle tente un nouveau jet de sauvegarde de Sagesse. Si elle réussit, le sort prend fin.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 9, la durée du sort sous concentration augmente jusqu'à 8 heures.  
 
-# Dragon illusoire
+#### Dragon illusoire
 
 niveau 8 - illusion
 
@@ -201,7 +201,7 @@ Pas une action bonus durant votre tour, vous pouvez déplacer l'illusion jusqu'�
 Lorsque vous créez le dragon, choisissez un type de dégât : acide, froid, feu, foudre, nécrotique ou poison. Chaque créature dans le cône doit faire un jet de sauvegarde d'Intelligence, subissant 7d6 dégât du type choisi en cas d'échec ou la moitié en cas de réussite.  
 L'illusion est tangible grâce aux filaments d'ombre utilisés pour la créer, mais les attaques contre elle ratent automatiquement. L'illusion réussit chaque jet de sauvegarde et est immunisée à tous les types de dégât et états. Une créature qui utilise une action pour examiner le dragon peut déterminer s'il s'agit d'une illusion en réussissant un jeu d'Intelligence (Investigation) opposé au DD de sauvegarde de votre sort. La créature comprend alors que le dragon est une illusion, peut voir à travers, et gagne un avantage à tous ses jets de sauvegarde contre le souffle du dragon.  
 
-# Éclat du soleil
+#### Éclat du soleil
 
 niveau 8 - évocation
 
@@ -217,7 +217,7 @@ Une vive lumière équivalente à celle du soleil éclaire dans un rayon de 18 m
 Une créature aveuglée par le sort fait un autre jet de sauvegarde de Constitution à la fin de chacun de ses tours. En cas de réussite, elle n'est plus aveuglée.  
 Ce sort dissipe dans sa zone toute ténèbres créées par un sort.  
 
-# Esprit faible
+#### Esprit faible
 
 niveau 8 - enchantement
 
@@ -234,7 +234,7 @@ En cas d'échec, les valeurs de Charisme et d'Intelligence de la créature passe
 À la fin de chaque période de 30 jours qui passe, la créature peut tenter un nouveau jet de sauvegarde contre ce sort. S'il le réussit, le sort prend fin.  
 Ce sort peut également être dissipé grâce à un sort de _[restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure), [guérison](https://www.aidedd.org/dnd/sorts.php?vf=guerison)_ ou _[souhait](https://www.aidedd.org/dnd/sorts.php?vf=souhait)_.  
 
-# Esprit impénétrable
+#### Esprit impénétrable
 
 niveau 8 - abjuration
 
@@ -248,7 +248,7 @@ niveau 8 - abjuration
 
 Jusqu'à ce que le sort prenne fin, une créature consentante que vous touchez est immunisée contre les dégâts psychiques, tout effet qui permettrait de connaître ses émotions ou de lire ses pensées, les sorts de divination et l'état charmé. Le sort déjoue même le sort _[souhait](https://www.aidedd.org/dnd/sorts.php?vf=souhait)_ et les sorts ou effets aux pouvoirs similaires utilisés pour affecter l'esprit de la cible ou obtenir des informations au sujet de la cible.  
 
-# Flétrissure épouvantable d'Abi-Dalzim
+#### Flétrissure épouvantable d'Abi-Dalzim
 
 niveau 8 - nécromancie
 
@@ -263,7 +263,7 @@ niveau 8 - nécromancie
 Vous absorbez l'humidité de chaque créature dans un cube de 9 mètres d'arête centré sur un point de votre choix dans la portée du sort. Chaque créature dans cette zone doit faire un jet de sauvegarde de Constitution. Les morts-vivants et les artificiels ne sont pas affectés ; les plantes et les élémentaires d'eau font ce jet de sauvegarde avec un désavantage. Une créature subit 12d8 dégâts nécrotiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 Les plantes non magiques dans la zone qui ne sont pas des créatures, comme les arbres et les arbustes, se flétrissent et meurent instantanément.  
 
-# Formes animales
+#### Formes animales
 
 niveau 8 - transmutation
 
@@ -280,7 +280,7 @@ La transformation reste effective pour chacune des cibles tant que le sort dure 
 Les statistiques d'une cible sont remplacées par les statistiques de la bête choisie. Cependant la cible conserve son alignement, ainsi que ses valeurs de caractéristique d'Intelligence, de Sagesse et de Charisme. La cible acquiert les points de vie de sa nouvelle forme et lorsqu'elle retrouve sa forme d'origine, elle retourne au nombre de points de vie qu'elle avait d'être métamorphosée. Si la cible retrouve sa forme d'origine parce qu'elle est tombée à 0 point de vie, les dégâts restants sont appliqués à sa forme normale. Tant que les dégâts restants ne font pas tomber la forme normale de la cible à 0 point de vie, elle ne tombe pas inconsciente. La créature est limitée aux actions qu'elle peut effectuer sous sa nouvelle forme et ne peut ni parler ni lancer des sorts.  
 L'équipement de la cible fusionne avec sa nouvelle forme. La cible ne peut pas activer, manipuler, ou bénéficier de quelque manière que ce soit de son équipement.  
 
-# Forteresse majestueuse
+#### Forteresse majestueuse
 
 niveau 8 - invocation
 
@@ -300,7 +300,23 @@ Les murs, les tourelles et le donjon sont faits de pierre qui peut être détrui
 Après 7 jours ou si vous lancez le sort ailleurs, la forteresse s'enfonce dans le sol sans causer de dégâts, laissant chaque créature qui se trouvait à l'intérieur sur le sol.  
 Lancer ce sort au même endroit chaque semaine durant un an rend la forteresse permanente.  
 
-# Mot de pouvoir étourdissant
+#### Manipulation atomique
+niveau 8 - combinable
+
+**Casting Time:** :: 2 action
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: V
+**Duration:**     :: Concentration, 1 minute
+
+Tu contrôles la structure d’un objet ou matériau.
+Tu peux ::
+- Déformer ou plier le métal
+- Faire fondre une arme
+- Sceller une porte
+- Créer une ouverture de 1 m dans une paroi solide
+Objet inanimé seulement. Dans la limite du MJ.
+
+#### Mot de pouvoir étourdissant
 
 niveau 8 - enchantement
 
@@ -315,7 +331,7 @@ niveau 8 - enchantement
 Vous prononcez un mot de pouvoir qui peut submerger l'esprit d'une créature que vous pouvez voir et à portée de sort, la laissant abasourdie. Si la créature possède 150 points de vie ou moins, elle est étourdie. Dans le cas contraire, le sort n'a aucun effet.  
 La créature étourdie doit effectuer un jet de sauvegarde de Constitution à la fin de chacun de ses tours. Sur un jet réussi, l'étourdissement prend fin.  
 
-# Nuage incendiaire
+#### Nuage incendiaire
 
 niveau 8 - invocation
 
@@ -331,7 +347,7 @@ Un nuage tournoyant de fumée et projetant des braises incandescentes apparaît 
 Lorsque le nuage apparaît, chaque créature présente à l'intérieur doit effectuer un jet de sauvegarde de Dextérité. Une créature subit 10d8 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature doit également effectuer un jet de sauvegarde lorsqu'elle pénètre dans la zone du sort pour la première fois de son tour, ou si elle y termine son tour.  
 Le nuage s'éloigne de 3 mètres de vous dans la direction de votre choix, et ce au début de chacun de vos tours.  
 
-# Télépathie
+#### Télépathie
 
 niveau 8 - évocation - combinable
 
@@ -346,7 +362,7 @@ niveau 8 - évocation - combinable
 Vous créez un lien télépathique entre vous et une créature consentante qui vous est familière. La créature peut être n'importe où sur le même plan d'existence que vous. Le sort prend fin si vous n'êtes plus tous les deux sur le même plan d'existence.  
 Jusqu'à ce que le sort prenne fin, vous et la cible pouvez échanger instantanément des mots, des images, des sons et tout autre message sensoriel entre vous. La cible qui reçoit le message sait qu'il vient de vous. Le sort permet à une créature ayant une valeur d'Intelligence de 1 au minimum de comprendre la signification de vos mots et de saisir le sens des messages sensoriels que vous lui envoyez.  
 
-# Ténèbres oppressantes
+#### Ténèbres oppressantes
 
 niveau 8 - évocation - combinable
 
@@ -360,7 +376,7 @@ niveau 8 - évocation - combinable
 
 Des ténèbres magiques apparaissent d'un point que vous choisissez à portée pour remplir une sphère de 18 mètres de rayon jusqu'à la fin du sort. Les ténèbres contournent les coins. Une créature avec vision dans le noir ne peut percer ces ténèbres et une lumière non-magique ou créée par un sort de niveau 8 ou moins ne peut y éclairer. Des cris, des murmures et des rires inquiétants peuvent être entendus dans la sphère. Chaque fois qu'une créature commence son tour dans la sphère, elle doit effectuer un jet de sauvegarde de Sagesse, subissant 8d8 dégâts psychiques en cas d'échec, ou la moitié en cas de réussite.  
 
-# Tremblement de terre
+#### Tremblement de terre
 
 niveau 8 - évocation - combinable
 
@@ -380,7 +396,7 @@ Ce sort peut avoir des effets supplémentaires selon la nature du terrain dans l
 Une fissure qui s'ouvre sous une structure cause l'effondrement de la structure (voir plus bas).  
 **_Structures_**. La secousse inflige 50 dégâts contondants à toute structure en contact avec le sol qui se trouve dans la zone lorsque vous incantez le sort ainsi qu'au début de chacun de vos tours jusqu'à ce que le sort prenne fin. Si la structure atteint 0 point de vie, elle s'effondre pour possiblement blesser les créatures proches. Une créature située à la moitié ou moins de la hauteur de la structure doit réaliser un jet de sauvegarde de Dextérité. En cas d'échec, elle subit 5d6 dégâts contondants, tombe à terre et est ensevelie dans les décombres. Un jet de Force (Athlétisme) de DD 20 est requis pour s'en extirper. Le MD peut ajuster le DD en fonction de la nature des décombres. En cas de réussite, la créature subit la moitié de ces dégâts, ne tombe pas à terre et n'est pas ensevelie.  
 
-# Tsunami
+#### Tsunami
 
 niveau 8 - invocation
 

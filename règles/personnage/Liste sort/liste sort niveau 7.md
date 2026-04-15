@@ -1,4 +1,4 @@
-# Boule de feu à retardement
+#### Boule de feu à retardement
 
 niveau 7 - évocation
 
@@ -16,7 +16,7 @@ Si la bille luisante est touchée avant la fin du sort, la créature qui la touc
 Le feu endommage les objets dans la zone et enflamme les objets inflammables qui ne sont pas portés ou transportés.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou supérieur, les dégâts de base augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 7.  
 
-# Cage de force
+#### Cage de force
 
 niveau 7 - évocation - combinable
 
@@ -35,7 +35,7 @@ Lorsque vous lancez ce sort, toute créature qui se trouve complètement dans la
 Une créature à l'intérieur de la cage ne peut pas la quitter par des moyens non magiques. Si la créature tente d'utiliser la téléportation ou le voyage planaire pour sortir de la cage, elle doit d'abords effectuer un jet de sauvegarde de Charisme. En cas de réussite, la créature peut utiliser cette magie pour sortir de la cage. En cas d'échec, la créature ne peut sortir de la cage et a dépensé cette utilisation de sort ou d'effet. La cage peut également s'étendre dans le plan éthéré pour bloquer les voyages éthérés.  
 Ce sort ne peut pas être dissipé avec le sort _[dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie)_.  
 
-# Changement de plan
+#### Changement de plan
 
 niveau 7 - invocation - combinable
 
@@ -51,7 +51,17 @@ Vous et jusqu'à huit créatures consentantes qui vous tenez par les mains en fo
 Sinon, si vous connaissez la séquence des symboles d'un cercle de téléportation sur un autre plan d'existence, ce sort vous transporte jusqu'à ce cercle. Si le cercle de téléportation est trop petit pour contenir toutes les créatures que vous transportez, elles apparaissent dans l'espace inoccupé le plus proche du cercle.  
 Vous pouvez utiliser ce sort pour bannir une créature non-consentante dans un autre plan. Choisissez une créature à portée et effectuez un jet d'attaque au corps à corps avec un sort contre elle. Si vous la touchez, la créature doit effectuer un jet de sauvegarde de Charisme. En cas d'échec, elle est transportée à un endroit aléatoire du plan d'existence que vous avez visé. Une créature transportée de la sorte devra trouver elle-même un moyen de revenir dans votre plan d'existence.  
 
-# Couronne d'étoiles
+#### Cocon télékinétique
+niveau 7 - réaction
+
+**Casting Time:** :: -
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: V
+**Duration:**     :: 1t
+
+Protège un allié en l’enfermant dans une bulle indestructible 1 round.
+
+#### Couronne d'étoiles
 
 niveau 7 - évocation
 
@@ -66,7 +76,7 @@ niveau 7 - évocation
 Sept particules étoilées apparaissent et orbitent autour de votre tête jusqu'à ce que le sort prenne fin. Vous pouvez utiliser une action bonus pour envoyer une de ces particules en direction d'une créature ou un objet dans un rayon de 36 mètres. Faites un jet d'attaque à distance. Si vous touchez, la cible subit 4d12 dégâts radiants. Dans tous les cas, la particule se consume. Le sort prend fin plus tôt si vous avez utilisé toutes les particules. Si vous avez 4 particules ou plus autour de votre tête, elles émettent une lumière vive dans un rayon de 9 mètres et une lumière faible sur 9 mètres supplémentaires. S'il vous reste 1 à 3 particules, elles émettent une lumière faible dans un rayon de 9 mètres.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou supérieur, le nombre de particules créées augmente de 2 pour chaque niveau d'emplacement au-delà du niveau 7.  
 
-# Dissimulation
+#### Dissimulation
 
 niveau 7 - transmutation - combinable
 
@@ -82,7 +92,7 @@ Grâce à ce sort, une créature consentante ou un objet peut être caché, et a
 Si la cible est une créature, elle sombre dans un état d'animation suspendue. Pour elle, le temps cesse de s'écouler, et elle ne vieillit pas.  
 Vous pouvez placer une condition pour que le sort prenne fin prématurément. Vous pouvez choisir ce que vous souhaitez comme condition, mais elle doit survenir ou être visible à 1,5 km ou moins de la cible. La condition pourrait être, par exemple, « Après 1 000 ans » ou « Lorsque la tarasque s'éveille ». Ce sort prend également fin si la cible subit des dégâts.  
 
-# Doigt de mort
+#### Doigt de mort
 
 niveau 7 - nécromancie
 
@@ -97,7 +107,7 @@ niveau 7 - nécromancie
 Vous envoyez de l'énergie négative à travers une créature visible dans la portée du sort, lui causant d'affreuses souffrances. La cible doit effectuer un jet de sauvegarde de Constitution, subissant 7d8 + 30 dégâts nécrotiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 Un humanoïde tué par ce sort se relève au début de votre prochain tour, comme un [zombi](https://www.aidedd.org/dnd/monstres.php?vf=zombi) que vous commandez en permanence et qui suit vos ordres verbaux au mieux de sa capacité.  
 
-# Épée de Mordenkainen
+#### Épée de Mordenkainen
 
 niveau 7 - évocation
 
@@ -112,7 +122,7 @@ niveau 7 - évocation
 Vous créez un plan de force en forme d'épée qui flotte dans l'air, dans la portée et pour la durée du sort.  
 Lorsque l'épée fait son apparition, vous effectuez une attaque au corps à corps avec un sort contre une cible de votre choix à 1,50 mètre ou moins de l'épée. Si elle touche, la cible reçoit 3d10 dégâts de force. Jusqu'à la fin du sort, vous pouvez utiliser une action bonus à chacun de vos tours pour déplacer l'épée jusqu'à 6 mètres vers un endroit que vous voyez et répéter cette attaque contre la même cible ou une autre.  
 
-# Forme éthérée
+#### Forme éthérée
 
 niveau 7 - transmutation - combinable
 
@@ -131,7 +141,7 @@ Lorsque le sort prend fin, vous retournez aussitôt sur votre plan d'origine, à
 Ce sort n'a pas d'effet si vous l'incantez alors que vous êtes sur le plan éthéré ou sur un plan qui ne lui est pas limitrophe, comme l'un des Plans Extérieurs.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou supérieur, vous pouvez cibler jusqu'à trois créatures consentantes (vous y compris) pour chaque niveau d'emplacement au-delà du niveau 7. Les créatures doivent être dans un rayon de 3 mètres autour de vous lorsque vous lancez le sort.  
 
-# Inversion de la gravité
+#### Inversion de la gravité
 
 niveau 7 - transmutation - combinable
 
@@ -147,7 +157,7 @@ Ce sort renverse la gravité dans un cylindre de 15 mètres de rayon et 30 mètr
 Si les créatures et objets rencontrent dans leur chute des objets solides (comme un plafond), ils le percutent comme ils l'auraient fait s'ils tombaient normalement du haut vers le bas. Si un objet ou une créature atteint le sommet de la zone d'effet sans rien percuter, il y reste, oscillant lentement, pour toute la durée du sort.  
 Lorsque le sort prend fin, les objets et créatures affectées tombent au sol.  
 
-# Invocation de céleste
+#### Invocation de céleste
 
 niveau 7 - invocation
 
@@ -163,7 +173,7 @@ Vous invoquez un céleste de FP 4 ou inférieur, qui apparaît dans un espace in
 Le céleste a une attitude amicale envers vous et vos compagnons pour la durée du sort. Lancez l'initiative pour le céleste ; il a ses propres tours de jeu. Il obéit aux ordres verbaux que vous lui donnez (aucune action n'est requise de votre part), tant qu'elles ne sont pas en contradiction avec son alignement. Si vous ne lui donnez aucun ordre, le céleste ne fait que se défendre contre les créatures qui lui sont hostiles. Le MD possède les statistiques du céleste.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 9, vous invoquez un céleste de FP 5 ou inférieur.  
 
-# Manoir somptueux de Mordenkainen
+#### Manoir somptueux de Mordenkainen
 
 niveau 7 - invocation
 
@@ -179,7 +189,7 @@ Vous invoquez une résidence extradimensionnelle à portée et qui reste en plac
 De l'autre côté du portail se trouve un magnifique hall donnant sur de nombreuses salles. L'atmosphère est pure, agréable et chaleureuse.  
 Vous pouvez créer autant d'étage que vous le souhaitez, mais l'espace total ne peut pas dépasser 50 cubes, chaque cube mesurant 3 mètres d'arête. Vous choisissez l'ameublement et la décoration du lieu. Il contient suffisamment de nourriture pour servir un banquet-à-neuf-plats pour 100 personnes. Un personnel de 100 serviteurs quasi-transparents est au service de quiconque pénètre dans le manoir. Vous décidez de l'apparence visuelle de ces serviteurs et de leur livrée. Ils obéissent complètement à vos ordres. Chaque serviteur peut réaliser n'importe quelle tâche qu'un serviteur humain pourrait faire, mais ils ne peuvent pas attaquer ou entreprendre une action qui nuirait directement à une autre créature. Ainsi les serviteurs peuvent apporter des choses, nettoyer, réparer, plier le linge, allumer des feux, servir la nourriture, verser le vin, etc. Les serviteurs peuvent se déplacer de partout dans la demeure mais ne peuvent pas la quitter. Les meubles, et tout autre objet créé par ce sort, se dissipent dans un nuage de fumée dès l'instant où ils quittent le manoir. Lorsque le sort prend fin, toute créature ou objet laissé se trouvant à l'intérieur de l'espace extradimensionnel est expulsée à l'endroit dégagé le plus proche de l'entrée.  
 
-# Mirage
+#### Mirage
 
 niveau 7 - illusion - combinable
 
@@ -196,7 +206,7 @@ Vous pouvez également modifier l'apparence des structures, ou en ajouter là o�
 L'illusion inclut des éléments visuels, auditifs, tactiles et olfactifs, il peut donc convertir un terrain dégagé en terrain difficile (et vice versa), voire entraver les déplacements dans la zone. Lorsqu'une portion de l'illusion (comme une pierre ou une branche) est déplacée en dehors de la zone d'effet du sort, elle disparaît immédiatement.  
 Les créatures possédant la vision véritable peuvent voir la véritable forme du terrain au travers de l'illusion : cependant, tous les autres éléments de l'illusion restent en place, ainsi même si la créature est avertie de la présence de l'illusion, elle peut continuer à interagir physiquement avec l'illusion.  
 
-# Mot de pouvoir douloureux
+#### Mot de pouvoir douloureux
 
 niveau 7 - enchantement
 
@@ -212,7 +222,7 @@ Vous prononcez un mot de pouvoir qui inflige une vague de douleur assaillant une
 Lorsqu'une cible est affectée par une douleur paralysante, ses vitesses sont réduites à 3 mètres maximum. La cible a aussi un désavantage à tous ses jets d'attaque, de caractéristique et de sauvegarde à l'exception des jets de sauvegarde de Constitution. De plus, si la cible tente de lancer un sort, elle doit d'abord réussir un jet de sauvegarde de Constitution ou l'incantation rate et le sort est perdu.  
 Une cible sous l'effet du sort peut faire un jet de sauvegarde de Constitution à la fin de chacun de ses tours. En cas de réussite, elle met fin à la douleur.  
 
-# Parole divine
+#### Parole divine
 
 niveau 7 - évocation - combinable
 
@@ -231,7 +241,7 @@ Vous prononcez une parole divine, emplie de la puissance qui a façonné le mond
 • 20 pv ou moins : tuée sur le coup  
 Indépendamment de ses points de vie actuels, un céleste, un élémentaire, une fée ou un fiélon qui échoue son jet est retourné à son plan d'origine (s'il n'y est pas déjà) et il ne peut revenir sur votre plan pendant 24 heures, peu importe le moyen, à l'exception du sort _[souhait](https://www.aidedd.org/dnd/sorts.php?vf=souhait)_.  
 
-# Projection d'image
+#### Projection d'image
 
 niveau 7 - illusion
 
@@ -248,7 +258,7 @@ Vous pouvez utiliser votre action pour déplacer l'illusion d'une vitesse égale
 Vous pouvez voir à travers ses yeux et entendre via ses oreilles comme si vous y étiez. Pendant votre tour, par une action bonus, vous pouvez alterner entre vos sens à vous et ceux de votre illusion. Tant que vous utilisez vos sens, votre propre corps est aveuglé et assourdi vis-à-vis de ce qui l'entoure.  
 Les interactions physiques avec l'image révèlent qu'il s'agit d'une illusion, car les choses passent au travers. Une créature qui utilise son action pour examiner l'image peut déterminer qu'il s'agit d'une illusion en réussissant un jet d'Intelligence (Investigation) contre le DD de sauvegarde de votre sort. Si une créature découvre le caractère illusoire de l'image, cette créature peut voir au travers de l'image, et tout son produit par l'illusion lui semble faux et sonne creux.  
 
-# Rayons prismatiques
+#### Rayons prismatiques
 
 niveau 7 - évocation
 
@@ -270,7 +280,7 @@ Huit rayons de lumière multicolore émanent de votre main. Chaque rayon est d'u
 **7. Violet**. En cas d'échec, la cible est aveuglée. Elle doit alors effectuer un jet de sauvegarde de Sagesse au début de votre prochain tour. Si ce nouveau jet de sauvegarde est réussi, l'aveuglement prend fin. Si elle échoue ce nouveau jet de sauvegarde, la créature est transportée dans un autre plan d'existence que le MD choisit et n'est plus aveuglée (typiquement, une créature qui ne se situe pas sur son plan d'origine y est renvoyée, tandis que les autres créatures sont généralement transportées dans le plan Astral ou le plan éthéré).  
 **8. Spécial**. La cible est frappée par deux rayons. Relancez deux fois le dé et rejouez tous les 8.  
 
-# Régénération
+#### Régénération
 
 niveau 7 - transmutation
 
@@ -285,7 +295,7 @@ niveau 7 - transmutation
 Vous touchez une créature afin de stimuler sa capacité à guérir naturellement. La cible récupère 4d8 + 15 points de vie. Pour la durée du sort, la cible recouvre 1 point de vie au début de chacun de ses tours (10 points de vie par minute).  
 Les membres de la cible qui sont sectionnés (doigts, jambes, queues, etc.) repoussent après 2 minutes, le cas échéant. Si vous tenez le membre en question et que vous l'approchez du moignon, le sort permet de rattacher instantanément le membre au moignon.  
 
-# Résurrection
+#### Résurrection
 
 niveau 7 - nécromancie
 
@@ -303,7 +313,7 @@ Ce sort referme les blessures mortelles et réhabilite les parties du corps qui 
 Revenir du monde des morts est une épreuve. La cible subit une pénalité de -4 sur tous ses jets d'attaque, de sauvegarde et de caractéristique. À chaque fois que la cible termine un repos long, la pénalité est réduite de 1 jusqu'à ce qu'elle soit nulle.  
 Incanter ce sort pour redonner vie à une créature morte depuis plus d'une année vous handicape fortement. Jusqu'à ce que vous terminiez un repos long, vous ne pouvez pas incanter de sort et vous avez un désavantage à tous les jets d'attaque, de sauvegarde et de caractéristique.  
 
-# Simulacre
+#### Simulacre
 
 niveau 7 - illusion
 
@@ -320,7 +330,7 @@ Le simulacre a une attitude amicale avec vous et toute créature que vous désig
 Si le simulacre subit des dégâts, vous pouvez le réparer dans un laboratoire d'alchimie, en utilisant des herbes et des minerais rares valant au moins 100 po par point de vie récupéré. Le simulacre persiste jusqu'à ce qu'il tombe à 0 point de vie, à ce moment-là il reprend sa forme de neige et fond instantanément.  
 Si vous lancez ce sort de nouveau, tout clone actuellement actif que vous avez créé grâce à ce sort est instantanément détruit.  
 
-# Songe du voile bleu
+#### Songe du voile bleu
 
 niveau 7 - invocation
 
@@ -336,7 +346,7 @@ Vous et jusqu'à huit autres créatures à portée tombez inconscientes pour la 
 Pour lancer ce sort, vous devez posséder un objet magique provenant du monde que vous tentez d'atteindre, et vous devez connaître l'existence de ce monde, même si vous ne connaissez pas son nom. Votre destination dans cet autre monde est un endroit sûr dans un rayon de 1,5 km d'où l'objet a été créé. Vous pouvez aussi lancer ce sort si une des créatures que vous ciblez est née dans cet autre monde, ce qui vous fait apparaître dans un endroit sûr dans un rayon de 1,5 km d'où cette créature est née.  
 Si une créature subit des dégâts pendant la durée du sort, celui-ci se termine pour elle et elle n'est pas transportée. Si vous subissez les dégâts, le sort prend fin pour l'ensemble des créatures ciblées et aucun d'entre vous n'est transporté.  
 
-# Symbole
+#### Symbole
 
 niveau 7 - abjuration
 
@@ -362,7 +372,7 @@ Lorsque vous inscrivez le glyphe, choisissez l'un des options suivantes pour dé
 **Sommeil**. Chaque cible doit réussir un jet de sauvegarde de Sagesse sous peine de sombrer dans l'inconscience pendant 10 minutes. Une créature est réveillée si elle subit des dégâts ou si quelqu'un utilise son action pour la réveiller en la secouant ou la giflant.  
 **Étourdissement**. Chaque cible doit réussir un jet de sauvegarde de Sagesse sous peine d'être étourdie pendant 1 minute.  
 
-# Téléportation
+#### Téléportation
 
 niveau 7 - invocation - combinable
 
@@ -400,7 +410,7 @@ La destination que vous choisissez doit vous être connue et doit être sur le m
 **_Zone similaire_**. Vous et votre groupe (ou l'objet ciblé) vous retrouvez dans une autre zone qui est visuellement ou thématiquement similaire à la zone ciblée. Si vous ciblez la position de votre laboratoire personnel, par exemple, vous pourriez vous retrouver dans le laboratoire d'un autre magicien ou dans une autre échoppe de fournitures magiques ayant sensiblement les mêmes outils et instruments que votre laboratoire. En règle générale, vous apparaissez dans le lieu similaire le plus proche, mais puisque le sort n'a pas vraiment de limite de portée pour la destination, vous pourriez également vous retrouver n'importe où dans le plan d'existence.  
 **_Incident_**. Les effets magiques imprévisibles du sort résultent en un voyage périlleux. Chaque créature téléportée (ou l'objet ciblé) subit 3d10 dégâts de force et le MD relance sur la table pour voir où vous vous retrouvez à présent (plusieurs incidents peuvent alors se produire de suite, infligeant des dégâts à chaque fois).  
 
-# Tempête de feu
+#### Tempête de feu
 
 niveau 7 - évocation
 
@@ -415,7 +425,7 @@ niveau 7 - évocation
 Une tempête formée de rideaux enflammés apparait à l'endroit de votre choix, dans la portée du sort. La zone de la tempête se compose de dix cubes de 3 mètres d'arête, que vous pouvez organiser à votre guise. Chaque cube doit avoir une face adjacente à la face d'un autre cube. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité, subissant 7d10 dégâts de feu en cas d'échec, ou la moitié de ces dégâts en cas de réussite.  
 Le feu endommage les objets dans la zone et allume les objets inflammables qui ne sont pas portés ou transportés. Si vous le souhaitez, les végétaux dans la zone ne sont pas touchés par le sort.  
 
-# Temple des dieux
+#### Temple des dieux
 
 niveau 7 - invocation
 
@@ -436,7 +446,7 @@ Enfin, chaque fois qu'une créature dans le temple gagne des points de vie grâc
 Le temple est fait d'une force magique opaque qui s'étend jusqu'au plan éthéré, bloquant ainsi les voyages éthérés à l'intérieur du temple. Rien ne peut physiquement traverser le temple depuis l'extérieur. Il ne peut être dissipé par _dissipation de la magie_, et _champ antimagie_ n'a pas d'effet sur lui. Un sort _désintégration_ détruit instantanément le temple.  
 Lancer ce sort tous les jours au même endroit durant un an rend ses effets permanents.  
 
-# Tourbillon
+#### Tourbillon
 
 niveau 7 - évocation
 
@@ -452,7 +462,7 @@ Une tornade apparait sur le sol à un endroit que vous pouvez voir et dans la li
 Une créature doit faire un jet de sauvegarde de Dextérité la première fois durant un tour qu'elle pénètre dans la tornade ou quand la tornade entre dans son espace, y compris lors de la première apparition de celle-ci. Une créature subit 10d6 dégâts contondants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. En outre, une créature de taille G ou plus petite qui échoue à son jet de sauvegarde doit réussir un autre jet de sauvegarde de Force ou être entravée par la tornade jusqu'à ce que le sort se termine. Quand une créature commence son tour entravée par la tornade, la créature est aspirée de 1,50 mètre vers le haut à l'intérieur de celle-ci, à moins que la créature ne soit déjà au sommet. Une créature entravée se déplace avec la tornade et tombe quand le sort se termine, à moins que la créature ait des moyens de rester en l'air.  
 Une créature entravée peut utiliser une action pour faire un jet de Force ou de Dextérité contre le DD de sauvegarde de votre sort. En cas de réussite, la créature n'est plus entravée par la tornade et est projetée à 3d6 x 3 mètres dans une direction aléatoire.  
 
-# Transformation draconique
+#### Transformation draconique
 
 niveau 7 - transmutation
 
