@@ -46,6 +46,16 @@ Lorsque vous incantez le sort, choisissez un point visible sous le nuage. Un éc
 Si vous êtes en extérieur et dans des conditions orageuses lors de l'incantation de ce sort, le sort vous permet de contrôler l'orage plutôt que d'en créer un nouveau. Dans ces conditions, les dégâts du sort augmentent de 1d10.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.  
 
+# Armes dansantes
+niveau 3
+
+**Casting Time:** :: 1 action
+**Range:**        :: Touch
+**Components:**   :: V, M, S 
+**Duration:**     :: 5t
+
+Tu manipules 2 armes à distance qui attaquent comme si tu les brandissais (arme de corp a corp) 5 tours.
+
 # Arme élémentaire
 
 niveau 3 - transmutation - combinable
@@ -60,6 +70,17 @@ niveau 3 - transmutation - combinable
 
 Une arme non magique que vous touchez devient une arme magique. Choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre ou tonnerre. Pour la durée du sort, l'arme obtient un bonus de +1 aux jets d'attaque et inflige 1d4 dégâts supplémentaires, du type que vous avez choisi, lorsqu'elle touche.  
 **_Aux niveaux supérieurs_**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou 6, le bonus aux jets d'attaque monte à +2 et les dégâts supplémentaires montent à 2d4. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le bonus monte à +3 et les dégâts supplémentaires à 3d4.  
+
+# Ascension forcée
+niveau 3 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: 18m
+**Components:**   :: M (discarded gum wrapper, a small doll)
+**Duration:**     :: 2t
+
+Soulève un ennemi de taille (M ou moins) de 6 m de haut.
+**Aux niveaux supérieur** ::+2m/lv de sort
 
 # Aura de vitalité
 
@@ -442,6 +463,16 @@ niveau 3 - invocation
 Vous appelez des esprits pour vous protéger. Ils volent dans un rayon de 4,50 mètres autour de vous pendant pour la durée du sort. Si vous êtes bon ou neutre, leur forme spectrale semble angélique ou féerique (à votre choix). Si vous êtes mauvais, ils apparaissent diaboliques ou démoniaques.  
 Lorsque vous lancez ce sort, vous pouvez désigner des créatures que vous pouvez voir pour qu'elles ne soient pas affectées. La vitesse d'une créature affectée est réduite de moitié dans la zone d'effet, et quand la créature entre dans la zone pour la première fois pendant un tour ou commence son tour dans celle-ci, elle doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, la créature prend 3d8 dégâts radiants (si vous êtes bon ou neutre) ou 3d8 dégâts nécrotiques (si vous êtes mauvais). En cas de réussite, la créature prend la moitié de ces dégâts.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.  
+
+# Étranglement psychique
+niveau 3
+
+**Casting Time:** :: 1 action
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: S, M 
+**Duration:**     :: 1 round
+
+Maintient un ennemi en l’air, inflige 8d6 dégâts de force et l’empêche de respirer (concentration +1d4/t).
 
 # Flèche de foudre
 
@@ -856,6 +887,17 @@ niveau 3 - invocation
 Vous créez une sphère de gaz jaune nauséabond de 6 mètres de rayon, centrée sur un point à portée. Le nuage se propage dans tous les coins et la visibilité de la zone est fortement réduite. Le nuage persiste dans l'air pour la durée du sort.  
 Chaque créature totalement dans le nuage au début de son tour doit effectuer un jet de sauvegarde de Constitution contre le poison. En cas d'échec, la créature est prise de nausées et chancelle, perdant ainsi son action. Les créatures qui n'ont pas besoin de respirer ou qui sont immunisées contre le poison réussissent automatiquement leur jet de sauvegarde.  
 Un vent modéré (d'au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (d'au moins 30 km/h) le disperse après 1 round.  
+
+# Onde télékinétique
+niveau 3 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: M, S, V 
+**Duration:**     :: 1 round
+
+Repousse toutes les créatures dans un rayon de 6 m et inflige 3d6 dégâts de force + dégât de chut.
+**Aux niveaux supérieur** ::+1m/lv de joueur
 
 # Petite hutte de Léomund
 

@@ -41,7 +41,7 @@ Envoie une onde mentale qui inflige 1d6 dégâts psychiques.
 *Psyker*
 
 #### Saisie rapide
-*niveau 0*
+*niveau 0* - réaction
 
 **Casting Time:** :: -
 **Range:**        :: m/t du joueur
@@ -259,7 +259,7 @@ Tu manipules jusqu’à 2 objets à distance.
 
 *Psyker*
 
-#### Sur-poids
+#### Surpoids
 *niveau 2*
 
 **Casting Time:** :: 1 action
@@ -446,6 +446,11 @@ Chaque fois que la cible subit des dégâts, elle tente un nouveau jet de sauveg
 **Aux niveaux supérieur** ::Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6, la durée du sort sous concentration augmente jusqu'à 10 minutes. Avec un emplacement de sort de niveau 7, la durée du sort sous concentration augmente jusqu'à 1 heure. Avec un emplacement de sort de niveau 8 ou supérieur, la durée du sort sous concentration augmente jusqu'à 8 heures.
 
 *Psyker*
+
+---
+a continuer
+
+---
 
 #### Champ gravitationnel
 *niveau 5*

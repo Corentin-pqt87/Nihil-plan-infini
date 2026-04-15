@@ -214,6 +214,17 @@ Vous réalisez une cérémonie religieuse qui est imprégnée de magie. Lorsque 
 **Rite funéraire**. Vous touchez un cadavre et pendant les 7 prochains jours, la cible ne peut pas devenir un mort-vivant par aucun autre moyen que le sort _[souhait](https://www.aidedd.org/dnd/sorts.php?vf=souhait)_.  
 **Mariage**. Vous touchez des humanoïdes adultes prêts à s'unir par les liens du mariage. Pour les 7 prochains jours, chaque cible gagne un bonus de +2 à la CA tant qu'ils sont à 9 mètres ou moins l'un de l'autre. Une créature ne peut bénéficier de nouveau de ce rite que si elle est veuve.  
 
+# Champ protecteur
+niveau 1 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: V, S
+**Duration:**     :: 1t
+
+Génère un bouclier invisible conférant +2 CA jusqu’au prochain tour.
+**Aux niveaux supérieur** ::+1 CA au lv (5;10;15;20) de joueur
+
 # Charme-personne
 
 niveau 1 - enchantement
@@ -503,6 +514,17 @@ niveau 1 - évocation
 
 Un éclair silencieux fonce sur une créature de votre choix dans la portée du sort. Faites une attaque à distance avec un sort contre la cible. Si elle réussit, la cible subit 4d6 dégâts radiants et le prochain jet d'attaque effectué contre cette cible avant la fin du votre prochain tour bénéficie d'un avantage grâce à la lumière faible mystique qui illumine alors la cible.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts infligés augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.  
+
+# Élan télékinétique
+niveau 1 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: S, V, M
+**Duration:**     :: -
+
+Déplace un allié volontaire de 3 m (sans provoquer d’attaque d’opportunité).
+**Aux niveaux supérieur** :: +1m/lv (2 ;4; 6; 8; 10; 12; 14; 16; 18; 20) de joueur
 
 # Enchevêtrement
 
@@ -887,6 +909,27 @@ niveau 1 - évocation
 Vous projetez une sphère d'énergie de 10 cm de diamètre vers une créature que vous pouvez voir dans la portée du sort. Vous choisissez acide, foudre, feu, froid, poison ou tonnerre comme type d'orbe que vous créez. Vous faites ensuite une attaque à distance avec un sort contre la cible. Si l'attaque touche, la créature subit 3d8 dégâts du type préalablement déterminé.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1.  
 
+# Poigne mentale
+niveau 1 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: 3 * m/t du joueur
+**Components:**   :: M 
+**Duration:**     :: 1min
+
+Maintient un objet ou une créature (taille P) immobile, la créature doit réussir un jet de force pour ce libérer, comme un mini-_immobilisation_.
+**Aux niveaux supérieur** ::Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 (taille M), sort de niveau 6 (G), sort de niveau 8 (taille TG)
+
+# Poussée coordonnée
+niveau 1 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: 2 * m/t du joueur 
+**Components:**   :: S
+**Duration:**     :: -
+
+Aides un allié en lui donnant avantage sur un test de force/dex.
+
 # Projectile élémentaire
 
 niveau 1 - évocation
@@ -1133,6 +1176,18 @@ Vous écrivez sur un parchemin, du papier, ou tout autre matériau adapté à l'
 Pour vous et pour toute créature que vous avez désignée lorsque vous avez lancé ce sort, l'écriture apparaît normalement, tracée de votre main, et transmet ce que vous souhaitiez communiquer lorsque vous avez lancé ce sort. Pour toutes les autres créatures, les écritures semblent être rédigées dans un dialecte inconnu ou magique, ce qui les rend inintelligibles. Vous pouvez sinon faire en sorte que les écritures transmettent un tout autre message, écrit d'une autre main et dans un autre langage, à condition que ce soit un langage que vous connaissiez.  
 Dans le cas où le sort serait dissipé, le texte original et l'illusion disparaissent tous les deux.  
 Une créature qui possède la vision véritable peut lire le message caché.  
+
+# Tir Réfléchi
+niveau 1
+
+**Casting Time:** :: 1 action
+**Range:**        :: 6m
+**Components:**   :: M, S 
+**Duration:**     :: Concentration, 1 round
+
+Tu utilises ton pouvoir pour dévier un projectile (balle, flèche, objet lancé).
+Fais un jet de réaction télékinétique (d20 + mod. CHA). Si ton résultat dépasse l’attaque de ton adversaire, tu dévies le projectile.
+Sur un succès supérieur de 5 ou plus, tu peux renvoyer la balle vers une cible à 6 m (attaque de sort, 1d8 dégâts de force).
 
 # Trait ensorcelé
 

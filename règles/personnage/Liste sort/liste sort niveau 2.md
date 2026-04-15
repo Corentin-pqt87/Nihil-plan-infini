@@ -217,6 +217,16 @@ niveau 2 - nécromancie - combinable
 Vous pouvez aveugler ou assourdir un ennemi. Choisissez une créature que vous pouvez voir dans la portée du sort. Celle-ci doit réussir un jet de sauvegarde de Constitution sans quoi elle est soit aveuglée, soit assourdie (selon votre choix) pour la durée du sort. À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution. En cas de réussite, le sort prend fin.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 2.  
 
+# Champ de déviation
+*niveau 2* - combinable - réaction
+
+**Casting Time:** :: -
+**Range:**        :: 3m
+**Components:**   :: M 
+**Duration:**     :: -
+
+Dévies les projectiles et les attaques à distance, réduisant les dégâts de 2d8.
+
 # Châtiment révélateur
 
 niveau 2 - évocation
@@ -631,6 +641,43 @@ Vous pouvez utiliser votre action pour effectuer une attaque au corps à corps a
 La lame enflammée émet une lumière vive dans un rayon de 3 mètres et une lumière faible sur 3 mètres supplémentaires.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 tous les 2 niveaux d'emplacement au-dessus du niveau 2.  
 
+# Lancer violent
+niveau 2 - combinable
+
+**Casting Time:** :: -
+**Range:**        :: 30m
+**Components:**   :: V, S, M (a small doll, discarded gum wrapper)
+**Duration:**     :: -
+
+Attrape un objet/ennemi léger et le projette (2d6 dégâts de force + chute). Faite un jet de sauvegarde de sort pour déterminer la hauteur que la cible va atteindre.
+Distance 
+
+| jet de sauvegarde de sort | Hauteur | Longeur |
+| :------------------------------: | :------------: | :---: |
+| 1                              | 0                | 0     |
+| 2-3                            | 0                | 1     |
+| 4-5                            | 1                | 3     |
+| 6-7                            | 2                | 6     |
+| 8-9                            | 3                | 9     |
+| 10-11                          | 3                | 9     |
+| 12-13                          | 4                | 12    |
+| 14-15                          | 5                | 15    |
+| 16-17                          | 7                | 21    |
+| 18-19                          | 8                | 24    |
+| 20-21                          | 9                | 27    |
+| 20 naturel                     | 9 + modificateur de force          | 27 + modificateur de force|
+Dégat de chute
+
+| Hauteur | Dégat |
+| :-----: | :---: |
+|  3m-5m  |  2d6  |
+|  6m-9m  |  4d6  |
+| 10m-12m |  8d6  |
+| 13m-15m | 16d6  |
+| 16m-18m | 32d6  |
+| 19m-21m | 64d6  |
+|  22m+   | 128d6 |
+
 # Lévitation
 
 niveau 2 - transmutation - combinable
@@ -674,6 +721,16 @@ niveau 2 - abjuration
 
 Ce sort protège une créature consentante que vous touchez et crée une connexion mystique entre vous et la cible jusqu'à ce que le sort se termine. Aussi longtemps que la cible n'est pas éloignée de plus de 18 mètres de vous, elle gagne un bonus de +1 à la CA, +1 aux jets de sauvegarde et obtient une résistance à tous les dégâts. De plus, chaque fois qu'elle subit des dégâts, vous recevez la même quantité de dégâts.  
 Le sort se termine si vous tombez à 0 point de vie ou si vous et la cible êtes séparés de plus de 18 mètres de distance. Le sort prend également fin s'il est lancé à nouveau sur l'une des créatures connectées. Vous pouvez également rompre le sort au prix d'une action.  
+
+# Lien mental
+niveau 2
+
+**Casting Time:** :: 1 action
+**Range:**        :: 36m
+**Components:**   :: S
+**Duration:**     :: 30min
+
+Connecte ton esprit à celui d’un allié pour lui faire parvenir un souvenir ou un entrevue de ce que vous percevait (image et son).
 
 # Localisation d'animaux ou de plantes
 
@@ -967,6 +1024,17 @@ niveau 2 - abjuration
 
 Vous touchez une créature et vous pouvez mettre fin à une maladie ou à un état l'affligeant. L'état peut être aveuglé, assourdi, paralysé ou empoisonné.  
 
+# Saisie multiple
+*niveau 2* - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: m/t du joueur
+**Components:**   :: S, M (a crushed button worth at least 1cp)
+**Duration:**     :: 5min
+
+Tu manipules jusqu’à 2 objets à distance.
+**Aux niveaux supérieur** ::+2 objet/lv de sort
+
 # Sens animal
 
 niveau 2 - divination (rituel)
@@ -1074,6 +1142,19 @@ Vous proposez un plan d'activité (limitée à une phrase ou deux) et influencez
 La cible doit faire un jet de sauvegarde de Sagesse. En cas d'échec, elle poursuit le cours de l'action que vous avez décrit au mieux de ses possibilités. Le plan d'action proposé peut se poursuivre pendant toute la durée du sort. Si l'activité qui est suggérée peut être réalisée en un temps plus court, le sort prend fin lorsque le sujet termine ce qu'il lui a été demandé de faire.  
 Vous pouvez également spécifier des conditions qui déclencheront une activité spéciale pendant la durée du sort. Par exemple, vous pourriez suggérer à un chevalier de donner son cheval de bataille au premier mendiant qu'il rencontre. Si la condition n'est pas remplie avant que le sort expire, l'activité n'est pas effectuée.  
 Si vous, ou un de vos compagnons, blessez la cible, le sort se termine.  
+
+# Surpoids
+niveau 2
+
+**Casting Time:** :: 1 action
+**Range:**        :: 12m
+**Components:**   :: M, S
+**Duration:**     :: Concentration, 1 minute
+
+Tu augmentes localement la gravité sur une cible.
+Elle subit un *désavantage aux jets de DEX* et voit sa vitesse réduite de moitié.
+
+À la fin de son tour, elle subit **2d6 dégâts de force** si elle rate un *jet de CON* contre ton DD de sort.
 
 # Ténèbres
 

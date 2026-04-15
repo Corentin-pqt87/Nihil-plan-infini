@@ -1,3 +1,27 @@
+# Apesanteur
+niveau 4 - combinable
+
+**Casting Time:** :: 1 action
+**Range:**        :: 18m
+**Components:**   :: M 
+**Duration:**     :: -
+
+Zone de 6 m de rayon sans gravité : les créatures flottent, se déplacent difficilement, les projectiles ralentissent.
+
+| jet de sauvegarde de sort | Durée (t) |
+| :-----------------------: | :-------: |
+|             1             |     1     |
+|            2-3            |     2     |
+|            4-5            |     2     |
+|            6-7            |     3     |
+|            8-9            |     3     |
+|           10-11           |     4     |
+|           12-13           |     4     |
+|           14-15           |     5     |
+|           16-17           |     5     |
+|           18-19           |     6     |
+|           20-21           |     6     |
+
 # Appel de destrier supérieur
 
 niveau 4 - invocation
@@ -75,6 +99,16 @@ Si la cible est native du plan d'existence sur lequel vous êtes, vous bannissez
 Si la cible est native d'un plan d'existence différent de celui sur lequel vous vous trouvez, la cible est bannie dans une petite détonation, retournant dans son plan d'existence. Si ce sort se termine avant qu'une minute ne se soit écoulée, la cible réapparaît dans l'espace qu'elle a quitté ou dans l'espace inoccupé le plus proche si cet endroit est déjà occupé. Sinon, la cible ne revient pas.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 4.  
 
+# Bouclier cinétique
+niveau 4 - réaction
+
+**Casting Time:** :: -
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: S, V
+**Duration:**     :: -
+
+Protège un allié contre 2d8 dégâts par round, le sort peux être maintenue mais vous ne pouvez plus vous déplacez.
+
 # Bouclier de feu
 
 niveau 4 - évocation
@@ -105,6 +139,16 @@ niveau 4 - enchantement
 
 Vous essayez de charmer une créature que vous pouvez voir à portée. Celle-ci doit effectuer un jet de sauvegarde de Sagesse, avec un avantage si vous ou vos compagnons la combattez. En cas d'échec, vous la charmez jusqu'à la fin du sort ou jusqu'à ce que vous ou vos compagnons lui fassiez quelque chose de nuisible. La créature charmée est amicale avec vous. Lorsque le sort prend fin, la créature sait que vous l'avez charmée.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 4. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.  
+
+# Champ de force protecteur
+niveau 4
+
+**Casting Time:** :: 1 action
+**Range:**        :: Touch
+**Components:**   :: S, M (a small doll, discarded gum wrapper, a crushed button worth at least 1cp)
+**Duration:**     :: 1h
+
+Ce sort transforme la chair d'une créature consentante que vous touchez en un revêtement aussi dur que la pierre. Jusqu'à ce que le sort se termine, la cible obtient la résistante aux dégâts non magiques contondants, perforants et tranchants.
 
 # Châtiment débilitant
 
@@ -309,6 +353,16 @@ Vous tentez d'envoûter une bête à portée que vous pouvez voir. Elle doit ré
 Tant que la bête est charmée et que vous vous trouvez dans le même plan d'existence, vous établissez une connexion télépathique avec elle. Vous pouvez utiliser ce lien télépathique pour transmettre des ordres à la créature tant que vous êtes conscient (aucune action n'est requise), et la créature fera de son mieux pour vous obéir. Vous pouvez spécifier une action simple et générale telle que « Attaque cette créature », « Viens ici » ou « Rapporte cet objet ». Si la créature accomplit l'ordre donné et ne reçoit pas d'autres directives de votre part, elle se défend et se protège du mieux de ses capacités.  
 Vous pouvez utiliser votre action pour prendre un contrôle total et précis de la cible. Jusqu'à la fin de votre prochain tour, la créature n'effectue que les actions que vous choisissez, et ne fait rien que vous ne lui ayez autorisé. Durant ce moment, vous pouvez également forcer la créature à utiliser une réaction, mais pour cela vous devez dépenser votre réaction. À chaque fois que la cible subit des dégâts, elle doit effectuer un jet de sauvegarde de Sagesse contre votre sort. Si le jet de sauvegarde réussit, le sort prend fin.  
 **_Aux niveaux supérieurs_**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5, vous pouvez maintenir votre concentration sur ce sort pendant 10 minutes. Lorsque vous utilisez un emplacement de sort de niveau 6, vous pouvez maintenir votre concentration sur ce sort pendant 1 heure. Et en utilisant un emplacement de sort de niveau 7, vous pouvez maintenir votre concentration pendant 8 heures.  
+
+# Écrasement
+niveau 4
+
+**Casting Time:** :: -
+**Range:**        :: 2 * m/t du joueur
+**Components:**   :: M, S, V 
+**Duration:**     :: Concentration, up to 10 minutes
+
+Ecrases un ennemi avec une force invisible (1d8 dégâts de force, test de CON pour résister) le lanceur peu maintenir le sort pour ajouter +1d6/tour
 
 # Fabrication
 
@@ -582,6 +636,17 @@ La transformation est effective pour la durée du sort, ou jusqu'à ce que la ci
 La cible remplace ses points de vie par ceux de la bête. Lorsqu'elle reprend sa forme normale, la créature retourne au nombre de points de vie qu'elle avait avant d'être transformée. Si elle retrouve sa forme normale parce qu'elle est tombée à 0 point de vie, tous les dégâts supplémentaires qu'elle a encaissés sous forme de bête sont appliqués à sa forme normale. Tant que les dégâts excédentaires ne réduisent pas les points de vie de la forme normale de la créature à 0, la créature ne tombe pas inconsciente.  
 La créature est limitée dans les actions qu'elle peut entreprendre par la nature de sa nouvelle forme, et elle ne peut pas parler, ni lancer des sorts, ni effectuer la moindre action qui nécessite des mains ou la parole.  
 L'équipement de la cible fusionne avec sa nouvelle forme. La créature ne peut pas activer, utiliser, manipuler ou recevoir le moindre avantage de son équipement.  
+
+# Maîtrise de la gravité
+niveau 4 - combinable - réaction
+
+**Casting Time:** :: 1 action
+**Range:**        :: 36m
+**Components:**   :: V, M, S (a small doll)
+**Duration:**     :: 5t
+
+Tu augmentes ou réduis le poids des créatures/objets (ralentit ou accélère) dans un diamètre de 6m.
+**Aux niveaux supérieur** ::+1m/lv (11;15;17) de joueur
 
 # Mur de feu
 

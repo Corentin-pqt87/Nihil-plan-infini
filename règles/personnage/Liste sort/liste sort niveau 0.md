@@ -152,6 +152,16 @@ En murmurant aux esprits de la nature, vous créez l'un des effets suivants, dan
 • Vous provoquez immédiatement la floraison d'une fleur, l'ouverture d'une gousse ou le débourrement d'un bourgeon de feuille.  
 • Vous créez un inoffensif effet sensoriel instantané comme une chute de feuilles, une légère brise, le son d'un petit animal ou une subtile odeur de putois. L'effet doit se limiter à un cube de 1,50 mètre d'arête.  
 • Vous éteignez ou allumez instantanément une bougie, une torche ou un petit feu de camp.  
+# Éclat gravitationnel
+niveau 0
+
+**Casting Time:** :: 1 action
+**Range:**        :: m/t du joueur
+**Components:**   :: S
+**Duration:**     :: 1t
+
+Petite poussée qui fait reculer un ennemi de 1,5 m.
+**Niveau supèrieur** :: +0.5m/lv de joueur
 
 # Embrasement
 
@@ -434,6 +444,21 @@ Une main spectrale apparaît à un point précis choisi à portée. La main expi
 Le lanceur de sorts peut utiliser son action pour contrôler la main. La main peut manipuler un objet, ouvrir une porte ou un contenant non verrouillé, ranger ou récupérer un objet d'un contenant ouvert, ou bien verser le contenu d'une fiole. La main peut être déplacée jusqu'à 9 mètres à chaque fois que vous l'utilisez.  
 La main ne peut attaquer, activer des objets magiques ou transporter plus de 5 kg.  
 
+# Manipulation télékinétique
+
+niveau 0 - combinable
+
+**Casting Time:** : 1 action
+
+**Range:**        : 9m
+
+**Components:**   : S
+
+**Duration:**     : 1min
+
+Actionner un bouton, ouvrir une porte non verrouillée, ramasser un objet (5Kg et 9m)… comme _Main de mage_.
+Niveau supèrieur : +2Kg/lv de joueur et +5m/lv de sort
+
 # Message
 
 niveau 0 - transmutation
@@ -522,6 +547,22 @@ niveau 0 - évocation
 
 La foudre jaillit de votre main pour délivrer un choc électrique à une créature que vous essayez de toucher. Effectuez une attaque au corps à corps avec un sort contre la cible. Vous avez un avantage au jet d'attaque si la cible porte une armure en métal. En cas de réussite, la cible prend 1d8 dégâts de foudre, et elle ne peut pas prendre de réaction jusqu'au début de son prochain tour.  
 Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).  
+
+# Poussée mineure
+
+niveau 0 - combinable
+
+**Casting Time:** : 1 action
+
+**Range:**        : 3m
+
+**Components:**   :: S
+
+**Duration:**     : 1min
+
+Déplace un petit objet de 1 kg dans un rayon de 3 m.
+Peut aussi déséquilibrer légèrement une créature (−2 au prochain jet d’attaque). \
+Niveau supèrieur : +1Kg/lv de joueur et +3m/lv de sort
 
 # Prestidigitation
 
@@ -633,6 +674,19 @@ niveau 0 - transmutation
 Vous canalisez la magie primale pour qu'elle aiguise vos dents ou vos ongles, le rendant prêts à livrer une attaque corrosive. Effectuez une attaque au corps à corps avec un sort contre une créature située à 1,50 mètre ou moins de vous. En cas de réussite, la cible prend 1d10 dégâts d'acide. Après que vous ayez effectué votre attaque, vos dents ou vos ongles reprennent leur état normal.  
 Les dégâts du sort augmentent de 1d10 lorsque vous atteignez le niveau 5 (2d10), le niveau 11 (3d10) et le niveau 17 (4d10).  
 
+# Saisie rapide
+
+niveau 0 - réaction
+
+**Casting Time:** :: -
+**Range:**        :: m/t du joueur
+**Components:**   :: M, S (a crushed button worth at least 1cp, a small doll, discarded gum wrapper)
+**Duration:**     :: -
+
+Intercepte ou attire un petit objet vers ta main (comme lancer un grappin invisible) d'une vitesse de 30m/s \
+*(exe: flèche = 70m/s)*
+**Niveau supèrieur** :: +10m/s/lv de joueur
+
 # Stabilisation
 
 niveau 0 - nécromancie
@@ -682,3 +736,17 @@ niveau 0 - évocation
 
 Vous lancez un trait de feu sur une créature ou un objet à portée. Faites une attaque à distance avec un sort contre la cible. En cas de réussite, la cible prend 1d10 dégâts de feu. Un objet inflammable touché par ce sort prend feu s'il n'est pas porté.  
 Les dégâts du sort augmentent de 1d10 aux niveaux 5 (2d10), 11 (3d10) et 17 (4d10).
+
+# Vibration mentale
+niveau 0 - combinable
+
+**Casting Time:** : -
+
+**Range:**        : 18m
+
+**Components:**   : S, V
+
+**Duration:**     : -
+
+Envoie une onde mentale qui inflige 1d6 dégâts psychiques.
+Niveau supèrieur : +6m/lv de sort

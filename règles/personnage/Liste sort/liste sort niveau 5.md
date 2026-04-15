@@ -1003,6 +1003,16 @@ Vous obtenez la capacité de déplacer ou manipuler les créatures ou les objets
 **_Objet_**. Vous pouvez essayer de déplacer un objet dont le poids ne dépasse pas les 500 kg. Si l'objet n'est pas porté ou tenu, vous le déplacez automatiquement jusqu'à 9 mètres dans n'importe quelle direction, dans la limite de la portée du sort. Si l'objet est porté ou tenu par une créature, vous devez effectuer un jet de caractéristique avec votre caractéristique d'incantation contre un jet de Force de la créature. Si vous gagnez l'opposition, vous arrachez l'objet à la créature et pouvez le déplacer de 9 mètres dans toutes les directions, dans les limites de la portée du sort.  
 Vous pouvez exercer un contrôle fin sur les objets avec votre emprise télékinétique, comme manipuler un objet simple, ouvrir une porte ou un contenant, déposer ou récupérer un objet d'un contenant ouvert, ou déverser le contenu d'une fiole.  
 
+# Tempête psychique
+niveau 5
+
+**Casting Time:** :: 1 action
+**Range:**        :: personnelle
+**Components:**   :: V, S, M
+**Duration:**     :: -
+
+Onde massive de force (conne), 8d6 dégâts + repousser 9 m.
+
 # Transmutation de la pierre
 
 niveau 5 - transmutation
