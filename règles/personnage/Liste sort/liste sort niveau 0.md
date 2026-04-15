@@ -30,7 +30,7 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d
 
 # Assistance
 
-niveau 0 - divination
+niveau 0 - divination - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -155,7 +155,7 @@ En murmurant aux esprits de la nature, vous créez l'un des effets suivants, dan
 
 # Embrasement
 
-niveau 0 - invocation
+niveau 0 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -171,7 +171,7 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d
 
 # Éruption de lames
 
-niveau 0 - invocation
+niveau 0 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 

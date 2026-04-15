@@ -1,6 +1,6 @@
 # Aura sacrée
 
-niveau 8 - abjuration
+niveau 8 - abjuration - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -14,7 +14,7 @@ Une lumière divine émane de vous pour former une douce radiation dans un rayon
 
 # Aversion/Attirance
 
-niveau 8 - enchantement
+niveau 8 - enchantement - combinable
 
 **Temps d'incantation** : 1 heure
 
@@ -71,7 +71,7 @@ Les propriétés et les pouvoirs d'une arme magique sont réprimés s'ils sont u
 
 # Clone
 
-niveau 8 - nécromancie
+niveau 8 - nécromancie - combinable
 
 **Temps d'incantation** : 1 heure
 
@@ -152,7 +152,7 @@ Lorsque le sort prend fin, la cible réapparait dans l'espace qu'elle avait quit
 
 # Demi-plan
 
-niveau 8 - invocation
+niveau 8 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -333,7 +333,7 @@ Le nuage s'éloigne de 3 mètres de vous dans la direction de votre choix, et ce
 
 # Télépathie
 
-niveau 8 - évocation
+niveau 8 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -348,7 +348,7 @@ Jusqu'à ce que le sort prenne fin, vous et la cible pouvez échanger instantan�
 
 # Ténèbres oppressantes
 
-niveau 8 - évocation
+niveau 8 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -362,7 +362,7 @@ Des ténèbres magiques apparaissent d'un point que vous choisissez à portée p
 
 # Tremblement de terre
 
-niveau 8 - évocation
+niveau 8 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 

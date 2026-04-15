@@ -414,7 +414,7 @@ Vous atteignez l'esprit d'une créature que vous pouvez voir et la forcez à eff
 
 # Éruption de terre
 
-niveau 3 - transmutation
+niveau 3 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -539,7 +539,7 @@ Vous vous téléportez dans un espace inoccupé que vous pouvez voir à portée.
 
 # Fusion dans la pierre
 
-niveau 3 - transmutation (rituel)
+niveau 3 - transmutation (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -642,7 +642,7 @@ Vous lancez une arme non magique ou tirez une munition non magique en l'air pour
 
 # Lenteur
 
-niveau 3 - transmutation
+niveau 3 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -709,7 +709,7 @@ Un sort de _[délivrance des malédictions](https://www.aidedd.org/dnd/sorts.ph
 
 # Marche sur l'eau
 
-niveau 3 - transmutation (rituel)
+niveau 3 - transmutation (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -798,7 +798,7 @@ Vous créez des lueurs de couleurs changeantes qui emplissent les airs dans un c
 
 # Mur d'eau
 
-niveau 3 - évocation
+niveau 3 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -813,7 +813,7 @@ Toute attaque à distance avec une arme qui entre dans l'espace du mur à un dé
 
 # Mur de sable
 
-niveau 3 - évocation
+niveau 3 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -827,7 +827,7 @@ Vous créez un mur de sable tourbillonnant sur le sol à un point que vous pouve
 
 # Mur de vent
 
-niveau 3 - évocation
+niveau 3 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -917,7 +917,7 @@ Vous conjurez une vague d'eau qui s'écrase sur une zone à portée. La zone peu
 
 # Respiration aquatique
 
-niveau 3 - transmutation (rituel)
+niveau 3 - transmutation (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -962,7 +962,7 @@ Lorsqu'il tombe à 0 point de vie, il retourne à sa forme d'origine en conserva
 
 # Sieste
 
-niveau 3 - enchantement
+niveau 3 - enchantement - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1008,7 +1008,7 @@ Le contact de votre main nimbée d'ombres peut aspirer la force vitale des autre
 
 # Transfert de vie
 
-niveau 3 - nécromancie
+niveau 3 - nécromancie - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -1039,7 +1039,7 @@ De plus, chaque créature de votre choix que vous pouvez voir et qui commence so
 
 # Vol
 
-niveau 3 - transmutation
+niveau 3 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 

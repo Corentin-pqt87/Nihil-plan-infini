@@ -255,7 +255,7 @@ Le sort désintègre automatiquement un objet non magique de taille G ou plus pe
 
 # Dispersion
 
-niveau 6 - invocation
+niveau 6 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -315,7 +315,7 @@ Choisissez une créature que vous voyez dans la portée du sort. Une décharge d
 
 # Illusion programmée
 
-niveau 6 - illusion
+niveau 6 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -366,7 +366,7 @@ Si votre concentration est interrompue, la fée ne disparaît pas. Au lieu de ce
 
 # Marche sur le vent
 
-niveau 6 - transmutation
+niveau 6 - transmutation - combinable
 
 **Temps d'incantation** : 1 minute
 
@@ -464,7 +464,7 @@ Si l'un des piliers ne peut atteindre sa pleine hauteur en raison d'un plafond o
 
 # Pétrification
 
-niveau 6 - transmutation
+niveau 6 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -704,7 +704,7 @@ Si vous, ou un de vos compagnons, blessez une des créatures sous l'effet de ce 
 
 # Terraformage
 
-niveau 6 - transmutation
+niveau 6 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -763,7 +763,7 @@ Lorsque le sort prend fin, le récipient se détruit.
 
 # Vision suprême
 
-niveau 6 - divination
+niveau 6 - divination - combinable
 
 **Temps d'incantation** : 1 action
 

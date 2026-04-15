@@ -1,6 +1,6 @@
 # Amélioration de compétences
 
-niveau 5 - transmutation
+niveau 5 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -43,7 +43,7 @@ Si vous ordonnez à un objet d'attaquer, il peut faire une simple attaque au cor
 
 # Apparence trompeuse
 
-niveau 5 - illusion
+niveau 5 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -304,7 +304,7 @@ Une créature liée doit suivre vos instructions au mieux de ses capacités. Vou
 
 # Contrôle des vents
 
-niveau 5 - transmutation
+niveau 5 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -461,7 +461,7 @@ Chaque fois que la cible subit des dégâts, elle tente un nouveau jet de sauveg
 
 # Double illusoire
 
-niveau 5 - illusion
+niveau 5 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -524,7 +524,7 @@ Lorsque la sphère apparait, chaque créature s'y trouvant doit effectuer un jet
 
 # Foulée dimensionnelle
 
-niveau 5 - invocation
+niveau 5 - invocation - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -631,7 +631,7 @@ Vous tirez une munition non magique avec une arme à distance ou lancez une arme
 
 # Lien télépathique de Rary
 
-niveau 5 - divination (rituel)
+niveau 5 - divination (rituel) - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -988,7 +988,7 @@ Si vous possédez une partie du corps, une mèche de cheveux, un ongle coupé ou
 
 # Télékinésie
 
-niveau 5 - transmutation
+niveau 5 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 

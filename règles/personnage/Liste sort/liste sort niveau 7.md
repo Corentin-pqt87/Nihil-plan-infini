@@ -18,7 +18,7 @@ Le feu endommage les objets dans la zone et enflamme les objets inflammables qui
 
 # Cage de force
 
-niveau 7 - évocation
+niveau 7 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -37,7 +37,7 @@ Ce sort ne peut pas être dissipé avec le sort _[dissipation de la magie](http
 
 # Changement de plan
 
-niveau 7 - invocation
+niveau 7 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -68,7 +68,7 @@ Sept particules étoilées apparaissent et orbitent autour de votre tête jusqu'
 
 # Dissimulation
 
-niveau 7 - transmutation
+niveau 7 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -114,7 +114,7 @@ Lorsque l'épée fait son apparition, vous effectuez une attaque au corps à cor
 
 # Forme éthérée
 
-niveau 7 - transmutation
+niveau 7 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -133,7 +133,7 @@ Ce sort n'a pas d'effet si vous l'incantez alors que vous êtes sur le plan éth
 
 # Inversion de la gravité
 
-niveau 7 - transmutation
+niveau 7 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -181,7 +181,7 @@ Vous pouvez créer autant d'étage que vous le souhaitez, mais l'espace total ne
 
 # Mirage
 
-niveau 7 - illusion
+niveau 7 - illusion - combinable
 
 **Temps d'incantation** : 10 minutes
 
@@ -214,7 +214,7 @@ Une cible sous l'effet du sort peut faire un jet de sauvegarde de Constitution �
 
 # Parole divine
 
-niveau 7 - évocation
+niveau 7 - évocation - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -364,7 +364,7 @@ Lorsque vous inscrivez le glyphe, choisissez l'un des options suivantes pour dé
 
 # Téléportation
 
-niveau 7 - invocation
+niveau 7 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 

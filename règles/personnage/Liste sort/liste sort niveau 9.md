@@ -1,6 +1,6 @@
 # Arrêt du temps
 
-niveau 9 - transmutation
+niveau 9 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -15,7 +15,7 @@ Ce sort prend fin si l'une des actions que vous utilisez lors de cette période,
 
 # Changement de forme
 
-niveau 9 - transmutation
+niveau 9 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -34,7 +34,7 @@ Pour toute la durée du sort, vous pouvez utiliser votre action pour changer de 
 
 # Emprisonnement
 
-niveau 9 - abjuration
+niveau 9 - abjuration - combinable
 
 **Temps d'incantation** : 1 minute
 
@@ -134,7 +134,7 @@ La lame peut traverser sans danger n'importe quel mur ou obstacle, y comprit un 
 
 # Métamorphose de groupe
 
-niveau 9 - transmutation
+niveau 9 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -151,7 +151,7 @@ La créature est limitée dans les actions qu'elle peut entreprendre par la natu
 
 # Métamorphose suprême
 
-niveau 9 - transmutation
+niveau 9 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -225,7 +225,7 @@ Tant que cette couche est en place, les sorts ne peuvent être lancés au traver
 
 # Nuée de météores
 
-niveau 9 - évocation
+niveau 9 - évocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -240,7 +240,7 @@ Le sort endommage les objets dans la zone et enflamme les objets inflammables qu
 
 # Portail
 
-niveau 9 - invocation
+niveau 9 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 

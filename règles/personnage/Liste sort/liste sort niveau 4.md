@@ -138,7 +138,7 @@ Au début de chacun de vos tours, le chien tente de mordre une créature se trou
 
 # Coffre secret de Léomund
 
-niveau 4 - invocation
+niveau 4 - invocation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -195,7 +195,7 @@ Une cible affectée ne peut réagir et elle doit lancer 1d10 au début de chacun
 
 # Contrôle de l'eau
 
-niveau 4 - transmutation
+niveau 4 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -328,7 +328,7 @@ Les créatures et les objets magiques ne peuvent pas être créés ou transmuté
 
 # Façonnage de la pierre
 
-niveau 4 - transmutation
+niveau 4 - transmutation - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -429,7 +429,7 @@ Le MD peut vous autoriser à choisir des cibles différentes de celles présent�
 
 # Invisibilité supérieure
 
-niveau 4 - illusion
+niveau 4 - illusion - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -536,7 +536,7 @@ Jusqu'à ce que le sort prenne fin, vous pouvez diriger la liane pour qu'elle fo
 
 # Liberté de mouvement
 
-niveau 4 - abjuration
+niveau 4 - abjuration - combinable
 
 **Temps d'incantation** : 1 action
 

@@ -1,7 +1,7 @@
 ## niveau 0
 
 #### Poussée mineure
-*niveau 0*
+*niveau 0* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 3m
@@ -15,7 +15,7 @@ Peut aussi déséquilibrer légèrement une créature (−2 au prochain jet d’
 *Psyker*
 
 #### Manipulation télékinétique
-*niveau 0*
+*niveau 0* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 9m
@@ -28,7 +28,7 @@ Actionner un bouton, ouvrir une porte non verrouillée, ramasser un objet (5Kg e
 *Psyker*
 
 #### Vibration mentale
-*niveau 0*
+*niveau 0* - combinable
 
 **Casting Time:** :: -
 **Range:**        :: 18m
@@ -106,7 +106,7 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez les niveaux 5 (
 ## Niveau 1
 
 #### **Projection**
-*niveau 1*
+*niveau 1* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 18m
@@ -119,7 +119,7 @@ Choisissez un objet pesant de 500 g à 2,5 kg à portée et qui n'est ni porté 
 *Psyker*
 
 #### Champ protecteur
-*niveau 1*
+*niveau 1* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: personnelle
@@ -132,7 +132,7 @@ Génère un bouclier invisible conférant +2 CA jusqu’au prochain tour.
 *Psyker*
 
 #### Élan télékinétique
-*niveau 1*
+*niveau 1* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 2 * m/t du joueur
@@ -145,27 +145,27 @@ Déplace un allié volontaire de 3 m (sans provoquer d’attaque d’opportunit�
 *Psyker*
 
 #### Poigne mentale
-*niveau 1*
+*niveau 1* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 3 * m/t du joueur
 **Components:**   :: M 
 **Duration:**     :: 1min
 
-Maintient un objet ou une créature (taille P) immobile, comme un mini-_immobilisation_.
+Maintient un objet ou une créature (taille P) immobile, la créature doit réussir un jet de force pour ce libérer, comme un mini-_immobilisation_.
 **Aux niveaux supérieur** ::Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 (taille M), sort de niveau 6 (G), sort de niveau 8 (taille TG)
 
 *Psyker*
 
 #### Poussée coordonnée
-*niveau 1*
+*niveau 1* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 2 * m/t du joueur 
 **Components:**   :: S
 **Duration:**     :: -
 
-Tu aides un allié en lui donnant avantage sur un test de force/dex.
+Aides un allié en lui donnant avantage sur un test de force/dex.
 
 *Psyker*
 
@@ -186,7 +186,7 @@ Sur un succès supérieur de 5 ou plus, tu peux renvoyer la balle vers une cible
 ## Niveau 2
 
 #### Lancer violent
-*niveau 2*
+*niveau 2* - combinable
 
 **Casting Time:** :: -
 **Range:**        :: 30m
@@ -223,14 +223,14 @@ Attrape un objet/ennemi léger et le projette (2d6 dégâts de force + chute). F
 *Psyker*
 
 #### Champ de déviation
-*niveau 2*
+*niveau 2* - combinable - réaction
 
 **Casting Time:** :: -
 **Range:**        :: 3m
 **Components:**   :: M 
 **Duration:**     :: -
 
-Tu dévies projectiles et attaques à distance, réduisant les dégâts de 2d10.
+Dévies les projectiles et les attaques à distance, réduisant les dégâts de 2d8.
 
 *Psyker*
 
@@ -247,7 +247,7 @@ Connecte ton esprit à celui d’un allié pour lui faire parvenir un souvenir o
 *Psyker*
 
 #### Saisie multiple
-*niveau 2*
+*niveau 2* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: m/t du joueur
@@ -289,7 +289,7 @@ Maintient un ennemi en l’air, inflige 8d6 dégâts de force et l’empêche de
 *Psyker*
 
 #### Onde télékinétique
-*niveau 3*
+*niveau 3* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: personnelle
@@ -326,7 +326,7 @@ Vous créez un mur sur le sol, à un point que vous pouvez voir à portée. Vous
 *Psyker*
 
 #### Ascension forcée
-*niveau 3*
+*niveau 3* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 18m
@@ -341,7 +341,7 @@ Soulève un ennemi de taille (M ou moins) de 6 m de haut.
 ## Niveau 4
 
 #### Apesanteur
-*niveau 4*
+*niveau 4* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 18m
@@ -374,32 +374,32 @@ Zone de 6 m de rayon sans gravité : les créatures flottent, se déplacent diff
 **Components:**   :: M, S, V 
 **Duration:**     :: Concentration, up to 10 minutes
 
-Tu écrases un ennemi avec une force invisible (1d8 dégâts de force, test de CON pour résister) le lanceur peu maintenir le sort pour ajouter +1d6/tour
+Ecrases un ennemi avec une force invisible (1d8 dégâts de force, test de CON pour résister) le lanceur peu maintenir le sort pour ajouter +1d6/tour
 
 *Psyker*
 
 #### Maîtrise de la gravité
-*niveau 4*
+*niveau 4* - combinable - réaction
 
 **Casting Time:** :: 1 action
 **Range:**        :: 36m
 **Components:**   :: V, M, S (a small doll)
 **Duration:**     :: 5t
 
-Tu augmentes ou réduis le poids des créatures/objets (ralentit ou accélère) dans un diametre de 6m.
+Tu augmentes ou réduis le poids des créatures/objets (ralentit ou accélère) dans un diamètre de 6m.
 **Aux niveaux supérieur** ::+1m/lv (11;15;17) de joueur
 
 *Psyker*
 
 #### Bouclier cinétique
-*niveau 4*
+*niveau 4* - réaction
 
 **Casting Time:** :: -
 **Range:**        :: 2 * m/t du joueur
 **Components:**   :: S, V
 **Duration:**     :: -
 
-Protège un allié contre 20 dégâts par round, le sort peux être maintenue mais vous ne pouvez plus vous déplacez.
+Protège un allié contre 2d8 dégâts par round, le sort peux être maintenue mais vous ne pouvez plus vous déplacez.
 
 *Psyker*
 
@@ -476,7 +476,7 @@ Inverse la gravité dans une zone de 20m de diamètre, le joueur est impacté ou
 
 **Casting Time:** :: 1 action
 **Range:**        :: 15
-**Components:**   :: V, M, S (a small doll)
+**Components:**   :: V, M, S 
 **Duration:**     :: -
 
 Tu matérialises une masse d’énergie pure qui frappe un point précis.
@@ -489,7 +489,7 @@ Les objets non ancrés sont projetés à 6 m.
 ## Niveau 6
 
 #### Suppression gravitationnelle
-*niveau 6*
+*niveau 6* - combinable
 
 **Casting Time:** :: 1 action
 **Range:**        :: 30m
@@ -527,7 +527,7 @@ Jusqu'à 5 créatures sont téléportées (JdS de Sag. si non consentantes) dans
 ## Niveau 7
 
 #### Cocon télékinétique
-*niveau 7*
+*niveau 7* - réaction
 
 **Casting Time:** :: -
 **Range:**        :: 2 * m/t du joueur
@@ -541,7 +541,7 @@ Protège un allié en l’enfermant dans une bulle indestructible 1 round.
 ## Niveau 8
 
 #### Manipulation atomique
-*niveau 8*
+*niveau 8* - combinable
 
 **Casting Time:** :: 2 action
 **Range:**        :: 2 * m/t du joueur

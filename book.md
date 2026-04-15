@@ -1132,7 +1132,7 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
  
 
 ##### 1 Niveau Début du contrôle 
-- Projection
+- Projection/Catapulte
 - Projection cinétique
 - Champ protecteur
 - Élan télékinétique
@@ -1179,7 +1179,8 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 - Marche sur l'eau
 - Minuscules météores de Melf
 - Protection contre une énergie
-
+- Mur de sable
+- Vol
 
 ##### 4 Niveau Puissance maitriser
 - Apesanteur
@@ -1190,7 +1191,9 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 - Porte dimensionnelle
 - Sphère de tempête
 - Bannissement
-
+- Contrôle de l'eau
+- Façonnage de la pierre
+- Lance d'arçon psychique de Raulothim
 
 ##### 5 Niveau 
 - Tempête psychique
@@ -1200,8 +1203,10 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 - Flux de gravité
 - Animation d'objets
 - Marteau psychokinétique
+- Foulée dimensionnelle
+- Lien télépathique de Rary
+- Mur de force
  
-
 ##### 6 Niveau 
 - Suppression gravitationnelle
 - Rupture psychique
@@ -1212,7 +1217,7 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 - Globe d'invulnérabilité
 - Dispersion
 - Désintégration
-
+- Marche sur le vent
 
 ##### 7 Niveau 
 - Cocon télékinétique
@@ -1221,14 +1226,13 @@ Dès lors que vous choisissez cette origine au niveau 1, vos sorts peuvent décl
 - Inversion de la gravité
 - Téléportation
 - Tourbillon
-
+- Cage de force
 
 ##### 8 Niveau 
 - Tremblement de terre
 - Demi-plan
 - Télépathie
 - Manipulation atomique
-
 
 ##### 9 Niveau
 - Arrêt du temps
