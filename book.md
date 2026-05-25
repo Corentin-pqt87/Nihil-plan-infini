@@ -1,3 +1,20 @@
+<style>
+  /* Force la taille des pages dans le code */
+  .page {
+    width: 210mm !important;
+    height: 297mm !important;
+  }
+
+  /* Indique à l'imprimante du navigateur d'utiliser le A4 sans marges */
+  @page {
+    size: a4;
+    margin: 0px;
+  }
+</style>
+
+
+
+
 <!-- Nihil : DnD+. -->
 {{frontCover}}
 
