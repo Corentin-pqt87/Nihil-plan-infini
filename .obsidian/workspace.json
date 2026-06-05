@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "441179cb2f65b836",
+        "id": "64167789ca4ae95a",
         "type": "tabs",
         "children": [
           {
-            "id": "3410efba577c71d6",
+            "id": "c9491e37eaafbe89",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "star wars/The Homebrewery - NaturalCrit Starwars.pdf"
+                "file": "star wars/trad fr/chap 2.5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "The Homebrewery - NaturalCrit Starwars"
+              "icon": "lucide-file",
+              "title": "chap 2.5"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "star wars/The Homebrewery - NaturalCrit Starwars.pdf",
+                "file": "star wars/trad fr/chap 2.5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de The Homebrewery - NaturalCrit Starwars"
+              "title": "Plan de chap 2.5"
             }
           },
           {
@@ -196,9 +198,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3410efba577c71d6",
+  "active": "c9491e37eaafbe89",
   "lastOpenFiles": [
+    "star wars/trad fr/total.md",
+    "star wars/trad fr/chap 2.3.md",
     "star wars/Star Wars 5e _ GM Binder.md",
+    "star wars/trad fr/chap 2.4.md",
+    "star wars/trad fr/chap 2.5.md",
+    "star wars/trad fr/gemini-code-1779919981240.md",
+    "star wars/trad fr/chap 2.1.md",
+    "star wars/trad fr/chap 2.2.md",
+    "star wars/trad fr/chap 1.md",
+    "star wars/trad fr/chap 1 - races.md",
+    "star wars/trad fr",
     "star wars/The Homebrewery - NaturalCrit Starwars.pdf",
     "star wars/Star Wars 5e _ GM Binder.pdf",
     "book/les races.md",
@@ -220,19 +232,10 @@
     "règles/personnage/sort de réaction.md",
     "test.md",
     "règles/personnage/Liste sort/liste sort niveau 9.md",
-    "règles/personnage/Liste sort/liste sort niveau 8.md",
-    "règles/personnage/Liste sort/liste sort niveau 7.md",
-    "règles/personnage/Liste sort/liste sort niveau 6.md",
-    "règles/personnage/Liste sort/liste sort niveau 5.md",
-    "règles/personnage/Liste sort/liste sort niveau 4.md",
-    "règles/personnage/Liste sort/liste sort niveau 3.md",
-    "règles/personnage/Liste sort/liste sort niveau 2.md",
-    "règles/personnage/Liste sort/liste sort niveau 1.md",
     "règles/personnage/Liste sort",
     "règles/personnage/Nouveau dossier",
     "histoire/langue/test.json",
     "histoire/hsitoire",
-    "FAQ",
     "histoire/frise chronologique.canvas",
     "ressources/image/map.jpg",
     "ressources/image/6d9f2635305bf4001633c4d03ce2a084.jpg",
