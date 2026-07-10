@@ -61,6 +61,7 @@ Phil Warwick
 **Drone 2** :: https://i.pinimg.com/736x/0e/f7/e8/0ef7e81ed17ece60240aa0c65f92524e.jpg par Francisco Luis Bravo Piluso
 **Drone 3** :: https://i.pinimg.com/1200x/28/40/ba/2840ba0366b6396e76c4def5215ed27a.jpg par Doosan’s Dashboard
 **Drone 4** :: https://i.pinimg.com/1200x/12/20/e1/1220e1da5add3d7fc40bf4fedb5f887d.jpg par
+\page
 **Drone 5** :: https://i.pinimg.com/736x/9c/21/99/9c2199614fb428ac568704e0c3d3ff14.jpg par auteur non 
 
 **Ecriture :** :: PAQUET Corentin
@@ -1668,7 +1669,7 @@ Il existe plusieurs méthode pour combiner des sorts.
 #### Méthode du nombre
 Quand un joueur fait une combinaison de sort, il peut combinait autant de sort que son bonus de caractéristique de sort de sa classe lui permet.
 Exemple : Bob est un ensorceleur, sa caractéristique pour lancer un sort est le charisme. Bob a 17 de charisme, son modificateur est donc de +3. Bob peut donc faire un combo de 3 sorts en même temps.
-#### Méthode du coup
+#### Méthode du coût
 Quand un joueur fait une combinaison de sort il fait l'addition des coups d'emplacement de sort. Le joueur est limité par sons bonus de maitrise.
 Exemple : Bob est un ensorceleur de niveau 9, il a donc +4 en bonus de maitrise. Sons coup max de combo est donc de 4.
 

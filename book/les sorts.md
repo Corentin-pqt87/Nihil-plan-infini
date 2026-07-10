@@ -183,18 +183,19 @@ Les effets de différents sorts s'additionnent tant que leur durée se chevauche
 
 Par exemple, si deux clercs lancent [_bénédiction_](https://www.aidedd.org/dnd/sorts.php?vf=benediction) sur la même cible, le personnage a le bénéfice seulement d'un des deux sorts ; il ne peut pas lancer deux fois les dés de bonus.
 
-### combination de sort et combo
+### Combinaison de sort et combo
 Les sorts peuvent ce combiner, ce qui veut dire que dans une même tour un joueur peu lancer un sort normal et plusieurs autre sort en parallèle afin de combiner leurs effets .
 
-Les sorts compatibles avec la combination sont noté combinable dans leur description.
-Il existe plusieurs méthode pour combiner des sorts.
+Les sorts compatibles avec la combinaison sont noté combinable dans leur description *(dans la limite de l'explicable)*.
+Il existe deux méthodes complémentaires pour combiner des sorts.
 
 #### Méthode du nombre
-Quand un joueur fait une combinaison de sort, il peut combinait autant de sort que son bonus de caractéristique de sort de sa classe lui permet.
-Exemple : Bob est un ensorceleur, sa caractéristique pour lancer un sort est le charisme. Bob a 17 de charisme, son modificateur est donc de +3. Bob peut donc faire un combo de 3 sorts en même temps.
-#### Méthode du coup
-Quand un joueur fait une combinaison de sort il fait l'addition des coups d'emplacement de sort. Le joueur est limité par sons bonus de maitrise.
-Exemple : Bob est un ensorceleur de niveau 9, il a donc +4 en bonus de maitrise. Sons coup max de combo est donc de 4.
+Quand un joueur fait une combinaison de sort, il peut combinait autant de sort que son bonus de **caractéristique de sort de sa classe** lui permet.
+*Exemple : Bob est un ensorceleur, sa caractéristique pour lancer un sort est le charisme. Bob a 17 de charisme, son modificateur est donc de +3. Bob peut donc faire un combo de 3 sorts en même temps.*
+
+#### Méthode du coût
+Quand un joueur fait une combinaison de sort il fait l'addition des coups d'emplacement de sort. Le joueur est limité par sons **bonus de maîtrise**.
+*Exemple : Bob est un ensorceleur de niveau 9, il a donc +4 en bonus de maîtrise. Sons coup max de combo est donc de 4.*
 
 {{pageNumber $[HB_pageNumber]}}
 \page
@@ -371,7 +372,7 @@ Petite poussée qui fait reculer un ennemi de 1,5 m.
 
 ### Embrasement
 
-niveau 0 - invocation - combinable
+niveau 0 - invocation
 
 **Temps d'incantation** : 1 action
 
@@ -387,7 +388,7 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d
 
 ### Éruption de lames
 
-niveau 0 - invocation - combinable
+niveau 0 - invocation
 
 **Temps d'incantation** : 1 action
 
@@ -540,7 +541,7 @@ Les dégâts du sort augmentent de un dé lorsque vous atteignez le niveau 5 (2d
 
 ### Gourdin magique
 
-niveau 0 - transmutation
+niveau 0 - transmutation  - combinable
 
 **Temps d'incantation** : 1 action bonus
 
@@ -554,7 +555,7 @@ Le bois du bâton ou du gourdin que vous tenez est altéré par les pouvoirs de 
 
 ### Illusion mineure
 
-niveau 0 - illusion
+niveau 0 - illusion  - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -621,7 +622,7 @@ Les dégâts de ce sort augmentent suivant votre niveau. Au niveau 5, l'attaque 
 
 ### Lumière
 
-niveau 0 - évocation
+niveau 0 - évocation  - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -639,7 +640,7 @@ Si vous ciblez un objet tenu ou porté par une créature hostile, cette créatur
 
 ### Lumières dansantes
 
-niveau 0 - évocation
+niveau 0 - évocation  - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -654,7 +655,7 @@ Au prix d'une action bonus lors de votre tour, il est possible de déplacer les 
 
 ### Main de mage
 
-niveau 0 - invocation
+niveau 0 - invocation  - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -668,7 +669,7 @@ Une main spectrale apparaît à un point précis choisi à portée. La main expi
 Le lanceur de sorts peut utiliser son action pour contrôler la main. La main peut manipuler un objet, ouvrir une porte ou un contenant non verrouillé, ranger ou récupérer un objet d'un contenant ouvert, ou bien verser le contenu d'une fiole. La main peut être déplacée jusqu'à 9 mètres à chaque fois que vous l'utilisez.  
 La main ne peut attaquer, activer des objets magiques ou transporter plus de 5 kg.  
 
-### Manipulation télékinétique
+### ~~Manipulation télékinétique~~
 
 niveau 0 - combinable
 
@@ -687,7 +688,7 @@ Niveau supèrieur : +2Kg/lv de joueur et +5m/lv de sort
 
 ### Message
 
-niveau 0 - transmutation
+niveau 0 - transmutation  - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -793,11 +794,11 @@ niveau 0 - combinable
 
 Déplace un petit objet de 1 kg dans un rayon de 3 m.
 Peut aussi déséquilibrer légèrement une créature (−2 au prochain jet d’attaque). \
-Niveau supèrieur : +1Kg/lv de joueur et +3m/lv de sort
+Niveau supérieur : +1Kg/lv de joueur et +3m/lv de sort
 
 ### Prestidigitation
 
-niveau 0 - transmutation
+niveau 0 - transmutation  - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -850,7 +851,7 @@ Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8),
 
 ### Réparation
 
-niveau 0 - transmutation
+niveau 0 - transmutation  - combinable
 
 **Temps d'incantation** : 1 minute
 
@@ -878,7 +879,7 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, la cible 
 
 ### Saute de vent
 
-niveau 0 - transmutation
+niveau 0 - transmutation  - combinable
 
 **Temps d'incantation** : 1 action
 
@@ -910,7 +911,7 @@ Les dégâts du sort augmentent de 1d10 lorsque vous atteignez le niveau 5 (2d10
 
 ### Saisie rapide
 
-niveau 0 - réaction
+niveau 0 - réaction  - combinable
 
 **Casting Time:** :: -
 **Range:**        :: m/t du joueur
@@ -940,7 +941,7 @@ Vous touchez une créature vivante qui est à 0 point de vie. La créature devie
 
 ### Thaumaturgie
 
-niveau 0 - transmutation
+niveau 0 - transmutation  - combinable
 
 **Temps d'incantation** : 1 action
 
