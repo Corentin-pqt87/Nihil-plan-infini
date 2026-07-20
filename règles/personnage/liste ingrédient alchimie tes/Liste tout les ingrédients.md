@@ -1,0 +1,358 @@
+| INGRÉDIENTS                       | EFFET 1                       | EFFET 2                       | EFFET 3                         | EFFET 4                         |
+| --------------------------------- | ----------------------------- | ----------------------------- | ------------------------------- | ------------------------------- |
+| Abécéen à Longue Nageoire         | Vulnérabilité à la Glace      | Renfort de Furtivité          | Vulnérabilité au Poison         | Renfort de Guérison             |
+| Abeille                           | Restauration de Vigueur       | Vigueur endommagée            | Récupération de Vigueur         | Vulnérabilité à la Foudre       |
+| Adamantium brut                   | Fardeau                       | Regain de magie               | Poison                          | Réflexion                       |
+| Ail                               | Résistance à la maladie       | Dégâts d'agilité              | Bouclier de froid               | Fortification de force          |
+| Ail                               | Résistance au Poison          | Renfort de Vigueur            | Regain magique                  | Régénération de Santé           |
+| Aile de Fléchette Bleue           | Résistance à la Foudre        | Renfort de Vol à la Tire      | Restauration de Santé           | Peur                            |
+| Aile de Fléchette Orange          | Restauration de Vigueur       | Magie endommagée              | Renfort de Vol à la Tire        | Pénalité de Santé persistante   |
+| Aile de Noctuelle                 | Pénalité de Magie             | Renfort d'Armure Légère       | Régénération de Santé           | Invisibilité                    |
+| Aile de Noctuelle ancestrale      | Pénalité de Vigueur           | Renfort de Conjuration        | Dégâts Magie récupération       | Renfort d'Enchantement          |
+| Aile de Papillon                  | Restauration de Santé         | Renfort de Marchandage        | Pénalité de Vigueur persistante | Pénalité de Magie               |
+| Aileron de Scalon                 | Respiration aquatique         | Réduction de santé            | Dégâts de foudre                | Fardeau                         |
+| Amanite Tue-mouches               | Résistance au Feu             | Renfort d'Arme à Deux Mains   | Frénésie                        | Récupération de Vigueur         |
+| Ambroisie                         | Regain de santé               | /                             | /                               | /                               |
+| Ampoule de Varech rouge           | Regain de rapidité            | Respiration aquatique         | Guérison de la maladie          | Fortification de magie          |
+| Antennes de chasseur Chaurus      | Pénalité de Vigueur           | Renfort de Conjuration        | Dégâts Mage récupération        | Renfort d'Enchantement          |
+| Anthère de saule                  | Atténuation de personnalité   | Bouclier de froid             | Guérison de la maladie          | Guérison de la paralysie        |
+| Anthère noire                     | Atténuation d'agilité         | Résistance au feu             | Atténuation d'endurance         | Lumière                         |
+| Atrophie de lune                  | Regain de magie               | Bouclier                      | Guérison de la maladie          | Réflexion de sort               |
+| Baie commune                      | Atténuation de fatigue        | Regain de magie               | Bouclier de feu                 | Réflexion                       |
+| Baies de belladone verte          | Résistance à la magie         | Regain de magie               | Magie fortifiée                 | Atténuation de magie            |
+| Baies de belladones mures         | Résistance à la magie         | Regain de magie               | Magie fortifiée                 | Atténuation de magie            |
+| Baies de houx                     | Résistance au froid           | Bouclier de froid             | Dégâts de type froid            | Vulnérabilité au feu            |
+| Bâtonnet de Spiddal               | Réduction de santé            | Réduction de magie            | Dégâts de feu                   | Regain de fatigue               |
+| Bave de kwama                     | Résistance au poison          | Atténuation de fatigue        | Marche sur l'eau                | Respiration aquatique           |
+| Bec de Faucon                     | Restauration de Vigueur       | Résistance à la Glace         | Renfort de Portage              | Résistance à la Foudre          |
+| Bernache nordique                 | Pénalité de Magie             | Respiration aquatique         | Régénération de Santé           | Renfort de Vol à la Tire        |
+| Bile de lutin                     | Fortification de personnalité | Guérison de paralysie         | Réduction de santé              | Dégâts de feu                   |
+| Blé                               | Restauration de Santé         | Renfort de Santé              | Dégâts Vigueur récupération     | Pénalité Magie persistante      |
+| Boeuf                             | Regain de fatigue             | Bouclier                      | Fortification d'agilité         | Dissipation                     |
+| Bois de spriggan brûlé            | Vulnérabilité au Feu          | Renfort d'Altération          | Dégâts Magie récupération       | Langueur                        |
+| Bouts de chair                    | Atténuation de fatigue        | Atténuation de santé          | Atténuation de magie            | /                               |
+| Branche d'aigremoine              | Résistance au poison          | Réduction de fatigue          | Silence                         | Invisibilité                    |
+| Branche de lavande                | Regain de personnalité        | Fortification de volonté      | Regain de santé                 | Dégâts de chance                |
+| Branche de Somnalius              | Regain de rapidité            | Dégâts d'endurance            | Fortification de santé          | Plume                           |
+| Brillefleur                       | Résistance à la Magie         | Peur                          | Régénération de Santé           | Paralysie                       |
+| Brin de muguet                    | Regain d'endurance            | Dégâts de force               | Marche sur l'eau                | Dégâts de volonté               |
+| Bruyère                           | Regain de personnalité        | Plume                         | Atténuation de rapidité         | Atténuation de personnalité     |
+| Buisson roux                      | Atténuation de volonté        | Agilité fortifiée             | Atténuation de santé            | Guérison du poison              |
+| Bulbe de lys corné                | Résistance à la paralysie     | Atténuation de santé          | Regain de force                 | Regain d'endurance              |
+| Bulbe sporifère                   | Atténuation de force          | Atténuation de fatigue        | Détection des clés              | Paralysie                       |
+| Capuchon du Ver                   | Regain de chance              | Vision nocturne               | Fortification de fatigue        | Paralysie                       |
+| Carotte                           | Regain de fatigue             | Vision nocturne               | Fortification d'intelligence    | Dégâts d'endurance              |
+| Carpe du Hist                     | Restauration de Vigueur       | Renfort de Magie              | Dégâts Vigueur récupération     | Respiration aquatique           |
+| Cendres d'engeance                | Vigueur endommagée            | Résistance au Feu             | Renfort d'Enchantement          | Magie endommagée                |
+| Chair de crabe                    | Regain de points de fatigue   | Résistance à la foudre        | Bouclier de foudre              | Regain de chance                |
+| Chair de crabe                    | Regain d'endurance            | Résistance à la foudre        | Réduction de fatigue            | Bouclier de feu                 |
+| Chair de durzog                   | Agilité fortifiée             | Force fortifiée               | Cécité                          | Réduction de magie              |
+| Chair de mort                     | Réduction de fatigue          | Dégâts de chance              | Fortification de santé          | Silence                         |
+| Chair de sanglier                 | Regain de santé               | Dégâts de rapidité            | Fortification de santé          | Fardeau                         |
+| Chair humaine                     | Santé fortifiée               | Atténuation d'intelligence    | Atténuation de personnalité     | /                               |
+| Chair Humaine                     | Pénalité de Santé             | Paralysie                     | Restauration de Magie           | Renfort de Furtivité            |
+| Champignon luisant                | Résistance à la Foudre        | Renfort de Destruction        | Renfort de Forgeage             | Renfort de Santé                |
+| Chapeau blanc                     | Vulnérabilité à la Glace      | Renfort d'Armure Lourde       | Restauration de Magie           | Magie endommagée                |
+| Chapeau d'Amanite Tue-mouche      | Regain d'agilité              | Fardeau                       | Regain de santé                 | Dégâts de foudre                |
+| Chapeau d'Entoloma Nitidum        | Regain de magie               | Dégâts de feu                 | Résistance au froid             | Fardeau                         |
+| Chapeau de Carpophore             | Regain de magie               | Fortification de magie        | Vision nocturne                 | Invisibilité                    |
+| Chapeau de Cèpe d'été             | Regain d'agilité              | Bouclier                      | Dégâts de personnalité          | Dégâts d'endurance              |
+| Chapeau de Cèpe de pierre         | Regain de santé               | Dégâts d'intelligence         | Résistance à la paralysie       | Dégâts de foudre                |
+| Chapeau de Clavaire verte         | Regain de chance              | Fortification de chance       | Réduction de fatigue            | Regain de santé                 |
+| Chapeau de Clitocybe nébuleux     | Regain d'intelligence         | Fortification d'intelligence  | Dégâts d'endurance              | Réduction de magie              |
+| Chapeau de Mitrula Palidosa       | Regain de magie               | Bouclier                      | Dégâts de personnalité          | Dégâts d'endurance              |
+| Chapeau de Mutinus Elegans        | Réduction de santé            | Regain de magie               | Marche sur l'eau                | Invisibilité                    |
+| Chapeau de Pézize orangée         | Dégâts de volonté             | Guérison de la maladie        | Fortification de force          | Dégâts d'intelligence           |
+| Chapeau de Pézize verte           | Regain de fatigue             | Dégâts de rapidité            | Réflexion des dégâts            | Réduction de santé              |
+| Chapeau de Polypore amadou        | Regain de volonté             | Résistance à la maladie       | Invisibilité                    | Réduction de magie              |
+| Chapeau de Polypore cinabre jaune | Regain d'endurance            | Fortification d'endurance     | Dégâts de personnalité          | Réflexion de sort               |
+| Chapeau de Polypore cinabre rouge | Regain d'agilité              | Bouclier                      | Dégâts de personnalité          | Dégâts d'endurance              |
+| Chapeau de Polypore écailleux     | Regain de chance              | Résistance au froid           | Dégâts de rapidité              | Dégâts de froid                 |
+| Chapeau de Russule émétique       | Regain d'agilité              | Bouclier                      | Dégâts de personnalité          | Dégâts d'endurance              |
+| Chitine de Vassard                | Restauration de Vigueur       | Potion médicinale             | Résistance au Poison            | Résistance au Feu               |
+| Chou de scrib                     | Atténuation d'intelligence    | Réduction de santé            | Regain d'agilité                | Agilité fortifiée               |
+| Choucard                          | Santé endommagée              | Vigueur endommagée            | Magie endommagée                | Pénalité de Santé persistante   |
+| Cire de dreugh                    | Force fortifiée               | Regain de force               | Atténuation de chance           | Atténuation de volonté          |
+| Cire de Dreugh                    | Réduction de fatigue          | Résistance au poison          | Respiration aquatique           | Réduction de santé              |
+| Citrouille                        | Regain de fatigue             | Dégâts d'agilité              | Dégâts de personnalité          | Détection de vie                |
+| Cloquerille                       | Pénalité de Vigueur           | Frénésie                      | Restauration de Santé           | Renfort de Forgeage             |
+| Coeur de Daedra                   | Regain de santé               | Bouclier de foudre            | Réduction de magie              | Silence                         |
+| Coeur de Daedra                   | Regain de santé               | Bouclier de foudre            | Réduction de magie              | Silence                         |
+| Coeur de daédra                   | Regain de magie               | Endurance fortifiée           | Atténuation d'agilité           | Vision nocturne                 |
+| Coeur de Daédra                   | Restauration de Santé         | Dégâts Vigueur Récupération   | Pénalité de Magie               | Peur                            |
+| Coeur de fleur d'Aster            | Regain d'agilité              | Dissipation                   | Bouclier                        | Fardeau                         |
+| Coeur de glycine                  | Regain d'intelligence         | Fardeau                       | Lumière                         | Caméléon                        |
+| Coeur de goule                    | Paralysie                     | Guérison du poison            | Attaque fortifiée               | /                               |
+| Coeur de Ronce                    | Restauration de Magie         | Renfort de Parade             | Paralysie                       | Renfort de Magie                |
+| Coeur humain                      | Regain de santé               | Bouclier de foudre            | Réduction de magie              | Silence                         |
+| Coeur Humain                      | Pénalité de Santé             | Pénalité de Magie             | Dégâts Magie Récupération       | Frénésie                        |
+| Coprin violet                     | Marche sur l'eau              | Atténuation de fatigue        | Poison                          | /                               |
+| Corne de Minotaure                | Regain de volonté             | Fardeau                       | Fortification d'endurance       | Résistance à la paralysie       |
+| Cosse                             | Résistance au Poison          | Magie endommagée              | Renfort d'Altération            | Restauration de Magie           |
+| Cosse cendrée                     | Résistance au Feu             | Vulnérabilité à la Foudre     | Renfort de Crochetage           | Renfort de Furtivité            |
+| Coton sauvage                     | Résistance à la Magie         | Renfort de Magie              | Renfort de Parade               | Renfort de Marchandage          |
+| Couronne sanglante                | Vulnérabilité au Feu          | Renfort de Parade             | Vulnérabilité au Poison         | Résistance à la Magie           |
+| Coutil                            | Regain de points de fatigue   | Points de fatigue fortifiés   | Plume                           | Télékinésie                     |
+| Crochet d'épine                   | Réduction de santé            | Dégâts de chance              | Regain de magie                 | Fortification de santé          |
+| Cuir de hirsute                   | Cécité                        | Dégâts de type froid          | Résistance au froid             | Rappel                          |
+| Cuir de netch                     | Endurance fortifiée           | Intelligence fortifiée        | Atténuation de personnalité     | Guérison de la paralysie        |
+| Défense de horqueur               | Atténuation d'altération      | Intelligence fortifiée        | Multip. de magie fortifié       | Détection des animaux           |
+| Défense de Mammouth en poudre     | Restauration de Vigueur       | Renfort de Furtivité          | Vulnérabilité au Feu            | Peur                            |
+| Défense de sanglier               | Renfort de Vigueur            | Renfort de Santé              | Renfort de Parade               | Frénésie                        |
+| Dent d'Ogre                       | Dégâts d'intelligence         | Résistance à la paralysie     | Dégâts de foudre                | Fortification de force          |
+| Dent de Daedroth                  | Vision nocturne               | Bouclier de froid             | Fardeau                         | Lumière                         |
+| Dent de Daedroth                  | Vision nocturne               | Bouclier de froid             | Fardeau                         | Lumière                         |
+| Dent de Molosse                   | Guérison du poison            | Détection de vie              | Fardeau                         | Invisibilité                    |
+| Dent de Smilodon                  | Restauration de Vigueur       | Renfort d'Armure Lourde       | Renfort de Forgeage             | Vulnérabilité au Poison         |
+| Dent de Spectre de Glace          | Vulnérabilité à la Glace      | Renfort d'Armure Lourde       | Invisibilité                    | Vulnérabilité au Feu            |
+| Diamant                           | Atténuation d'agilité         | Invisibilité                  | Réflexion                       | Détection des clés              |
+| Ebonite brute                     | Atténuation d'agilité         | Guérison du poison            | Bouclier de froid               | Regain de personnalité          |
+| Ecaille                           | Dégâts de volonté             | Respiration aquatique         | Réduction de santé              | Marche sur l'eau                |
+| Ecaille de Poisson Carnassier     | Résistance à la Glace         | Pénalité de Santé persistante | Renfort d'Armure Lourde         | Renfort de Parade               |
+| Ecaille pourrie                   | Fardeau                       | Réduction de santé            | Silence                         | Paralysie                       |
+| Ecailles                          | Atténuation de personnalité   | Marche sur l'eau              | Regain d'endurance              | Nage rapide                     |
+| Ecorce de Gnarl                   | Regain d'endurance            | Bouclier                      | Bouclier de feu                 | Réduction de santé              |
+| Ectoplasme                        | Agilité fortifiée             | Détection des animaux         | Atténuation de force            | Atténuation de santé            |
+| Ectoplasme                        | Dégâts de foudre              | Dissipation                   | Fortification de magie          | Réduction de santé              |
+| Ectoplasme                        | Restauration de Magie         | Renfort de Destruction        | Renfort de Magie                | Pénalité de Santé               |
+| Emeraude                          | Magie fortifiée               | Regain de santé               | Atténuation d'agilité           | Atténuation d'endurance         |
+| Engrais osseux                    | Regain d'agilité              | Télékinésie                   | Atténuation de fatigue          | Atténuation de personnalité     |
+| Engrais osseux                    | Réduction de fatigue          | Résistance au feu             | Fortification de chance         | Vision nocturne                 |
+| Épi de blé                        | Regain de fatigue             | Réduction de magie            | Fortification de santé          | Dégâts de personnalité          |
+| Épine de lloramor                 | Absorption de sort            | Invisibilité                  | Poison                          | Détection des enchantements     |
+| Esquille d'os                     | Regain de volonté             | Bouclier de froid             | Réduction de magie              | Dégâts de chance                |
+| Essence de néant                  | Regain de santé               | Fortification de santé        | Fortification de force          | Fortification d'endurance       |
+| Etouffe herbe                     | Atténuation de chance         | Regain de points de fatigue   | Guérison de la maladie          | Atténuation de volonté          |
+| Farine                            | Regain de fatigue             | Dégâts de personnalité        | Fortification de fatigue        | Réflexion de dégâts             |
+| Farine d'os                       | Pénalité de Vigueur           | Résistance au Feu             | Renfort de Conjuration          | Vigueur endommagée              |
+| Feuille d'absinthe                | Fortification de fatigue      | Invisibilité                  | Réduction de santé              | Réduction de magie              |
+| Feuille d'Aloe Vera               | Regain de fatigue             | Regain de santé               | Réduction de magie              | Invisibilité                    |
+| Feuille de Cardamine des prés     | Regain d'intelligence         | Résistance au feu             | Réduction de fatigue            | Fortification de santé          |
+| Feuille de Ginkgo                 | Regain de rapidité            | Fortification de la magie     | Dégâts de chance                | Dégâts de foudre                |
+| Feuille de Pied de lion           | Regain de santé               | Dégâts d'endurance            | Vision nocturne                 | Plume                           |
+| Feuille de plume-lo               | Regain de points de fatigue   | Paralysie                     | Respiration aquatique           | Regain de chance                |
+| Feuille de Primevère              | Regain de volonté             | Regain de personnalité        | Fortification de chance         | Dégâts de force                 |
+| Feuille de vipérine vulgaire      | Résistance à la paralysie     | Vision nocturne               | Fardeau                         | Guérison de la paralysie        |
+| Fève aquatique                    | Regain de santé               | Résistance au feu             | Bouclier de feu                 | Respiration aquatique           |
+| Fibre de kresh                    | Regain de chance              | Personnalité fortifiée        | Atténuation de magie            | Atténuation de rapidité         |
+| Fleur d'Alkanet                   | Regain d'intelligence         | Résistance au poison          | Lumière                         | Réduction de fatigue            |
+| Fleur de jonc doré                | Atténuation de magie          | Force fortifiée               | Attaque fortifiée               | Nage rapide                     |
+| Fleur de jonc noble               | Réduction de santé            | Regain d'agilité              | Poison                          | Agilité fortifiée               |
+| Fleur de Timsa-par-là             | Dissipation                   | Résistance à la paralysie     | Atténuation de magie            | Regain d'endurance              |
+| Floraison empoisonnée             | Pénalité de Santé             | Langueur                      | Renfort de Portage              | Peur                            |
+| Fourrure d'ours                   | Atténuation de fatigue        | Force fortifiée               | Résistance aux maladies         | Vision nocturne                 |
+| Fourrure d'ours des neiges        | Atténuation de fatigue        | Rapidité fortifiée            | Résistance aux maladies         | Vision nocturne                 |
+| Fourrure de loup                  | Atténuation de fatigue        | Rapidité fortifiée            | Résistance aux maladies         | Vision nocturne                 |
+| Fourrure de loup des neiges       | Atténuation de fatigue        | Rapidité fortifiée            | Résistance aux maladies         | Vision nocturne                 |
+| Fraise                            | Regain de fatigue             | Guérison du poison            | Réduction de santé              | Réflexion de dégâts             |
+| Fromage entier                    | Regain de fatigue             | Résistance à la paralysie     | Dégâts de chance                | Fortification de volonté        |
+| Fruit d'Alocasia                  | Regain de fatigue             | Lumière                       | Regain de santé                 | Réduction de magie              |
+| Gâteau roulé                      | Regain de fatigue             | Résistance à la maladie       | Dégâts de personnalité          | Fortification de santé          |
+| Gâteau sucré                      | Regain de fatigue             | Plume                         | Regain de santé                 | Fardeau                         |
+| Gelée de netch                    | Paralysie                     | Renfort de Portage            | Restauration de vigueur         | Peur                            |
+| Gelée de sautecendres             | Restauration de Santé         | Renfort d'armure légère       | Résistance à la Foudre          | Vulnérabilité à la Glace        |
+| Gelée de scrib                    | Volonté fortifiée             | Guérison du poison            | Guérison du fléau               | Regain de volonté               |
+| Genièvre                          | Vulnérabilité au Feu          | Renfort de Précision          | Régénération de Santé           | Dégâts Vigueur Récupération     |
+| Gibier                            | Regain de santé               | Plume                         | Réduction de santé              | Caméléon                        |
+| Ginseng                           | Dégâts de chance              | Guérison du poison            | Fardeau                         | Fortification de magie          |
+| Girolle virulente                 | Atténuation de rapidité       | Atténuation d'endurance       | Dissipation                     | Atténuation de force            |
+| Givreboise                        | Résistance au Feu             | Renfort d'Enchantement        | Résistance à la Glace           | Résistance à la Foudre          |
+| Glycine                           | Résistance à la paralysie     | Vision nocturne               | Fardeau                         | Guérison de paralysie           |
+| Goudron                           | Réduction de fatigue          | Dégâts de rapidité            | Réduction de santé              | Dégâts de foudre                |
+| Gousse blanche                    | Regain de force               | Respiration aquatique         | Silence                         | Lumière                         |
+| Grain de blé                      | Regain de fatigue             | Réduction de magie            | Fortification de santé          | Réduction de personnalité       |
+| Graine d'Armoise                  | Regain de santé               | /                             | /                               | /                               |
+| Graine de Bergamote               | Résistance à la maladie       | Dissipation                   | Réduction de magie              | Silence                         |
+| Graine de Chardon argenté         | Graine de Chardon argenté     | Dégâts de froid               | Guérison de la paralysie        | Paralysie                       |
+| Graine de Fenouil                 | Regain de fatigue             | Dégâts d'intelligence         | Réduction de magie              | Paralysie                       |
+| Graine de Lin                     | Regain de magie               | Plume                         | Bouclier                        | Réduction de santé              |
+| Graine de Lotus sacré             | Résistance au froid           | Réduction de santé            | Plume                           | Dissipation                     |
+| Graine de pivoine                 | Regain de force               | Réduction de santé            | Dégâts de rapidité              | Regain de fatigue               |
+| Graisse de Troll                  | Dégâts d'agilité              | Fortification de personnalité | Dégâts de volonté               | Réduction de santé              |
+| Graisse de Troll                  | Résistance au Poison          | Renfort d'Arme à Deux Mains   | Frénésie                        | Pénalité de Santé               |
+| Graisse de Troll tacheté          | Fortification de magie        | Regain de santé               | Fortification de santé          | Regain de magie                 |
+| Grande Ramure                     | Restauration de Vigueur       | Renfort de Vigueur            | Langueur                        | Dégâts Vigueur Récupération     |
+| Gravetar                          | Résistance au froid           | Atténuation de santé          | Points de fatigue fortifiés     | Atténuation de chance           |
+| Grelot-de-la-mort                 | Pénalité de Santé             | Vigueur endommagée            | Langueur                        | Vulnérabilité au Poison         |
+| Griffe d'ours                     | Restauration de Vigueur       | Renfort de Santé              | Renfort d'Arme à Une Main       | Dégâts Magie récupération       |
+| Griffe de Faucheclan              | Guérison de la maladie        | Résistance à la maladie       | Paralysie                       | Réduction de santé              |
+| Griffe de Faucheclan              | Guérison de la paralysie      | Résistance à la maladie       | Paralysie                       | Réduction de santé              |
+| Gros oeuf de kwama                | Regain de points de fatigue   | Paralysie                     | Bouclier de froid               | Santé fortifiée                 |
+| Gueule hurlante                   | Regain de volonté             | Détection de vie              | Caméléon                        | Regain de santé                 |
+| Harrada                           | Réduction de santé            | Réduction de magie            | Silence                         | Paralysie                       |
+| Herbe de sang                     | Caméléon                      | Résistance à la paralysie     | Fardeau                         | Fortification de santé          |
+| Herbe pourpre                     | Atténuation de force          | Guérison du poison            | Atténuation de santé            | Regain de volonté               |
+| Hivernelle                        | Résistance à la Glace         | Renfort de Furtivité          | Magie endommagée                | Dégâts Vigueur Récupération     |
+| Huile Dwemer                      | Vulnérabilité à la Magie      | Renfort d'Illusion            | Regain magique                  | Restauration de Magie           |
+| Hypha facia                       | Atténuation de chance         | Atténuation d'agilité         | Atténuation de fatigue          | Détection des enchantements     |
+| Ichor d'Elytra                    | Regain de magie               | Fardeau                       | Caméléon                        | Silence                         |
+| Igname des cendres                | Intelligence fortifiée        | Force fortifiée               | Résistance aux maladies         | Détection des clés              |
+| Jambon                            | Regain de fatigue             | Regain de santé               | Réduction de magie              | Dégâts de chance                |
+| Kanet dorée                       | Atténuation de santé          | Fardeau                       | Atténuation de chance           | Regain de force                 |
+| Laitue                            | Regain de fatigue             | Regain de chance              | Bouclier de feu                 | Dégâts de personnalité          |
+| Langue de Dévoreur                | Guérison du poison            | Guérison de la maladie        | Dégâts de feu                   | Fortification de magie          |
+| Langue de Dragon                  | Résistance au feu             | Réduction de santé            | Regain de santé                 | Bouclier de feu                 |
+| Langue de Dragon                  | Résistance au Feu             | Renfort de Marchandage        | Renfort d'Illusion              | Renfort d'Arme à Deux Mains     |
+| Larme de pestiféré                | Atténuation de fatigue        | Chance fortifiée              | Atténuation de volonté          | Regain de santé                 |
+| Lavande                           | Résistance à la Magie         | Renfort de Vigueur            | Magie endommagée                | Renfort de Conjuration          |
+| Lichen Géant                      | Vulnérabilité à la Foudre     | Santé endommagée              | Vulnérabilité au Poison         | Restauration de Santé           |
+| Lichen noir                       | Atténuation de force          | Résistance au froid           | Atténuation de rapidité         | Guérison du poison              |
+| Lichen rouge                      | Atténuation de rapidité       | Lumière                       | Guérison de la maladie          | Atténuation de magie            |
+| Lichen vert                       | Personnalité fortifiée        | Guérison de la maladie        | Atténuation de force            | Atténuation de santé            |
+| Liqueur                           | Regain de magie               | /                             | /                               | /                               |
+| Lys des Cimes Bleu                | Restauration de Santé         | Renfort de Conjuration        | Renfort de Santé                | Dégâts Magie récupération       |
+| Lys des Cimes Jaune               | Résistance au Poison          | Renfort de Guérison           | Renfort de Santé                | Dégâts Vigueur récupération     |
+| Lys des Cimes Rouge               | Restauration de Magie         | Magie endommagée              | Renfort de Magie                | Pénalité de Santé               |
+| Lys des Cimes Violet              | Restauration de Vigueur       | Renfort de Furtivité          | Pénalité de Magie persistante   | Résistance à la Glace           |
+| Lys tigré                         | Regain d'endurance            | Dégâts de force               | Marche sur l'eau                | Dégâts de volonté               |
+| Maïs                              | Regain de fatigue             | Regain d'intelligence         | Dégâts d'agilité                | Bouclier de foudre              |
+| Marante                           | Regain d'agilité              | Dégâts de chance              | Fortification de force          | Fardeau                         |
+| Miche de pain                     | Regain de fatigue             | Détection de vie              | Dégâts d'agilité                | Dégâts de force                 |
+| Moelle osseuse                    | Réduction de santé            | Dégâts de froid               | Réduction de magie              | Paralysie                       |
+| Mora Topinella                    | Restauration de Magie         | Pénalité de Santé persistante | Récupération de Vigueur         | Renfort d'Illusion              |
+| Morceau de fromage                | Regain de fatigue             | Résistance au feu             | Bouclier de feu                 | Dégâts d'agilité                |
+| Morceau de métal                  | Atténuation de santé          | Guérison de la maladie        | Résistance à la foudre          | Regain d'intelligence           |
+| Mousse Barbue                     | Pénalité de Magie             | Renfort de Santé              | Dégât Magie Récupération        | Renfort d'Arme à Une Main       |
+| Mousse-parasol                    | Pénalité de Santé             | Renfort de Magie              | Régénération de Santé           | Renfort d'arme à deux mains     |
+| Mouton                            | Fortification de santé        | Réduction de fatigue          | Dissipation                     | Réduction de magie              |
+| Mûre                              | Regain de fatigue             | Résistance à la foudre        | Fortification d'endurance       | Regain de magie                 |
+| Mycène des Marais                 | Résistance à la foudre        | Pénalité de Magie persistante | Paralysie                       | Restauration de Santé           |
+| Nectar                            | Résistance au poison          | Résistance à la paralysie     | Regain de chance                | Résistance à la maladie         |
+| Nectar de digitale                | Résistance au poison          | Résistance à la paralysie     | Regain de chance                | Résistance à la maladie         |
+| Nectar de Jacinthe d'eau          | Dégâts de chance              | Réduction de fatigue          | Regain de magie                 | Fortification de magie          |
+| Nectar de Millepertuis            | Résistance à la foudre        | Réduction de santé            | Réduction de santé              | Caméléon                        |
+| Nirnroot                          | Atténuation de santé          | Atténuation de fatigue        | Atténuation d'agilité           | Atténuation de rapidité         |
+| Nirnroot                          | Pénalité de Santé             | Pénalité de Vigueur           | Invisibilité                    | Résistance à la Magie           |
+| Nirnroot Cramoisie                | Pénalité de Santé             | Pénalité de Vigueur           | Invisibilité                    | Résistance à la Magie           |
+| Noix de bois de fer               | Regain d'intelligence         | Résistance au feu             | Réduction de fatigue            | Fortification de santé          |
+| Obscurcine                        | Pénalité de Santé             | Dégâts Magie Récupération     | Pénalité de Vigueur persistante | Renfort de Destruction          |
+| Oeil de grahl                     | Résistance au froid           | Vision nocturne               | Atténuation de magie            | Force fortifiée                 |
+| Oeil de Guetteur                  | Regain d'intelligence         | Fortification de magie        | Lumière                         | Réflexion de sort               |
+| Oeil de Smilodon                  | Restauration de Vigueur       | Santé endommagée              | Pénalité de Magie               | Restauration de Santé           |
+| Oeuf d'Araignée                   | Pénalité de Vigueur           | Dégâts Magie Récupération     | Renfort de Crochetage           | Renfort de Précision            |
+| Oeuf de Chaurus                   | Vulnérabilité au Poison       | Renfort de Vigueur            | Pénalité de Magie               | Invisibilité                    |
+| Oeuf de Fauvette                  | Restauration de Santé         | Renfort d'Arme à Une Main     | Pénalité de Vigueur             | Vulnérabilité à la Magie        |
+| Oeuf de Grive                     | Restauration de Vigueur       | Renfort de Crochetage         | Vulnérabilité au Poison         | Résistance à la Foudre          |
+| Oeuf de Grummit                   | Réduction de magie            | Dissipation                   | Caméléon                        | Silence                         |
+| Oeuf de Poisson Carnassier        | Résistance au Poison          | Renfort de Vol à la Tire      | Pénalité de Santé persistante   | Renfort de Vigueur              |
+| Oeuf de Poule                     | Résistance à la Magie         | Dégâts Magie récupération     | Respiration aquatique           | Pénalité de Vigueur persistante |
+| Oignon                            | Regain de fatigue             | Respiration aquatique         | Détection de vie                | Réduction de santé              |
+| Orange                            | Regain de fatigue             | Détection de vie              | Fardeau                         | Bouclier                        |
+| Oreille d'Elfe                    | Restauration de Magie         | Renfort de Précision          | Vulnérabilité à la Glace        | Résistance au Feu               |
+| Oreille de Falmer                 | Pénalité de Santé             | Frénésie                      | Résistance au Poison            | Renfort de Crochetage           |
+| Orteil de Géant                   | Pénalité de Vigueur           | Renfort de Santé              | Renfort de Portage              | Dégâts Vigueur Récupération     |
+| Pain                              | Regain de points de fatigue   | /                             | /                               | /                               |
+| Pastèque                          | Regain de fatigue             | Lumière                       | Fardeau                         | Réduction de santé              |
+| Patte de Baliwog fumée            | Regain de fatigue             | Plume                         | Regain de santé                 | Réduction de fatigue            |
+| Peau d'alit                       | Atténuation d'intelligence    | Résistance au poison          | Télékinésie                     | Détection des animaux           |
+| Peau de daédra                    | Force fortifiée               | Guérison de la maladie        | Paralysie                       | Nage rapide                     |
+| Peau de galopin                   | Atténuation de magie          | Guérison de la paralysie      | Regain de personnalité          | Regain de force                 |
+| Peau de galopin                   | Réduction de magie            | Résistance à la foudre        | Réflexion des dégâts            | Réduction de santé              |
+| Peau de galopin                   | Réduction de magie            | Résistance à la foudre        | Réflexion des dégâts            | Réduction de santé              |
+| Peau de guar                      | Atténuation de fatigue        | Endurance fortifiée           | Regain de personnalité          | Chance fortifiée                |
+| Peau de kagouti                   | Atténuation de fatigue        | Rapidité fortifiée            | Résistance aux maladies         | Vision nocturne                 |
+| Peau de Ragnard Carbonisé         | Restauration de Vigueur       | Potion Médicinale             | Résistance au Poison            | Restauration de Santé           |
+| Peau humaine                      | Réduction de magie            | Résistance à la foudre        | Réflexion des dégâts            | Réduction de santé              |
+| Perche Argentée                   | Restauration de Vigueur       | Dégâts Vigueur Récupération   | Santé endommagée                | Résistance à la Glace           |
+| Perle                             | Atténuation d'agilité         | Dissipation                   | Respiration aquatique           | Résistance aux maladies         |
+| Perle                             | Restauration de Vigueur       | Renfort de Parade             | Restauration de Magie           | Résistance à la Foudre          |
+| Pétale d'aconite                  | Regain d'intelligence         | Invisibilité                  | Atténuation d'endurance         | Atténuation de magie            |
+| Pétales de feu                    | Résistance au feu             | Atténuation de santé          | Absorption de sort              | Paralysie                       |
+| Pétales de fleur d'amertume       | Regain d'intelligence         | Invisibilité                  | Atténuation d'endurance         | Atténuation de magie            |
+| Pétales de fleur de roche         | Regain de force               | Magie fortifiée               | Atténuation de chance           | Personnalité fortifiée          |
+| Petit oeuf de kwama               | Regain de points de fatigue   | /                             | /                               | /                               |
+| Petite Perle                      | Restauration de Vigueur       | Renfort d'Arme à Une Main     | Renfort de Guérison             | Résistance à la Glace           |
+| Petite Ramure                     | Vulnérabilité au Poison       | Renfort de Guérison           | Pénalité de Vigueur persistante | Pénalité de Santé               |
+| Pholiote à Ecaille                | Vulnérabilité à la Magie      | Renfort d'Illusion            | Récupération de Vigueur         | Renfort de Portage              |
+| Pied de champignon                | Regain de force               | Marche sur l'eau              | Fortification de santé          | Regain de magie                 |
+| Pied-de-lutin                     | Pénalité de Santé             | Pénalité de Santé persistante | Paralysie                       | Restauration de Santé           |
+| Plante grimpante                  | Restauration de Magie         | Dégâts Vigueur Récupération   | Renfort de Portage              | Vulnérabilité à la Magie        |
+| Plume d'Harfreuse                 | Pénalité de Magie             | Renfort de Conjuration        | Frénésie                        | Vulnérabilité à la Foudre       |
+| Plume de braillard                | Atténuation de volonté        | Lévitation                    | /                               | /                               |
+| Plume de Faucon                   | Potion Médicinale             | Renfort d'Armure Légère       | Renfort d'Arme à Une Main       | Renfort de Furtivité            |
+| Plumes de sterne de Felsaad       | Restauration de Santé         | Renfort d'armure légère       | Potion médicinale               | Résistance à la Magie           |
+| Poire                             | Regain de fatigue             | Dégâts de rapidité            | Fortification de rapidité       | Réduction de santé              |
+| Poireaux                          | Regain de fatigue             | Fortification d'agilité       | Dégâts de personnalité          | Dégâts de force                 |
+| Poisson Combattant de Cyrodiil    | Pénalité de Vigueur           | Renfort de Guérison           | Peur                            | Santé endommagée                |
+| Poisson de Rivière                | Pénalité de Santé             | Renfort d'Altération          | Langueur                        | Renfort de Portage              |
+| Pomme                             | Regain de fatigue             | Dégâts de chance              | Fortification de volonté        | Réduction de santé              |
+| Pomme de terre                    | Regain de fatigue             | Bouclier                      | Fardeau                         | Bouclier de froid               |
+| Pousse des marais                 | Regain de santé               | Détection des enchantements   | Atténuation de volonté          | Atténuation de fatigue          |
+| Poussière de tombe                | Atténuation d'intelligence    | Guérison de la maladie        | Atténuation de magie            | Regain d'endurance              |
+| Poussière de vampire              | Santé fortifiée               | Force fortifiée               | Absorption de sort              | Vampirisme                      |
+| Poussière de vampire              | Silence                       | Résistance à la maladie       | Dégâts de froid                 | Invisibilité                    |
+| Poussière de Vampire              | Invisibilité                  | Restauration de Magie         | Régénération de Santé           | Potion Médicinale               |
+| Poussière luisante                | Pénalité de Magie             | Dégâts Magie Récupération     | Renfort de Destruction          | Résistance à la Foudre          |
+| Poussière lumineuse               | Regain de rapidité            | Lumière                       | Réflexion des sorts             | Réduction de santé              |
+| Pulpe de céréus                   | Paralysie                     | Lévitation                    | Résistance à la paralysie       | Regain de santé                 |
+| Pulpe de racine                   | Guérison de la maladie        | Dégâts de volonté             | Fortification de force          | Dégâts d'intelligence           |
+| Pulpe de racine d'Aconit          | Regain de force               | Dégâts d'intelligence Fo      | Fortification d'endurance       | Fardeau                         |
+| Pulpe de racine d'Ancolie         | Regain de personnalité        | Résistance au froid           | Fortification de magie          | Caméléon                        |
+| Pulpe de racine de Volubilis      | Fardeau                       | Dégâts de volonté             | Bouclier de froid               | Réduction de magie              |
+| Pulponge                          | Atténuation d'intelligence    | Détection des clés            | Atténuation de personnalité     | Guérison de la maladie          |
+| Putrescence gélatineuse           | Regain de force               | Dégâts de feu                 | Regain de magie                 | Réduction de santé              |
+| Queue de Ragnard                  | Dégâts Vigueur Récupération   | Santé endommagée              | Pénalité de Santé               | Renfort d'Armure Légère         |
+| Racine de bulbe-liège             | Guérison de la paralysie      | Regain de santé               | Bouclier de foudre              | Chance fortifiée                |
+| Racine de Canis                   | Pénalité de Vigueur           | Renfort d'Arme à Une Main     | Renfort de Précision            | Paralysie                       |
+| Racine de cendres                 | Pénalité de Vigueur           | Invisibilité                  | Résistance au Feu               | Renfort de Destruction          |
+| Racine de Mandragore              | Guérison des maladies         | Résistance au poison          | Dégâts d'agilité                | Fortification de volonté        |
+| Racine de trama                   | Regain de volonté             | Lévitation                    | Atténuation de magie            | Atténuation de rapidité         |
+| Racine de trama                   | Vulnérabilité à la Foudre     | Renfort de Portage            | Pénalité de Magie               | Langueur                        |
+| Racine Noueuse                    | Vulnérabilité à la Magie      | Renfort d'Illusion            | Regain magique                  | Restauration de Magie           |
+| Racine pivotante                  | Regain de chance              | Dégâts de chance              | Résistance au poison            | Bouclier de foudre              |
+| Radis                             | Regain de fatigue             | Dégâts d'endurance            | Caméléon                        | Fardeau                         |
+| Raisin                            | Regain de fatigue             | Marche sur l'eau              | Dissipation                     | Réduction de santé              |
+| Raisin Jazbay                     | Vulnérabilité à la Magie      | Renfort de Magie              | Regain magique                  | Santé endommagée                |
+| Rayon de Miel                     | Restauration de Vigueur       | Renfort de Parade             | Renfort d'Armure Légère         | Vigueur endommagée              |
+| Résine                            | Regain de santé               | Regain de rapidité            | Fardeau                         | Résistance aux maladies         |
+| Résine de shalk                   | Atténuation de fatigue        | Santé fortifiée               | Atténuation de personnalité     | Rapidité fortifiée              |
+| Reste de cendre                   | Fortification de fatigue      | Dégâts de chance              | Silence                         | Vulnérabilité au feu            |
+| Riz                               | Regain de fatigue             | Silence                       | Bouclier de foudre              | Dégâts d'intelligence           |
+| Riz de sel                        | Regain de points de fatigue   | Magie fortifiée               | Atténuation de force            | Regain de santé                 |
+| Rose rouge                        | Résistance au froid           | Guérison du poison            | Réduction de santé              | Invisibilité                    |
+| Rubis                             | Atténuation de santé          | Plume                         | Regain d'intelligence           | Atténuation d'agilité           |
+| Ruche Vide                        | Résistance au Poison          | Renfort d'Armure Légère       | Renfort de Furtivité            | Renfort de Destruction          |
+| Russule phosphorescente           | Respiration aquatique         | Atténuation de fatigue        | Poison                          | /                               |
+| Savon de sload                    | Atténuation de personnalité   | Agilité fortifiée             | Bouclier de feu                 | Regain d'agilité                |
+| Seigle des prés                   | Rapidité fortifiée            | Réduction de santé            | Regain de rapidité              | Atténuation de rapidité         |
+| Sel de feu                        | Atténuation de santé          | Agilité fortifiée             | Résistance au froid             | Bouclier de feu                 |
+| Sel de feu                        | Dégâts de feu                 | Résistance au froid           | Regain de magie                 | Bouclier de feu                 |
+| Sel de Feu                        | Vulnérabilité à la Glace      | Résistance au Feu             | Restauration de Magie           | Regain magique                  |
+| Sel de givre                      | Atténuation de rapidité       | Regain de magie               | Bouclier de froid               | Résistance au feu               |
+| Sel de givre                      | Dégâts de froid               | Résistance au feu             | Silence                         | Bouclier de froid               |
+| Sel de Givre                      | Vulnérabilité au Feu          | Résistance à la Glace         | Restauration de Magie           | Renfort de Conjuration          |
+| Sel des cendres                   | Atténuation d'agilité         | Résistance à la magie         | Guérison du fléau               | Résistance à la magie           |
+| Sel du Néant                      | Vulnérabilité à la Foudre     | Résistance à la Magie         | Pénalité de Santé               | Renfort de Magie                |
+| Sel du vide                       | Regain de magie               | Absorption de sort            | Paralysie                       | Atténuation d'endurance         |
+| Sel du vide                       | Regain de magie               | Réduction de santé            | Fortification de magie          | Dissipation                     |
+| Serre d'Harfreuse                 | Résistance à la Magie         | Pénalité de Magie persistante | Renfort d'Enchantement          | Renfort de Marchandage          |
+| Sève de Spriggan                  | Dégâts Magie Récupération     | Renfort d'Enchantement        | Renfort de Forgeage             | Renfort d'Altération            |
+| Soie de daédra                    | Fardeau                       | Vision nocturne               | Caméléon                        | Dégâts d'endurance              |
+| Soie de daédra                    | Fardeau                       | Vision nocturne               | Caméléon                        | Dégâts d'endurance              |
+| Solanacée                         | Réduction de santé            | Fardeau                       | Dégâts de chance                | Fortification de magie          |
+| Spore d'Hydne géant bleu          | Regain d'endurance            | Détection de vie              | Fortification de santé          | Bouclier de froid               |
+| Stalhrim brut                     | Résistance au froid           | Dégât de type froid           | Paralysie                       | Regain de santé                 |
+| Suc digestif d'orque              | Réduction de santé            | Réduction de fatigue          | Réduction de magie              | Regain de fatigue               |
+| Sucre de lune                     | Rapidité fortifiée            | Dissipation                   | Atténuation d'endurance         | Atténuation de chance           |
+| Sucrelune                         | Vulnérabilité au Feu          | Résistance à la Glace         | Restauration de Magie           | Regain magique                  |
+| Tabac                             | Regain de fatigue             | Résistance à la paralysie     | Réduction de magie              | Dissipation                     |
+| Tas de Sel                        | Vulnérabilité à la Magie      | Renfort de Guérison           | Langueur                        | Regain magique                  |
+| Tentacule des marais              | Regain de personnalité        | Respiration aquatique         | Marche sur l'eau                | Fortification de santé          |
+| Thorax de Flammouche              | Restauration de Vigueur       | Pénalité de Magie persistante | Vulnérabilité à la Magie        | Renfort de Vigueur              |
+| Tige de Chardon                   | Résistance à la Glace         | Vigueur endommagée            | Résistance au Poison            | Renfort d'Armure Lourde         |
+| Tige de flamme                    | Regain de santé               | Dégâts de feu                 | Bouclier de froid               | Invisibilité                    |
+| Tige de Glycine                   | Réduction de santé            | Dégâts de volonté             | Dégâts d'intelligence           | Fortification de rapidité       |
+| Tige de névol                     | Réduction de santé            | Rapidité fortifiée            | Regain de rapidité              | Atténuation de rapidité         |
+| Tomate                            | Regain de fatigue             | Détection de vie              | Fardeau                         | Bouclier                        |
+| Tourte du berger                  | Guérison de la maladie        | Bouclier                      | Fortification d'agilité         | Dissipation                     |
+| Truffe de Namira                  | Pénalité de Magie             | Renfort de Crochetage         | Peur                            | Régénération de Santé           |
+| Tubercule lumineux                | Marche sur l'eau              | Paralysie                     | Détection des animaux           | Atténuation de volonté          |
+| Tumescine                         | Atténuation de magie          | Intelligence fortifiée        | Volonté fortifiée               | Détection des animaux           |
+| Venin de daedra                   | Paralysie                     | Regain de fatigue             | Réduction de santé              | Réflexion des dégâts            |
+| Verre brut                        | Atténuation d'intelligence    | Atténuation de force          | Atténuation de rapidité         | Bouclier de feu                 |
+| Vertgrain brut                    | Atténuation de fatigue        | Atténuation de santé          | Atténuation de magie            | Atténuation d'intelligence      |
+| Viande de chien                   | Regain de points de fatigue   | Points de fatigue fortifiés   | Fardeau                         | Nage rapide                     |
+| Viande de rat                     | Atténuation de magie          | Paralysie                     | Guérison du poison              | Résistance au poison            |
+| Viande de rat                     | Réduction de fatigue          | Détection de vie              | Réduction de magie              | Silence                         |
+| Vil-blé                           | Regain de santé               | Volonté fortifiée             | Paralysie                       | Atténuation d'intelligence      |
+| Voile Ethéré                      | Restauration de Vigueur       | Renfort de Destruction        | Renfort de Portage              | Résistance à la Magie           |
